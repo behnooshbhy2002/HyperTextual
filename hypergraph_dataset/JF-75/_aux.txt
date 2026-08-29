@@ -1,0 +1,1435 @@
+american_football.football_historical_coach_position	0d87gp	02md_2
+award.hall_of_fame_induction	025yvhc	03k3r	027jbr
+award.hall_of_fame_induction	026lfnz	03k3r	027jbr
+award.hall_of_fame_induction	026ssqg	03k3r	027jbr
+award.hall_of_fame_induction	02ry_2	03k3r	027jbr
+award.hall_of_fame_induction	06f6jf	0b67nhs	027jbr
+award.hall_of_fame_induction	08k58n	03k3r	027jbr
+award.hall_of_fame_induction	0fvpwf	03b3nf	027jbr
+award.ranking	01cj_r	01vswwx
+award.ranking	04k4rt	01qygl
+award.ranking	04k4rt	0jd05
+award.ranking	06lq6v	0djhxs
+award.ranking	07xzc3_	015f7
+award.ranking	07xzc3_	0161c2
+award.ranking	07xzc3_	01cwkq
+award.ranking	07xzc3_	01jb26
+award.ranking	07xzc3_	01k53x
+award.ranking	07xzc3_	01lvht
+award.ranking	07xzc3_	025b5y
+award.ranking	07xzc3_	032wdd
+award.ranking	07xzc3_	03h_0_z
+award.ranking	07xzc3_	049h3h6
+award.ranking	07xzc3_	04fzk
+award.ranking	07xzc3_	04mhxx
+award.ranking	07xzc3_	05q_b
+award.ranking	07xzc3_	05rp1k
+award.ranking	07xzc3_	05wty0
+award.ranking	07xzc3_	067sqt
+award.ranking	07xzc3_	06n3md
+award.ranking	07xzc3_	07vzcn
+award.ranking	07xzc3_	09l3p
+award.ranking	07xzc3_	0czkbt
+award.ranking	07xzc3_	0g824
+award.ranking	0h615f8	01w5m
+award.ranking	0h615f8	0225bv
+award.ranking	0h615f8	078bz
+award.ranking	0h615f8	07vyf
+award.ranking	0h615f8	09kvv
+award.ranking	0h615f8	0gy3w
+base.famouspets.pet_ownership	06c97	05hqkyh
+base.marchmadness.ncaa_basketball_final_four_broadcaster	03g02c	0b_68l
+base.marchmadness.ncaa_basketball_final_four_broadcaster	03g02c	0b_69m
+base.marchmadness.ncaa_basketball_final_four_broadcaster	03g02c	0b_6ds
+base.marchmadness.ncaa_basketball_final_four_broadcaster	04zbq8	0bzrsh
+base.marchmadness.ncaa_basketball_final_four_broadcaster	0gvz0q	0b_75k
+base.marchmadness.ncaa_tournament_seed	0260q0x	0b_6mr
+base.marchmadness.ncaa_tournament_seed	0263cyj	0b_77q
+base.marchmadness.ncaa_tournament_seed	026c51k	0bzrxn
+base.marchmadness.ncaa_tournament_seed	026dqjm	0b_6v_
+base.marchmadness.ncaa_tournament_seed	026jxvv	0b_6d2
+base.marchmadness.ncaa_tournament_seed	026w398	0b_6ds
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_6pv
+base.marchmadness.ncaa_tournament_seed	026wlnm	0f9rw9
+base.marchmadness.ncaa_tournament_seed	026xxv_	0b_6s7
+base.marchmadness.ncaa_tournament_seed	0278rkd	0b_6s7
+base.marchmadness.ncaa_tournament_seed	0278rkd	0b_6xf
+base.marchmadness.ncaa_tournament_seed	027yf83	0b_6qj
+base.marchmadness.ncaa_tournament_seed	027yf83	0bqthy
+base.marchmadness.ncaa_tournament_seed	027yf83	0br1xn
+base.marchmadness.ncaa_tournament_seed	027yf83	0bzrxn
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_5lv
+base.marchmadness.ncaa_tournament_seed	02853nt	0b_6pv
+base.marchmadness.ncaa_tournament_seed	028552x	0bzrpd
+base.marchmadness.ncaa_tournament_seed	0286f0w	0b_6hl
+base.marchmadness.ncaa_tournament_seed	0288t3p	0b_6pv
+base.marchmadness.ncaa_tournament_seed	0288v1m	0b_5yd
+base.marchmadness.ncaa_tournament_seed	0289jr_	0b_6zk
+base.marchmadness.ncaa_tournament_seed	0289k0y	0b_68l
+base.marchmadness.ncaa_tournament_seed	028b8s6	0b_653
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6fh
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6lb
+base.marchmadness.ncaa_tournament_seed	02pkdf2	0b_62n
+base.marchmadness.ncaa_tournament_seed	02pkdf2	0b_68l
+base.marchmadness.ncaa_tournament_seed	02pkdf2	0b_6jz
+base.marchmadness.ncaa_tournament_seed	02pksbb	0b_6zk
+base.marchmadness.ncaa_tournament_seed	02pl_lj	05g_nr
+base.marchmadness.ncaa_tournament_seed	02pl_lj	0br1xn
+base.marchmadness.ncaa_tournament_seed	02plv57	0bzrsh
+base.marchmadness.ncaa_tournament_seed	02pq5pn	0b_6q5
+base.marchmadness.ncaa_tournament_seed	02pqcfz	0b_6xf
+base.marchmadness.ncaa_tournament_seed	02pqcfz	0bzrpd
+base.marchmadness.ncaa_tournament_seed	02pr7gq	0b_6h7
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6_l
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6hl
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0bzrxn
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6lb
+base.marchmadness.ncaa_tournament_seed	02py8_w	0bzrsh
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0bzrb9
+base.marchmadness.ncaa_tournament_seed	02pyh9v	0b_6pv
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6lb
+base.marchmadness.ncaa_tournament_seed	02pzy52	0b_698
+base.marchmadness.ncaa_tournament_seed	02pzy52	0b_6hl
+base.marchmadness.ncaa_tournament_seed	02q1_xm	0b_5rc
+base.marchmadness.ncaa_tournament_seed	02q1_xm	0b_75k
+base.marchmadness.ncaa_tournament_seed	02q1nr9	0b_6mr
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_71r
+base.marchmadness.ncaa_tournament_seed	02q6by8	0f9rw9
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_6_l
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_77q
+base.marchmadness.ncaa_tournament_seed	02q8r_1	0b_6jz
+base.marchmadness.ncaa_tournament_seed	02q8r_1	0bz_9t
+base.marchmadness.ncaa_tournament_seed	02qctn5	0b_6mr
+base.marchmadness.ncaa_tournament_seed	02qctn5	0bzrxn
+base.marchmadness.ncaa_tournament_seed	02qcz16	0b_653
+base.marchmadness.ncaa_tournament_seed	02qcz16	0b_6lb
+base.marchmadness.ncaa_tournament_seed	02qk2d5	0b_72t
+base.marchmadness.ncaa_tournament_seed	02qkqcv	0f9rw9
+base.marchmadness.ncaa_tournament_seed	02ql3lb	0b_75k
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6lb
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6v_
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6zk
+base.marchmadness.ncaa_tournament_seed	02qn723	0b_6q5
+base.marchmadness.ncaa_tournament_seed	02qsymk	0b_6s7
+base.marchmadness.ncaa_tournament_seed	02qsymk	0b_72t
+base.marchmadness.ncaa_tournament_seed	02qsymk	0br1xn
+base.marchmadness.ncaa_tournament_seed	02qvh2s	0b_6lb
+base.marchmadness.ncaa_tournament_seed	02r2qt7	0b_6qj
+base.marchmadness.ncaa_tournament_seed	02r2qt7	0cc8q3
+base.marchmadness.ncaa_tournament_seed	02wvtc5	05g_nr
+base.marchmadness.ncaa_tournament_seed	03by7wc	06n7qg
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_6h7
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_75k
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_770
+base.marchmadness.ncaa_tournament_seed	03by7wc	0bqthy
+base.marchmadness.ncaa_tournament_seed	03c7mcj	0b_6lb
+base.marchmadness.ncaa_tournament_seed	03c7mcj	0b_6rk
+base.marchmadness.ncaa_tournament_seed	03c_p38	0cc8q3
+base.marchmadness.ncaa_tournament_seed	03cmtnb	0b_5tt
+base.marchmadness.ncaa_tournament_seed	03d0_fb	0b_6ds
+base.marchmadness.ncaa_tournament_seed	03d0l76	0br1xn
+base.marchmadness.ncaa_tournament_seed	03d2vbw	0b_6zk
+base.marchmadness.ncaa_tournament_seed	03d4rzf	0br1xn
+base.marchmadness.ncaa_tournament_seed	03d555l	0b_6_l
+base.marchmadness.ncaa_tournament_seed	03d5my5	0b_6rk
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_67j
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_6ds
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_734
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0b_6d2
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0b_6mr
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0b_756
+base.marchmadness.ncaa_tournament_seed	03d7_lc	0bzrxn
+base.marchmadness.ncaa_tournament_seed	03d7fzg	0b_71r
+base.marchmadness.ncaa_tournament_seed	03d81w2	05g_nr
+base.marchmadness.ncaa_tournament_seed	03d81w2	0b_6fv
+base.marchmadness.ncaa_tournament_seed	03d8h63	0b_653
+base.marchmadness.ncaa_tournament_seed	03d8h63	0br1x_
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0br1xn
+base.marchmadness.ncaa_tournament_seed	03d9d5m	0b_6_l
+base.marchmadness.ncaa_tournament_seed	03d9d5m	0b_71r
+base.marchmadness.ncaa_tournament_seed	03d9fwn	0b_6zk
+base.marchmadness.ncaa_tournament_seed	03gqs0v	0b_6jz
+base.marchmadness.ncaa_tournament_seed	03h0hcg	0b_71r
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_6jz
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_6pv
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_6qj
+base.marchmadness.ncaa_tournament_seed	03nqwlk	0b_6x2
+base.marchmadness.ncaa_tournament_seed	03nxg_h	0bqthy
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6v_
+base.marchmadness.ncaa_tournament_seed	03qk194	0bz_jf
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_6hl
+base.marchmadness.ncaa_tournament_seed	03wbx5_	0cc8q3
+base.marchmadness.ncaa_tournament_seed	03wctwm	06n7qg
+base.marchmadness.ncaa_tournament_seed	03wctwm	0b_6v_
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0b_63p
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0b_6xf
+base.marchmadness.ncaa_tournament_seed	03wgvdv	0b_6qj
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_72t
+base.marchmadness.ncaa_tournament_seed	03y9p40	0bz_59
+base.marchmadness.ncaa_tournament_seed	03yfq3l	0b_5nk
+base.marchmadness.ncaa_tournament_seed	03ymq1q	0b_770
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5t3
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5tt
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5wy
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6ds
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6x2
+base.marchmadness.ncaa_tournament_seed	0406fy0	0b_6x2
+base.marchmadness.ncaa_tournament_seed	04088s0	0b_72t
+base.marchmadness.ncaa_tournament_seed	04162gj	0bzrsh
+base.marchmadness.ncaa_tournament_seed	041765s	0b_6q5
+base.marchmadness.ncaa_tournament_seed	04csmzl	0bzr0h
+base.marchmadness.ncaa_tournament_seed	04csmzl	0f9rw9
+base.marchmadness.ncaa_tournament_seed	04gg7tj	0b_6ds
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_687
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_6hl
+base.marchmadness.ncaa_tournament_seed	04q6rqw	0b_6jz
+base.marchmadness.ncaa_tournament_seed	0579h0q	0b_6hl
+base.marchmadness.ncaa_tournament_seed	05b0q5b	0b_6xf
+base.marchmadness.ncaa_tournament_seed	05c3nl3	05g_nr
+base.marchmadness.ncaa_tournament_seed	05c8dy1	0b_5t3
+base.marchmadness.ncaa_tournament_seed	05c_9hf	0b_75k
+base.marchmadness.ncaa_tournament_seed	05c_bv1	0bzrxn
+base.marchmadness.ncaa_tournament_seed	05c_syq	0b_6v_
+base.marchmadness.ncaa_tournament_seed	05c_vg8	0b_5yd
+base.marchmadness.ncaa_tournament_seed	05c_vg8	0bzrmb
+base.marchmadness.ncaa_tournament_seed	05c_x34	0b_5wy
+base.marchmadness.ncaa_tournament_seed	05cf3l7	0b_6fv
+base.marchmadness.ncaa_tournament_seed	05cf66d	0b_734
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_6q5
+base.marchmadness.ncaa_tournament_seed	05cf6p9	0bzrsh
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_675
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0bzrxn
+base.marchmadness.ncaa_tournament_seed	05cf8h2	05g_nr
+base.marchmadness.ncaa_tournament_seed	05d02t2	0b_75k
+base.marchmadness.ncaa_tournament_seed	05d041p	0b_5nk
+base.marchmadness.ncaa_tournament_seed	05d041p	0bzrmb
+base.marchmadness.ncaa_tournament_seed	05d_99z	06n7qg
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0b_6q5
+base.marchmadness.ncaa_tournament_seed	05d_lvy	0b_6mr
+base.marchmadness.ncaa_tournament_seed	05dbgc8	0b_6hl
+base.marchmadness.ncaa_tournament_seed	05dxd50	0b_6q5
+base.marchmadness.ncaa_tournament_seed	05dxmck	0bzrmb
+base.marchmadness.ncaa_tournament_seed	05f4khk	0b_71r
+base.marchmadness.ncaa_tournament_seed	05g16k0	0bzrb9
+base.marchmadness.ncaa_tournament_seed	05g1b71	0b_6x2
+base.marchmadness.ncaa_tournament_seed	05g1p9j	0b_6v_
+base.marchmadness.ncaa_tournament_seed	05g1r6s	0b_6s7
+base.marchmadness.ncaa_tournament_seed	05g_l3q	0b_6jz
+base.marchmadness.ncaa_tournament_seed	05gh8f9	0b_5lv
+base.marchmadness.ncaa_tournament_seed	05gh8f9	0b_5t3
+base.marchmadness.ncaa_tournament_seed	05ghmrn	0bzrsh
+base.marchmadness.ncaa_tournament_seed	05ghxnd	0b_6v_
+base.marchmadness.ncaa_tournament_seed	05ghyj4	0b_6v_
+base.marchmadness.ncaa_tournament_seed	05gj9gx	0bzrb9
+base.marchmadness.ncaa_tournament_seed	05gjbx5	0b_6fv
+base.marchmadness.ncaa_tournament_seed	05gm555	0b_6mr
+base.marchmadness.ncaa_tournament_seed	05gmn29	0b_5wy
+base.marchmadness.ncaa_tournament_seed	05gmn29	0b_65t
+base.marchmadness.ncaa_tournament_seed	05gnpfq	0b_5tt
+base.marchmadness.ncaa_tournament_seed	05gqc47	06n7qg
+base.marchmadness.ncaa_tournament_seed	05gzwx4	0b_6fh
+base.marchmadness.ncaa_tournament_seed	05h181w	0b_62n
+base.marchmadness.ncaa_tournament_seed	05h97_z	0b_72t
+base.marchmadness.ncaa_tournament_seed	05n_6jp	0b_6lb
+base.marchmadness.ncaa_tournament_seed	05q6sts	0b_68l
+base.marchmadness.ncaa_tournament_seed	05q92yq	0b_653
+base.marchmadness.ncaa_tournament_seed	0769_r	05g_nr
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_77q
+base.marchmadness.ncaa_tournament_seed	091tgz	0bzrb9
+base.marchmadness.ncaa_tournament_seed	0b__fx	0b_5t3
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_653
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_5js
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_6fh
+base.marchmadness.ncaa_tournament_seed	0ds9r80	0b_6zk
+base.marchmadness.ncaa_tournament_seed	0gjbqfk	0cc8q3
+base.marchmadness.ncaa_tournament_seed	0gvvvg9	0b_6v_
+base.marchmadness.ncaa_tournament_seed	0gwxr6	0bqthy
+base.marchmadness.ncaa_tournament_seed	0h94g77	0b_6_l
+base.marchmadness.ncaa_tournament_seed	0h94g77	0b_6q5
+base.marchmadness.ncaa_tournament_seed	0hrfhrm	0b_6zk
+base.marchmadness.ncaa_tournament_seed	0k0qbcs	0b_5yd
+base.marchmadness.ncaa_tournament_seed	0ll2vw3	0b_5nk
+base.marchmadness.ncaa_tournament_seed	0ll2vw3	0b_77q
+base.marchmadness.ncaa_tournament_seed	0lq6582	0b_6xf
+base.marchmadness.ncaa_tournament_seed	0n4b_5_	0bzrsh
+base.marchmadness.ncaa_tournament_seed	0nbnw7y	0b_77q
+base.ontologies.ontology_instance_mapping	04dm2p_	0138t
+base.ontologies.ontology_instance_mapping	04dm2p_	0157m
+base.ontologies.ontology_instance_mapping	04dm2p_	0162b
+base.ontologies.ontology_instance_mapping	04dm2p_	018x3
+base.ontologies.ontology_instance_mapping	04dm2p_	0198z
+base.ontologies.ontology_instance_mapping	04dm2p_	01_c4
+base.ontologies.ontology_instance_mapping	04dm2p_	01gc7
+base.ontologies.ontology_instance_mapping	04dm2p_	01l8p
+base.ontologies.ontology_instance_mapping	04dm2p_	01mk6
+base.ontologies.ontology_instance_mapping	04dm2p_	01s81
+base.ontologies.ontology_instance_mapping	04dm2p_	01v1v
+base.ontologies.ontology_instance_mapping	04dm2p_	01v8c
+base.ontologies.ontology_instance_mapping	04dm2p_	01zwy
+base.ontologies.ontology_instance_mapping	04dm2p_	0277g
+base.ontologies.ontology_instance_mapping	04dm2p_	02_fj
+base.ontologies.ontology_instance_mapping	04dm2p_	02nqk
+base.ontologies.ontology_instance_mapping	04dm2p_	02xx5
+base.ontologies.ontology_instance_mapping	04dm2p_	0333t
+base.ontologies.ontology_instance_mapping	04dm2p_	035dk
+base.ontologies.ontology_instance_mapping	04dm2p_	03f5vvx
+base.ontologies.ontology_instance_mapping	04dm2p_	03k3r
+base.ontologies.ontology_instance_mapping	04dm2p_	03lrc
+base.ontologies.ontology_instance_mapping	04dm2p_	03q5t
+base.ontologies.ontology_instance_mapping	04dm2p_	03s7h
+base.ontologies.ontology_instance_mapping	04dm2p_	03sc8
+base.ontologies.ontology_instance_mapping	04dm2p_	040cf
+base.ontologies.ontology_instance_mapping	04dm2p_	0424m
+base.ontologies.ontology_instance_mapping	04dm2p_	0430_
+base.ontologies.ontology_instance_mapping	04dm2p_	04cx5
+base.ontologies.ontology_instance_mapping	04dm2p_	04g8d
+base.ontologies.ontology_instance_mapping	04dm2p_	04hqz
+base.ontologies.ontology_instance_mapping	04dm2p_	04hzj
+base.ontologies.ontology_instance_mapping	04dm2p_	04pm6
+base.ontologies.ontology_instance_mapping	04dm2p_	04swx
+base.ontologies.ontology_instance_mapping	04dm2p_	04v6v
+base.ontologies.ontology_instance_mapping	04dm2p_	050xd
+base.ontologies.ontology_instance_mapping	04dm2p_	051nv
+base.ontologies.ontology_instance_mapping	04dm2p_	054c1
+base.ontologies.ontology_instance_mapping	04dm2p_	054rw
+base.ontologies.ontology_instance_mapping	04dm2p_	055z7
+base.ontologies.ontology_instance_mapping	04dm2p_	058b6
+base.ontologies.ontology_instance_mapping	04dm2p_	059ts
+base.ontologies.ontology_instance_mapping	04dm2p_	05byy
+base.ontologies.ontology_instance_mapping	04dm2p_	05d82
+base.ontologies.ontology_instance_mapping	04dm2p_	05dbf
+base.ontologies.ontology_instance_mapping	04dm2p_	05ksh
+base.ontologies.ontology_instance_mapping	04dm2p_	05l8y
+base.ontologies.ontology_instance_mapping	04dm2p_	05qx1
+base.ontologies.ontology_instance_mapping	04dm2p_	05x_5
+base.ontologies.ontology_instance_mapping	04dm2p_	062z7
+base.ontologies.ontology_instance_mapping	04dm2p_	063_t
+base.ontologies.ontology_instance_mapping	04dm2p_	06710
+base.ontologies.ontology_instance_mapping	04dm2p_	068cn
+base.ontologies.ontology_instance_mapping	04dm2p_	06d_3
+base.ontologies.ontology_instance_mapping	04dm2p_	06dv3
+base.ontologies.ontology_instance_mapping	04dm2p_	06gd4
+base.ontologies.ontology_instance_mapping	04dm2p_	06gh9
+base.ontologies.ontology_instance_mapping	04dm2p_	06jbz
+base.ontologies.ontology_instance_mapping	04dm2p_	06l8d
+base.ontologies.ontology_instance_mapping	04dm2p_	06mq7
+base.ontologies.ontology_instance_mapping	04dm2p_	06q07
+base.ontologies.ontology_instance_mapping	04dm2p_	06qd3
+base.ontologies.ontology_instance_mapping	04dm2p_	06vbd
+base.ontologies.ontology_instance_mapping	04dm2p_	06z1j
+base.ontologies.ontology_instance_mapping	04dm2p_	06zgc
+base.ontologies.ontology_instance_mapping	04dm2p_	07_kq
+base.ontologies.ontology_instance_mapping	04dm2p_	07bs0
+base.ontologies.ontology_instance_mapping	04dm2p_	07bwr
+base.ontologies.ontology_instance_mapping	04dm2p_	07f1x
+base.ontologies.ontology_instance_mapping	04dm2p_	07g9f
+base.ontologies.ontology_instance_mapping	04dm2p_	07ghq
+base.ontologies.ontology_instance_mapping	04dm2p_	07n3s
+base.ontologies.ontology_instance_mapping	04dm2p_	07t31
+base.ontologies.ontology_instance_mapping	04dm2p_	07tgn
+base.ontologies.ontology_instance_mapping	04dm2p_	07tp2
+base.ontologies.ontology_instance_mapping	04dm2p_	07twz
+base.ontologies.ontology_instance_mapping	04dm2p_	07wjk
+base.ontologies.ontology_instance_mapping	04dm2p_	07yg2
+base.ontologies.ontology_instance_mapping	04dm2p_	081sq
+base.ontologies.ontology_instance_mapping	04dm2p_	082pc
+base.ontologies.ontology_instance_mapping	04dm2p_	0834r
+base.ontologies.ontology_instance_mapping	04dm2p_	0859_
+base.ontologies.ontology_instance_mapping	04dm2p_	08854
+base.ontologies.ontology_instance_mapping	04dm2p_	088xp
+base.ontologies.ontology_instance_mapping	04dm2p_	09jm8
+base.ontologies.ontology_instance_mapping	04dm2p_	0b2h3
+base.ontologies.ontology_instance_mapping	04dm2p_	0b41h
+base.ontologies.ontology_instance_mapping	04dm2p_	0bjv6
+base.ontologies.ontology_instance_mapping	04dm2p_	0blt6
+base.ontologies.ontology_instance_mapping	04dm2p_	0bscw
+base.ontologies.ontology_instance_mapping	04dm2p_	0bwdn
+base.ontologies.ontology_instance_mapping	04dm2p_	0c4f4
+base.ontologies.ontology_instance_mapping	04dm2p_	0c_y8
+base.ontologies.ontology_instance_mapping	04dm2p_	0cc56
+base.ontologies.ontology_instance_mapping	04dm2p_	0cmpn
+base.ontologies.ontology_instance_mapping	04dm2p_	0cr3d
+base.ontologies.ontology_instance_mapping	04dm2p_	0crpc
+base.ontologies.ontology_instance_mapping	04dm2p_	0cx4p
+base.ontologies.ontology_instance_mapping	04dm2p_	0ddnl
+base.ontologies.ontology_instance_mapping	04dm2p_	0dmv5
+base.ontologies.ontology_instance_mapping	04dm2p_	0dn0r
+base.ontologies.ontology_instance_mapping	04dm2p_	0dtzd
+base.ontologies.ontology_instance_mapping	04dm2p_	0dw_m
+base.ontologies.ontology_instance_mapping	04dm2p_	0dymr
+base.ontologies.ontology_instance_mapping	04dm2p_	0f13t
+base.ontologies.ontology_instance_mapping	04dm2p_	0f6fz
+base.ontologies.ontology_instance_mapping	04dm2p_	0fcgd
+base.ontologies.ontology_instance_mapping	04dm2p_	0fd_f
+base.ontologies.ontology_instance_mapping	04dm2p_	0fhxv
+base.ontologies.ontology_instance_mapping	04dm2p_	0fkw3
+base.ontologies.ontology_instance_mapping	04dm2p_	0g10g
+base.ontologies.ontology_instance_mapping	04dm2p_	0gq9h
+base.ontologies.ontology_instance_mapping	04dm2p_	0h0xm
+base.ontologies.ontology_instance_mapping	04dm2p_	0h2c3
+base.ontologies.ontology_instance_mapping	04dm2p_	0hb6g
+base.ontologies.ontology_instance_mapping	04dm2p_	0hhqw
+base.ontologies.ontology_instance_mapping	04dm2p_	0hkq4
+base.ontologies.ontology_instance_mapping	04dm2p_	0hn6d
+base.ontologies.ontology_instance_mapping	04dm2p_	0j210
+base.ontologies.ontology_instance_mapping	04dm2p_	0j3b
+base.ontologies.ontology_instance_mapping	04dm2p_	0j8js
+base.ontologies.ontology_instance_mapping	04dm2p_	0jbp0
+base.ontologies.ontology_instance_mapping	04dm2p_	0jbs5
+base.ontologies.ontology_instance_mapping	04dm2p_	0jd05
+base.ontologies.ontology_instance_mapping	04dm2p_	0jjw
+base.ontologies.ontology_instance_mapping	04dm2p_	0jmj
+base.ontologies.ontology_instance_mapping	04dm2p_	0jq56
+base.ontologies.ontology_instance_mapping	04dm2p_	0jt90f5
+base.ontologies.ontology_instance_mapping	04dm2p_	0jzw
+base.ontologies.ontology_instance_mapping	04dm2p_	0k2_0
+base.ontologies.ontology_instance_mapping	04dm2p_	0k53z
+base.ontologies.ontology_instance_mapping	04dm2p_	0k5j
+base.ontologies.ontology_instance_mapping	04dm2p_	0k670
+base.ontologies.ontology_instance_mapping	04dm2p_	0k70
+base.ontologies.ontology_instance_mapping	04dm2p_	0kbq
+base.ontologies.ontology_instance_mapping	04dm2p_	0kc6
+base.ontologies.ontology_instance_mapping	04dm2p_	0l0xy
+base.popstra.hangout	04fzk	0645nvn
+base.popstra.product_choice	01l8p	0261x8t
+base.popstra.product_choice	026kds	01n5309
+base.popstra.product_choice	0cc8kq4	06_bq1
+base.popstra.product_choice	0cy27	016tbr
+base.popstra.product_choice	0cy27	0261x8t
+base.popstra.public_insult	01vswwx	06dv3
+base.popstra.public_insult	0lk90	0161c2
+base.popstra.restaurant_choice	01g23m	018c_r
+base.popstra.restaurant_choice	0261x8t	018c_r
+base.popstra.restaurant_choice	0261x8t	064hn6s
+base.popstra.restaurant_choice	02v60l	018c_r
+base.popstra.restaurant_choice	02z3d24	064hn6s
+base.popstra.vacation_choice	013ndv	025b5y
+base.popstra.vacation_choice	0160w	01cwkq
+base.popstra.vacation_choice	01q98m	025b5y
+base.popstra.vacation_choice	01q98m	06_bq1
+base.popstra.vacation_choice	027rn	0261x8t
+base.popstra.vacation_choice	02fzs	02v60l
+base.popstra.vacation_choice	02fzs	03y82t6
+base.popstra.vacation_choice	02qysl	015z4j
+base.popstra.vacation_choice	03qzkz	015dx
+base.popstra.vacation_choice	03qzkz	01vrz41
+base.popstra.vacation_choice	03qzkz	01vswwx
+base.popstra.vacation_choice	03qzkz	032wdd
+base.popstra.vacation_choice	03qzkz	07r1h
+base.popstra.vacation_choice	03qzkz	0bbf1f
+base.popstra.vacation_choice	0489v9k	0161c2
+base.popstra.vacation_choice	059rby	0261x8t
+base.popstra.vacation_choice	0645vz_	05dbf
+base.popstra.vacation_choice	09pkq0	013_vh
+base.popstra.vacation_choice	09pkq0	05dbf
+base.popstra.vacation_choice	0bwb3	07r1h
+base.popstra.vacation_choice	0jbs5	01yf85
+base.popstra.vacation_choice	0jbs5	03zqc1
+base.popstra.vacation_choice	0jbs5	06s6hs
+base.popstra.vacation_choice	0jbt3	03zqc1
+base.popstra.vacation_choice	0rcrt	043ttm7
+base.schemastaging.coach_athlete_relationship	04k1p	03k5q3
+base.thoroughbredracing.horse_owner_relationship	02ry_2	08w2h1
+basketball.basketball_historical_coach_position	02q8r_1	05jrtw
+basketball.basketball_historical_coach_position	03d6hv1	01jwf
+basketball.basketball_historical_coach_position	03d6hv1	0btxfk
+basketball.basketball_historical_coach_position	0hrfhrm	05r55h
+basketball.basketball_historical_coach_position	0jm4b	040x5b
+basketball.basketball_historical_coach_position	0jm9w	0fbbl
+basketball.basketball_historical_coach_position	0jmcv	051r7g
+basketball.basketball_historical_coach_position	0jmj7	08lhhp
+basketball.basketball_historical_coach_position	0jml5	0219kb
+basketball.basketball_historical_coach_position	0jmm4	06wk01
+basketball.basketball_player_stats	07_x8s	02l_4s	0jmmn
+basketball.basketball_player_stats	07_x8s	03g4bf	0jm74
+basketball.basketball_player_stats	07_x8s	040_4g	0jmmn
+basketball.basketball_player_stats	07_x8s	04dzk8	0jm6n
+basketball.basketball_player_stats	07_x8s	059tyq	0jmj7
+basketball.basketball_player_stats	07_x8s	06fnn3	0bwjj
+basketball.basketball_player_stats	07_x8s	07cl3j	0jmcb
+basketball.basketball_player_stats	07z2hs	02ppmf	0jm74
+basketball.basketball_player_stats	07z2hs	038bq4	0jmmn
+basketball.basketball_player_stats	07z2hs	058yzq	0jm9w
+basketball.basketball_player_stats	07z2hs	07clv8	0jmnl
+basketball.basketball_player_stats	07z2hs	07dqrx	0jm3b
+basketball.basketball_player_stats	07z2hs	07f33c	0jm4b
+basketball.basketball_player_stats	07z2hs	08stqz	0jmbv
+basketball.basketball_player_stats	0802lk	03lh3v	0jmbv
+basketball.basketball_player_stats	0802lk	050d0q	0jmj7
+basketball.basketball_player_stats	0802lk	05jzdc	0jmfv
+basketball.basketball_player_stats	0802lk	078w9j	0jmfv
+basketball.basketball_player_stats	0802lk	07dq_9	0jmgb
+basketball.basketball_player_stats	0802lk	0fkdp4	0jm8l
+basketball.basketball_player_stats	08030z	01vpp2	0jm64
+basketball.basketball_player_stats	08030z	04vvpr	0jmm4
+basketball.basketball_player_stats	08030z	0739r4	0jm5b
+basketball.basketball_player_stats	08030z	07d6x6	0jm8l
+basketball.basketball_player_stats	08030z	07dl5b	0jmnl
+basketball.basketball_player_stats	08030z	07dl98	0jmfv
+basketball.basketball_player_stats	08030z	07f3g1	0jmhr
+basketball.basketball_player_stats	08030z	09w7gw	0jmfv
+basketball.basketball_player_stats	08030z	0dsj73	0jmcv
+basketball.basketball_player_stats	080b2d	02wr0_	0jm64
+basketball.basketball_player_stats	080b2d	04pj46	0jmcb
+basketball.basketball_player_stats	080b2d	07d71f	0jmgb
+basketball.basketball_player_stats	080b2d	07dqvd	0bwjj
+basketball.basketball_player_stats	080b2d	0fkrd4	0jmnl
+basketball.basketball_player_stats	080bhx	027lhj	0gg69rf
+basketball.basketball_player_stats	080bhx	04phv9	0jmm4
+basketball.basketball_player_stats	080bhx	0510ht	0jmj7
+basketball.basketball_player_stats	080bhx	067t0p	0jmj7
+basketball.basketball_player_stats	080bhx	069ggg	0jmcb
+basketball.basketball_player_stats	080bhx	07dndk	0jm9w
+basketball.basketball_player_stats	080bhx	07lg5v	0jmj7
+basketball.basketball_player_stats	080bhx	07zwkx	0jm5b
+basketball.basketball_player_stats	080sc7	0455pq	0jmm4
+basketball.basketball_player_stats	080sc7	07d71f	0gg69rf
+basketball.basketball_player_stats	080sc7	07gqh4	0jmm4
+basketball.basketball_player_stats	080sc7	08j6yx	0jm8l
+basketball.basketball_player_stats	080sc7	0bw44d	0jmj7
+basketball.basketball_player_stats	08hn_f	05n2c1	0jmnl
+basketball.basketball_player_stats	08hn_f	0fkvdx	0jmcb
+basketball.basketball_player_stats	08hplf	01vpgl	0jm74
+basketball.basketball_player_stats	08hplf	0266p25	0jmcv
+basketball.basketball_player_stats	08hplf	02hdjz	0jm5b
+basketball.basketball_player_stats	08hplf	0301wn	0jm8l
+basketball.basketball_player_stats	08hplf	064t7s	0jmj7
+basketball.basketball_player_stats	08hplf	06q8ry	0jm3b
+basketball.basketball_player_stats	08hplf	081chb	0jmcb
+basketball.basketball_player_stats	08hplf	08485b	0jm5b
+basketball.basketball_player_stats	08hplf	08l3qw	0bwjj
+basketball.basketball_player_stats	08hplf	08lcr5	0jm4v
+basketball.basketball_player_stats	08hplf	094xbr	0jm4b
+basketball.basketball_player_stats	08hplf	0fb6cs	0jmcv
+basketball.basketball_player_stats	08lw15	012xdf	0jm4b
+basketball.basketball_player_stats	08lw15	01ps4k	0jmj7
+basketball.basketball_player_stats	08lw15	050t_l	0jmhr
+basketball.basketball_player_stats	08lw15	07q38w	0jmm4
+basketball.basketball_player_stats	08lw15	08lk30	0jm9w
+basketball.basketball_player_stats	08mdhv	02c5ls	0jm9w
+basketball.basketball_player_stats	08mdhv	04n0s9	0jm9w
+basketball.basketball_player_stats	08mdhv	053v74	0bwjj
+basketball.basketball_player_stats	08mdhv	05f596	0jm8l
+basketball.basketball_player_stats	08mdhv	05jdrp	0jmm4
+basketball.basketball_player_stats	08mdhv	08j72f	0jm5b
+basketball.basketball_player_stats	08mdhv	08x976	0jm4b
+basketball.basketball_player_stats	08mdhv	0dqp3x	0jmmn
+basketball.basketball_player_stats	08n6zb	01vfqy	0jm8l
+basketball.basketball_player_stats	08n6zb	02wkxs	0jm64
+basketball.basketball_player_stats	08n6zb	03lp0g	0jmj7
+basketball.basketball_player_stats	08n6zb	07mmyz	0jm9w
+basketball.basketball_player_stats	08n6zb	0bvgm4	0jm5b
+basketball.basketball_player_stats	08n6zb	0cp66j	0jmdb
+basketball.basketball_player_stats	08p_89	026ym1z	0jmcv
+basketball.basketball_player_stats	08p_89	02wk15	0jm74
+basketball.basketball_player_stats	08p_89	04h7dw	0jm5b
+basketball.basketball_player_stats	08p_89	05p26q	0jm5b
+basketball.basketball_player_stats	08p_89	08dkds	0jm8l
+basketball.basketball_player_stats	08p_89	0fcybh	0jm4b
+basketball.basketball_player_stats	08rm43	02qv2d	0jmj7
+basketball.basketball_player_stats	08rm43	072ndz	0jmbv
+basketball.basketball_player_stats	08rm43	07yqwb	0jm4b
+basketball.basketball_player_stats	08rm43	08j_dc	0jmdb
+basketball.basketball_player_stats	08rm43	0cjl62	0jmbv
+basketball.basketball_player_stats	08rm43	0clh71	0jmgb
+basketball.basketball_player_stats	08rm43	0d3652	0jm8l
+basketball.basketball_player_stats	08rm43	0dqsqd	0jm5b
+basketball.basketball_player_stats	08rm43	0dvv92	02z8z6
+basketball.basketball_player_stats	08vg9r	02n45z	0jm8l
+basketball.basketball_player_stats	08vg9r	03461q	0jm9w
+basketball.basketball_player_stats	08vg9r	04pq94	0jm8l
+basketball.basketball_player_stats	08vg9r	05ndt1	0jmdb
+basketball.basketball_player_stats	08vg9r	0b5__y	02z8z6
+basketball.basketball_player_stats	08vg9r	0f8vbt	02z8z6
+basketball.basketball_player_stats	08vg9r	0fcxbg	0jmdb
+basketball.basketball_player_stats	08w956	02c2g6	0jmhr
+basketball.basketball_player_stats	08w956	06cpj9	0jmm4
+basketball.basketball_player_stats	08w956	084vjz	0jm4v
+basketball.basketball_player_stats	08w956	0bwnjp	0jmm4
+basketball.basketball_player_stats	08w956	0dm4t7	0jml5
+basketball.basketball_player_stats	08w956	0dyw7q	0bwjj
+basketball.basketball_player_stats	09068d	01ck_1	0jm4v
+basketball.basketball_player_stats	09068d	02n45z	0jm8l
+basketball.basketball_player_stats	09068d	04q4f4	0jm64
+basketball.basketball_player_stats	09068d	04wf0f	0jmcv
+basketball.basketball_player_stats	09068d	06smlc	0jmbv
+basketball.basketball_player_stats	09068d	073_zn	0jmnl
+basketball.basketball_player_stats	09068d	07_s1w	0jmbv
+basketball.basketball_player_stats	09068d	08lnq6	0jml5
+basketball.basketball_player_stats	09068d	0fq96g	0jmcv
+basketball.basketball_player_stats	095_24	01ft64	0jml5
+basketball.basketball_player_stats	095_24	020ntr	0jmm4
+basketball.basketball_player_stats	095_24	08gzjb	0jml5
+basketball.basketball_player_stats	095_24	08y76b	0jm4v
+basketball.basketball_player_stats	095_24	0dysb7	02kbcr2
+basketball.basketball_player_stats	096z30	02r1p2l	0jm9w
+basketball.basketball_player_stats	096z30	05f4b0	0jmdb
+basketball.basketball_player_stats	096z30	05x7bt	0jm8l
+basketball.basketball_player_stats	096z30	0684s7	0jmj7
+basketball.basketball_player_stats	096z30	08y5d0	0jm9w
+basketball.basketball_player_stats	09759j	05m4cz	0jmj7
+basketball.basketball_player_stats	09759j	08h1xg	0jmm4
+basketball.basketball_player_stats	0993hq	0260xzl	0jmm4
+basketball.basketball_player_stats	0993hq	02q5wxc	0jm3b
+basketball.basketball_player_stats	0993hq	02qfpqd	0jm9w
+basketball.basketball_player_stats	0993hq	02rl4t3	0bwjj
+basketball.basketball_player_stats	0993hq	0bm9df	0jmbv
+basketball.basketball_player_stats	0993hq	0fb6hk	0jm64
+basketball.basketball_player_stats	0994_r	0287x41	0jm5b
+basketball.basketball_player_stats	0994_r	05r6dn	0jmnl
+basketball.basketball_player_stats	0994_r	06h03t	0jm64
+basketball.basketball_player_stats	099bj0	046y_2	0jml5
+basketball.basketball_player_stats	099bj0	07cm3h	0jmj7
+basketball.basketball_player_stats	099bj0	07g5gp	0jm4b
+basketball.basketball_player_stats	09b5jv	01ym3s	0jmm4
+basketball.basketball_player_stats	09b5jv	08bst7	0jml5
+basketball.basketball_player_stats	09b5jv	09xxv7	0jmm4
+basketball.basketball_player_stats	09bjp8	02791cy	0jm5b
+basketball.basketball_player_stats	09bjp8	02r95zb	0jm64
+basketball.basketball_player_stats	09bjp8	05jlfq	0jmdb
+basketball.basketball_player_stats	09bjp8	08m11p	0jm8l
+basketball.basketball_player_stats	09bjp8	08y560	0jmj7
+basketball.basketball_player_stats	09bjp8	096d19	0jm9w
+basketball.basketball_player_stats	09bjp8	0bl1hp	0jmbv
+basketball.basketball_player_stats	09bjp8	0g927d	0jm64
+basketball.basketball_player_stats	09brkf	053tzp	0h1fsjh
+basketball.basketball_player_stats	09brkf	0bm9mc	0jml5
+basketball.basketball_player_stats	09brkf	0d4dym	0jm9w
+basketball.basketball_player_stats	09cfcf	05r68c	0bwjj
+basketball.basketball_player_stats	09cfcf	0gsw2f	0jml5
+basketball.basketball_player_stats	09drlt	0457pz	0bwjj
+basketball.basketball_player_stats	09drlt	05p81s	0h1fsjh
+basketball.basketball_player_stats	09drlt	06by8l	03bj3y
+basketball.basketball_player_stats	09drlt	0d0_4m	02kbcr2
+basketball.basketball_player_stats	09drlt	0dp__b	0jmm4
+basketball.basketball_player_stats	09fwcb	0278_sc	0bwjj
+basketball.basketball_player_stats	09fwcb	02vvzqc	03bj3y
+basketball.basketball_player_stats	09jfdf	02vrrv3	0bwjj
+basketball.basketball_player_stats	09jfdf	08n1f1	0jm8l
+basketball.basketball_player_stats	09jfdf	0d001w	0jmnl
+basketball.basketball_player_stats	09jxbg	0257dq	0bwjj
+basketball.basketball_player_stats	09jxbg	02x19wj	0jml5
+basketball.basketball_player_stats	09jxbg	073c5l	0jm74
+basketball.basketball_player_stats	09jzdm	02x19wj	02kbcqj
+basketball.basketball_player_stats	09jzdm	0fcpk9	02kbcqj
+basketball.basketball_player_stats	09ln47	01tp0s	02kbcrv
+basketball.basketball_player_stats	09ln47	02rhk3p	0jm8l
+basketball.basketball_player_stats	09ln47	08mpdy	03bj3y
+basketball.basketball_player_stats	09lprx	026rx1p	0bwjj
+basketball.basketball_player_stats	09mbww	05m32c	0jm4v
+basketball.basketball_player_stats	09mbww	05pt2s	0bwjj
+basketball.basketball_player_stats	09mbww	0b_vls	0bwjj
+basketball.basketball_player_stats	09n15l	01h3b9	0jm8l
+basketball.basketball_player_stats	09n15l	05n0tg	025sf78
+basketball.basketball_player_stats	09n15l	08m13r	02kbcqj
+basketball.basketball_player_stats	09n15l	08mw_2	0jm8l
+basketball.basketball_player_stats	09n15l	0bk85l	0jm8l
+basketball.basketball_player_stats	09n15l	0bm8vg	0239hyt
+basketball.basketball_player_stats	09nb8x	01tp1l	0f8d1k
+basketball.basketball_player_stats	09nb8x	02m7wj	0bwjj
+basketball.basketball_player_stats	09nb8x	03n52x	025sf78
+basketball.basketball_player_stats	09nb8x	0bk85l	0jm8l
+basketball.basketball_player_stats	09nbp4	02ryq1h	0jm8l
+basketball.basketball_player_stats	09nbp4	07y0nk	0bwjj
+basketball.basketball_player_stats	09ncv9	065hl6	0f8d1k
+basketball.basketball_player_stats	09ncv9	088bb7	0239hyt
+basketball.basketball_player_stats	09ndwd	087fxb	025sf78
+basketball.basketball_player_stats	09nf59	05ndy1	0239hyt
+basketball.basketball_player_stats	09nf59	073w_l	0bwjj
+basketball.basketball_player_stats	09nfl6	0bvjbh	02kbcrn
+basketball.basketball_player_stats	09nfx8	05mqj1	02kbcrn
+basketball.basketball_player_stats	09nfx8	0bvjbh	02kbcrn
+basketball.basketball_player_stats	09nky6	05mqj1	03bj4q
+basketball.basketball_player_stats	09nl65	02hg53	0bwjj
+basketball.basketball_player_stats	0dsb05	02cg2v	0jmcv
+basketball.basketball_player_stats	0dsb05	04g9sq	0jmj7
+basketball.basketball_player_stats	0dsb05	04jx5p	0jmcv
+basketball.basketball_player_stats	0dsb05	05_wp1	0jmbv
+basketball.basketball_player_stats	0dsb05	06j3_9	0jm9w
+basketball.basketball_player_stats	0dsb05	06r88x	0jmnl
+basketball.basketball_player_stats	0dsb05	0730b4	0jmcb
+basketball.basketball_player_stats	0dsb05	078dtb	0jml5
+basketball.basketball_player_stats	0dsb05	078dxj	0jm4b
+business.product_endorsement	0464gkc	01f492	09j_g
+business.sponsorship	04t88g	01qygl
+celebrities.substance_abuse_problem	012mj	01vrz41
+chemistry.solubility_relationship	04r9cf	01v1v
+computer.os_compatibility	04pm6	05zxk
+computer.software_compatibility	03yhsrg	05d82
+computer.software_compatibility	06kwc6	05d82
+cvg.musical_game_song_relationship	010v81m	026kds	04kbkd1
+cvg.musical_game_song_relationship	0110_06	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0111bls	067gh	0fq74z3
+cvg.musical_game_song_relationship	0112fbt	067gh	04kbkd1
+cvg.musical_game_song_relationship	011cnl5	067gh	0fq74z3
+cvg.musical_game_song_relationship	011zgmr	067gh	0fq74z3
+cvg.musical_game_song_relationship	0123pxj	026kds	0464gkc
+cvg.musical_game_song_relationship	0129yv9	02plp2	0fq74z3
+cvg.musical_game_song_relationship	013bshm	067gh	04kbkd1
+cvg.musical_game_song_relationship	013cz4q	02plp2	04kbkd1
+cvg.musical_game_song_relationship	013flpq	067gh	0fq74z3
+cvg.musical_game_song_relationship	013xqjm	026kds	0fq74z3
+cvg.musical_game_song_relationship	014w88w	026kds	0fq74z3
+cvg.musical_game_song_relationship	015kxlm	02plp2	0fq74z3
+cvg.musical_game_song_relationship	015v5gb	067gh	0fq74z3
+cvg.musical_game_song_relationship	01690d7	026kds	0fq74z3
+cvg.musical_game_song_relationship	016pwpv	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0177d9m	02plp2	04kbkd1
+cvg.musical_game_song_relationship	017tb7f	067gh	04kbkd1
+cvg.musical_game_song_relationship	019spgc	026kds	04kbkd1
+cvg.musical_game_song_relationship	019xs5r	02plp2	0fq74z3
+cvg.musical_game_song_relationship	01b1gtp	067gh	0fq74z3
+cvg.musical_game_song_relationship	01btb00	067gh	0fq74z3
+cvg.musical_game_song_relationship	01c7j7h	067gh	0fq74z3
+cvg.musical_game_song_relationship	01cbrdm	026kds	04kbkd1
+cvg.musical_game_song_relationship	01cw9x7	066kp	047vs1j
+cvg.musical_game_song_relationship	01cw9x7	067gh	025vn5m
+cvg.musical_game_song_relationship	01d08g0	026kds	0464gkc
+cvg.musical_game_song_relationship	01d0vs8	026kds	0fq74z3
+cvg.musical_game_song_relationship	01d2t4h	02plp2	04kbkd1
+cvg.musical_game_song_relationship	01dnq5w	067gh	0464gkc
+cvg.musical_game_song_relationship	01f7bhm	02plp2	04kbkd1
+cvg.musical_game_song_relationship	01f7cpx	026kds	0fq74z3
+cvg.musical_game_song_relationship	01f7cqs	067gh	0fq74z3
+cvg.musical_game_song_relationship	01f7cs2	02plp2	0fq74z3
+cvg.musical_game_song_relationship	01twcs	02plp2	04kbkd1
+cvg.musical_game_song_relationship	01y4j_	067gh	04kbkd1
+cvg.musical_game_song_relationship	021f1m	066kp	0464gkc
+cvg.musical_game_song_relationship	025t7rk	02x8rd	0fq74z3
+cvg.musical_game_song_relationship	025v04w	067gh	0642v9q
+cvg.musical_game_song_relationship	0263041	02plp2	025vn5m
+cvg.musical_game_song_relationship	026lncs	026kds	04kbkd1
+cvg.musical_game_song_relationship	026sf4s	066kp	025vn5m
+cvg.musical_game_song_relationship	027cbrt	066kp	0464gkc
+cvg.musical_game_song_relationship	027hn5t	02plp2	027pg4k
+cvg.musical_game_song_relationship	028054l	026kds	0642v9q
+cvg.musical_game_song_relationship	02pq86h	026kds	0fq74z3
+cvg.musical_game_song_relationship	02qccf	026kds	025vn5m
+cvg.musical_game_song_relationship	02vq9wl	067gh	0fq74z3
+cvg.musical_game_song_relationship	033vqc	026kds	04kbkd1
+cvg.musical_game_song_relationship	03d2lg0	02plp2	0464gkc
+cvg.musical_game_song_relationship	03h45lf	02plp2	0fq74z3
+cvg.musical_game_song_relationship	03jkxv9	067gh	0642v9q
+cvg.musical_game_song_relationship	03w5tq	026kds	0fq74z3
+cvg.musical_game_song_relationship	0403lxm	066kp	027pg4k
+cvg.musical_game_song_relationship	0406rh_	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0417lld	067gh	0464gkc
+cvg.musical_game_song_relationship	047fw1	066kp	0cnjm0
+cvg.musical_game_song_relationship	048cbj	02x8rd	04kbkd1
+cvg.musical_game_song_relationship	04bz52	02plp2	0642v9q
+cvg.musical_game_song_relationship	04cx_qs	026kds	0464gkc
+cvg.musical_game_song_relationship	04czjhh	026kds	0642v9q
+cvg.musical_game_song_relationship	04d_pjd	066kp	0464gkc
+cvg.musical_game_song_relationship	04f59tc	026kds	06ztwyd
+cvg.musical_game_song_relationship	04ghf9h	066kp	0464gkc
+cvg.musical_game_song_relationship	04gv9b5	02plp2	0642v9q
+cvg.musical_game_song_relationship	04gvv9_	066kp	0464gkc
+cvg.musical_game_song_relationship	04l9g7	026kds	04kbkd1
+cvg.musical_game_song_relationship	04qbjgv	067gh	04kbkd1
+cvg.musical_game_song_relationship	04qxwl	026kds	04kbkd1
+cvg.musical_game_song_relationship	04y5fxf	066kp	0464gkc
+cvg.musical_game_song_relationship	0512m4	026kds	0642v9q
+cvg.musical_game_song_relationship	052n5t	02plp2	0642v9q
+cvg.musical_game_song_relationship	058fvn	02plp2	0cnjm0
+cvg.musical_game_song_relationship	05c98v2	067gh	0fq74z3
+cvg.musical_game_song_relationship	05cmg8	066kp	0464gkc
+cvg.musical_game_song_relationship	05h9dh	02plp2	0464gkc
+cvg.musical_game_song_relationship	05kjvl	067gh	025vn5m
+cvg.musical_game_song_relationship	05n552k	067gh	0464gkc
+cvg.musical_game_song_relationship	05n56p3	067gh	0464gkc
+cvg.musical_game_song_relationship	05n8456	067gh	0464gkc
+cvg.musical_game_song_relationship	05n84pb	02plp2	0fq74z3
+cvg.musical_game_song_relationship	05n8__8	066kp	06ztwyd
+cvg.musical_game_song_relationship	05n9042	02plp2	06ztwyd
+cvg.musical_game_song_relationship	05n90wb	066kp	0464gkc
+cvg.musical_game_song_relationship	05n91mx	026kds	0464gkc
+cvg.musical_game_song_relationship	05n96tx	067gh	06ztwyd
+cvg.musical_game_song_relationship	05n96x3	02plp2	06ztwyd
+cvg.musical_game_song_relationship	05n973q	067gh	0642v9q
+cvg.musical_game_song_relationship	05n98j0	066kp	0642v9q
+cvg.musical_game_song_relationship	05n98qm	067gh	06ztwyd
+cvg.musical_game_song_relationship	05n98s9	067gh	0fq74z3
+cvg.musical_game_song_relationship	05n98yt	066kp	0464gkc
+cvg.musical_game_song_relationship	05n991w	067gh	06ztwyd
+cvg.musical_game_song_relationship	05nbltm	02plp2	025vn5m
+cvg.musical_game_song_relationship	05nc41y	02plp2	025vn5m
+cvg.musical_game_song_relationship	05nctfn	066kp	025vn5m
+cvg.musical_game_song_relationship	05nctmk	02plp2	025vn5m
+cvg.musical_game_song_relationship	05pgym	02plp2	0464gkc
+cvg.musical_game_song_relationship	05qp4q	026kds	0642v9q
+cvg.musical_game_song_relationship	05sgj_	02plp2	0464gkc
+cvg.musical_game_song_relationship	05v596z	026kds	04kbkd1
+cvg.musical_game_song_relationship	05y1nj	05zxk	0cnjm0
+cvg.musical_game_song_relationship	05zxwb7	067gh	04kbkd1
+cvg.musical_game_song_relationship	060ch6	02plp2	0642v9q
+cvg.musical_game_song_relationship	064r7sp	026kds	0fq74z3
+cvg.musical_game_song_relationship	064ts9d	067gh	0642v9q
+cvg.musical_game_song_relationship	06dlyz	067gh	0464gkc
+cvg.musical_game_song_relationship	06hb7x	026kds	0fq74z3
+cvg.musical_game_song_relationship	06m06g	02plp2	027pg4k
+cvg.musical_game_song_relationship	06n49d	026kds	0464gkc
+cvg.musical_game_song_relationship	06slcm	026kds	04kbkd1
+cvg.musical_game_song_relationship	06yx2g	066kp	0642v9q
+cvg.musical_game_song_relationship	06z8wm	067gh	0464gkc
+cvg.musical_game_song_relationship	07147m	067gh	04kbkd1
+cvg.musical_game_song_relationship	0735c9	066kp	0cnjm0
+cvg.musical_game_song_relationship	0744vt	02plp2	04kbkd1
+cvg.musical_game_song_relationship	074fzm	067gh	0464gkc
+cvg.musical_game_song_relationship	075pws_	067gh	04kbkd1
+cvg.musical_game_song_relationship	075sh9v	02plp2	0fq74z3
+cvg.musical_game_song_relationship	075sm74	02plp2	0fq74z3
+cvg.musical_game_song_relationship	075smfb	067gh	0fq74z3
+cvg.musical_game_song_relationship	075smp4	02plp2	0fq74z3
+cvg.musical_game_song_relationship	075vptj	02plp2	0fq74z3
+cvg.musical_game_song_relationship	075w65l	02plp2	04kbkd1
+cvg.musical_game_song_relationship	075w695	02plp2	0fq74z3
+cvg.musical_game_song_relationship	075w_z1	026kds	0fq74z3
+cvg.musical_game_song_relationship	075wsgz	067gh	04kbkd1
+cvg.musical_game_song_relationship	075x_6w	02plp2	04kbkd1
+cvg.musical_game_song_relationship	075x_75	067gh	04kbkd1
+cvg.musical_game_song_relationship	075xd0_	026kds	04kbkd1
+cvg.musical_game_song_relationship	075zcnv	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0797kwd	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0797rd9	067gh	04kbkd1
+cvg.musical_game_song_relationship	07b9771	067gh	04kbkd1
+cvg.musical_game_song_relationship	07k62t	066kp	025vn5m
+cvg.musical_game_song_relationship	07mq4d7	02plp2	0fq74z3
+cvg.musical_game_song_relationship	07mq4jt	067gh	04kbkd1
+cvg.musical_game_song_relationship	07mq4jz	026kds	04kbkd1
+cvg.musical_game_song_relationship	07n64g	026kds	04kbkd1
+cvg.musical_game_song_relationship	07n685w	067gh	0464gkc
+cvg.musical_game_song_relationship	07n689d	026kds	04kbkd1
+cvg.musical_game_song_relationship	07n68_6	02plp2	0464gkc
+cvg.musical_game_song_relationship	07np5ng	067gh	0fq74z3
+cvg.musical_game_song_relationship	07np74_	026kds	0464gkc
+cvg.musical_game_song_relationship	07npl0j	066kp	025vn5m
+cvg.musical_game_song_relationship	07nt5b0	067gh	04kbkd1
+cvg.musical_game_song_relationship	07ql41	02plp2	04kbkd1
+cvg.musical_game_song_relationship	07t5_1_	026kds	025vn5m
+cvg.musical_game_song_relationship	07t5zwq	067gh	06ztwyd
+cvg.musical_game_song_relationship	07tk58	026kds	0fq74z3
+cvg.musical_game_song_relationship	0816cq	067gh	025vn5m
+cvg.musical_game_song_relationship	090kp1	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0959hf	067gh	04kbkd1
+cvg.musical_game_song_relationship	098bqv	02plp2	04kbkd1
+cvg.musical_game_song_relationship	09d_xs	067gh	04kbkd1
+cvg.musical_game_song_relationship	09gglj	067gh	04kbkd1
+cvg.musical_game_song_relationship	09q_cy	026kds	0fq74z3
+cvg.musical_game_song_relationship	0_kw5x	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0_my5y	067gh	04kbkd1
+cvg.musical_game_song_relationship	0_nkv3	067gh	04kbkd1
+cvg.musical_game_song_relationship	0b7tv2	067gh	027pg4k
+cvg.musical_game_song_relationship	0c0hn4	02plp2	0cnjm0
+cvg.musical_game_song_relationship	0c7xw8	02x8rd	0fq74z3
+cvg.musical_game_song_relationship	0cc4r4	02plp2	025vn5m
+cvg.musical_game_song_relationship	0chxm9	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0cr_wt	066kp	03x_n7k
+cvg.musical_game_song_relationship	0crcbz	026kds	027pg4k
+cvg.musical_game_song_relationship	0crcbz	066kp	05n03yl
+cvg.musical_game_song_relationship	0cszsh	067gh	0fq74z3
+cvg.musical_game_song_relationship	0cvfc2	026kds	04kbkd1
+cvg.musical_game_song_relationship	0czkkl	067gh	0fq74z3
+cvg.musical_game_song_relationship	0d0xd3	066kp	025vn5m
+cvg.musical_game_song_relationship	0d5p74	026kds	04kbkd1
+cvg.musical_game_song_relationship	0ddpqs	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0dgqjl	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0djhxs	067gh	0464gkc
+cvg.musical_game_song_relationship	0dm7wh	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0dy0sz	026kds	06ztwyd
+cvg.musical_game_song_relationship	0dzqwn_	026kds	0fq74z3
+cvg.musical_game_song_relationship	0f15sdq	067gh	027pg4k
+cvg.musical_game_song_relationship	0f2hvr	066kp	0642v9q
+cvg.musical_game_song_relationship	0fb15y	066kp	0464gkc
+cvg.musical_game_song_relationship	0fckq_	026kds	0464gkc
+cvg.musical_game_song_relationship	0fjk88	067gh	025vn5m
+cvg.musical_game_song_relationship	0fr09db	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0frbt7x	026kds	0fq74z3
+cvg.musical_game_song_relationship	0frp42p	026kds	06ztwyd
+cvg.musical_game_song_relationship	0g43sv	067gh	06ztwyd
+cvg.musical_game_song_relationship	0g75kfj	026kds	0fq74z3
+cvg.musical_game_song_relationship	0gnvhf	026kds	0fq74z3
+cvg.musical_game_song_relationship	0gy913	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0h03jz	026kds	025vn5m
+cvg.musical_game_song_relationship	0h4_93	026kds	0642v9q
+cvg.musical_game_song_relationship	0l0v7c	067gh	04kbkd1
+cvg.musical_game_song_relationship	0l0x_6	026kds	0464gkc
+cvg.musical_game_song_relationship	0l1f7f	026kds	0fq74z3
+cvg.musical_game_song_relationship	0l_1gm	026kds	04f17kv
+cvg.musical_game_song_relationship	0ldkcv	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lf2wr	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lf2yh	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lf9mn	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lf9mw	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lfg_q	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lfpdg	02plp2	0642v9q
+cvg.musical_game_song_relationship	0lftjc	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lfyh0	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lg1cq	067gh	027pg4k
+cvg.musical_game_song_relationship	0lgcq1	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lgnl6	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lhn4z	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lhn55	067gh	04kbkd1
+cvg.musical_game_song_relationship	0ljdbp	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0ljlqx	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0ljqy6	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0ljr08	026kds	0fq74z3
+cvg.musical_game_song_relationship	0llz38	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lmhk9	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lmj8h	067gh	0642v9q
+cvg.musical_game_song_relationship	0lmp4p	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lmph5	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lnx9q	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lpnsj	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lrx58	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lx4bp	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lz4m1	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lzmnr	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0m38fb	067gh	0fq74z3
+cvg.musical_game_song_relationship	0m3l4v	067gh	04kbkd1
+cvg.musical_game_song_relationship	0m4vrk	067gh	04kbkd1
+cvg.musical_game_song_relationship	0mfxgx	02plp2	0642v9q
+cvg.musical_game_song_relationship	0mggr5	067gh	0fq74z3
+cvg.musical_game_song_relationship	0mn3lt	026kds	04kbkd1
+cvg.musical_game_song_relationship	0mp4sr	067gh	0fq74z3
+cvg.musical_game_song_relationship	0n399w	067gh	04kbkd1
+cvg.musical_game_song_relationship	0nbl5t	026kds	04kbkd1
+cvg.musical_game_song_relationship	0ncblr	067gh	0fq74z3
+cvg.musical_game_song_relationship	0ncblz	067gh	04kbkd1
+cvg.musical_game_song_relationship	0nft9n	026kds	04kbkd1
+cvg.musical_game_song_relationship	0ngh1y	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0nhr8d	026kds	04kbkd1
+cvg.musical_game_song_relationship	0np_c7	067gh	04kbkd1
+cvg.musical_game_song_relationship	0nqmcz	026kds	04kbkd1
+cvg.musical_game_song_relationship	0ntxvd	067gh	0464gkc
+cvg.musical_game_song_relationship	0nzbfm	026kds	04kbkd1
+cvg.musical_game_song_relationship	0p1_cq	067gh	04kbkd1
+cvg.musical_game_song_relationship	0pfv52	067gh	0fq74z3
+cvg.musical_game_song_relationship	0pg2r5	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0pgcpr	026kds	0464gkc
+cvg.musical_game_song_relationship	0psk4p	067gh	04kbkd1
+cvg.musical_game_song_relationship	0ptsdg	067gh	04kbkd1
+cvg.musical_game_song_relationship	0pwc_4	067gh	0fq74z3
+cvg.musical_game_song_relationship	0q7fhk	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0q7hy6	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0qn5_r	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0r1p0l	026kds	04kbkd1
+cvg.musical_game_song_relationship	0r2_01	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0r2_14	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0rv03c	026kds	04kbkd1
+cvg.musical_game_song_relationship	0s6jrv	067gh	04kbkd1
+cvg.musical_game_song_relationship	0spz6j	026kds	027pg4k
+cvg.musical_game_song_relationship	0stphh	02plp2	027pg4k
+cvg.musical_game_song_relationship	0sw_qx	067gh	04kbkd1
+cvg.musical_game_song_relationship	0t2003	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0tkg59	026kds	0fq74z3
+cvg.musical_game_song_relationship	0tqshc	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0tvyk3	02x8rd	0fq74z3
+cvg.musical_game_song_relationship	0v3q38	067gh	0fq74z3
+cvg.musical_game_song_relationship	0vc5dm	067gh	0464gkc
+cvg.musical_game_song_relationship	0vrvxd	026kds	04kbkd1
+cvg.musical_game_song_relationship	0x0l0c	026kds	0fq74z3
+cvg.musical_game_song_relationship	0xb8f5	026kds	0fq74z3
+cvg.musical_game_song_relationship	0xf21f	067gh	0642v9q
+cvg.musical_game_song_relationship	0xffn6	026kds	0464gkc
+cvg.musical_game_song_relationship	0xt2rk	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0xt2sn	026kds	04kbkd1
+cvg.musical_game_song_relationship	0y5g70	026kds	0fq74z3
+cvg.musical_game_song_relationship	0y7qtq	067gh	0fq74z3
+cvg.musical_game_song_relationship	0y7tgc	026kds	0642v9q
+cvg.musical_game_song_relationship	0y_w3j	026kds	04kbkd1
+cvg.musical_game_song_relationship	0ygfdy	026kds	0fq74z3
+cvg.musical_game_song_relationship	0z3hbq	067gh	0fq74z3
+cvg.musical_game_song_relationship	0z9bt1	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0z9bv4	067gh	04kbkd1
+cvg.musical_game_song_relationship	0zpfbg	02plp2	04kbkd1
+freebase.list_entry	018w8	05f_kxb
+freebase.list_entry	01sgl	05f_kxb
+freebase.list_entry	0394y	05bvj4h
+freebase.list_entry	05t18k	05bv23n
+freebase.list_entry	06ks_z	05bv23n
+freebase.list_entry	07n3s	05bvj4h
+freebase.list_entry	0bscw	064bv39
+location.partial_containment_relationship	0162b	019203
+location.partial_containment_relationship	05rgl	01p1v
+location.partial_containment_relationship	05sb1	03zs3
+location.partial_containment_relationship	07t_x	0138t
+location.partial_containment_relationship	07twz	0cnrjb
+military.military_combatant_group	09r3f	0432mrk
+music.concert_performance	022prw	04ypr0w	0394y
+music.concert_performance	02v1vq	04yr2g8	0394y
+organization.organization_membership	034m8	0j7v_
+organization.organization_membership	035dk	0967f
+people.marriage	01k53x	0gx1l
+sports.pro_sports_played	018w8	053tzp
+sports.pro_sports_played	018w8	07cl5_
+sports.sports_award	080bhx	03d2bw	0jm74	02yqnh
+sports.sports_award	080bhx	068vkc	0jml5	0380m_
+sports.sports_award	080sc7	01j_8l	0jm64	031mv0
+sports.sports_award	08hn_f	01sg7_	0jm4v	02yqnh
+sports.sports_award	08hplf	03794k	0jmnl	031mv0
+sports.sports_award	08n6zb	07nvhb	0jmm4	0380m_
+sports.sports_award	08rm43	05r99g	0jm4b	06js8m
+sports.sports_award	08s093	01ztgm	0jm8l	031mv0
+sports.sports_award	08vg9r	05h22h	0jmj7	02yqnh
+sports.sports_award	08w956	054c1	0jm74	02yqk8
+sports.sports_award	09759j	05tscl	0bwjj	046s7m
+sports.sports_award	09b5jv	09r9my	0jml5	02yqnh
+sports.sports_award	09brkf	0824rq	0bwjj	046s7m
+sports.sports_award	09cfcf	053tzp	0h1fsjh	02yqk8
+sports.sports_award	09ln47	04r3y_	0jm8l	02yqnh
+sports.sports_award	09n0r4	01tg2m	02kbcqj	02yqnh
+sports.sports_award	09nbp4	05ndy1	0239hyt	02yqk8
+sports.sports_award	09nfx8	08gz6c	03bj3y	02yqnh
+sports.sports_award	0dsb05	02lm0t	0bwjj	031mv0
+sports.sports_award	0jkzz71	09b01n	0jmfv	031mv0
+sports.sports_league_draft_pick	02hf9k	0bx8pn	0jmj7	04ckrk
+sports.sports_league_draft_pick	02plszc	07ccs	0jmj7	0c620w
+sports.sports_league_draft_pick	02ryq1h	0225bv	0jmj7	02h7nl5
+sports.sports_league_draft_pick	053pct	09f2j	0jmj7	0ch_gb
+sports.sports_league_draft_pick	0dszjs	01hx2t	0jmj7	06jndt
+sports.sports_league_draft_pick	0gxrc1	07w0v	0jmnl	0f4vx0
+sports.sports_team_coach_tenure	02md_2	01lwg3
+sports.sports_team_coach_tenure	02md_2	026wlnm
+sports.sports_team_coach_tenure	02md_2	02kl_5
+sports.sports_team_coach_tenure	02md_2	02sc5
+sports.sports_team_coach_tenure	02md_2	03j722
+sports.sports_team_coach_tenure	02md_2	04913k
+sports.sports_team_coach_tenure	02md_2	05dkbr
+sports.sports_team_coach_tenure	02md_2	05jz9
+sports.sports_team_coach_tenure	02md_2	0j65xwr
+sports.sports_team_coach_tenure	02md_2	0jm64
+sports.sports_team_coach_tenure	02md_2	0jnpv
+sports.sports_team_coach_tenure	02md_2	0n1dx
+sports.sports_team_coach_tenure	040zjnd	0b__fx
+tennis.tennis_match	016cff	012xcl	0jwyq2x
+tennis.tennis_match	01ckb6	062ptd	03pc74
+tennis.tennis_match	01ckb6	0mmmt	03w6g1
+tennis.tennis_match	01jyjs	0mmmt	01jm_5
+tennis.tennis_match	01kdh8	0p58j	0svt5
+tennis.tennis_match	01qx13	0mmmt	06_247
+tennis.tennis_match	021x9g	085p0g	01my95
+tennis.tennis_match	023q7x	0mmmt	0kscqz
+tennis.tennis_match	023q7x	0p58j	03xyp_
+tennis.tennis_match	0267yjw	012xcl	02vxz41
+tennis.tennis_match	026zdkf	012xcl	06jf_z
+tennis.tennis_match	0270f6s	012xcl	03cp_nq
+tennis.tennis_match	027km_z	012xcl	0bmh4z2
+tennis.tennis_match	02fzd3	062ptd	02fxg_
+tennis.tennis_match	02gq2g	0p58j	0hdr
+tennis.tennis_match	02pk06h	0mmmt	03hmqk_
+tennis.tennis_match	02pmq18	0mmmt	09n70c
+tennis.tennis_match	02q4_n8	012xcl	0g53p5j
+tennis.tennis_match	02q7lnf	012xcl	03hh0w4
+tennis.tennis_match	02qzkdv	012xcl	0b7_hf
+tennis.tennis_match	02rgcf4	012xcl	027q1_3
+tennis.tennis_match	02rqp7v	012xcl	059_ys6
+tennis.tennis_match	02vkxq8	012xcl	07n9cx
+tennis.tennis_match	02vqjcx	012xcl	0gpsg4
+tennis.tennis_match	02vs996	012xcl	06zn7gy
+tennis.tennis_match	02vxz5s	0p58j	05b0n6j
+tennis.tennis_match	02w3812	062p80	03xyp_
+tennis.tennis_match	02w7qc8	012xcl	03hh0w4
+tennis.tennis_match	02w7qlh	012xcl	0ds58nt
+tennis.tennis_match	02w8pmb	012xcl	03b7gw
+tennis.tennis_match	02w95xv	012xcl	03crd_3
+tennis.tennis_match	02w9mk4	062pbc	051q39
+tennis.tennis_match	02wx7qk	025_2gr	0gpsg4
+tennis.tennis_match	02ylr9	0mmmt	02bs4c
+tennis.tennis_match	02z39y1	012xcl	02z88kz
+tennis.tennis_match	02z3df4	012xcl	08nl19
+tennis.tennis_match	031gr8	062pwg	01ym2x
+tennis.tennis_match	031hgj	0g6vzd	0dm9j4
+tennis.tennis_match	031mcp	0p58j	069d71
+tennis.tennis_match	03421p	085p0g	04d7qf
+tennis.tennis_match	03cnk74	012xcl	06tc62
+tennis.tennis_match	03crd_3	012xcl	02rgqsl
+tennis.tennis_match	03d0lb_	012xcl	0dmy5f
+tennis.tennis_match	03d18hl	012xcl	05rp3d
+tennis.tennis_match	03hgwyy	012xcl	04gp1mg
+tennis.tennis_match	03hh0w4	012xcl	07nvr4
+tennis.tennis_match	03hh_d_	012xcl	07nvr4
+tennis.tennis_match	03hnrfl	012xcl	03hgwyy
+tennis.tennis_match	03w6g1	0l6c9	0hdr
+tennis.tennis_match	03wc52	04w70r	06m6fl
+tennis.tennis_match	047pdkl	012xcl	0gvrwv9
+tennis.tennis_match	047r1wh	012xcl	05zf7w
+tennis.tennis_match	047s537	012xcl	02vxz5s
+tennis.tennis_match	047s5q4	012xcl	02w3812
+tennis.tennis_match	047sc8k	012xcl	03hnrgz
+tennis.tennis_match	04cv50b	012xcl	09rwbn_
+tennis.tennis_match	04jmzqm	012xcl	0c17cb
+tennis.tennis_match	05b0n6j	0mmmt	02w8pmb
+tennis.tennis_match	05h2799	062ptd	069d71
+tennis.tennis_match	05q676f	012xcl	0j9lyr8
+tennis.tennis_match	05q93_w	012xcl	0263_qs
+tennis.tennis_match	05rp1k	062pyl	063ynts
+tennis.tennis_match	05zkbxm	012xcl	02rgqsl
+tennis.tennis_match	05zr8l9	012xcl	0cc8835
+tennis.tennis_match	063_797	012xcl	06w9723
+tennis.tennis_match	063ynts	0mmmt	063ynts
+tennis.tennis_match	064ph14	012xcl	03wc52
+tennis.tennis_match	069d71	012xcl	03cp_nq
+tennis.tennis_match	06h_fy	012xcl	09g8zpt
+tennis.tennis_match	06jt3x	012xcl	02z76bx
+tennis.tennis_match	06jt3x	012xcl	0g53p5j
+tennis.tennis_match	06m8mb	012xcl	04gp1mg
+tennis.tennis_match	06r28j	0p58j	07gzdm
+tennis.tennis_match	06vbnj	012xcl	07k8t6
+tennis.tennis_match	070yz_	062pbc	0706_1
+tennis.tennis_match	07d8rt	012xcl	07k8t6
+tennis.tennis_match	07db26	012xcl	05y19_
+tennis.tennis_match	07gz8m	012xcl	02rqp7v
+tennis.tennis_match	07hp_p	062pyl	051q39
+tennis.tennis_match	07hp_p	0mmmt	01my95
+tennis.tennis_match	07kd3v1	012xcl	02z6jyk
+tennis.tennis_match	07kd3v1	012xcl	0dm9j4
+tennis.tennis_match	07nvr4	062pbc	07k8t6
+tennis.tennis_match	07s76bs	012xcl	063ynts
+tennis.tennis_match	07sbgrw	012xcl	0ds9hhq
+tennis.tennis_match	0835d1	012xcl	0dddzl1
+tennis.tennis_match	08mjqg	012xcl	03wc52
+tennis.tennis_match	08nl19	0p58j	015z4j
+tennis.tennis_match	09gj98	084qcy	016cff
+tennis.tennis_match	09gl097	0mmmt	051q39
+tennis.tennis_match	09n70c	084qcy	03wc52
+tennis.tennis_match	0b3027	012xcl	02pk7tf
+tennis.tennis_match	0b3027	012xcl	059nrl
+tennis.tennis_match	0b3027	012xcl	09rs3v7
+tennis.tennis_match	0bbv546	062psk	051q39
+tennis.tennis_match	0bdr4z	04wvl3	051q39
+tennis.tennis_match	0bm90s7	012xcl	02vqxj2
+tennis.tennis_match	0bm90s7	012xcl	05p7ml0
+tennis.tennis_match	0bmh4z2	012xcl	064j9_
+tennis.tennis_match	0c3w33t	012xcl	0dmy5f
+tennis.tennis_match	0c4247t	012xcl	07k8t6
+tennis.tennis_match	0c7dg1	012xcl	02vxz41
+tennis.tennis_match	0cc8835	012xcl	02rp3kp
+tennis.tennis_match	0cc8b9v	012xcl	05rp3d
+tennis.tennis_match	0cm922p	012xcl	07kcpkl
+tennis.tennis_match	0cmcpdd	012xcl	02rw96r
+tennis.tennis_match	0cxjrp	012xcl	05t18k
+tennis.tennis_match	0czb0m0	062psk	069d68
+tennis.tennis_match	0d68f6	012xcl	02wx7qk
+tennis.tennis_match	0dl46b	012xcl	04jf3zv
+tennis.tennis_match	0dlzwk	012xcl	0gthj5
+tennis.tennis_match	0dmyb1	012xcl	0crfybs
+tennis.tennis_match	0ds3tfq	012xcl	0czb0m0
+tennis.tennis_match	0ds58nt	0mmmt	03qjqlf
+tennis.tennis_match	0dwtlf	012xcl	03ctgj6
+tennis.tennis_match	0f8xw6	012xcl	05zkbxm
+tennis.tennis_match	0g53p5j	012xcl	0bbwvqy
+tennis.tennis_match	0g57r8l	012xcl	03c3sjz
+tennis.tennis_match	0gy0f1d	0mmmt	02plk76
+tennis.tennis_match	0j26qjc	012xcl	065_6qg
+tennis.tennis_match	0j26qjc	012xcl	069d68
+tennis.tennis_match	0kt66z	012xcl	0ddcm56
+tennis.tennis_match	0nfwy2v	0mmmt	0bbv546
+tennis.tennis_tournament_championship	012xcl	01ryfl
+tennis.tennis_tournament_championship	012xcl	01vdpl
+tennis.tennis_tournament_championship	012xcl	0281b7_
+tennis.tennis_tournament_championship	012xcl	03bjrp
+tennis.tennis_tournament_championship	012xcl	06dqw8
+tennis.tennis_tournament_championship	012xcl	06pljw
+tennis.tennis_tournament_championship	012xcl	08nl19
+tennis.tennis_tournament_championship	012xcl	09gj98
+tennis.tennis_tournament_championship	012xcl	0dwhy
+tennis.tennis_tournament_championship	02qh72s	07hp_p
+tennis.tennis_tournament_championship	02rb2b9	07db26
+tennis.tennis_tournament_championship	04hg0j	031gr8
+tennis.tennis_tournament_championship	04hg0j	069d71
+tennis.tennis_tournament_championship	04hg0j	0dphmc
+tennis.tennis_tournament_championship	04hg0j	0g2s0k
+tennis.tennis_tournament_championship	04w70r	01g9_q
+tennis.tennis_tournament_championship	04w70r	03btc1
+tennis.tennis_tournament_championship	04wbkq	015z4j
+tennis.tennis_tournament_championship	062p80	06148c
+tennis.tennis_tournament_championship	062p80	076mkt
+tennis.tennis_tournament_championship	062pbc	03pf0c
+tennis.tennis_tournament_championship	062pbc	08l6n5
+tennis.tennis_tournament_championship	062psk	04zkmf
+tennis.tennis_tournament_championship	062psk	09gj98
+tennis.tennis_tournament_championship	062ptd	03k7fg
+tennis.tennis_tournament_championship	062pwg	06tc62
+tennis.tennis_tournament_championship	062pxq	015z4j
+tennis.tennis_tournament_championship	084qcy	02w8g9j
+tennis.tennis_tournament_championship	084qcy	034984
+tennis.tennis_tournament_championship	084qcy	03vwtd
+tennis.tennis_tournament_championship	084sjy	031hgj
+tennis.tennis_tournament_championship	085p0g	01qx13
+tennis.tennis_tournament_championship	085p0g	06tbzd
+tennis.tennis_tournament_championship	0l6c9	03k5q3
+tennis.tennis_tournament_championship	0l6c9	0575d1
+tennis.tennis_tournament_championship	0l6c9	06vfrq
+tennis.tennis_tournament_championship	0mmmt	01sj6j
+tennis.tennis_tournament_championship	0mmmt	02zbhpk
+tennis.tennis_tournament_championship	0mmmt	03b221
+tennis.tennis_tournament_championship	0mmmt	03k195
+tennis.tennis_tournament_championship	0mmmt	069fcw
+tennis.tennis_tournament_championship	0mmmt	06qkx_
+tennis.tennis_tournament_championship	0p58j	01kfjb
+tennis.tennis_tournament_championship	0p58j	032wxm
+tennis.tennis_tournament_championship	0p58j	051q39
+tennis.tennis_tournament_championship	0p58j	06vjn0
+tennis.tennis_tournament_championship	0p58j	0j26hwg
+travel.travel_destination_monthly_climate	03czqs	02xx5
+travel.travel_destination_monthly_climate	071vr	02xx5
+tv.tv_regular_personal_appearance	02xhwm	02730y1	089qt1
+tv.tv_regular_personal_appearance	02xhwm	04ggb1j	03kb_z
+tv.tv_regular_personal_appearance	02xhwm	04ggb1j	0byw09
+tv.tv_regular_personal_appearance	02xhwm	04glxkc	06zycs
+tv.tv_regular_personal_appearance	02xhwm	0cspwq	089qt1
+tv.tv_regular_personal_appearance	02xhwm	0dr4c6	01dcvr
+tv.tv_regular_personal_appearance	03cgq24	06xwyky	043rcw4
+tv.tv_regular_personal_appearance	03cgq24	06xwyky	043ttm7
+tv.tv_regular_personal_appearance	03cgq24	06xwyky	05_5_yh
+tv.tv_regular_personal_appearance	03cgq24	097syt0	0261x8t
+tv.tv_regular_personal_appearance	03cgq24	097syt0	043rcw4
+tv.tv_regular_personal_appearance	03cgq24	0kk6716	043rcw4
+tv.tv_regular_personal_appearance	03cgq24	0vp5g0j	043rcw4
+tv.tv_regular_personal_appearance	03cgq24	0vp5g0j	05_5_yx
+tv.tv_regular_personal_appearance	03cgq24	0zrkm4n	043ttm7
+tv.tv_regular_personal_appearance	063ztgx	0641zv2	02z3d24
+tv.tv_regular_personal_appearance	063ztgx	0641zv2	05nq29
+tv.tv_regular_personal_appearance	064272_	0pxl8tt	043ttm7
+tv.tv_regular_personal_appearance	06hwzy	011kt3zk	0bj1kt
+tv.tv_regular_personal_appearance	06hwzy	02qh21x	014xn7
+tv.tv_regular_personal_appearance	06hwzy	02qh21x	02znsf
+tv.tv_regular_personal_appearance	06hwzy	02qh21x	05dcbl
+tv.tv_regular_personal_appearance	06hwzy	02qh23z	01spqt
+tv.tv_regular_personal_appearance	06hwzy	02qh293	026tc_4
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	025yhpl
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	03kb_z
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	0608c8
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	0bj1kt
+tv.tv_regular_personal_appearance	06hwzy	047d7p5	03qv8j
+tv.tv_regular_personal_appearance	06hwzy	047d7p5	049h3h6
+tv.tv_regular_personal_appearance	06hwzy	04kcvf1	026tc_4
+tv.tv_regular_personal_appearance	06hwzy	04kcvf7	0bnppn
+tv.tv_regular_personal_appearance	06hwzy	04zznlk	02z63xv
+tv.tv_regular_personal_appearance	06hwzy	04zznlk	0993r
+tv.tv_regular_personal_appearance	06hwzy	07kw248	012_53
+tv.tv_regular_personal_appearance	06hwzy	07kw248	025v3t8
+tv.tv_regular_personal_appearance	06hwzy	07kw248	026dj0k
+tv.tv_regular_personal_appearance	06hwzy	07kw248	02vwjsl
+tv.tv_regular_personal_appearance	06hwzy	07kw248	0p3r8
+tv.tv_regular_personal_appearance	06hwzy	09kl55k	0bnppn
+tv.tv_regular_personal_appearance	06hwzy	0cv2rzx	0bnppn
+tv.tv_regular_personal_appearance	06hwzy	0cv2rzx	0ftmv7
+tv.tv_regular_personal_appearance	06hwzy	0g55lpv	026716t
+tv.tv_regular_personal_appearance	06hwzy	0g55lpv	0883rm
+tv.tv_regular_personal_appearance	06hwzy	0g55lpv	0m042
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	0285v0j
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	02rh4gy
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	04xf57
+tv.tv_regular_personal_appearance	06hwzy	0jvn09k	08xrm0
+tv.tv_regular_personal_appearance	06hwzy	0kcm3vz	01jnt_
+tv.tv_regular_personal_appearance	06hwzy	0pcv3d7	0284b3
+tv.tv_regular_personal_appearance	06hwzy	0pcv3d7	073plk
+tv.tv_regular_personal_appearance	06hwzy	0vsfdh6	08xrm0
+tv.tv_regular_personal_appearance	06hwzy	0vsfdh6	09nhvw
+tv.tv_regular_personal_appearance	06hwzy	0vsfdh6	0b72k93
+tv.tv_regular_personal_appearance	06hwzy	0vsfdh6	0bkfp1
+tv.tv_regular_personal_appearance	06hwzy	0zgbfr6	01_2bb
+tv.tv_regular_personal_appearance	06hwzy	0zgbfr6	0h699ms
+tv.tv_regular_personal_appearance	06mr2s	02pxq0_	02rh4gy
+tv.tv_regular_personal_appearance	06mr2s	02pxq0_	0b4rf3
+tv.tv_regular_personal_appearance	06mr2s	02pxq0_	0g8b92
+tv.tv_regular_personal_appearance	06mr2s	05t0_9z	0g8b92
+tv.tv_regular_personal_appearance	09g6___	0k236b1	0h3s6pd
+tv.tv_regular_personal_appearance	09g6___	0k6jczt	0b72k93
+tv.tv_regular_personal_appearance	09g6___	0k6jczt	0gfhjqb
+user.tsegaran.random.taxonomy_entry	0130xz	04n6k
+user.tsegaran.random.taxonomy_entry	0163v	04n6k
+user.tsegaran.random.taxonomy_entry	01699	04n6k
+user.tsegaran.random.taxonomy_entry	01b61	04n6k
+user.tsegaran.random.taxonomy_entry	01nyl	04n6k
+user.tsegaran.random.taxonomy_entry	01vbl	04n6k
+user.tsegaran.random.taxonomy_entry	028rk	04n6k
+user.tsegaran.random.taxonomy_entry	02k8k	04n6k
+user.tsegaran.random.taxonomy_entry	02yy8	04n6k
+user.tsegaran.random.taxonomy_entry	034m8	04n6k
+user.tsegaran.random.taxonomy_entry	03j6c	04n6k
+user.tsegaran.random.taxonomy_entry	03ytc	04n6k
+user.tsegaran.random.taxonomy_entry	042kg	04n6k
+user.tsegaran.random.taxonomy_entry	04_13	04n6k
+user.tsegaran.random.taxonomy_entry	04rlf	04n6k
+user.tsegaran.random.taxonomy_entry	04s7y	04n6k
+user.tsegaran.random.taxonomy_entry	04xn_	04n6k
+user.tsegaran.random.taxonomy_entry	05kr_	04n6k
+user.tsegaran.random.taxonomy_entry	05qdh	04n6k
+user.tsegaran.random.taxonomy_entry	05rgl	04n6k
+user.tsegaran.random.taxonomy_entry	05sb1	04n6k
+user.tsegaran.random.taxonomy_entry	062z7	04n6k
+user.tsegaran.random.taxonomy_entry	06c0j	04n6k
+user.tsegaran.random.taxonomy_entry	06c97	04n6k
+user.tsegaran.random.taxonomy_entry	06mnr	04n6k
+user.tsegaran.random.taxonomy_entry	06mz5	04n6k
+user.tsegaran.random.taxonomy_entry	06x4c	04n6k
+user.tsegaran.random.taxonomy_entry	07bfd	04n6k
+user.tsegaran.random.taxonomy_entry	07dv8	04n6k
+user.tsegaran.random.taxonomy_entry	083p7	04n6k
+user.tsegaran.random.taxonomy_entry	086m1	04n6k
+user.tsegaran.random.taxonomy_entry	087vz	04n6k
+user.tsegaran.random.taxonomy_entry	088q4	04n6k
+user.tsegaran.random.taxonomy_entry	09r3f	04n6k
+user.tsegaran.random.taxonomy_entry	0bzvqx	04n6k
+user.tsegaran.random.taxonomy_entry	0db86	04n6k
+user.tsegaran.random.taxonomy_entry	0f7fy	04n6k
+user.tsegaran.random.taxonomy_entry	0hqjh	04n6k
+user.tsegaran.random.taxonomy_entry	0k4j	04n6k
+user.tsegaran.random.taxonomy_entry	0qb7t	04n6k
+tennis.tennis_tournament_championship	062pyl	051q39
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6mr
+base.marchmadness.ncaa_tournament_seed	0gjbqfk	0b_65t
+tv.tv_regular_personal_appearance	06hwzy	04kcvf1	049h3h6
+cvg.musical_game_song_relationship	03jkxv9	026kds	0642v9q
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_77q
+base.marchmadness.ncaa_tournament_seed	027yf83	0cc8q3
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_5rc
+base.marchmadness.ncaa_tournament_seed	04088s0	0bz_jf
+cvg.musical_game_song_relationship	0xt2sn	02plp2	0fq74z3
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0b_6x2
+tennis.tennis_match	069d68	0mmmt	02zbhpk
+basketball.basketball_player_stats	0802lk	03lh3v	0jmnl
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6v_
+basketball.basketball_player_stats	08030z	03794k	0jmnl
+base.marchmadness.ncaa_tournament_seed	026jxvv	0b_6jz
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_756
+cvg.musical_game_song_relationship	05n973q	02plp2	0464gkc
+cvg.musical_game_song_relationship	075w_z1	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0m38fb	067gh	04kbkd1
+base.marchmadness.ncaa_tournament_seed	091tgz	05g_nr
+base.marchmadness.ncaa_tournament_seed	05gh8f9	0b_65t
+base.marchmadness.ncaa_tournament_seed	03d9fwn	0b_6lb
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_687
+tennis.tennis_tournament_championship	04hg0j	01ckb6
+base.marchmadness.ncaa_tournament_seed	05g16k0	0b_6lb
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_6qj
+cvg.musical_game_song_relationship	05n991w	067gh	04kbkd1
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_5t3
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_6q5
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0b_72t
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0b_770
+base.marchmadness.ncaa_tournament_seed	026xxv_	0bzrb9
+cvg.musical_game_song_relationship	05n991w	026kds	04kbkd1
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_71r
+tennis.tennis_match	0g53p5j	012xcl	063ynts
+base.marchmadness.ncaa_tournament_seed	026w398	0b_6s7
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_77q
+tennis.tennis_match	0bbv546	0mmmt	01my95
+base.marchmadness.ncaa_tournament_seed	0k0qbcs	0b_5js
+tennis.tennis_tournament_championship	0mmmt	04zkmf
+base.marchmadness.ncaa_tournament_seed	03yfq3l	0b_71r
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_6s7
+base.marchmadness.ncaa_tournament_seed	0406fy0	0b_698
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0bqthy
+tennis.tennis_match	0c17cb	0mmmt	015z4j
+tennis.tennis_match	03vwtd	012xcl	063ynts
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_6h7
+base.marchmadness.ncaa_tournament_seed	02r2qt7	0b_6rk
+base.marchmadness.ncaa_tournament_seed	0b__fx	0b_6fv
+basketball.basketball_player_stats	08s093	07mmyz	0jmgb
+sports.sports_award	09fwcb	053tzp	0h1fsjh	02yqnh
+base.marchmadness.ncaa_tournament_seed	0263cyj	0b_6jz
+basketball.basketball_player_stats	08hn_f	07dl5b	0jmbv
+tennis.tennis_tournament_championship	04wvl3	09gl097
+base.marchmadness.ncaa_tournament_seed	0lq6582	0b_6rk
+basketball.basketball_historical_coach_position	0jm3b	02cg2v
+basketball.basketball_player_stats	08hn_f	0301wn	0jm8l
+base.marchmadness.ncaa_tournament_seed	0289k0y	05g_nr
+base.marchmadness.ncaa_tournament_seed	0263cyj	0bqthy
+cvg.musical_game_song_relationship	0h4_93	067gh	0464gkc
+tennis.tennis_match	0czb0m0	012xcl	06h_fy
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_77q
+cvg.musical_game_song_relationship	0z3hbq	02plp2	0cnjm0
+basketball.basketball_player_stats	0994_r	08y560	0jmj7
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_6mr
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6q5
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_734
+base.marchmadness.ncaa_tournament_seed	03ymq1q	0b_5lv
+base.marchmadness.ncaa_tournament_seed	03d9d5m	0br1xn
+cvg.musical_game_song_relationship	0lmj8h	066kp	06ztwyd
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6qj
+base.marchmadness.ncaa_tournament_seed	02pkdf2	0b_67j
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_770
+basketball.basketball_player_stats	08w956	02c5ls	0jm9w
+basketball.basketball_player_stats	08hn_f	04wf0f	0jmcv
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_675
+sports.sports_team_coach_tenure	02md_2	02plv57
+base.marchmadness.ncaa_tournament_seed	02qn723	0b_6qj
+base.marchmadness.ncaa_tournament_seed	0579h0q	06n7qg
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_6lb
+basketball.basketball_player_stats	08s093	073_zn	0jmbv
+base.marchmadness.ncaa_tournament_seed	02pkdf2	0b_5tt
+base.marchmadness.ncaa_tournament_seed	027yf83	0b_6zk
+basketball.basketball_player_stats	08p_89	08x976	0jm4b
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6xf
+base.marchmadness.ncaa_tournament_seed	02qctn5	0b_770
+base.marchmadness.ncaa_tournament_seed	0gwxr6	0b_6fv
+cvg.musical_game_song_relationship	0f2hvr	026kds	06ztwyd
+base.marchmadness.ncaa_tournament_seed	0ll2vw3	0b_6x2
+freebase.list_entry	031gr8	05bv23n
+base.marchmadness.ncaa_tournament_seed	03d555l	0b_734
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6q5
+base.marchmadness.ncaa_tournament_seed	02qk2d5	0bzrsh
+base.marchmadness.ncaa_tournament_seed	05dxmck	0b_63p
+sports.sports_team_coach_tenure	02md_2	0bwjj
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6xf
+base.marchmadness.ncaa_tournament_seed	0ds9r80	0b_5nk
+base.marchmadness.ncaa_tournament_seed	05cf8h2	0b_63p
+base.marchmadness.ncaa_tournament_seed	0c25fh	0bqthy
+base.marchmadness.ncaa_tournament_seed	02pq5pn	0b_6zk
+base.marchmadness.ncaa_tournament_seed	03d7fzg	0br1xn
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6rk
+tv.tv_regular_personal_appearance	06hwzy	04kcvf7	02vwjsl
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6lb
+tennis.tennis_match	09n70c	0l6c9	051q39
+base.marchmadness.ncaa_tournament_seed	05cf6p9	0b_6d2
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0bzrpd
+base.marchmadness.ncaa_tournament_seed	03d7_lc	0bzrsh
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0bqthy
+base.marchmadness.ncaa_tournament_seed	05c_bv1	0b_6v_
+base.marchmadness.ncaa_tournament_seed	028552x	0cc8q3
+base.marchmadness.ncaa_tournament_seed	02pqcfz	0b_62n
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6q5
+tennis.tennis_tournament_championship	062pyl	09gj98
+basketball.basketball_player_stats	08hn_f	07nvhb	0jmm4
+base.marchmadness.ncaa_tournament_seed	05gnpfq	0b_6q5
+basketball.basketball_player_stats	09ln47	0bm8vg	0239hyt
+base.marchmadness.ncaa_tournament_seed	05cf6__	0cc8q3
+base.marchmadness.ncaa_tournament_seed	02pzy52	0b_72t
+basketball.basketball_historical_coach_position	02pzy52	01jwf
+tennis.tennis_match	09gj98	012xcl	02vs996
+base.marchmadness.ncaa_tournament_seed	0j65xwr	0b_6mr
+basketball.basketball_player_stats	080bhx	04vvpr	0jm9w
+base.marchmadness.ncaa_tournament_seed	0k0qbcs	0b_5nk
+basketball.basketball_player_stats	08hplf	08lnq6	0jm74
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0b_6q5
+base.marchmadness.ncaa_tournament_seed	03nxg_h	0b_6v_
+base.marchmadness.ncaa_tournament_seed	026xxv_	0bzrsh
+basketball.basketball_player_stats	08w956	0219kb	0bwjj
+base.marchmadness.ncaa_tournament_seed	026w398	0b_77q
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_5rc
+tennis.tennis_match	02pmq18	012xcl	09n70c
+tennis.tennis_match	02qzkdv	012xcl	06148c
+tennis.tennis_match	03b7gw	062pbc	09gj98
+base.marchmadness.ncaa_tournament_seed	026jxvv	06n7qg
+base.marchmadness.ncaa_tournament_seed	03wctwm	0b_6x2
+tennis.tennis_tournament_championship	012xcl	0svt5
+basketball.basketball_player_stats	08w956	04pq94	0jm8l
+cvg.musical_game_song_relationship	0lhn4z	067gh	04kbkd1
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_6zk
+base.marchmadness.ncaa_tournament_seed	0406fy0	0b_734
+tennis.tennis_tournament_championship	0p58j	05b0n6j
+basketball.basketball_player_stats	09ln47	0257dq	0bwjj
+base.marchmadness.ncaa_tournament_seed	05c8dy1	0b_734
+cvg.musical_game_song_relationship	0cr_wt	066kp	025vn5m
+cvg.musical_game_song_relationship	0ngh1y	067gh	0464gkc
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	0bnppn
+basketball.basketball_player_stats	08s093	0fq96g	0jm4v
+tennis.tennis_tournament_championship	062p80	01kfjb
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0bzrsh
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_6v_
+cvg.musical_game_song_relationship	07n689d	067gh	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	0jmmn
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_6_l

@@ -1,0 +1,25 @@
+sports.sports_team_season_record	076y20	01y3v
+sports.sports_team_season_record	07dtw0	03b3j
+sports.sports_team_season_record	071qy4	084l5
+sports.sports_team_season_record	076ylc	0wsr
+sports.sports_team_season_record	07btpd	051q5
+american_football.game_rushing_statistics	0265q8d	07dlspd
+american_football.game_receiving_statistics	0792x8p	06c4zl
+baseball.baseball_team_stats	041112p	01slc
+american_football.game_receiving_statistics	07932dv	05y80m
+baseball.baseball_team_stats	02h7s81	0cqt41
+baseball.baseball_team_stats	041110f	02d02
+sports.sports_team_season_record	074vzg	05l71
+baseball.baseball_team_stats	02qmmv6	05ll5_5
+sports.sports_team_season_record	0721yn	01xvb
+baseball.baseball_team_stats	02h7s15	07l4z
+sports.sports_team_season_record	076y20	06mpvs8
+sports.sports_team_season_record	07f9bq	05tfm
+base.militaryinfiction.military_character_service	0289fz	0c0lmgc	0chzk_3	0ck68rv	0cpg02s
+american_football.game_rushing_statistics	0g6gx4	0794jz0
+sports.sports_team_season_record	072whh	05l71
+base.militaryinfiction.military_character_service	0c0lmd2	0c1myv7	0chzk_3	0chtrwn	0c0mtfn
+american_football.game_receiving_statistics	07dlrmz	0btjrg
+sports.sports_team_season_record	079430	06mpvs8
+baseball.baseball_team_stats	02h7sc5	05knd46
+baseball.baseball_team_stats	02h7s3j	0512p

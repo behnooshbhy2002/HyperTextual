@@ -1,0 +1,24 @@
+sports.sports_team_season_record	0733gm	05l71
+baseball.baseball_team_stats	04110lg	01yjl
+sports.sports_team_season_record	071qy4	05g3v
+travel.travel_destination_monthly_climate	02_9n	028kb
+sports.sports_team_season_record	07f944	05g3b
+sports.sports_team_season_record	072whw	05g3b
+baseball.baseball_team_stats	041110t	05knd46
+baseball.baseball_team_stats	04111d9	01yjl
+music.recording_contribution	02r_cc	0_sv_90	01jgmpp
+sports.sports_team_season_record	07dqdx	05g3v
+sports.sports_team_season_record	025syt6	05g49
+sports.sports_team_season_record	0733hp	05tg3
+baseball.baseball_team_stats	04111bt	02d02
+baseball.baseball_team_stats	05lqwn5	01d6g
+sports.sports_team_season_record	07rj2g	0289q
+user.szaijan.fantasy_football.projection	02sj2gw	09ryyx	02sjlml
+baseball.baseball_team_stats	02h7sfp	01yjl
+sports.sports_team_season_record	07932s	04nmxtk
+user.szaijan.fantasy_football.projection	02sj2gw	0cwhxj	02sjlml
+baseball.baseball_team_stats	02h7s5k	051vz
+baseball.baseball_team_stats	02h7s5q	0x2p
+sports.sports_team_season_record	0721yn	01y49
+sports.sports_team_season_record	07x_5h	02896
+baseball.baseball_team_stats	03c6sl9	049n7

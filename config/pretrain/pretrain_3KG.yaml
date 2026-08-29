@@ -1,0 +1,44 @@
+output_dir: ~/HYPER/output
+
+dataset:
+  class: JointDataset
+  graphs: [FB15k237, WN18RR, CoDExMedium]
+  root: ~/HYPER/kg-datasets/
+
+model:
+  class: HYPER
+  relation_model:
+    class: RelHCNet
+    input_dim: 64
+    hidden_dims: [64, 64, 64, 64, 64, 64]
+    aggregate_func:  sum
+    short_cut: yes
+    use_triton: yes
+  entity_model:
+    class: EntityHCNet
+    input_dim: 64
+    hidden_dims: [64, 64, 64, 64, 64, 64]
+    aggregate_func: sum
+    short_cut: yes
+    use_triton: yes
+
+optimizer:
+  class: AdamW
+  lr: 5.0e-4
+
+task:
+  name: MultiGraphPretraining
+  num_negative: 512
+  strict_negative: yes
+  adversarial_temperature: 1
+  metric: [mr, mrr, hits@1, hits@3, hits@10]
+
+train:
+  gpus: {{ gpus }}
+  batch_size: 32
+  num_epoch: 3
+  log_interval: 100
+  batch_per_epoch: 10000
+  fast_test: 500
+
+checkpoint: {{ ckpt }}

@@ -1,0 +1,3371 @@
+music.recording_contribution	07gph1	0l14md	01h7h6c
+base.theosbornboysaregrowing.trip	0vg8j	01kcnl	03qb78c	04d1j3z	04f97tq
+base.ontologies.ontology_instance_mapping	04dm2p_	0198z
+cvg.musical_game_song_relationship	0mfxgx	02plp2	0642v9q
+cvg.musical_game_song_relationship	0r_5k3	026kds	04kbkd1
+american_football.game_rushing_statistics	0cwmzd	0793mqw
+base.schemastaging.phone_sandbox	02h40lc	085n4	05bcl	0pl4nkj
+american_football.game_rushing_statistics	0cwhxj	07925lf
+baseball.baseball_team_stats	02h7scb	042v_h4
+american_football.game_rushing_statistics	03c87rb	0793wqg
+cvg.musical_game_song_relationship	017tb7f	067gh	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	02j71	0pl4nkj
+baseball.baseball_team_stats	041108j	05fc8c9
+cvg.musical_game_song_relationship	01b1gtg	026kds	04kbkd1
+music.recording_contribution	01np_dx	0l14qv	01knf48
+music.recording_contribution	01x1rc0	0l14qv	067bl9
+cvg.musical_game_song_relationship	0pp5n8	067gh	027pg4k
+baseball.baseball_team_stats	02x1xf4	05ll5_5
+baseball.lifetime_batting_statistics	04cvb85	041109n	041109n	04110y2
+american_football.game_rushing_statistics	05827t	07dlqxx
+cvg.musical_game_song_relationship	0dmlnwl	026kds	04kbkd1
+cvg.musical_game_song_relationship	05n973q	066kp	0464gkc
+cvg.musical_game_song_relationship	05p4g__	02plp2	025vn5m
+baseball.batting_statistics	01yjl	02h7r_9	05zrps
+baseball.batting_statistics	051wf	02h7s78	0908cz
+cvg.musical_game_song_relationship	09z70z	02plp2	0642v9q
+baseball.batting_statistics	05g76	02h7sd3	02r32f_
+american_football.game_passing_statistics	04d4zv	0792ktk
+people.marriage	02vr7	07ssc
+music.recording_contribution	01x1814	0c0n9v9	0bs3l5
+baseball.batting_statistics	061xq	02h7s6b	06ggj
+baseball.baseball_team_stats	04110t8	01ypc
+american_football.game_rushing_statistics	02z0mt0	0792bkj
+music.group_membership	0290ngj	0167v4	07tvk6
+music.group_membership	0342h	0g4r96	02qrpdq
+baseball.baseball_team_stats	05kcgsf	02d02
+cvg.musical_game_song_relationship	0spz6j	026kds	027pg4k
+baseball.batting_statistics	05kmnv1	02h7s28	0g5352
+american_football.game_rushing_statistics	07vw51	0791pf0
+american_football.player_passing_statistics	04t8z3	03gqdq7
+base.petbreeds.dog_city_relationship	01k3tq	0f__1
+cvg.musical_game_song_relationship	07n685w	067gh	0464gkc
+tv.regular_tv_appearance	04m_6y5	0gd0x9w	0c1pt7b	02py9yf
+music.recording_contribution	066tmc	0l14md	02q1xk9
+people.marriage	0443xn	03gh4
+tennis.tennis_match	03vwtd	012xcl	063ynts
+american_football.game_passing_statistics	097yk7	079397c
+american_football.game_rushing_statistics	04lgz0	07dlnxs
+american_football.game_rushing_statistics	07s9104	07dln_g
+cvg.musical_game_song_relationship	05n8__8	066kp	06ztwyd
+tennis.tennis_tournament_championship	0l6c9	01_r34
+cvg.musical_game_song_relationship	0yc77y	026kds	04kbkd1
+cvg.game_performance	07xxp9	01x1wl	08glff
+cvg.musical_game_song_relationship	0lfpb1	026kds	04kbkd1
+cvg.musical_game_song_relationship	07n689d	067gh	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	0dmv5
+base.schemastaging.phone_sandbox	083tk	01f37c	07ssc	0pl4nkj
+baseball.baseball_team_stats	02h7s3p	01yjl
+american_football.game_rushing_statistics	04lgz0	07dlnsq
+cvg.musical_game_song_relationship	03wp0bk	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7r_y	05xvj
+base.ontologies.ontology_instance_mapping	04dm2p_	05yg8kx
+baseball.baseball_team_stats	02wxr1w	05ll5_5
+base.schemastaging.phone_sandbox	02h40lc	0313mp	09c7w0	0pl4nkj
+tennis.tennis_tournament_championship	0l6c9	065t_w
+film.film_regional_release_date	0jgd	0qsdrjl
+american_football.game_rushing_statistics	03cpr8_	07dlrm1
+cvg.musical_game_song_relationship	013bshm	067gh	04kbkd1
+american_football.game_passing_statistics	033t8w	07923nq
+cvg.musical_game_song_relationship	0lf9mw	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0l0v7c	067gh	04kbkd1
+cvg.musical_game_song_relationship	07tk58	02plp2	04kbkd1
+cvg.musical_game_song_relationship	07mq4dw	067gh	04kbkd1
+american_football.game_rushing_statistics	04d4zv	0792lj_
+baseball.baseball_team_stats	02h7s57	0512p
+cvg.musical_game_song_relationship	0sh36w	026kds	04kbkd1
+cvg.musical_game_song_relationship	07mq4jt	067gh	04kbkd1
+cvg.musical_game_song_relationship	027dm29	026kds	0fq74z3
+base.schemastaging.phone_sandbox	064_8sq	02m96	0154j	0pl4nkj
+tennis.tennis_tournament_championship	04n057n	03wc52
+cvg.musical_game_song_relationship	0y_w3j	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	011chff0	03v1s	0pl4nkj
+cvg.musical_game_song_relationship	048cg0	066kp	0464gkc
+cvg.musical_game_song_relationship	05n90wb	066kp	0464gkc
+tennis.tennis_tournament_championship	0l6c9	06vjn0
+baseball.baseball_team_stats	02h7sdf	06x68
+cvg.musical_game_song_relationship	04qxwl	026kds	04kbkd1
+music.recording_contribution	01vss02	0c0n9v9	01h7hyk
+music.recording_contribution	0455yy	02dlh2	09g83yz
+cvg.musical_game_song_relationship	0chxm9	02plp2	04kbkd1
+tennis.tennis_match	09gj98	012xcl	02vs996
+aviation.airline_airport_presence	0947l	0f31xt	05_5qpj
+music.group_membership	0342h	01v2vz_	01l_fq5
+cvg.musical_game_song_relationship	05n96tx	067gh	06ztwyd
+cvg.musical_game_song_relationship	075sm74	02plp2	0fq74z3
+american_football.game_rushing_statistics	02qdp4v	0792c_g
+cvg.musical_game_song_relationship	06yx2g	067gh	0642v9q
+base.schemastaging.phone_sandbox	02h40lc	0sgk729	02j71	0pl4nlv
+tv.regular_tv_appearance	051_bcb	0gd0xbs	0k234p1	02py9yf
+cvg.musical_game_song_relationship	0lwttc	067gh	0fq74z3
+cvg.musical_game_song_relationship	05n91vv	026kds	06ztwyd
+american_football.game_passing_statistics	03d4lw7	07dlnxs
+baseball.baseball_team_stats	02h7s1z	01d5z
+american_football.game_rushing_statistics	0bnks5	0791t3y
+baseball.baseball_team_stats	02h7sd8	05m_8
+location.location_symbol_relationship	04rrx	01yrt2
+cvg.musical_game_song_relationship	064r7sp	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	02nqk
+cvg.musical_game_song_relationship	0lg1cq	066kp	027pg4k
+cvg.game_performance	07xxp9	01h4t2	050swy
+cvg.musical_game_song_relationship	0s9ppp	067gh	027pg4k
+cvg.musical_game_song_relationship	026lncs	026kds	0fq74z3
+baseball.baseball_team_stats	041110t	01ypc
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	09c7w0	0pl4nlh
+cvg.musical_game_song_relationship	0lhn4z	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	04wyr
+cvg.musical_game_song_relationship	0crcbz	066kp	05n03yl
+tennis.tennis_tournament_championship	012xcl	06vfrq
+film.dubbing_performance	02h40lc	0409pl	0dh8v4	0b7wjw
+tennis.tennis_match	02rgcf4	012xcl	027q1_3
+base.schemastaging.phone_sandbox	064_8sq	0sg9r2q	0f8l9c	0pl4nkj
+tennis.tennis_tournament_championship	0mmmt	02zbhpk
+base.ontologies.ontology_instance_mapping	04dm2p_	0fhxv
+base.ontologies.ontology_instance_mapping	04dm2p_	02qwg
+tennis.tennis_tournament_championship	0p58j	0955h7
+american_football.game_rushing_statistics	027fcy	0791p46
+tennis.tennis_match	023q7x	062pbc	02plk76
+american_football.game_passing_statistics	0cv72h	0791w6f
+cvg.musical_game_song_relationship	0ntxvd	02plp2	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	018x3
+american_football.player_passing_statistics	09z4fb	04y6_qr
+cvg.musical_game_song_relationship	01g127	067gh	04kbkd1
+cvg.game_performance	064ldsd	07656	08glff
+cvg.musical_game_song_relationship	0gy913	067gh	03x_n7k
+cvg.musical_game_song_relationship	0lzmnj	067gh	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	01lfy
+film.dubbing_performance	02h40lc	040b15	02w5tqb	0ckm4x
+tennis.tennis_tournament_championship	012xcl	026zdkf
+american_football.game_rushing_statistics	07fgn7	07dlrmz
+baseball.baseball_team_stats	04110y2	05ll5_5
+base.petbreeds.dog_city_relationship	0km5c	02hrh0_
+american_football.game_passing_statistics	0cv72h	07dltgd
+american_football.game_rushing_statistics	03d4lw7	07923h6
+cvg.musical_game_song_relationship	0lftjc	02plp2	0fq74z3
+baseball.batting_statistics	01ypc	02h7s15	07lsmp
+cvg.musical_game_song_relationship	03d2lg0	066kp	0642v9q
+baseball.baseball_team_stats	02h7s7r	0cqt41
+baseball.baseball_team_stats	02h7s3j	01d6g
+music.recording_contribution	0pk41	0_sv_90	04b_t6
+base.schemastaging.phone_sandbox	02h40lc	011chff0	05fjf	0pl4nkj
+cvg.musical_game_song_relationship	096ydc	066kp	0464gkc
+baseball.baseball_team_stats	02h7sfv	06x68
+film.dubbing_performance	02h40lc	0409pl	027l7sg	0fps52
+cvg.musical_game_song_relationship	0v3q38	026kds	04kbkd1
+cvg.musical_game_song_relationship	0nqmcz	026kds	04kbkd1
+baseball.baseball_team_stats	05lq8_p	05lpk7_
+american_football.game_rushing_statistics	02x6lw	07dlrs4
+tennis.tennis_tournament_championship	0l6c9	01jyjs
+baseball.baseball_team_stats	02h7s81	051vz
+baseball.baseball_team_stats	05lqx_t	061xq
+cvg.musical_game_song_relationship	0p1_cq	067gh	04kbkd1
+cvg.musical_game_song_relationship	05n973q	02plp2	06ztwyd
+baseball.baseball_team_stats	04111bt	02d02
+american_football.game_rushing_statistics	08z7bw	07dlqfk
+baseball.batting_statistics	0512p	0dx84s	07q_9x
+tennis.tennis_match	07gz8m	012xcl	02rqp7v
+cvg.musical_game_song_relationship	07147m	02x8rd	0fq74z3
+american_football.game_rushing_statistics	0kt13j	07dlt2j
+base.ontologies.ontology_instance_mapping	04dm2p_	0hn6d
+tennis.tennis_match	06r28j	0p58j	07gzdm
+tennis.tennis_tournament_championship	04wbkq	01kdh8
+base.petbreeds.dog_city_relationship	01llgk	01smm
+base.theosbornboysaregrowing.trip	0vg8j	01h_1n	03qb78c	04dssd2	04j6583
+cvg.musical_game_song_relationship	01f7crn	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	01r2l
+music.group_membership	0290ngj	02qz4y_	01b29
+baseball.baseball_team_stats	04110rw	0cqt41
+american_football.game_rushing_statistics	07rh_m	07dlt48
+cvg.musical_game_song_relationship	05n983d	02plp2	0642v9q
+baseball.baseball_team_stats	02h7s81	01yhm
+cvg.musical_game_song_relationship	075sm6z	067gh	0fq74z3
+tennis.tennis_match	0c17cb	0mmmt	015z4j
+baseball.baseball_team_stats	03wfgdh	01slc
+american_football.player_passing_statistics	0cjcdj	04y6_qr
+tennis.tennis_match	07nvr4	062pbc	07k8t6
+tennis.tennis_tournament_championship	0p58j	05zf7w
+american_football.game_passing_statistics	027jv8	0792jk9
+cvg.musical_game_song_relationship	0m9333	067gh	04kbkd1
+cvg.musical_game_song_relationship	015bxpr	02plp2	04kbkd1
+cvg.musical_game_song_relationship	013xqjm	026kds	0fq74z3
+baseball.baseball_team_stats	02h7s3j	04mjl
+baseball.baseball_team_stats	02h7scb	05nlyxv
+american_football.game_rushing_statistics	05wc_w	07dlq92
+baseball.baseball_team_stats	02h7s28	0512p
+base.ontologies.ontology_instance_mapping	04dm2p_	0hhqw
+american_football.game_rushing_statistics	05llk6	0793hpk
+baseball.baseball_team_stats	03c6r8q	05knb8g
+cvg.musical_game_song_relationship	0mbq5l	026kds	0fq74z3
+music.recording_contribution	02r_cc	0_sv_90	01jgn8d
+base.schemastaging.phone_sandbox	02h40lc	02k8h3	0d060g	0pl4nkj
+american_football.game_rushing_statistics	04yc_pf	09rl2hg
+baseball.batting_statistics	03wzpvl	041110t	0j_4l
+cvg.musical_game_song_relationship	0ngb7h	026kds	04kbkd1
+film.film_regional_release_date	06qd3	04m1bm
+american_football.game_rushing_statistics	02qwr64	07dlpyw
+people.human_measurement	031974	0dgh75q
+base.schemastaging.phone_sandbox	02h40lc	0bys4z	03spz	0pl4nkj
+tennis.tennis_tournament_championship	0mmmt	06qkx_
+cvg.musical_game_song_relationship	05mtfsj	02plp2	025vn5m
+base.schemastaging.phone_sandbox	064_8sq	07_wvg	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0lf2wr	067gh	04kbkd1
+tennis.tennis_match	03d18hl	012xcl	05rp3d
+music.recording_contribution	01wxwhx	02dlh2	040j79
+american_football.game_rushing_statistics	0b2v1q	0792r45
+base.schemastaging.phone_sandbox	05zjd	0s81qjv	0d060g	0pl4nkj
+cvg.musical_game_song_relationship	027hn5t	026kds	04kbkd1
+baseball.baseball_team_stats	03c6sl9	02d02
+cvg.musical_game_song_relationship	0q0bk1	067gh	0fq74z3
+baseball.baseball_team_stats	03c6sl9	0713r
+american_football.game_rushing_statistics	0bnks5	07dlr2v
+cvg.musical_game_song_relationship	0lfpdg	02plp2	0642v9q
+cvg.musical_game_song_relationship	05n98qm	067gh	06ztwyd
+cvg.musical_game_song_relationship	05n96tx	026kds	0464gkc
+baseball.baseball_team_stats	02h7s4g	061xq
+base.schemastaging.phone_sandbox	02h40lc	0qj5wgd	05l64	0pl4nkj
+cvg.musical_game_song_relationship	01243s	067gh	04kbkd1
+cvg.musical_game_song_relationship	06yx2g	066kp	0642v9q
+american_football.game_passing_statistics	030bdd	07949wt
+cvg.musical_game_song_relationship	06dlyz	02plp2	0464gkc
+american_football.game_rushing_statistics	074l06	079254x
+baseball.baseball_team_stats	0dx84s	01d5z
+base.schemastaging.phone_sandbox	02h40lc	080c4qv	09c7w0	0pl4nkj
+american_football.game_rushing_statistics	074l06	07dlm9d
+baseball.baseball_team_stats	02wxr1w	05nlyxv
+cvg.musical_game_song_relationship	04gm3fc	026kds	0464gkc
+people.human_measurement	031974	064wfz
+cvg.musical_game_song_relationship	0mggqj	067gh	0fq74z3
+film.film_regional_release_date	0d060g	0cw3yd
+base.schemastaging.phone_sandbox	03_9r	0l14qv	03_3d	0pl4nkj
+baseball.baseball_team_stats	03d4p81	01ypc
+base.schemastaging.phone_sandbox	02h40lc	0s91j5w	0j1z8	0pl4nkj
+cvg.musical_game_song_relationship	0nkyd26	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	09xbqh	09c7w0	0pl4nlh
+cvg.musical_game_song_relationship	075zcnv	067gh	04kbkd1
+location.location_symbol_relationship	04tgp	04627hh
+tennis.tennis_match	02rqp7v	012xcl	059_ys6
+location.location_symbol_relationship	01n7q	04627hh
+cvg.musical_game_song_relationship	06z8wm	026kds	06ztwyd
+tennis.tennis_match	02pmq18	0mmmt	09n70c
+american_football.game_rushing_statistics	04m2px	0792cgn
+tennis.tennis_tournament_championship	0mmmt	03wc52
+cvg.musical_game_song_relationship	05nbltm	02plp2	025vn5m
+tennis.tennis_tournament_championship	062psk	0650gk
+american_football.game_rushing_statistics	025_l20	07dltqm
+cvg.musical_game_song_relationship	0bfwbz	02plp2	06ztwyd
+cvg.musical_game_song_relationship	07p94l	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	06jbz
+cvg.musical_game_song_relationship	0lf2wr	026kds	04kbkd1
+cvg.musical_game_song_relationship	0d1ss9	066kp	025vn5m
+american_football.game_rushing_statistics	04ljjn	07dlqgd
+american_football.game_rushing_statistics	04q06_	07dlstj
+cvg.musical_game_song_relationship	07ql41	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	054c1
+cvg.musical_game_song_relationship	0lfygt	02plp2	04kbkd1
+base.petbreeds.dog_city_relationship	01nw62	068p2
+cvg.musical_game_song_relationship	0dzgd9	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	07g9f
+cvg.musical_game_song_relationship	0l0vsj	02plp2	025vn5m
+cvg.musical_game_song_relationship	01b1gt7	067gh	0fq74z3
+base.schemastaging.phone_sandbox	04306rv	0352k1	0345h	0pl4nkj
+cvg.musical_game_song_relationship	07k62t	02plp2	025vn5m
+biology.breed_registration	06pq2r	0ljl8	09c5f2
+baseball.baseball_team_stats	05lqw34	05xvj
+cvg.musical_game_song_relationship	027cbrt	02plp2	0464gkc
+music.recording_contribution	0632z7	0l14md	05rm45
+american_football.game_rushing_statistics	07yzk2	079397c
+tennis.tennis_tournament_championship	012xcl	0dwhy
+american_football.game_rushing_statistics	04ljjn	07dltf7
+cvg.musical_game_song_relationship	0mfxft	02plp2	0fq74z3
+baseball.baseball_team_stats	02h7s9g	01d5z
+base.schemastaging.phone_sandbox	02h40lc	08jvtd	07ssc	0pl4nmy
+film.film_regional_release_date	09c7w0	059zzd
+american_football.game_rushing_statistics	05w0_k	0793qkd
+baseball.batting_statistics	06x68	02h7s9g	02r32f_
+cvg.musical_game_song_relationship	0n399w	067gh	04kbkd1
+american_football.game_rushing_statistics	05w0_k	07dlr09
+location.location_symbol_relationship	03v1s	0j749
+tennis.tennis_tournament_championship	0mmmt	0860dv
+baseball.batting_statistics	01d5z	04110b0	07rbm
+american_football.game_rushing_statistics	05cb70	0b3w6l2
+cvg.musical_game_song_relationship	0tqshc	026kds	0fq74z3
+people.human_measurement	031974	04zz22
+baseball.baseball_team_stats	02h7s8p	01d5z
+cvg.musical_game_song_relationship	0v0qms	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s81	0cqt41
+tennis.tennis_match	03hh_d_	012xcl	07nvr4
+american_football.game_passing_statistics	05txyj	075rsc8
+baseball.baseball_team_stats	041108x	0cqt41
+cvg.musical_game_song_relationship	0715g7	026kds	0464gkc
+cvg.musical_game_song_relationship	02vsnrw	02plp2	0642v9q
+cvg.musical_game_song_relationship	0959hf	067gh	04kbkd1
+american_football.game_passing_statistics	0cwmzd	075rqmr
+baseball.baseball_team_stats	02h7s8p	0x2p
+base.ontologies.ontology_instance_mapping	04dm2p_	0fd_f
+tennis.tennis_tournament_championship	012xcl	032wxm
+cvg.musical_game_song_relationship	0xb8f5	026kds	0fq74z3
+tennis.tennis_tournament_championship	04wbkq	01m3zh
+american_football.game_passing_statistics	029b2g	075rs5t
+cvg.musical_game_song_relationship	0np_c7	067gh	04kbkd1
+base.popstra.support	04mjl	0dq9wx
+tennis.tennis_tournament_championship	0p58j	01m_gh
+base.schemastaging.phone_sandbox	02h40lc	0qj5wgd	02j71	0pl4nkj
+american_football.game_rushing_statistics	046bjz	07dlvh9
+american_football.game_passing_statistics	0cv72h	07dlnrs
+american_football.game_rushing_statistics	07ynx2	0793fq_
+base.petbreeds.dog_city_relationship	01s7fj	0f04v
+base.schemastaging.phone_sandbox	02h40lc	0273t5w	07ssc	0pl4nmy
+cvg.musical_game_song_relationship	05ncswb	026kds	025vn5m
+cvg.musical_game_song_relationship	05n82ss	02plp2	0464gkc
+cvg.musical_game_song_relationship	08p9hj	026kds	04kbkd1
+cvg.musical_game_song_relationship	051qmx	026kds	0464gkc
+tennis.tennis_match	02z3df4	012xcl	08nl19
+cvg.musical_game_song_relationship	04n15x7	067gh	0464gkc
+music.recording_contribution	01wwvzv	0c0n9v9	06501k
+base.schemastaging.phone_sandbox	03_9r	0352k1	03_3d	0pl4nkj
+cvg.musical_game_song_relationship	0dxcmt	02plp2	0fq74z3
+cvg.musical_game_song_relationship	01btb00	067gh	0fq74z3
+baseball.batting_statistics	05xvj	02h7s1t	096f7g
+cvg.musical_game_song_relationship	0q43m_	067gh	04kbkd1
+film.dubbing_performance	02h40lc	09xp2	0ckrgs	09r7n2
+cvg.musical_game_song_relationship	0b7tv2	067gh	027pg4k
+base.represent.agent_celebrity_representation	04lgz0	06dk0p
+film.film_film_distributor_relationship	0g1rw	02y8kn	09c7w0
+cvg.musical_game_song_relationship	0l1cy2	02plp2	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	0pv_lt2	09pmkv	0pl4nkj
+cvg.musical_game_song_relationship	05n91mx	066kp	0464gkc
+film.film_regional_release_date	02vzc	080mczx
+american_football.game_passing_statistics	025j0c	07dlsyj
+cvg.musical_game_song_relationship	04czjhh	026kds	0642v9q
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	07bcn	0pl4nkj
+baseball.baseball_team_stats	041112p	01ypc
+cvg.musical_game_song_relationship	013cz4q	02plp2	04kbkd1
+cvg.musical_game_song_relationship	05n8_sw	026kds	06ztwyd
+cvg.musical_game_song_relationship	03s04r	026kds	0fq74z3
+cvg.musical_game_song_relationship	0gy913	067gh	05n03yl
+cvg.musical_game_song_relationship	0s5tl9	02plp2	0fq74z3
+tennis.tennis_tournament_championship	0mmmt	01ckb6
+music.group_membership	0l14qv	03h632y	04zh5y3
+cvg.musical_game_song_relationship	05n91t4	026kds	0642v9q
+baseball.baseball_team_stats	02h7sd3	02d02
+cvg.musical_game_song_relationship	0wff1p	026kds	0fq74z3
+tennis.tennis_tournament_championship	062pbc	07k8t6
+cvg.musical_game_song_relationship	07npb65	026kds	06ztwyd
+cvg.musical_game_song_relationship	033vqc	026kds	04kbkd1
+cvg.musical_game_song_relationship	0797njz	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	064_8sq	0409wn	02kw88	0pl4nkj
+business.product_endorsement	0464gkc	01f492	09j_g
+baseball.baseball_team_stats	026fmqm	05xvj
+cvg.musical_game_song_relationship	0crcbz	067gh	04kbkd1
+baseball.baseball_team_stats	02wxr1w	05knb8g
+american_football.game_rushing_statistics	0746cp	0792627
+base.theosbornboysaregrowing.trip	0vg8j	03jcqy	03qb78c	04d1j3z	04f9pl9
+american_football.game_rushing_statistics	0cv72h	07dlsd7
+people.human_measurement	031974	0dgcpjd
+base.schemastaging.phone_sandbox	02h40lc	04yf8tq	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	060ch6	02plp2	06ztwyd
+american_football.game_rushing_statistics	095x71	0793vcm
+baseball.baseball_team_stats	027mvrc	05m_8
+baseball.baseball_team_stats	02h7s0k	01slc
+cvg.musical_game_song_relationship	0l_1gm	026kds	04f17kv
+cvg.musical_game_song_relationship	0pwc_4	067gh	0fq74z3
+cvg.musical_game_song_relationship	09z70z	067gh	0642v9q
+tennis.tennis_tournament_championship	0l6c9	09n70c
+american_football.game_rushing_statistics	05v9rg	07dlssm
+baseball.batting_statistics	01d6g	02h7s15	0834z7
+music.track_contribution	0290ngj	02qwg
+cvg.musical_game_song_relationship	0lr9cq	026kds	0642v9q
+location.location_symbol_relationship	0gyh	0j749
+baseball.baseball_team_stats	02h7sct	0cqt41
+baseball.baseball_team_stats	02h7sbw	049n7
+cvg.musical_game_song_relationship	04hvtc	026kds	04f17kv
+baseball.batting_statistics	061xq	02h7sd3	02gbv0
+baseball.baseball_team_stats	02h7r_9	01ypc
+cvg.musical_game_song_relationship	0ddcjz	026kds	0fq74z3
+american_football.game_rushing_statistics	025wtny	075rrwh
+cvg.musical_game_song_relationship	0c1mv3	02plp2	06ztwyd
+cvg.musical_game_song_relationship	0m7btl	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0m1d6v	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lz4m1	067gh	04kbkd1
+tennis.tennis_tournament_championship	0mmmt	015z4j
+american_football.game_rushing_statistics	097yk7	07938sl
+base.schemastaging.phone_sandbox	02h40lc	011chff0	04rrx	0pl4nkj
+baseball.baseball_team_stats	02h7s52	0713r
+baseball.baseball_team_stats	02h7s81	0512p
+american_football.game_passing_statistics	04q06_	07dlv9x
+cvg.musical_game_song_relationship	01f7cy_	067gh	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	02qvly	09c7w0	0pl4nmy
+american_football.game_rushing_statistics	095xk6	07dlt1p
+american_football.game_passing_statistics	027jv8	0792kl6
+cvg.musical_game_song_relationship	06n49d	026kds	06ztwyd
+tennis.tennis_match	0270f6s	012xcl	02rw96r
+baseball.baseball_team_stats	03d44h6	03sn07
+american_football.game_rushing_statistics	027jv8	07dlqc2
+baseball.baseball_team_stats	04110sm	05knd46
+cvg.musical_game_song_relationship	026m_36	067gh	0642v9q
+baseball.baseball_team_stats	02h7s4s	0cqt41
+american_football.game_rushing_statistics	02q4qzf	07dlp_y
+american_football.game_rushing_statistics	03d4lw7	07dlnxs
+base.ontologies.ontology_instance_mapping	04dm2p_	0jzw
+american_football.game_rushing_statistics	067dtl	07924x2
+cvg.game_performance	02wbtdq	01x1wl	08glff
+american_football.game_rushing_statistics	07y_ft	07922m2
+baseball.baseball_team_stats	02h7s1h	0713r
+cvg.musical_game_song_relationship	0mfxgx	026kds	0fq74z3
+cvg.musical_game_song_relationship	013flpq	02plp2	047vs1j
+baseball.baseball_team_stats	04110sm	0cqt41
+cvg.musical_game_song_relationship	05n98qm	02plp2	0642v9q
+baseball.baseball_team_stats	02h7s8p	051wf
+baseball.baseball_team_stats	02h7sc5	01ypc
+cvg.musical_game_song_relationship	0lldjn	02plp2	0fq74z3
+people.human_measurement	031974	04ylwr
+american_football.game_rushing_statistics	0cv72h	0791td4
+baseball.batting_statistics	02__x	0dx84s	07lsmp
+base.petbreeds.dog_city_relationship	06pq2r	0f2v0
+music.recording_contribution	05sny38	0290ngj	05sny5k
+tennis.tennis_tournament_championship	0p58j	0665mg
+cvg.musical_game_song_relationship	0dvzb1x	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7s5k	051vz
+business.product_endorsement	014smc	027jv8	0kc6x
+cvg.musical_game_song_relationship	02rsx2l	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0157m
+american_football.game_rushing_statistics	04yc_pf	07dlnmk
+film.dubbing_performance	02h40lc	02rc4d	0bh72t	07y91g
+baseball.baseball_team_stats	02h7s28	0cqt41
+location.location_symbol_relationship	03gh4	04627hh
+cvg.musical_game_song_relationship	0ljqy6	02plp2	0fq74z3
+tennis.tennis_tournament_championship	062pwg	06tc62
+american_football.game_rushing_statistics	0272kym	075rqry
+cvg.musical_game_song_relationship	02h3sz	026kds	06ztwyd
+cvg.musical_game_song_relationship	07t5zwq	02plp2	06ztwyd
+baseball.baseball_team_stats	04110y2	03wzpvl
+american_football.game_rushing_statistics	08z7bw	075rrlk
+american_football.game_rushing_statistics	08z7bw	0792r45
+american_football.game_rushing_statistics	03d4lw7	0791q1s
+american_football.game_rushing_statistics	05cb70	07dlssm
+cvg.musical_game_song_relationship	04czjhh	066kp	0464gkc
+cvg.musical_game_song_relationship	012q_0	067gh	0464gkc
+cvg.musical_game_song_relationship	0192bv5	02plp2	04kbkd1
+baseball.batting_statistics	06x68	041109n	03kzrh
+people.marriage	03l26m	02_286
+base.schemastaging.phone_sandbox	02bv9	0bys4z	059j2	0pl4nkj
+baseball.baseball_team_stats	02h7sfp	01yjl
+american_football.game_rushing_statistics	07y_ft	07929pq
+film.dubbing_performance	02h40lc	0301s7	02z9hqn	02pr540
+american_football.game_rushing_statistics	02623bz	0792z78
+cvg.musical_game_song_relationship	0b7tv2	026kds	04kbkd1
+baseball.baseball_team_stats	02h7s4s	05kmnv1
+cvg.musical_game_song_relationship	0gm5h7	02plp2	025vn5m
+baseball.baseball_team_stats	02h7s1h	01yjl
+base.schemastaging.phone_sandbox	02h40lc	0352k1	07ssc	0pl4nlh
+base.schemastaging.phone_sandbox	02h40lc	0q4h1r0	0dlv0	0pl4nkj
+baseball.baseball_team_stats	02h7s31	0713r
+cvg.musical_game_song_relationship	09d_xs	066kp	0464gkc
+cvg.musical_game_song_relationship	0471sn	026kds	06ztwyd
+cvg.musical_game_song_relationship	05n921x	026kds	06ztwyd
+cvg.musical_game_song_relationship	0lpzkb	067gh	0fq74z3
+cvg.musical_game_song_relationship	0f15sdq	067gh	027pg4k
+american_football.game_rushing_statistics	027fcy	0791ppc
+cvg.musical_game_song_relationship	0dxcmt	026kds	04kbkd1
+baseball.baseball_team_stats	02h7s9g	05m_8
+cvg.musical_game_song_relationship	0ncblr	067gh	0fq74z3
+american_football.game_rushing_statistics	02qxmd6	0792yg2
+cvg.musical_game_song_relationship	016nyzq	026kds	0fq74z3
+sports.pro_sports_played	0jm_	04hlp3
+tennis.tennis_match	0gy0f1d	012xcl	05zf7w
+base.schemastaging.phone_sandbox	02h40lc	0bys4z	0154j	0pl4nkj
+film.dubbing_performance	02h40lc	02w5yb	0cfdsq	07jf6t
+baseball.baseball_team_stats	0285r5d	06x68
+cvg.musical_game_song_relationship	01dph3w	067gh	04kbkd1
+american_football.game_rushing_statistics	03d4lw7	07920zk
+american_football.game_rushing_statistics	07y_ft	0792d8g
+cvg.musical_game_song_relationship	08cklv	067gh	025vn5m
+baseball.baseball_team_stats	04111ck	05kndgg
+baseball.baseball_team_stats	02h7rz_	0cqt41
+baseball.baseball_team_stats	0285r5d	03m1n
+tennis.tennis_tournament_championship	062psk	09gj98
+american_football.game_passing_statistics	02qxmd6	0792627
+baseball.baseball_team_stats	04111cy	0cqt41
+cvg.musical_game_song_relationship	01f34k7	067gh	025vn5m
+baseball.baseball_team_stats	02h7sdf	061xq
+film.dubbing_performance	02h40lc	0g1wjz	03gyvwg	05q_mg
+base.ontologies.ontology_instance_mapping	04dm2p_	06dv3
+american_football.game_rushing_statistics	04hlp3	07dlq86
+cvg.musical_game_song_relationship	02vq9wl	067gh	0fq74z3
+location.location_symbol_relationship	02xry	04627dk
+cvg.musical_game_song_relationship	05cmg8	066kp	0464gkc
+american_football.player_passing_statistics	07ckdf	04y6_qr
+base.theosbornboysaregrowing.trip	0f67f	01kcnl	03qb78c	04dsscx	04f97th
+base.ontologies.ontology_instance_mapping	04dm2p_	04hzj
+american_football.game_passing_statistics	04q06_	075rsc8
+music.recording_contribution	01x2vtc	0l14md	05h18l
+film.dubbing_performance	02h40lc	02rc4d	042qsv	07y91g
+cvg.musical_game_song_relationship	03qjr_3	026kds	0fq74z3
+baseball.baseball_team_stats	041108x	01d5z
+cvg.musical_game_song_relationship	0lgcnr	026kds	04kbkd1
+tennis.tennis_match	03d0lb_	012xcl	0dmy5f
+cvg.musical_game_song_relationship	0bhc9h3	067gh	0642v9q
+tennis.tennis_match	0czb0m0	012xcl	06h_fy
+base.ontologies.ontology_instance_mapping	04dm2p_	0gyh
+tennis.tennis_match	09n70c	0l6c9	051q39
+cvg.musical_game_song_relationship	02r4z9_	067gh	025vn5m
+cvg.musical_game_song_relationship	05n973q	067gh	0642v9q
+american_football.game_rushing_statistics	07ynx2	07dlsc8
+cvg.musical_game_song_relationship	01d08g0	066kp	0464gkc
+base.petbreeds.dog_city_relationship	0khhs	0fvzg
+baseball.baseball_team_stats	02h7s15	0713r
+cvg.musical_game_song_relationship	075smp4	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0mlv3j	067gh	0fq74z3
+tennis.tennis_tournament_championship	062pwg	03wc52
+cvg.musical_game_song_relationship	05n9763	067gh	0464gkc
+cvg.musical_game_song_relationship	07n68_6	02plp2	0464gkc
+people.human_measurement	031974	0d1fsz3
+base.schemastaging.phone_sandbox	02h40lc	0598zp	07ssc	0pl4nlh
+cvg.musical_game_song_relationship	075w65l	02plp2	04kbkd1
+american_football.game_rushing_statistics	05zvv0f	09rl2kb
+tennis.tennis_tournament_championship	012xcl	0181j_
+tennis.tennis_match	0b3027	012xcl	02pk7tf
+baseball.baseball_team_stats	03d4p81	05lkwhs
+base.ontologies.ontology_instance_mapping	04dm2p_	0jjw
+cvg.musical_game_song_relationship	07csl2	067gh	0fq74z3
+american_football.game_rushing_statistics	022s5y	07945k0
+cvg.musical_game_song_relationship	0lgqpc	02plp2	04kbkd1
+american_football.game_passing_statistics	07v71t	0793_rz
+cvg.musical_game_song_relationship	07nt5b0	067gh	04kbkd1
+interests.collection	05r5c	04szw	0_ykllm
+baseball.baseball_team_stats	041110f	05nlyxv
+tennis.tennis_tournament_championship	04w70r	01g9_q
+baseball.baseball_team_stats	04111bt	05lkwhs
+film.film_film_distributor_relationship	03xq0f	064n1pz	07ssc
+cvg.musical_game_song_relationship	0lf2yh	02plp2	04kbkd1
+location.location_symbol_relationship	026mj	01yrt2
+tennis.tennis_tournament_championship	0l6c9	01ckb6
+baseball.baseball_team_stats	0411115	05nlyxv
+american_football.game_rushing_statistics	05txyj	07dlqbf
+baseball.baseball_team_stats	02h7sbd	01d5z
+american_football.game_rushing_statistics	033t8w	07dlpyw
+cvg.musical_game_song_relationship	0lgcq1	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	04vn5
+base.ontologies.ontology_instance_mapping	04dm2p_	03hrz
+american_football.game_rushing_statistics	095c1c	0791t3y
+sports.sports_team_roster	06rpd	026t25h
+base.ontologies.ontology_instance_mapping	04dm2p_	05qdh
+american_football.game_passing_statistics	04d4zv	07dlq86
+cvg.musical_game_song_relationship	048cw1	026kds	04kbkd1
+american_football.game_rushing_statistics	0cjcdj	07932dv
+cvg.musical_game_song_relationship	04nz0x	066kp	06ztwyd
+cvg.musical_game_song_relationship	02pwqg0	067gh	04kbkd1
+cvg.musical_game_song_relationship	05n97ml	026kds	06ztwyd
+cvg.game_performance	05dsx9	01x1wl	08glff
+american_football.game_rushing_statistics	02qw6y3	09rl2kb
+base.ontologies.ontology_instance_mapping	04dm2p_	04ty8
+base.schemastaging.phone_sandbox	05zjd	0rq6_dj	015fr	0pl4nkj
+film.film_regional_release_date	06qd3	0fq7dv_
+baseball.baseball_team_stats	02h7s52	06wpc
+american_football.game_rushing_statistics	05w0_k	07dlsng
+cvg.musical_game_song_relationship	019spgc	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0959hf	026kds	04kbkd1
+baseball.baseball_team_stats	02h7sd8	07l8x
+american_football.game_rushing_statistics	07v71t	07dltk2
+cvg.musical_game_song_relationship	06z8wm	067gh	0fq74z3
+cvg.musical_game_song_relationship	075w639	026kds	0fq74z3
+baseball.baseball_team_stats	03d4p81	05fc8c9
+cvg.musical_game_song_relationship	026lncs	067gh	0fq74z3
+cvg.musical_game_song_relationship	026lncs	026kds	04kbkd1
+film.dubbing_performance	02h40lc	03dd2l	08dz4r	091n7z
+baseball.baseball_team_stats	04110f5	01yhm
+cvg.musical_game_song_relationship	05n91t4	067gh	0464gkc
+cvg.musical_game_song_relationship	05ncswb	066kp	025vn5m
+cvg.musical_game_song_relationship	015_63z	067gh	04kbkd1
+baseball.batting_statistics	061xq	041110t	06hvy0
+american_football.game_rushing_statistics	0cx4kg	07dlpns
+music.track_contribution	0l14md	0869cm
+tennis.tennis_tournament_championship	062pbc	015y3w
+american_football.game_rushing_statistics	043nvfh	07dlspd
+baseball.baseball_team_stats	02h7s1t	06wpc
+cvg.musical_game_song_relationship	0y6ldw	067gh	0642v9q
+cvg.musical_game_song_relationship	075sm77	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0177z
+cvg.musical_game_song_relationship	0z3hbq	02plp2	0cnjm0
+cvg.musical_game_song_relationship	0mn3lt	026kds	04kbkd1
+baseball.baseball_team_stats	04110_p	01yhm
+american_football.game_passing_statistics	07bthc	07dlpyw
+base.popstra.religion_choice	0c8wxp	0336mc
+cvg.musical_game_song_relationship	015v5gb	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	06nm1	0q52p9g	09c7w0	0pl4nkj
+cvg.game_performance	02p_ls	01mx1l	03nlzw9
+cvg.musical_game_song_relationship	026mlj3	067gh	0fq74z3
+cvg.musical_game_song_relationship	0h4_93	026kds	0642v9q
+base.theosbornboysaregrowing.trip	0f2v0	0hhdb	03qb78c	04dssd2	04_c0tl
+american_football.game_rushing_statistics	03d13n8	07dlpjh
+fashion.clothing_size	01d40f	05r5w	09c7w0
+american_football.game_rushing_statistics	0265q8d	07dlpbs
+base.ontologies.ontology_instance_mapping	04dm2p_	088xp
+cvg.musical_game_song_relationship	05qp4q	067gh	0464gkc
+tennis.tennis_tournament_championship	0p58j	08vwl9
+baseball.baseball_team_stats	041110t	05nlyxv
+baseball.baseball_team_stats	02h7s3j	01yhm
+cvg.musical_game_song_relationship	028054l	026kds	0642v9q
+cvg.musical_game_song_relationship	01drs3v	02plp2	0464gkc
+tennis.tennis_tournament_championship	012xcl	08nl19
+cvg.musical_game_song_relationship	04bz52	067gh	0464gkc
+american_football.game_rushing_statistics	093lw4	0794qf4
+base.ontologies.ontology_instance_mapping	04dm2p_	0fkw3
+base.petbreeds.dog_city_relationship	0km5c	02dtg
+cvg.musical_game_song_relationship	0stphh	02plp2	027pg4k
+cvg.musical_game_song_relationship	014w88w	026kds	0fq74z3
+cvg.musical_game_song_relationship	05n97kb	066kp	06ztwyd
+base.schemastaging.phone_sandbox	02bjrlw	0qsc2_s	02j71	0pl4nlh
+cvg.musical_game_song_relationship	0lf2vw	02plp2	0fq74z3
+baseball.lifetime_batting_statistics	02rdnh	025ygqm	025ygqm	02h7s2l
+american_football.game_passing_statistics	02x6lw	07dls2m
+cvg.musical_game_song_relationship	0263041	02plp2	025vn5m
+american_football.game_passing_statistics	062qp9	09tmfvf
+cvg.musical_game_song_relationship	0rz2ks	026kds	0642v9q
+american_football.game_passing_statistics	027jv8	07dlqdr
+baseball.baseball_team_stats	02h7s1n	04wmvz
+american_football.game_rushing_statistics	043nvfh	07dlt9x
+film.film_regional_release_date	09c7w0	01cycq
+cvg.musical_game_song_relationship	05n921x	066kp	0464gkc
+american_football.game_passing_statistics	074l06	0791yhq
+base.schemastaging.phone_sandbox	06nm1	0d7pp	0jgd	0pl4nkj
+cvg.musical_game_song_relationship	0111bls	026kds	0fq74z3
+music.recording_contribution	01tq77z	0l14md	0jczf
+tennis.tennis_tournament_championship	04w70r	01b510
+base.petbreeds.dog_city_relationship	02cj3	02frhbc
+cvg.musical_game_song_relationship	0ptsdg	067gh	0fq74z3
+film.film_regional_release_date	030qb3t	0kgxf
+base.schemastaging.phone_sandbox	064_8sq	0rdx5mq	0d060g	0pl4nm4
+american_football.game_passing_statistics	05w0_k	0793m8b
+tennis.tennis_match	02ylr9	0mmmt	02bs4c
+tennis.tennis_match	03b7gw	062pyl	015z4j
+american_football.player_passing_statistics	0272kym	03gqdq7
+music.recording_contribution	06j8_1	02dlh2	01hktv2
+base.ontologies.ontology_instance_mapping	04dm2p_	04vmp
+american_football.game_rushing_statistics	04m2px	0792y1k
+cvg.musical_game_song_relationship	0c7xw8	067gh	0fq74z3
+cvg.musical_game_song_relationship	01dph3w	067gh	0fq74z3
+base.schemastaging.phone_sandbox	064_8sq	0pyt3h5	0d060g	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	03mcr3	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0mp4sr	026kds	04kbkd1
+baseball.baseball_team_stats	02h7sc5	06x68
+baseball.baseball_team_stats	02h7s52	061xq
+baseball.baseball_team_stats	02h7sb2	05ll5_5
+base.ontologies.ontology_instance_mapping	04dm2p_	050xd
+base.schemastaging.phone_sandbox	02h40lc	01rvgk	02j71	0pl4nkj
+fashion.clothing_size	06rrc	064wfz	09c7w0
+cvg.musical_game_song_relationship	0lmp4p	02plp2	0fq74z3
+tennis.tennis_tournament_championship	0p58j	05b0n6j
+base.ontologies.ontology_instance_mapping	04dm2p_	0859_
+baseball.baseball_team_stats	02qmmv6	05ll5_5
+cvg.musical_game_song_relationship	0vrvxd	067gh	0fq74z3
+cvg.musical_game_song_relationship	019spgc	026kds	04kbkd1
+tennis.tennis_match	02w7qc8	012xcl	03hh0w4
+cvg.musical_game_song_relationship	0s6pm4	02plp2	0fq74z3
+cvg.musical_game_song_relationship	01cw9x7	067gh	025vn5m
+tennis.tennis_tournament_championship	0l6c9	06q1kw
+base.theosbornboysaregrowing.trip	0lhn5	01jwjg	03qb78c	04d1j3z	04f97th
+cvg.musical_game_song_relationship	05nc432	026kds	025vn5m
+cvg.musical_game_song_relationship	04gm3fc	02plp2	06ztwyd
+baseball.baseball_team_stats	04111d9	01ypc
+tennis.tennis_match	02z39y1	012xcl	02z88kz
+cvg.musical_game_song_relationship	0dzqwn_	026kds	04kbkd1
+cvg.musical_game_song_relationship	0s5tl9	067gh	0fq74z3
+baseball.baseball_team_stats	05lqcjv	02zjfp
+cvg.musical_game_song_relationship	0471sn	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	01v8c
+baseball.baseball_team_stats	04111m9	05nlyxv
+cvg.musical_game_song_relationship	0gy913	026kds	04kbkd1
+cvg.musical_game_song_relationship	075sm71	026kds	04kbkd1
+music.recording_contribution	02r_cc	0_sv_90	01jgmpp
+american_football.game_passing_statistics	025j0c	0794871
+base.schemastaging.phone_sandbox	06nm1	0fxkpc	09c7w0	0pl4nm4
+cvg.musical_game_song_relationship	05h9dh	026kds	0642v9q
+baseball.baseball_team_stats	05lqw34	05kn7bw
+cvg.musical_game_song_relationship	0f2hvr	067gh	0642v9q
+baseball.baseball_team_stats	02h7s15	02__x
+cvg.musical_game_song_relationship	0x0l0c	02plp2	04kbkd1
+american_football.game_passing_statistics	04q06_	075rqry
+baseball.batting_statistics	0x2p	02h7s57	03n69x
+american_football.game_rushing_statistics	030bdd	07dlsg3
+baseball.baseball_team_stats	02h7sdf	01yhm
+film.dubbing_performance	02h40lc	04bb1n	02z5x7l	0g57zq
+base.schemastaging.phone_sandbox	02h40lc	09xbqh	0d060g	0pl4nm4
+baseball.baseball_team_stats	02h7s3j	01yjl
+american_football.game_rushing_statistics	019g65	0792vpw
+baseball.baseball_team_stats	02h7sdr	02d02
+base.petbreeds.dog_city_relationship	01k3tq	02j3w
+tennis.tennis_tournament_championship	0mmmt	05_pr_
+cvg.musical_game_song_relationship	05n90_v	026kds	0642v9q
+cvg.musical_game_song_relationship	0512m4	026kds	0642v9q
+baseball.baseball_team_stats	02h7r_y	05lkwhs
+base.ontologies.ontology_instance_mapping	04dm2p_	0k5j
+film.film_regional_release_date	07f1x	02wgk1
+cvg.musical_game_song_relationship	0lhx5s	02plp2	0fq74z3
+cvg.musical_game_song_relationship	04cvv5	067gh	0fq74z3
+cvg.musical_game_song_relationship	0gy913	067gh	04kbkd1
+cvg.musical_game_song_relationship	05n98gz	02plp2	06ztwyd
+cvg.musical_game_song_relationship	0cr_wt	066kp	025vn5m
+cvg.musical_game_song_relationship	01690d7	026kds	0fq74z3
+tv.regular_tv_appearance	09g_5r_	0p62d15	0w_g5zz	02rzdcp
+base.ontologies.ontology_instance_mapping	04dm2p_	0dw7n
+cvg.musical_game_song_relationship	04jpn45	02plp2	06ztwyd
+tennis.tennis_match	08nl19	0p58j	015z4j
+cvg.musical_game_song_relationship	075vptj	067gh	0fq74z3
+cvg.musical_game_song_relationship	0m3l4v	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lfhcr	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s6b	0713r
+american_football.game_rushing_statistics	025j0c	07949_q
+cvg.musical_game_song_relationship	0d_bzfw	026kds	0642v9q
+baseball.baseball_team_stats	02h7sd3	05xvj
+baseball.batting_statistics	06wpc	02h7s8p	02rdnh
+tennis.tennis_tournament_championship	0mmmt	01m3zh
+tennis.tennis_tournament_championship	085p0g	0bdr4z
+american_football.game_rushing_statistics	0746cp	07dlnqy
+location.location_symbol_relationship	04tgp	04g8vjx
+cvg.game_performance	05dsx9	07656	08glff
+cvg.musical_game_song_relationship	01f7cy_	026kds	0fq74z3
+baseball.baseball_team_stats	02h7s7r	05m_8
+baseball.baseball_team_stats	02h7s8c	01d6g
+cvg.musical_game_song_relationship	0263041	026kds	025vn5m
+cvg.musical_game_song_relationship	05n552k	026kds	0464gkc
+cvg.musical_game_song_relationship	0xb8f5	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0qm9vy	026kds	04kbkd1
+biology.breed_registration	016wkx	0ljl8	05781x
+base.schemastaging.phone_sandbox	06nm1	0rq6xdc	09c7w0	0pl4nkj
+base.petbreeds.dog_city_relationship	01llgk	0_vn7
+baseball.baseball_team_stats	02h7s3p	01yhm
+base.schemastaging.phone_sandbox	02h40lc	0rdx5mq	09c7w0	0pl4nkj
+american_football.game_rushing_statistics	04pwwd	07dlr5_
+base.schemastaging.phone_sandbox	02h40lc	01mf0	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0l0x_6	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0hb6g
+baseball.baseball_team_stats	02h7sc5	01yhm
+cvg.musical_game_song_relationship	0frp42p	026kds	0464gkc
+cvg.musical_game_song_relationship	07n74pr	02plp2	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	03f5vvx
+tennis.tennis_match	02vs996	012xcl	06zn7gy
+location.location_symbol_relationship	0vmt	04627gn
+base.ontologies.ontology_instance_mapping	04dm2p_	0frsw
+cvg.musical_game_song_relationship	04ghf9h	066kp	0464gkc
+cvg.musical_game_song_relationship	0w9_7g	02plp2	0fq74z3
+american_football.player_passing_statistics	02zh95	04y6_qr
+baseball.baseball_team_stats	02h7sd3	07147
+cvg.musical_game_song_relationship	0z9bvc	067gh	04kbkd1
+cvg.musical_game_song_relationship	075shb0	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0mggr5	02plp2	0fq74z3
+cvg.musical_game_song_relationship	05n983d	067gh	06ztwyd
+film.dubbing_performance	02h40lc	02pj26z	0cxf7c	0c70tb
+tennis.tennis_match	05b0n6j	0mmmt	02w8pmb
+film.dubbing_performance	02h40lc	0dthfr	0dh8v4	091n7z
+baseball.baseball_team_stats	02h7sct	049n7
+base.schemastaging.phone_sandbox	02h40lc	05r_j	0d060g	0pl4nkj
+cvg.musical_game_song_relationship	0270knw	067gh	025vn5m
+tennis.tennis_tournament_championship	0mmmt	03k195
+cvg.musical_game_song_relationship	05nbltm	066kp	025vn5m
+cvg.musical_game_song_relationship	07mq4dw	02plp2	04kbkd1
+american_football.game_rushing_statistics	07_c_f	07dlnmk
+music.recording_contribution	01r0t_j	0_sv_90	0bmz9p0
+cvg.musical_game_song_relationship	09zv67	026kds	0464gkc
+baseball.batting_statistics	06x68	04110yg	03kzrh
+cvg.musical_game_song_relationship	01d98md	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s7l	01yhm
+american_football.game_passing_statistics	019g65	0794fry
+cvg.musical_game_song_relationship	0783pr	067gh	06ztwyd
+cvg.musical_game_song_relationship	0qmdks	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0v3q38	067gh	0fq74z3
+cvg.musical_game_song_relationship	0133732	026kds	04kbkd1
+base.popstra.support	02q4kkz	01n5309
+music.track_contribution	0290ngj	015882
+base.petbreeds.dog_city_relationship	02kw9d	02cl1
+music.recording_contribution	0m67s	0342h	0m683
+base.schemastaging.phone_sandbox	04306rv	0qsc2_s	02j71	0pl4nkj
+baseball.lifetime_batting_statistics	02nf4k	03c6s24	03c6s24	05lqw34
+base.ontologies.ontology_instance_mapping	04dm2p_	055z7
+music.recording_contribution	05sny38	0290ngj	01rd6tq
+people.human_measurement	031974	0dgbflh
+cvg.musical_game_song_relationship	07kv8c3	026kds	0fq74z3
+baseball.baseball_team_stats	047nltd	05lkwhs
+cvg.musical_game_song_relationship	0mbq5l	067gh	04kbkd1
+american_football.game_rushing_statistics	0bhvrn	07dlv6_
+film.dubbing_performance	02h40lc	0nfkt3s	0gydfx	0bkpg4
+base.schemastaging.phone_sandbox	05zjd	0s81pw1	09c7w0	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	02lts	09c7w0	0pl4nlh
+cvg.musical_game_song_relationship	0md1n_	02plp2	0fq74z3
+cvg.musical_game_song_relationship	07tk58	026kds	0fq74z3
+base.popstra.religion_choice	0c8wxp	04gycf
+tennis.tennis_tournament_championship	062pxq	015z4j
+cvg.musical_game_song_relationship	0md1mp	067gh	04kbkd1
+cvg.musical_game_song_relationship	0cvfc2	026kds	04kbkd1
+cvg.musical_game_song_relationship	0zymps	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0cx4p
+baseball.baseball_team_stats	0411101	01yhm
+cvg.musical_game_song_relationship	07n68_6	066kp	0642v9q
+cvg.musical_game_song_relationship	04y375	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0nszvz	02plp2	0fq74z3
+american_football.game_passing_statistics	0cmld3	07929pq
+base.schemastaging.phone_sandbox	02h40lc	01_h5j	0chgr2	0pl4nm4
+american_football.game_passing_statistics	097hft	07dlstj
+cvg.musical_game_song_relationship	0lfpb1	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s1b	06x68
+tennis.tennis_tournament_championship	012xcl	016cff
+base.schemastaging.phone_sandbox	02h40lc	0273t5w	0d060g	0pl4nkj
+american_football.game_rushing_statistics	05txyj	0792h9t
+baseball.baseball_team_stats	02h7sbw	02d02
+tennis.tennis_tournament_championship	062psk	076gb_
+cvg.musical_game_song_relationship	0lf2yq	02plp2	04kbkd1
+sports.pro_sports_played	0jm_	02x6lw
+american_football.game_passing_statistics	04mmw5	07924rd
+cvg.musical_game_song_relationship	04f59tc	026kds	06ztwyd
+business.competitive_space_mediator	01hlwv	02wydsr	0d7pp
+base.schemastaging.phone_sandbox	02h40lc	05fjl2	0jhwd	0pl4nkj
+cvg.musical_game_song_relationship	07np5ng	067gh	0fq74z3
+tennis.tennis_match	047r1wh	012xcl	05zf7w
+american_football.game_rushing_statistics	04ljjn	07951ds
+baseball.baseball_team_stats	02h7s2l	0x2p
+american_football.game_rushing_statistics	027jv8	0792ktk
+base.schemastaging.phone_sandbox	02h40lc	0fxkpc	02j71	0pl4nkj
+tennis.tennis_match	0czb0m0	062psk	069d68
+cvg.musical_game_song_relationship	05n96tx	066kp	0464gkc
+cvg.musical_game_song_relationship	015kxlm	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0nhr8d	026kds	04kbkd1
+base.schemastaging.phone_sandbox	03k50	0s91j5w	0j1z8	0pl4nkj
+tennis.tennis_tournament_championship	0p58j	0b9y3d
+american_football.game_rushing_statistics	0f9958	0793g1m
+cvg.musical_game_song_relationship	02qccf	066kp	025vn5m
+cvg.musical_game_song_relationship	011cnlm	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	082pc
+tennis.tennis_tournament_championship	062psk	0575d1
+cvg.musical_game_song_relationship	03wp0bk	026kds	04kbkd1
+cvg.musical_game_song_relationship	013372w	026kds	04kbkd1
+baseball.baseball_team_stats	02h7sdr	04wmvz
+cvg.musical_game_song_relationship	0nbl5t	026kds	0fq74z3
+cvg.musical_game_song_relationship	075sgfg	026kds	04kbkd1
+tennis.tennis_tournament_championship	062psk	01ym2x
+cvg.musical_game_song_relationship	05n56p3	067gh	0464gkc
+cvg.musical_game_song_relationship	0qn5_r	02plp2	04kbkd1
+cvg.game_performance	01d7jb	01mx1l	03nlzw9
+cvg.musical_game_song_relationship	05n98j0	066kp	0642v9q
+cvg.musical_game_song_relationship	011zgmr	067gh	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	02xqq	018hr_	0pl4nkj
+baseball.baseball_team_stats	02h7s3j	049n7
+cvg.musical_game_song_relationship	0lj13h	026kds	0fq74z3
+baseball.baseball_team_stats	04111bf	01yhm
+baseball.baseball_team_stats	02h7s81	05kmnv1
+cvg.musical_game_song_relationship	075w_z1	02plp2	0fq74z3
+tennis.tennis_match	09gj98	084qcy	016cff
+tennis.tennis_match	02w9mk4	062pbc	051q39
+baseball.baseball_team_stats	02h7s9g	0713r
+cvg.musical_game_song_relationship	0h03jz	026kds	025vn5m
+american_football.game_rushing_statistics	021h8y	0793hpk
+cvg.musical_game_song_relationship	0c9my1	067gh	05n03yl
+film.film_regional_release_date	0d060g	0bmkksm
+base.schemastaging.phone_sandbox	02h40lc	05k4k	0chgr2	0pl4nm4
+baseball.baseball_team_stats	02h7sd8	049n7
+baseball.baseball_team_stats	0411101	01ypc
+american_football.player_passing_statistics	07l8mg	04y6_qr
+american_football.game_rushing_statistics	04q06_	07dlp3q
+location.location_symbol_relationship	0hjy	04627dk
+cvg.musical_game_song_relationship	0ngh1y	02plp2	0fq74z3
+cvg.musical_game_song_relationship	075wsgz	02plp2	0fq74z3
+cvg.musical_game_song_relationship	01f7cy_	067gh	04kbkd1
+cvg.musical_game_song_relationship	0dy0sz	026kds	06ztwyd
+music.recording_contribution	02x0j_	0c0n9v9	0fr4dfp
+music.group_membership	0342h	03gnkg	0p8h0
+cvg.musical_game_song_relationship	0lnt9g	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0kc6
+tennis.tennis_tournament_championship	0p58j	02x014z
+american_football.game_passing_statistics	046bjz	07dlvct
+base.ontologies.ontology_instance_mapping	04dm2p_	07yg2
+baseball.batting_statistics	01d5z	02qmmv6	02nf4k
+cvg.musical_game_song_relationship	047fw1	066kp	0cnjm0
+cvg.musical_game_song_relationship	0lfg_q	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	09bdh1	07ssc	0pl4nm4
+baseball.baseball_team_stats	02h7s23	05xvj
+cvg.musical_game_song_relationship	0gfhj0	026kds	04kbkd1
+music.track_contribution	05r5c	0127gn
+baseball.baseball_team_stats	02h7s02	05ll5_5
+cvg.game_performance	064ldsd	01x1wl	08glff
+cvg.musical_game_song_relationship	01f7ck2	026kds	04kbkd1
+baseball.lifetime_batting_statistics	08cvl8	02h7s6b	02h7s6b	02h7s0k
+cvg.musical_game_song_relationship	098bqv	02plp2	04kbkd1
+base.petbreeds.dog_city_relationship	01xtxb	0f2rq
+cvg.musical_game_song_relationship	071df7	067gh	04kbkd1
+cvg.musical_game_song_relationship	05n91mx	026kds	0464gkc
+cvg.musical_game_song_relationship	0lnxc0	02plp2	04kbkd1
+tennis.tennis_tournament_championship	0l6c9	09nj1x
+tennis.tennis_match	031gr8	062pwg	01ym2x
+baseball.baseball_team_stats	04111ck	042v_h4
+base.petbreeds.dog_city_relationship	02cj3	02cl1
+base.ontologies.ontology_instance_mapping	04dm2p_	052p7
+baseball.baseball_team_stats	02h7rz_	061xq
+tennis.tennis_match	05rp1k	062pxq	015z4j
+cvg.musical_game_song_relationship	05n91mx	026kds	080_2k
+baseball.baseball_team_stats	05kcgsf	0713r
+baseball.baseball_team_stats	05lqnbt	03sn07
+baseball.baseball_team_stats	02h7scb	05ll5_5
+cvg.musical_game_song_relationship	0110_06	02plp2	04kbkd1
+cvg.musical_game_song_relationship	05n98gz	02plp2	0464gkc
+american_football.game_rushing_statistics	05v9rg	0792_9t
+cvg.musical_game_song_relationship	01y4j_	026kds	04kbkd1
+baseball.batting_statistics	061xq	02h7s78	02gbv0
+cvg.musical_game_song_relationship	0m38fb	067gh	0fq74z3
+music.track_contribution	0290ngj	0nhp_jr
+film.film_regional_release_date	0345h	057jdv
+cvg.musical_game_song_relationship	0797rd9	067gh	04kbkd1
+cvg.musical_game_song_relationship	075sm77	026kds	04kbkd1
+tennis.tennis_match	0c4247t	012xcl	07k8t6
+cvg.musical_game_song_relationship	01cz4nq	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lhn3f	067gh	0fq74z3
+tennis.tennis_match	02w7qlh	012xcl	0ds58nt
+tennis.tennis_match	01my95	0mmmt	051q39
+cvg.musical_game_song_relationship	0dyqww	026kds	025vn5m
+tennis.tennis_match	03w6g1	0l6c9	0hdr
+american_football.game_passing_statistics	0cjcdj	07dlq2y
+cvg.musical_game_song_relationship	0lf9kx	02x8rd	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	081yw
+american_football.game_rushing_statistics	03b8gw	07dlrm1
+cvg.musical_game_song_relationship	027hn5t	02plp2	027pg4k
+music.track_contribution	0290ngj	01dw_f
+cvg.musical_game_song_relationship	05n84pb	067gh	0fq74z3
+cvg.musical_game_song_relationship	0dxm362	02plp2	04kbkd1
+baseball.batting_statistics	049n7	02h7s57	0f4h86
+american_football.game_rushing_statistics	02qwr64	07dlqrb
+cvg.musical_game_song_relationship	05n84pb	02plp2	0fq74z3
+tennis.tennis_tournament_championship	0p58j	03k5n6
+baseball.batting_statistics	05ll5_5	04110y2	07w93h
+american_football.player_passing_statistics	07bthc	04y6_qr
+american_football.game_rushing_statistics	026t25h	07dlnmk
+cvg.musical_game_song_relationship	02xkph	026kds	04kbkd1
+tennis.tennis_tournament_championship	02qh6lz	03wc52
+tennis.tennis_match	0cmcpdd	012xcl	02rw96r
+american_football.game_rushing_statistics	02qwkw2	07dln_g
+tennis.tennis_tournament_championship	062pbc	0hdr
+cvg.game_performance	02q8x4x	01x1wl	08glff
+cvg.musical_game_song_relationship	0ddpqs	02plp2	0fq74z3
+american_football.game_rushing_statistics	027jv8	0792hnp
+baseball.baseball_team_stats	02qmmv6	01ypc
+base.ontologies.ontology_instance_mapping	04dm2p_	01v1v
+cvg.musical_game_song_relationship	0123pxj	026kds	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	0sg85fj	052bw	0pl4nkj
+cvg.musical_game_song_relationship	05n98yt	066kp	0464gkc
+film.dubbing_performance	02h40lc	071wdr	0hyn_vz	0bkpg4
+sports.sports_team_roster	01yjl	07q_9x
+cvg.musical_game_song_relationship	0ljlhg	026kds	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	03xks	0gyh	0pl4nm4
+american_football.game_passing_statistics	03tt0_	07dlpds
+base.ontologies.ontology_instance_mapping	04dm2p_	07n3s
+tennis.tennis_match	063ynts	0mmmt	0ds58nt
+baseball.baseball_team_stats	02h7s78	05g76
+cvg.musical_game_song_relationship	05n9081	066kp	06ztwyd
+cvg.musical_game_song_relationship	0dl0qt	02plp2	0fq74z3
+american_football.game_rushing_statistics	02qwkw2	0792181
+cvg.musical_game_song_relationship	0h4_93	02plp2	06ztwyd
+baseball.baseball_team_stats	03wfgdh	061xq
+baseball.baseball_team_stats	02h7s57	01yjl
+base.schemastaging.phone_sandbox	06nm1	015p1m	09c7w0	0pl4nlv
+base.ontologies.ontology_instance_mapping	04dm2p_	05dbf
+cvg.musical_game_song_relationship	074fzm	067gh	04f17kv
+american_football.game_passing_statistics	0cw15s	0792wtq
+cvg.musical_game_song_relationship	012sqj6	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7sd3	01d5z
+base.petbreeds.dog_city_relationship	0khhs	02hrh0_
+tennis.tennis_match	06h_fy	012xcl	09g8zpt
+cvg.musical_game_song_relationship	07mq4jt	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7s86	03m1n
+tennis.tennis_tournament_championship	0mmmt	06_247
+cvg.musical_game_song_relationship	069lq1	02plp2	025vn5m
+american_football.game_rushing_statistics	07fgn7	07dlmnv
+base.petbreeds.dog_city_relationship	01k3tq	04f_d
+baseball.batting_statistics	01ypc	027pwzc	018l20
+base.ontologies.ontology_instance_mapping	04dm2p_	03h2c
+baseball.baseball_team_stats	02h7s81	05g76
+base.ontologies.ontology_instance_mapping	04dm2p_	01s81
+american_football.game_rushing_statistics	0cw15s	07931qv
+cvg.musical_game_song_relationship	0bb4dch	02plp2	0fq74z3
+fashion.clothing_size	06rrc	01pk8v	09c7w0
+cvg.game_performance	07xxp9	01rk30	0bjm05
+baseball.baseball_team_stats	04111ck	0cqt41
+cvg.musical_game_song_relationship	0vgp44	02plp2	04kbkd1
+american_football.game_passing_statistics	019g65	0792vpw
+cvg.musical_game_song_relationship	0471sn	02x8rd	04kbkd1
+music.recording_contribution	01wk97t	0c0n9v9	03cnt0
+baseball.baseball_team_stats	05lqkf2	02zjfp
+cvg.musical_game_song_relationship	01243s	02plp2	06ztwyd
+music.recording_contribution	02r_cc	0_sv_90	01jgmtb
+people.marriage	03d_w3h	03gh4
+american_football.game_rushing_statistics	0c8sqz	075rs5t
+baseball.baseball_team_stats	02h7sbq	01slc
+baseball.baseball_team_stats	04111ly	0cqt41
+cvg.musical_game_song_relationship	07kv8c3	02plp2	04kbkd1
+american_football.game_rushing_statistics	05v9rg	07dlmr6
+base.schemastaging.phone_sandbox	064_8sq	0sg7p_p	0d060g	0pl4nkj
+cvg.musical_game_song_relationship	06z8wm	067gh	0464gkc
+american_football.game_rushing_statistics	03h5kf7	07dlt0y
+tennis.tennis_tournament_championship	0l6c9	03xyp_
+baseball.baseball_team_stats	02h7s7r	061xq
+cvg.musical_game_song_relationship	0s9ppp	026kds	027pg4k
+base.schemastaging.phone_sandbox	02h40lc	01rvgk	0chghy	0pl4nkj
+tennis.tennis_match	0kt66z	012xcl	0ddcm56
+base.petbreeds.dog_city_relationship	0km5c	0f2r6
+cvg.musical_game_song_relationship	01f7cs2	026kds	04kbkd1
+baseball.baseball_team_stats	0411115	061xq
+american_football.player_passing_statistics	027jv8	03gqdq7
+american_football.game_passing_statistics	027jv8	07925lf
+american_football.player_passing_statistics	033t8w	04y6_qr
+american_football.game_rushing_statistics	03hgggd	07dln7n
+base.schemastaging.phone_sandbox	05zjd	0fxkpc	05r4w	0pl4nkj
+american_football.player_passing_statistics	05vls2	03gqdq7
+cvg.musical_game_song_relationship	0ntxvd	026kds	0464gkc
+cvg.musical_game_song_relationship	0nzbfm	026kds	04kbkd1
+cvg.musical_game_song_relationship	0_my5y	067gh	04kbkd1
+people.marriage	06vsbt	01n7q
+tennis.tennis_tournament_championship	0mmmt	01jg46
+baseball.baseball_team_stats	025ygws	049n7
+american_football.game_passing_statistics	05txyj	07dlq86
+tennis.tennis_match	0dzs62	012xcl	0bbv546
+tennis.tennis_tournament_championship	0mmmt	06q1kw
+cvg.musical_game_song_relationship	05n84lt	02plp2	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	03chr7	09c7w0	0pl4nkj
+baseball.baseball_team_stats	02h7sbd	05kmnv1
+cvg.musical_game_song_relationship	03mdf51	026kds	027pg4k
+tennis.tennis_tournament_championship	062psk	09n70c
+tennis.tennis_tournament_championship	062pyl	01my95
+tennis.tennis_match	07gz8m	012xcl	0jwyq2x
+tennis.tennis_tournament_championship	062pbc	06_247
+cvg.musical_game_song_relationship	03w5tq	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7s73	05lkwhs
+baseball.baseball_team_stats	02h7s4g	04xg_4p
+cvg.musical_game_song_relationship	05n9763	02plp2	06ztwyd
+film.dubbing_performance	02h40lc	07ps5c	02vw1w2	0c458q
+cvg.musical_game_song_relationship	0h4_93	026kds	06ztwyd
+tennis.tennis_tournament_championship	0mmmt	01sj6j
+cvg.musical_game_song_relationship	0lrx58	067gh	0fq74z3
+american_football.game_rushing_statistics	05yj_0	0792h4x
+cvg.musical_game_song_relationship	0np_c7	067gh	0fq74z3
+cvg.musical_game_song_relationship	0psk4p	067gh	04kbkd1
+tennis.tennis_match	0b3027	012xcl	059nrl
+cvg.musical_game_song_relationship	0mfxgx	02plp2	0464gkc
+cvg.musical_game_song_relationship	019xs5r	026kds	04kbkd1
+music.recording_contribution	050z2	0l14qv	01hmp39
+music.track_contribution	0342h	01w2b1p
+baseball.lifetime_batting_statistics	02rnc1h	02h7s2f	02h7s2f	02h7sfp
+american_football.game_rushing_statistics	04hlp3	07dlmyz
+base.theosbornboysaregrowing.trip	0lhn5	01h_1n	03qb78c	04d1j3z	04f9pnt
+baseball.baseball_team_stats	05lqwn5	01d6g
+american_football.game_rushing_statistics	04ljjn	07939h0
+cvg.musical_game_song_relationship	04gvv9_	067gh	0464gkc
+base.petbreeds.dog_city_relationship	01s7fj	07bcn
+baseball.baseball_team_stats	02h7s15	01yhm
+music.recording_contribution	01wkvt3	0c0n9v9	01qvpzw
+base.ontologies.ontology_instance_mapping	04dm2p_	0hkq4
+cvg.musical_game_song_relationship	0psk40	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0b41h
+baseball.baseball_team_stats	04110rh	06x68
+baseball.baseball_team_stats	02h7sd3	061xq
+american_football.player_passing_statistics	0bmps_	04y6_qr
+baseball.baseball_team_stats	04110rh	01slc
+cvg.musical_game_song_relationship	05n921x	067gh	0464gkc
+baseball.baseball_team_stats	02h7s02	01yhm
+base.ontologies.ontology_instance_mapping	04dm2p_	04ykg
+film.film_regional_release_date	07ssc	0gm1qfc
+tennis.tennis_match	021x9g	085p0g	01my95
+base.petbreeds.dog_city_relationship	01xtxb	0rh6k
+cvg.musical_game_song_relationship	05nmqv	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	09c7w0	0pl4nm4
+american_football.game_rushing_statistics	02zh95	0791q1s
+american_football.game_rushing_statistics	03h308s	07dlp2g
+music.recording_contribution	04zb3d	0290ngj	01r6glb
+location.location_symbol_relationship	04rrx	04627dk
+american_football.game_rushing_statistics	027fcy	0791pf0
+base.schemastaging.phone_sandbox	02h40lc	0sg9r2q	03rt9	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0bys4z	09c7w0	0pl4nkj
+baseball.baseball_team_stats	05kcgsf	061xq
+music.recording_contribution	065jx5	0l14md	04b__2
+music.recording_contribution	01tq77z	0l14md	014qzc
+base.schemastaging.phone_sandbox	02h40lc	015p1m	07ssc	0pl4nlh
+film.dubbing_performance	02h40lc	026th36	026pf6t	0ng1ndt
+music.recording_contribution	0pk41	0_sv_90	04c029
+tennis.tennis_match	05rp1k	062pyl	063ynts
+american_football.player_passing_statistics	0cmld3	04y6_qr
+music.group_membership	0290ngj	0dw3l	0_h1jzc
+tennis.tennis_tournament_championship	062pbc	03pf0c
+music.recording_contribution	0g4yv37	0290ngj	0g4yv3x
+american_football.game_rushing_statistics	074l06	07924x2
+american_football.game_rushing_statistics	091qw1	07dlsry
+tennis.tennis_tournament_championship	0p58j	06dqw8
+cvg.musical_game_song_relationship	05nctfn	066kp	025vn5m
+american_football.game_passing_statistics	04mmw5	07dls2m
+base.schemastaging.phone_sandbox	09bnf	0d7pp	03rk0	0pl4nkj
+american_football.game_rushing_statistics	093lw4	07dlt2j
+baseball.baseball_team_stats	02h7s3j	03m1n
+american_football.game_rushing_statistics	043ljlz	07dlv3k
+people.human_measurement	05czrtz	01pctb
+baseball.baseball_team_stats	02h7s1b	01yhm
+american_football.game_passing_statistics	05w0_k	07dlssm
+tennis.tennis_tournament_championship	012xcl	03bjrp
+american_football.game_rushing_statistics	095c1c	0791w6f
+base.schemastaging.phone_sandbox	02h40lc	0bccy	0gyh	0pl4nm4
+cvg.musical_game_song_relationship	0czkkl	067gh	0fq74z3
+american_football.player_passing_statistics	03k7k8	04y6_qr
+cvg.musical_game_song_relationship	0vrvxd	026kds	04kbkd1
+cvg.musical_game_song_relationship	075vqph	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lfpdg	026kds	0642v9q
+cvg.musical_game_song_relationship	05n9l1l	026kds	025vn5m
+baseball.baseball_team_stats	0dx84s	01ync
+american_football.game_rushing_statistics	07y_ft	07dlp4m
+tennis.tennis_tournament_championship	0g6vzd	05rp3d
+music.track_contribution	0290ngj	0cbkc
+base.schemastaging.phone_sandbox	06nm1	0pyrg_5	0d060g	0pl4nkj
+baseball.baseball_team_stats	04111b1	05lkwhs
+music.recording_contribution	01np_dx	0l14qv	02pxf6m
+cvg.musical_game_song_relationship	0lf9kx	02plp2	0fq74z3
+tennis.tennis_match	047sc8k	012xcl	03hnrgz
+film.dubbing_performance	02h40lc	068k36	027l7sg	05zl9t6
+music.recording_contribution	050z2	0l14qv	01hmq8n
+baseball.baseball_team_stats	047t_wf	05kn7bw
+cvg.musical_game_song_relationship	01f7cqs	026kds	04kbkd1
+cvg.musical_game_song_relationship	016pwpv	02plp2	04kbkd1
+baseball.baseball_team_stats	025ygws	03m1n
+cvg.musical_game_song_relationship	01c4zc2	026kds	04kbkd1
+american_football.game_passing_statistics	06cx7p	0793_rz
+tennis.tennis_tournament_championship	012xcl	06pljw
+cvg.musical_game_song_relationship	0_k62v	026kds	0fq74z3
+film.film_regional_release_date	09c7w0	02vxq9m
+cvg.musical_game_song_relationship	0lzr9_	02plp2	0fq74z3
+cvg.musical_game_song_relationship	07mq4k8	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0j749
+cvg.musical_game_song_relationship	0nft9n	026kds	04kbkd1
+cvg.musical_game_song_relationship	019xs5r	02plp2	0fq74z3
+base.theosbornboysaregrowing.trip	0vg8j	01kcnl	03qb78c	04d1j3z	04j6583
+tv.regular_tv_appearance	06vsbt	02scb95	0j5jx15	02rzdcp
+base.ontologies.ontology_instance_mapping	04dm2p_	06rpd
+base.ontologies.ontology_instance_mapping	04dm2p_	07f1x
+base.ontologies.ontology_instance_mapping	04dm2p_	03lrc
+base.petbreeds.dog_city_relationship	0km3f	01smm
+tennis.tennis_match	0cxjrp	012xcl	05t18k
+american_football.game_rushing_statistics	05yj_0	0792wtq
+american_football.game_rushing_statistics	0cwhxj	0792fh5
+people.human_measurement	06_kbr	0dgcphk
+american_football.game_rushing_statistics	05w109	07dlmn1
+film.dubbing_performance	02h40lc	0dthfr	026pf6t	091n7z
+baseball.baseball_team_stats	02h7s7l	01ypc
+cvg.musical_game_song_relationship	09d_xs	067gh	0464gkc
+tennis.tennis_match	06jt3x	012xcl	02z76bx
+baseball.baseball_team_stats	047nltd	05kn9ws
+base.schemastaging.phone_sandbox	02h40lc	032t7j	0j5g9	0pl4nkj
+film.dubbing_performance	02h40lc	07tqjt	05t0zfv	0fh1xk
+tennis.tennis_match	02q7lnf	012xcl	03hh0w4
+american_football.game_rushing_statistics	05txyj	07dlq2y
+tennis.tennis_match	05zr8l9	012xcl	0cc8835
+base.schemastaging.phone_sandbox	02h40lc	0pyrhmg	0d060g	0pl4nkj
+cvg.musical_game_song_relationship	05nbvsw	066kp	025vn5m
+cvg.musical_game_song_relationship	013srq3	026kds	04kbkd1
+tennis.tennis_tournament_championship	0mmmt	016cff
+baseball.baseball_team_stats	04110tn	05lkwhs
+cvg.musical_game_song_relationship	05v596z	026kds	04kbkd1
+american_football.game_rushing_statistics	0cw15s	0792wtq
+american_football.game_passing_statistics	05cw4l	0791zf6
+music.recording_contribution	01vs_1_	0l14md	02pxf6m
+base.ontologies.ontology_instance_mapping	04dm2p_	07t65
+cvg.musical_game_song_relationship	05nbm9y	026kds	025vn5m
+base.schemastaging.phone_sandbox	064_8sq	015p1m	02j71	0pl4nkj
+tennis.tennis_match	05h2799	0mmmt	069d68
+baseball.baseball_team_stats	02h7s2l	05kmnv1
+film.dubbing_performance	02h40lc	02ht69	05dfy_	02q1q1_
+base.popstra.religion_choice	0c8wxp	01cwhp
+film.film_film_distributor_relationship	03xq0f	0brzsb1	07ssc
+cvg.musical_game_song_relationship	075sm6z	026kds	0fq74z3
+base.theosbornboysaregrowing.trip	0l1pj	04_c1q0	03qb78c	04dssd2	04j14pr
+cvg.musical_game_song_relationship	090g6h	067gh	0464gkc
+cvg.musical_game_song_relationship	09d_xs	02plp2	04kbkd1
+tennis.tennis_tournament_championship	062pbc	015z4j
+baseball.baseball_team_stats	047nltd	05nlyxv
+music.recording_contribution	08hg7g	02dlh2	0d4f00
+american_football.game_rushing_statistics	04njl2	0791p46
+cvg.musical_game_song_relationship	05n91vv	066kp	06ztwyd
+tennis.tennis_tournament_championship	0p58j	03w5_w
+american_football.game_rushing_statistics	04hlp3	07dlqbf
+cvg.musical_game_song_relationship	0mbq5l	067gh	0fq74z3
+baseball.baseball_team_stats	02h7sbq	04mjl
+cvg.musical_game_song_relationship	0m4f02	02plp2	025vn5m
+american_football.game_rushing_statistics	022s5y	0793zf8
+tennis.tennis_match	031mcp	0p58j	069d71
+music.recording_contribution	01vszv9	0l14md	01knf48
+baseball.baseball_team_stats	041111k	061xq
+people.human_measurement	031974	0gv1_v
+tennis.tennis_match	0dlnjss	012xcl	0dzs62
+cvg.musical_game_song_relationship	03w5tq	026kds	0fq74z3
+tennis.tennis_tournament_championship	012xcl	01vzqp
+american_football.game_rushing_statistics	0c8sqz	07dlpk5
+baseball.baseball_team_stats	02h7s78	01ypc
+base.schemastaging.phone_sandbox	02bjrlw	0ryrb_t	03rjj	0pl4nkj
+cvg.musical_game_song_relationship	0x4kw6	02plp2	027pg4k
+tennis.tennis_match	0dl46b	012xcl	04jf3zv
+cvg.musical_game_song_relationship	0464_68	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	068cn
+american_football.game_rushing_statistics	08z7bw	0791zxs
+american_football.game_passing_statistics	097hft	0792ml7
+cvg.musical_game_song_relationship	075w_ww	067gh	04kbkd1
+cvg.musical_game_song_relationship	025tmps	026kds	027pg4k
+american_football.game_rushing_statistics	02x6lw	07927gm
+american_football.game_rushing_statistics	03c2r_7	07dlqm9
+cvg.musical_game_song_relationship	0y5g70	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lpnsj	067gh	04kbkd1
+cvg.musical_game_song_relationship	0m4vrk	067gh	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	019z7b	0694j	0pl4nm4
+tennis.tennis_match	09gl097	0mmmt	051q39
+american_football.game_rushing_statistics	0b2v1q	0792vhk
+cvg.musical_game_song_relationship	0dgqjl	02plp2	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0109_flk	02j71	0pl4nkj
+cvg.musical_game_song_relationship	01f34k7	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	06710
+cvg.musical_game_song_relationship	0m_bxd	067gh	04kbkd1
+base.popstra.religion_choice	0c8wxp	0d3k14
+cvg.musical_game_song_relationship	05ncsbs	02plp2	025vn5m
+baseball.batting_statistics	06x68	02h7sfp	08dzx4
+cvg.musical_game_song_relationship	0111bls	067gh	0fq74z3
+baseball.baseball_team_stats	02h7s2f	05kmnv1
+american_football.game_rushing_statistics	04ljjn	0794699
+american_football.game_rushing_statistics	02x6lw	0793fq_
+cvg.musical_game_song_relationship	0z69bk	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0rv03c	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	09zsgs	09c7w0	0pl4nkj
+tennis.tennis_match	069d71	012xcl	03cp_nq
+american_football.game_rushing_statistics	03cy5lk	07dlnkb
+cvg.musical_game_song_relationship	0mp4sr	067gh	0fq74z3
+cvg.musical_game_song_relationship	014rnzb	066kp	080_2k
+cvg.musical_game_song_relationship	0cc4r4	02plp2	025vn5m
+baseball.baseball_team_stats	04111ly	01slc
+music.recording_contribution	01wwxbr	0l14md	01hvn39
+american_football.game_rushing_statistics	09dw5j	07dltnw
+base.represent.agent_celebrity_representation	03vxbj	06dk0p
+tennis.tennis_tournament_championship	062pbc	08nl19
+baseball.baseball_team_stats	05lqlth	05lrgfk
+american_football.game_rushing_statistics	074l06	07dlmh1
+tennis.tennis_match	03cnk74	012xcl	06tc62
+baseball.baseball_team_stats	041108x	05nlyxv
+cvg.game_performance	07xxp9	01mx1l	040qk3
+film.dubbing_performance	02h40lc	027gblr	0dh8v4	0dccw0
+music.recording_contribution	0bcyht	0290ngj	0j6wnsp
+american_football.game_rushing_statistics	02qw6y3	075rs5t
+base.schemastaging.phone_sandbox	01jb8r	0d7pp	05v8c	0pl4nkj
+baseball.baseball_team_stats	02h7s57	07l4z
+base.ontologies.ontology_instance_mapping	04dm2p_	03k3r
+film.film_regional_release_date	06qd3	0bt4g
+cvg.musical_game_song_relationship	02pq86h	026kds	0fq74z3
+people.marriage	057hz	02_286
+american_football.game_rushing_statistics	0cjcdj	07dlrgx
+baseball.baseball_team_stats	027mvrc	01ypc
+film.dubbing_performance	02h40lc	0hqg9ry	0dh8v4	05zkqcy
+base.popstra.product_choice	027lnzs	0blt6
+base.petbreeds.dog_city_relationship	01t032	02hrh0_
+cvg.musical_game_song_relationship	0nctg2	02plp2	0fq74z3
+baseball.batting_statistics	01d5z	04111m9	04kc8x
+cvg.musical_game_song_relationship	0nft9n	026kds	0642v9q
+tennis.tennis_match	0835d1	012xcl	0dddzl1
+cvg.musical_game_song_relationship	015r_nb	026kds	0fq74z3
+american_football.game_rushing_statistics	05k0kp	07dlnmk
+tv.regular_tv_appearance	0gd_b_	080792g	0c69rrz	02rzdcp
+baseball.baseball_team_stats	05lq759	05lrgfk
+tennis.tennis_match	0ds58nt	0mmmt	03qjqlf
+cvg.musical_game_song_relationship	08gp9t	026kds	0464gkc
+cvg.musical_game_song_relationship	0f4q5x_	067gh	04kbkd1
+american_football.game_rushing_statistics	0464v5	07dlqmx
+cvg.musical_game_song_relationship	02qccf	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	02xx5
+film.film_film_distributor_relationship	04mkft	02vyyl8	0cq_2nv
+american_football.game_passing_statistics	07l8mg	07dlqqf
+base.ontologies.ontology_instance_mapping	04dm2p_	07twz
+cvg.musical_game_song_relationship	0xf21f	02plp2	0642v9q
+cvg.musical_game_song_relationship	04d_pjd	026kds	0464gkc
+base.schemastaging.phone_sandbox	064_8sq	04wyr	02kw88	0pl4nkj
+baseball.baseball_team_stats	02h7s2f	061xq
+base.ontologies.ontology_instance_mapping	04dm2p_	07bwr
+baseball.baseball_team_stats	04110t8	05nlyxv
+film.dubbing_performance	02h40lc	0ndv08y	055gwx	07jf6t
+tennis.tennis_match	07kd3v1	012xcl	0dm9j4
+cvg.musical_game_song_relationship	0n5z24	026kds	0fq74z3
+american_football.game_passing_statistics	02qxmd6	0792_wh
+cvg.musical_game_song_relationship	0ntxvd	067gh	06ztwyd
+cvg.musical_game_song_relationship	0lncs_	02plp2	0fq74z3
+american_football.game_rushing_statistics	0bnks5	0792_5w
+tennis.tennis_match	05q676f	012xcl	0j9lyr8
+baseball.baseball_team_stats	02h7sct	05g76
+american_football.game_rushing_statistics	07_c_f	07dlp5y
+cvg.musical_game_song_relationship	02xkph	026kds	0fq74z3
+baseball.baseball_team_stats	04110rw	01d5z
+baseball.baseball_team_stats	0411129	02d02
+cvg.musical_game_song_relationship	0ds2d7	067gh	025vn5m
+film.dubbing_performance	02h40lc	0875hc	02vw1w2	0b_w5j
+tennis.tennis_match	031hgj	0g6vzd	0dm9j4
+tennis.tennis_tournament_championship	0l6c9	06q3tw
+film.film_regional_release_date	0345h	0jz2p
+cvg.musical_game_song_relationship	0c1mv3	066kp	0642v9q
+cvg.musical_game_song_relationship	09gglj	066kp	0464gkc
+american_football.game_rushing_statistics	02qw6y3	07dlt0y
+base.ontologies.ontology_instance_mapping	04dm2p_	06wpc
+cvg.musical_game_song_relationship	0dzqwn_	026kds	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	0pxmj5b	09c7w0	0pl4nkj
+tennis.tennis_match	02vzhtg	062pyl	051q39
+cvg.musical_game_song_relationship	0ngh1y	067gh	0fq74z3
+baseball.baseball_team_stats	02h7s07	0cqt41
+baseball.baseball_team_stats	02h7r_9	051vz
+sports.sports_team_roster	06rpd	043q534
+tv.regular_tv_appearance	048q6x	04kr61v	0c69rrz	02rzdcp
+cvg.musical_game_song_relationship	087bht	02plp2	0fq74z3
+american_football.game_rushing_statistics	04mxlcj	079371d
+cvg.musical_game_song_relationship	01drs3m	067gh	04kbkd1
+music.group_membership	0342h	02qv_9g	014_lq
+people.marriage	0h6ks2h	0f2v0
+tennis.tennis_tournament_championship	062pbc	01b510
+baseball.baseball_team_stats	04110b0	0cqt41
+cvg.musical_game_song_relationship	05n946d	067gh	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	05x_5
+location.location_symbol_relationship	05k7sb	04627dk
+cvg.musical_game_song_relationship	0chxm9	026kds	0fq74z3
+base.petbreeds.dog_city_relationship	01xtxb	013yq
+baseball.baseball_team_stats	02h7s2l	051wf
+american_football.game_passing_statistics	04d4zv	07dlngv
+baseball.baseball_team_stats	02h7s78	051vz
+tennis.tennis_tournament_championship	084qcy	016cff
+base.ontologies.ontology_instance_mapping	04dm2p_	06gh9
+baseball.baseball_team_stats	02h7sd3	01ypc
+cvg.musical_game_song_relationship	0lx4bp	067gh	0fq74z3
+cvg.musical_game_song_relationship	03c9nn9	066kp	0464gkc
+cvg.musical_game_song_relationship	0c9my1	026kds	04kbkd1
+cvg.musical_game_song_relationship	04f43fp	026kds	04kbkd1
+cvg.musical_game_song_relationship	09d_xs	067gh	04kbkd1
+base.theosbornboysaregrowing.trip	0f67f	06z6r	03qb78c	04d1j3z	04j6583
+tennis.tennis_match	02qzkdv	012xcl	06148c
+cvg.musical_game_song_relationship	07sftt	066kp	025vn5m
+american_football.game_rushing_statistics	0bnks5	0792_wh
+baseball.batting_statistics	061xq	02h7r_9	058rsb
+cvg.musical_game_song_relationship	018yqqj	067gh	04kbkd1
+cvg.musical_game_song_relationship	013372w	067gh	04kbkd1
+cvg.musical_game_song_relationship	07ql41	067gh	04kbkd1
+american_football.game_passing_statistics	02x6lw	07dlsd7
+tennis.tennis_tournament_championship	012xcl	05rp3d
+cvg.musical_game_song_relationship	0zm63j	026kds	0fq74z3
+cvg.musical_game_song_relationship	025sd6q	067gh	025vn5m
+cvg.musical_game_song_relationship	07mq4jz	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lmj8h	067gh	0464gkc
+people.human_measurement	031974	0dgdwz_
+baseball.baseball_team_stats	041108j	03wzpvl
+american_football.game_passing_statistics	097hft	0792v6q
+cvg.musical_game_song_relationship	0lf2w9	026kds	04kbkd1
+baseball.baseball_team_stats	02h7s15	01yjl
+baseball.baseball_team_stats	02h7s73	01slc
+base.represent.agent_celebrity_representation	076ltd	06dk0p
+cvg.musical_game_song_relationship	0nzbfm	067gh	04kbkd1
+tennis.tennis_match	0bbv546	012xcl	09n70c
+american_football.game_rushing_statistics	04jj47d	07dlqgd
+american_football.game_rushing_statistics	0746cp	07dlp83
+american_football.game_rushing_statistics	07v71t	07dlsd7
+cvg.musical_game_song_relationship	06yhbb	067gh	0464gkc
+baseball.baseball_team_stats	041109n	05lkwhs
+cvg.musical_game_song_relationship	05n95sg	066kp	0464gkc
+music.recording_contribution	0j1yf	0290ngj	0wdt4p0
+film.dubbing_performance	02h40lc	074qkg	0k0hw2q	06_6j3
+cvg.musical_game_song_relationship	0mh7cg	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	03s7h
+baseball.baseball_team_stats	04110b0	01d5z
+film.dubbing_performance	02h40lc	02sp46	03gyvwg	094zvg
+tennis.tennis_match	05zkbxm	012xcl	02rgqsl
+cvg.musical_game_song_relationship	07n685w	067gh	0642v9q
+cvg.musical_game_song_relationship	0_pxsr	026kds	04kbkd1
+cvg.musical_game_song_relationship	0z9bvc	02plp2	04kbkd1
+baseball.baseball_team_stats	025ygqm	01yhm
+american_football.game_rushing_statistics	0746cp	0791yhq
+american_football.game_rushing_statistics	05txyj	0792fst
+tennis.tennis_tournament_championship	0l6c9	0825b1
+music.track_contribution	0342h	0n48rxx
+base.schemastaging.phone_sandbox	02h40lc	0352k1	0chghy	0pl4nlh
+cvg.musical_game_song_relationship	05n9042	02plp2	06ztwyd
+tennis.tennis_match	047s5q4	012xcl	02w3812
+american_football.game_rushing_statistics	02w3v66	07dlt48
+tennis.tennis_match	063ynts	0mmmt	063ynts
+baseball.baseball_team_stats	02h7s7r	07147
+baseball.baseball_team_stats	04110_p	042v_h4
+base.schemastaging.phone_sandbox	02h40lc	01mf0	0d060g	0pl4nkj
+music.recording_contribution	01tmnnv	0l14md	05q65lz
+cvg.musical_game_song_relationship	07t5_1_	026kds	025vn5m
+architecture.occupancy	081sq	02mjmr
+cvg.musical_game_song_relationship	02vq9wl	067gh	03x_n7k
+cvg.musical_game_song_relationship	0lgtls	067gh	027pg4k
+film.film_film_distributor_relationship	03xq0f	05c46y6	07ssc
+american_football.game_rushing_statistics	05zxqgp	07dlr5_
+base.ontologies.ontology_instance_mapping	04dm2p_	04g8d
+music.recording_contribution	01tq77z	02dlh2	04b__2
+american_football.game_rushing_statistics	027fcy	07dlmyz
+cvg.musical_game_song_relationship	06hb7x	026kds	0fq74z3
+cvg.musical_game_song_relationship	075sh9n	026kds	0fq74z3
+film.film_regional_release_date	059j2	0f4m2z
+baseball.baseball_team_stats	027pwzc	01yhm
+base.ontologies.ontology_instance_mapping	04dm2p_	040cf
+american_football.game_rushing_statistics	04lgz0	07923h6
+film.dubbing_performance	02h40lc	0bf5ysp	0bh72t	0gps4j
+tennis.tennis_tournament_championship	04n057n	03qjqlf
+tennis.tennis_match	0bbv546	062psk	051q39
+baseball.baseball_team_stats	02h7s3p	0x2p
+base.schemastaging.phone_sandbox	02h40lc	0s81qjv	02j9z	0pl4nkj
+music.recording_contribution	0dnxdt	02dlh2	04101k
+american_football.game_rushing_statistics	0cz6kk	0791ys4
+american_football.game_rushing_statistics	0cx2qq	0791nzv
+american_football.game_passing_statistics	033t8w	07929pq
+base.schemastaging.phone_sandbox	02h40lc	09zsgs	04rrx	0pl4nm4
+music.recording_contribution	01wxvqd	0c0n9v9	01r1wqm
+base.theosbornboysaregrowing.trip	0f67f	03y4l3	03qb78c	04dssd2	04f97th
+american_football.game_rushing_statistics	02623bz	07947tb
+baseball.baseball_team_stats	02h7s81	049n7
+base.schemastaging.phone_sandbox	03_9r	01vdm0	03_3d	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0fxkpc	09c7w0	0pl4nm4
+cvg.musical_game_song_relationship	0djhxs	02plp2	0464gkc
+cvg.musical_game_song_relationship	0lhn61	026kds	0fq74z3
+baseball.baseball_team_stats	041109n	01d5z
+base.ontologies.ontology_instance_mapping	04dm2p_	0jmmn
+american_football.game_passing_statistics	08gf9t	07dlppz
+cvg.musical_game_song_relationship	0xt2rk	026kds	04kbkd1
+american_football.game_rushing_statistics	03d753s	07dlqxx
+cvg.game_performance	07tf0w	01x1wl	08glff
+base.schemastaging.phone_sandbox	02h40lc	01mw2x	0d060g	0pl4nkj
+american_football.player_passing_statistics	04q06_	04y6_qr
+baseball.baseball_team_stats	0411115	05ll5_5
+cvg.musical_game_song_relationship	0lfkhb	026kds	0642v9q
+cvg.musical_game_song_relationship	06n49d	067gh	0464gkc
+base.petbreeds.dog_city_relationship	06pq2r	0f2s6
+cvg.musical_game_song_relationship	0fckq_	026kds	0464gkc
+american_football.game_rushing_statistics	05223lq	07dlqdr
+baseball.baseball_team_stats	02h7s78	01yjl
+cvg.musical_game_song_relationship	06zhkz	02plp2	04kbkd1
+american_football.game_passing_statistics	097hft	0792vpw
+american_football.game_rushing_statistics	05w0_k	07dlshz
+base.schemastaging.phone_sandbox	02h40lc	02h400t	01n7q	0pl4nm4
+base.schemastaging.phone_sandbox	064_8sq	015p1m	06mzp	0pl4nkj
+baseball.baseball_team_stats	02h7r_9	0x2p
+baseball.baseball_team_stats	02h7s5k	06wpc
+american_football.game_rushing_statistics	07fgn7	07dlrnr
+cvg.musical_game_song_relationship	07mq4dk	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7s86	05g76
+baseball.baseball_team_stats	03c6s24	01yjl
+base.schemastaging.phone_sandbox	02h40lc	0sgb7q5	0d060g	0pl4nkj
+tennis.tennis_match	0bbv546	0mmmt	01my95
+fashion.clothing_size	06rrc	0p869	09c7w0
+american_football.game_passing_statistics	05txyj	07929vd
+tennis.tennis_tournament_championship	062pbc	0825c4
+cvg.musical_game_song_relationship	0xt2sn	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lmyy7	067gh	04kbkd1
+american_football.game_rushing_statistics	027dqmw	079254x
+people.marriage	083q7	0rh6k
+baseball.baseball_team_stats	02h7sch	0cqt41
+base.ontologies.ontology_instance_mapping	04dm2p_	05d82
+cvg.musical_game_song_relationship	0m665r	026kds	0fq74z3
+american_football.game_rushing_statistics	05zvv0f	07dlv6_
+tennis.tennis_tournament_championship	0p58j	069d71
+american_football.game_passing_statistics	025j0c	0793g1m
+baseball.baseball_team_stats	02h7s8c	05g76
+american_football.game_rushing_statistics	03c2r_7	07dlq3r
+cvg.musical_game_song_relationship	011cnl5	067gh	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	07t31
+location.location_symbol_relationship	05fhy	04627gn
+american_football.game_rushing_statistics	07fgn7	0792tz_
+american_football.game_rushing_statistics	05txyj	0792fc1
+base.schemastaging.phone_sandbox	02h40lc	05k4k	0chghy	0pl4nm4
+american_football.game_rushing_statistics	05223lq	07dlqc2
+baseball.baseball_team_stats	05lqwr4	05kn7bw
+american_football.game_rushing_statistics	0265q8d	07dlspd
+film.dubbing_performance	02h40lc	0127pstj	055crg	03jmmn
+music.track_contribution	0342h	01wlcr3
+baseball.historical_coaching_tenure	03kzrh	01d5z	0fht58
+american_football.player_passing_statistics	04nt9g	03gqdq7
+american_football.game_rushing_statistics	09dw5j	07945t4
+baseball.baseball_team_stats	025ygws	01ypc
+tennis.tennis_match	01ckb6	0mmmt	03w6g1
+american_football.player_passing_statistics	05krlm	03gqdq7
+location.location_symbol_relationship	059_c	04627dk
+cvg.musical_game_song_relationship	0n26hf	02plp2	0fq74z3
+location.location_symbol_relationship	01n7q	04627gn
+american_football.game_rushing_statistics	046bjz	07dlvfs
+cvg.musical_game_song_relationship	05nctmk	02plp2	025vn5m
+baseball.baseball_team_stats	05lqr69	02zjfp
+american_football.game_rushing_statistics	05zm0fj	07dlqmx
+baseball.baseball_team_stats	02h7rz_	05g76
+cvg.musical_game_song_relationship	0p8qnt	067gh	0fq74z3
+tennis.tennis_tournament_championship	084qcy	06m6fl
+baseball.baseball_team_stats	02h7sc5	05lkwhs
+cvg.musical_game_song_relationship	0l1rzg	067gh	064rc66
+american_football.game_rushing_statistics	08vwtr	07dlqqf
+cvg.musical_game_song_relationship	0lfyh0	067gh	0fq74z3
+american_football.game_rushing_statistics	05yj_0	07dlp_1
+cvg.musical_game_song_relationship	0xt2sn	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	021wy4	09c7w0	0pl4nm4
+baseball.baseball_team_stats	041108x	06x68
+cvg.musical_game_song_relationship	01f7bk4	026kds	04kbkd1
+baseball.baseball_team_stats	02h7sd8	0713r
+base.schemastaging.phone_sandbox	02h40lc	0b2t42	02j71	0pl4nkj
+baseball.lifetime_batting_statistics	0217vg	05kcgsf	05kcgsf	04111lk
+cvg.musical_game_song_relationship	07n64g	026kds	04kbkd1
+cvg.musical_game_song_relationship	074fzm	067gh	0464gkc
+tennis.tennis_tournament_championship	012xcl	01vdpl
+base.ontologies.ontology_instance_mapping	04dm2p_	0jq56
+base.schemastaging.phone_sandbox	0459q4	010fn9qs	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	075zcnv	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lzr6q	067gh	0fq74z3
+american_football.game_rushing_statistics	04ljjn	07dlt03
+cvg.musical_game_song_relationship	0fr09db	02plp2	04kbkd1
+music.track_contribution	0290ngj	03f7m4h
+cvg.musical_game_song_relationship	027943m	026kds	04kbkd1
+cvg.musical_game_song_relationship	04cvv5	02plp2	0fq74z3
+cvg.musical_game_song_relationship	013bj07	026kds	04kbkd1
+cvg.musical_game_song_relationship	025v04w	067gh	0642v9q
+tennis.tennis_match	0270f6s	012xcl	03cp_nq
+cvg.musical_game_song_relationship	0tp6sq	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	02gqxg	0vmt	0pl4nkj
+tennis.tennis_tournament_championship	0l6c9	06vjq4
+american_football.game_rushing_statistics	05dcr4	0791wxm
+tennis.tennis_tournament_championship	0p58j	0281b7_
+baseball.baseball_team_stats	02h7s1b	04mjl
+baseball.baseball_team_stats	02h7s7r	05xvj
+baseball.baseball_team_stats	02h7s8p	06x68
+cvg.musical_game_song_relationship	015sdzg	026kds	0fq74z3
+film.film_regional_release_date	07ssc	0372j5
+american_football.game_rushing_statistics	091qw1	07dlshz
+baseball.baseball_team_stats	02h7sch	05m_8
+tennis.tennis_match	02vxz5s	0mmmt	069d71
+sports.sports_league_draft_pick	04pwwd	05x_5	01y3v	05vsb7
+american_football.game_rushing_statistics	04yc_pf	07dlmh1
+cvg.musical_game_song_relationship	08n14j	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	04v6v
+cvg.musical_game_song_relationship	0z9bt1	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0djhxs	026kds	0fq74z3
+music.recording_contribution	05sny38	0342h	01rd6tq
+baseball.baseball_team_stats	05kcgsf	01d6g
+cvg.musical_game_song_relationship	02pq819	026kds	0fq74z3
+baseball.baseball_team_stats	02h7s8c	04mjl
+cvg.musical_game_song_relationship	0xt2rk	02plp2	0fq74z3
+tennis.tennis_match	03421p	085p0g	04d7qf
+baseball.baseball_team_stats	04110yg	02d02
+american_football.player_passing_statistics	0gnb8t	04y6_qr
+cvg.musical_game_song_relationship	016yw7k	026kds	04kbkd1
+american_football.game_passing_statistics	05txyj	07dlqbf
+cvg.musical_game_song_relationship	01dnq5w	066kp	0464gkc
+baseball.baseball_team_stats	02h7sch	06wpc
+cvg.musical_game_song_relationship	0lrx58	067gh	04kbkd1
+tennis.tennis_tournament_championship	0l6c9	08nl19
+base.theosbornboysaregrowing.trip	0vg8j	01h_1n	03qb78c	04dssd2	04f97t9
+tennis.tennis_tournament_championship	0mmmt	069fcw
+music.track_contribution	0290ngj	01vt5n_
+baseball.lifetime_batting_statistics	0f4h86	025ygws	025ygws	02h7s86
+baseball.baseball_team_stats	04111c5	01yjl
+cvg.musical_game_song_relationship	0dvdws0	067gh	0fq74z3
+base.petbreeds.dog_city_relationship	01llgk	0dclg
+cvg.musical_game_song_relationship	04bz52	02plp2	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	0c_y8
+cvg.musical_game_song_relationship	0ymlhh	067gh	04kbkd1
+cvg.musical_game_song_relationship	0rshf6	067gh	0fq74z3
+tennis.tennis_match	0g53p5j	012xcl	063ynts
+cvg.musical_game_song_relationship	09rs__	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lmhk9	026kds	04kbkd1
+music.recording_contribution	05902g7	0l14md	02rnv1c
+baseball.baseball_team_stats	04110sm	03wzpvl
+tennis.tennis_tournament_championship	0p58j	04zkmf
+film.dubbing_performance	02h40lc	025yg6g	026q3s3	066l3y
+base.schemastaging.phone_sandbox	03k50	0273t5w	04vmp	0pl4nkj
+american_football.game_rushing_statistics	03h5kf7	075rrwh
+baseball.baseball_team_stats	025ygqm	0cqt41
+base.schemastaging.phone_sandbox	02h40lc	0sg7p_p	09c7w0	0pl4nkj
+baseball.batting_statistics	02d02	02h7sb2	06gv9j
+baseball.baseball_team_stats	04110lg	061xq
+cvg.musical_game_song_relationship	0lrmlr	067gh	0fq74z3
+cvg.musical_game_song_relationship	0m38fb	067gh	04kbkd1
+cvg.musical_game_song_relationship	07np74_	026kds	0642v9q
+american_football.game_rushing_statistics	065lzw	07dlpyw
+american_football.game_rushing_statistics	05dcr4	0791w6f
+base.schemastaging.phone_sandbox	02h40lc	0q52p0k	09c7w0	0pl4nkj
+film.film_regional_release_date	09c7w0	0n42hvp
+music.recording_contribution	07r4c	0_sv_90	0jczf
+american_football.game_rushing_statistics	05zvv0f	07dlqm9
+baseball.baseball_team_stats	026fmqm	0512p
+american_football.game_rushing_statistics	05w0_k	07925rv
+base.ontologies.ontology_instance_mapping	04dm2p_	0cmpn
+tennis.tennis_tournament_championship	084qcy	03qlf8v
+baseball.baseball_team_stats	05lqxcx	01638t
+tennis.tennis_tournament_championship	062pbc	05sy8
+cvg.musical_game_song_relationship	0412kxr	02plp2	0464gkc
+baseball.baseball_team_stats	04111ck	02d02
+base.ontologies.ontology_instance_mapping	04dm2p_	081sq
+cvg.musical_game_song_relationship	0llz38	067gh	04kbkd1
+baseball.baseball_team_stats	02h7sdf	051wf
+tennis.tennis_match	02xjlj	062psk	01ym2x
+american_football.game_rushing_statistics	08xbfn	0791tw4
+aviation.airline_airport_presence	0947l	08ttpy	01z80n
+american_football.player_passing_statistics	097yk7	04y6_qr
+american_football.game_passing_statistics	0cv72h	0791y81
+music.recording_contribution	01wyp27	0l14md	04c029
+film.dubbing_performance	02h40lc	0b89bl	07ghv5	0dfxt3
+tennis.tennis_tournament_championship	085p0g	06tbzd
+american_football.game_rushing_statistics	026chnm	0793g1m
+tennis.tennis_tournament_championship	0mmmt	02z3b_2
+american_football.game_passing_statistics	09z4fb	07dlrcv
+film.film_regional_release_date	03rt9	0296vv
+american_football.game_rushing_statistics	065lzw	07dlpxz
+cvg.musical_game_song_relationship	0pfv52	067gh	0fq74z3
+tennis.tennis_tournament_championship	012xcl	05y08t
+baseball.baseball_team_stats	02h7s86	0713r
+location.location_symbol_relationship	07srw	04627gn
+cvg.musical_game_song_relationship	0ncblz	067gh	04kbkd1
+music.recording_contribution	0398nr	0c0n9v9	01qdd4_
+american_football.game_rushing_statistics	01z8wp	0791ppc
+base.ontologies.ontology_instance_mapping	04dm2p_	0dymr
+base.ontologies.ontology_instance_mapping	04dm2p_	07dfk
+american_football.game_passing_statistics	04pwwd	0793sfm
+base.schemastaging.phone_sandbox	02h40lc	043rhmg	07ssc	0pl4nmy
+baseball.baseball_team_stats	04110t8	05knd46
+cvg.musical_game_song_relationship	09z70z	066kp	06ztwyd
+american_football.game_rushing_statistics	04m4kj	0793hpk
+american_football.game_rushing_statistics	043mhm7	07dlmyz
+cvg.musical_game_song_relationship	01c7j7h	067gh	0fq74z3
+american_football.game_passing_statistics	03k7k8	07dlt9x
+cvg.musical_game_song_relationship	06dlyz	066kp	06ztwyd
+music.recording_contribution	05sny38	0290ngj	05sny6t
+tennis.tennis_match	063_797	012xcl	06w9723
+cvg.musical_game_song_relationship	01bxztw	067gh	0642v9q
+american_football.game_rushing_statistics	097hft	07dlswb
+film.dubbing_performance	02h40lc	0h5wn5v	0fhnh2	0cwf_x
+cvg.musical_game_song_relationship	0744vt	02plp2	04kbkd1
+american_football.game_passing_statistics	097hft	07dlt2j
+tennis.tennis_tournament_championship	0p58j	08nl6j
+cvg.musical_game_song_relationship	0lfpdg	026kds	0fq74z3
+tennis.tennis_match	06vbnj	012xcl	07k8t6
+film.film_film_distributor_relationship	06jntd	0295sy	0cq_2nv
+cvg.musical_game_song_relationship	075w_z1	026kds	0fq74z3
+cvg.musical_game_song_relationship	04f43fp	02plp2	06ztwyd
+base.petbreeds.dog_city_relationship	01nw62	03l2n
+american_football.player_passing_statistics	04nprb	04y6_qr
+baseball.baseball_team_stats	02h7sb2	01yhm
+music.recording_contribution	053y0s	0l14qv	04101k
+cvg.musical_game_song_relationship	0lf9nr	067gh	03x_n7k
+cvg.musical_game_song_relationship	075w695	02plp2	0fq74z3
+cvg.musical_game_song_relationship	04256_	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	03_9r	03c3vj4	03_3d	0pl4nkj
+music.track_contribution	05r5c	0nh9xw3
+baseball.baseball_team_stats	03c6sl9	07147
+baseball.batting_statistics	061xq	05m2x6r	02sbl4
+tennis.tennis_match	02vzhtg	0l6c9	02pmq18
+cvg.musical_game_song_relationship	017q6wg	02x8rd	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0834r
+tennis.tennis_match	08mjqg	012xcl	03wc52
+film.dubbing_performance	02h40lc	037b28	07927k	08r1f6
+baseball.baseball_team_stats	04110t8	05xvj
+cvg.musical_game_song_relationship	090kp1	02plp2	0fq74z3
+cvg.musical_game_song_relationship	07b9771	026kds	04kbkd1
+cvg.musical_game_song_relationship	0s6plq	02plp2	04kbkd1
+base.popstra.support	04mjl	04cr6qv
+cvg.musical_game_song_relationship	03w5tq	026kds	0464gkc
+american_football.game_passing_statistics	025j0c	0794pv0
+baseball.baseball_team_stats	05lqlth	04pgwk
+cvg.musical_game_song_relationship	0ry95_	02plp2	04kbkd1
+baseball.baseball_team_stats	05lqw34	0264nf9
+american_football.game_rushing_statistics	0b2kft	07922m2
+baseball.baseball_team_stats	02h7sd8	0x2p
+baseball.batting_statistics	04xg_4p	02h7s23	0d4fj0
+american_football.game_passing_statistics	0cv72h	0791x_r
+base.schemastaging.phone_sandbox	064_8sq	0qsc2_s	02j71	0pl4nkj
+baseball.baseball_team_stats	02wxr1w	042v_h4
+cvg.musical_game_song_relationship	01c4zcr	067gh	0fq74z3
+baseball.baseball_team_stats	04111cy	01yhm
+baseball.baseball_team_stats	02h7s0q	01slc
+music.recording_contribution	01wzbxy	0l14md	02rj4gh
+cvg.musical_game_song_relationship	05n56p3	066kp	0464gkc
+american_football.game_passing_statistics	04d4zv	07dlqm9
+cvg.musical_game_song_relationship	0l_1gm	067gh	0642v9q
+american_football.game_passing_statistics	025j0c	07dlv6_
+baseball.baseball_team_stats	02h7s36	049n7
+tv.regular_tv_appearance	09btt1	04n3wml	04llnmy	02rzdcp
+cvg.musical_game_song_relationship	0lgcnr	026kds	0fq74z3
+baseball.baseball_team_stats	02h7s3p	051wf
+baseball.baseball_team_stats	02h7sdl	01d5z
+cvg.musical_game_song_relationship	0dy0sz	067gh	0642v9q
+american_football.game_rushing_statistics	05w0_k	0793b4v
+base.schemastaging.phone_sandbox	02h40lc	02h400t	09c7w0	0pl4nmy
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	0chghy	0pl4nlh
+baseball.batting_statistics	01d5z	047t_wf	0cbv1p
+american_football.game_passing_statistics	0cwlgg	07dlnjk
+american_football.player_passing_statistics	0cw15s	03gqdq7
+baseball.baseball_team_stats	047t_wf	05lkwhs
+base.schemastaging.phone_sandbox	064_8sq	0cnz82z	0d060g	0pl4nm4
+cvg.musical_game_song_relationship	05n91mx	026kds	06ztwyd
+cvg.musical_game_song_relationship	027cbrt	066kp	0464gkc
+baseball.baseball_team_stats	03c6r8q	06x68
+cvg.musical_game_song_relationship	05n9081	02plp2	06ztwyd
+tennis.tennis_tournament_championship	0mmmt	02x014z
+base.schemastaging.phone_sandbox	02h40lc	0sg85fj	07ssc	0pl4nkj
+cvg.musical_game_song_relationship	04cx_qs	026kds	0464gkc
+baseball.baseball_team_stats	041108j	05ll5_5
+cvg.musical_game_song_relationship	0cszsh	067gh	0fq74z3
+cvg.musical_game_song_relationship	0crcbz	026kds	027pg4k
+tennis.tennis_tournament_championship	0p58j	0j26hwg
+american_football.game_rushing_statistics	0cx2qq	07dln0d
+american_football.game_rushing_statistics	07v71t	07dls_7
+tennis.tennis_match	02wx7qk	025_2gr	0gpsg4
+american_football.game_rushing_statistics	04wmq8	07dlsng
+american_football.game_rushing_statistics	05k0kp	0791nzv
+cvg.musical_game_song_relationship	07mq4jz	026kds	04kbkd1
+baseball.baseball_team_stats	0411115	06x68
+baseball.baseball_team_stats	04110r3	01d5z
+base.schemastaging.phone_sandbox	02h40lc	0352k1	0chghy	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0pyq4s8	0hzlz	0pl4nlh
+baseball.baseball_team_stats	02h7s4s	0713r
+american_football.game_rushing_statistics	02q_kcw	0794ygq
+baseball.baseball_team_stats	025ygqm	0x2p
+tennis.tennis_match	0gpsg4	012xcl	04gp1mg
+film.dubbing_performance	02h40lc	0ngkkr5	051xbpj	0cb5dm
+cvg.musical_game_song_relationship	04bz52	02plp2	0642v9q
+film.dubbing_performance	02h40lc	0301s7	05qjzc	01pgmn
+base.schemastaging.phone_sandbox	02bv9	0qj5wgd	02j71	0pl4nkj
+baseball.baseball_team_stats	05lq8yz	03sn07
+baseball.baseball_team_stats	02wxq71	05lkwhs
+people.human_measurement	031974	080k25
+cvg.musical_game_song_relationship	075vptj	02plp2	0fq74z3
+american_football.game_passing_statistics	04nprb	07dlqm9
+cvg.musical_game_song_relationship	0llnhy	067gh	04kbkd1
+american_football.game_rushing_statistics	05101_	0792kl6
+american_football.game_rushing_statistics	0b2v1q	0792z78
+base.ontologies.ontology_instance_mapping	04dm2p_	0138t
+tennis.tennis_tournament_championship	012xcl	0dl46b
+base.schemastaging.phone_sandbox	02h40lc	02qvly	0chghy	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0s81qk0	02j9z	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0qs2_qq	07ssc	0pl4nkj
+cvg.musical_game_song_relationship	0g27kd	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0277g
+cvg.musical_game_song_relationship	07n68k3	02plp2	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	01zwy
+baseball.batting_statistics	01yhm	02h7s31	03hqym
+baseball.baseball_team_stats	04110y2	06x68
+tennis.tennis_tournament_championship	0l6c9	06tdk1
+base.schemastaging.phone_sandbox	01gp_d	0352k1	02j71	0pl4nkj
+base.ontologies.ontology_instance_mapping	04dm2p_	0cr3d
+people.human_measurement	06_kbr	02x4zz2
+baseball.baseball_team_stats	04110tn	06x68
+tennis.tennis_tournament_championship	0l6c9	06vfrq
+tennis.tennis_tournament_championship	062psk	04zkmf
+tennis.tennis_match	02vxz5s	0p58j	05b0n6j
+base.schemastaging.phone_sandbox	02h40lc	0qs1q05	01_9dh	0pl4nkj
+baseball.baseball_team_stats	02h7scb	01yhm
+cvg.musical_game_song_relationship	0msk9j	067gh	0fq74z3
+baseball.baseball_team_stats	05lqnbt	05kn9mk
+people.human_measurement	031974	0dfxrm6
+base.schemastaging.phone_sandbox	02h40lc	015p1m	0h7h6	0pl4nkj
+cvg.musical_game_song_relationship	0ldd1f	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0jd05
+base.ontologies.ontology_instance_mapping	04dm2p_	03j6c
+cvg.musical_game_song_relationship	03m97y9	02plp2	0642v9q
+cvg.musical_game_song_relationship	0lhn5d	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7sbq	05g76
+cvg.musical_game_song_relationship	03wj5rq	026kds	06ztwyd
+music.group_membership	05r5c	01t8x6	016k_c
+american_football.game_rushing_statistics	05txyj	07dlq60
+base.schemastaging.phone_sandbox	02h40lc	05rsv2	07ssc	0t4tr1y
+baseball.baseball_team_stats	027mvrc	01slc
+cvg.musical_game_song_relationship	01bch8q	067gh	04kbkd1
+american_football.game_rushing_statistics	03m5wq3	07dlrb3
+american_football.game_passing_statistics	0464v5	07920tc
+cvg.musical_game_song_relationship	021f1m	066kp	0464gkc
+cvg.musical_game_song_relationship	05zxwb7	026kds	04kbkd1
+cvg.musical_game_song_relationship	01f7cs2	02plp2	0fq74z3
+american_football.game_rushing_statistics	08hp9z	0792627
+cvg.musical_game_song_relationship	0yc77y	067gh	0fq74z3
+cvg.musical_game_song_relationship	05n9042	026kds	06ztwyd
+base.petbreeds.dog_city_relationship	0km3f	0fvzg
+tennis.tennis_tournament_championship	0p58j	051q39
+american_football.game_rushing_statistics	02z5l63	0793zf8
+base.schemastaging.phone_sandbox	02h40lc	03xks	0d060g	0pl4nkj
+cvg.musical_game_song_relationship	01d98md	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	05qkp
+base.ontologies.ontology_instance_mapping	04dm2p_	06qd3
+tennis.tennis_match	0c7dg1	012xcl	02vxz41
+music.track_contribution	0290ngj	01309x
+base.ontologies.ontology_instance_mapping	04dm2p_	07bs0
+american_football.game_rushing_statistics	03c87rb	0792kl6
+base.ontologies.ontology_instance_mapping	04dm2p_	04szw
+base.ontologies.ontology_instance_mapping	04dm2p_	04hqz
+american_football.game_rushing_statistics	06m553	0793g1m
+tennis.tennis_tournament_championship	084qcy	0g2s0k
+cvg.musical_game_song_relationship	07nt5dw	02plp2	0fq74z3
+tennis.tennis_match	016cff	012xcl	0jwyq2x
+american_football.player_passing_statistics	04nh_c	03gqdq7
+american_football.game_rushing_statistics	03b8gw	0791lp1
+base.petbreeds.dog_city_relationship	01k3tq	0d35y
+cvg.musical_game_song_relationship	0lf9mw	026kds	0fq74z3
+tennis.tennis_match	0ds3tfq	012xcl	0czb0m0
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	03h64	0pl4nkj
+business.competitive_space_mediator	01kqjn	02wydsr	0d7pp
+tennis.tennis_match	023q7x	0mmmt	0kscqz
+film.dubbing_performance	02h40lc	0409pl	02rkmkl	0fps52
+cvg.musical_game_song_relationship	0lfyh0	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	062z7
+cvg.musical_game_song_relationship	03b_hdy	026kds	04kbkd1
+music.recording_contribution	02mx98	0l14md	038dlf
+cvg.musical_game_song_relationship	05n96tx	026kds	06ztwyd
+cvg.musical_game_song_relationship	049dx1	02plp2	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0sg9r2q	059j2	0pl4nkj
+baseball.baseball_team_stats	041112p	05ll5_5
+base.ontologies.ontology_instance_mapping	04dm2p_	0j210
+cvg.musical_game_song_relationship	08gp9t	067gh	0464gkc
+american_football.game_passing_statistics	05wc_w	07951ds
+cvg.musical_game_song_relationship	0s9ppp	02plp2	027pg4k
+baseball.baseball_team_stats	02h7sch	05xvj
+base.ontologies.ontology_instance_mapping	04dm2p_	08854
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	0d7k1z	0pl4nm4
+american_football.game_rushing_statistics	02qxmd6	0791y_d
+american_football.game_rushing_statistics	03d4lw7	07dln_g
+film.dubbing_performance	02h40lc	0ndv08y	05926j	07jf6t
+american_football.game_rushing_statistics	04nprb	0791p46
+cvg.musical_game_song_relationship	04rpmd	026kds	04kbkd1
+cvg.musical_game_song_relationship	015_63z	067gh	0fq74z3
+cvg.musical_game_song_relationship	07mq4d7	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	0cz8t9q	0bmgknx	09pmkv	0pl4nm4
+baseball.batting_statistics	05xvj	05lqv88	074jhy
+baseball.baseball_team_stats	02h7r_9	01slc
+baseball.baseball_team_stats	041105l	0cqt41
+tennis.tennis_tournament_championship	0l6c9	04t92
+baseball.batting_statistics	02d02	0285r5d	05jtq9
+baseball.baseball_team_stats	04111cy	06x68
+base.ontologies.ontology_instance_mapping	04dm2p_	0jbp0
+base.ontologies.ontology_instance_mapping	04dm2p_	0f6fz
+tennis.tennis_match	02vqjcx	0mmmt	069d68
+american_football.game_rushing_statistics	05dcr4	0791td4
+cvg.musical_game_song_relationship	0lmph5	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0bpbq5z	0chghy	0pl4nkj
+cvg.musical_game_song_relationship	0ntxvd	067gh	0464gkc
+american_football.game_rushing_statistics	05k0kp	09rl2hg
+cvg.musical_game_song_relationship	04czjhh	02plp2	0464gkc
+location.location_symbol_relationship	0vmt	04st6h7
+base.ontologies.ontology_instance_mapping	04dm2p_	09jm8
+cvg.musical_game_song_relationship	0tqshc	02plp2	0fq74z3
+cvg.musical_game_song_relationship	02pgmbp	066kp	025vn5m
+tennis.tennis_tournament_championship	012xcl	07k8t6
+tennis.tennis_tournament_championship	062pxq	06148c
+base.schemastaging.phone_sandbox	02h40lc	0pxmj5b	09c7w0	0pl4nm4
+american_football.game_rushing_statistics	0cx2qq	0791y_d
+cvg.musical_game_song_relationship	0y5g70	026kds	0fq74z3
+american_football.game_rushing_statistics	07s9104	07dlt03
+american_football.game_rushing_statistics	04lgz0	07920f6
+american_football.game_passing_statistics	07l8mg	07dlq60
+music.track_contribution	0l14md	01wz_5j
+music.recording_contribution	09rbmv	0c0n9v9	01jgn8d
+film.dubbing_performance	02h40lc	07tqjt	02vw1w2	0fh1xk
+base.popstra.religion_choice	0c8wxp	043ttm7
+baseball.baseball_team_stats	02h7s3j	0512p
+film.film_film_distributor_relationship	03xq0f	047msdk	07ssc
+american_football.game_rushing_statistics	0cwhxj	0792l01
+cvg.musical_game_song_relationship	05sdt1	02plp2	0642v9q
+american_football.game_passing_statistics	0cjcdj	0792_wh
+cvg.musical_game_song_relationship	0s6jrv	067gh	04kbkd1
+cvg.musical_game_song_relationship	0h03jz	02plp2	025vn5m
+cvg.musical_game_song_relationship	096ydc	067gh	0464gkc
+cvg.musical_game_song_relationship	0b8lyl	066kp	0642v9q
+tennis.tennis_tournament_championship	062psk	0d68f6
+tennis.tennis_tournament_championship	0l6c9	05zf7w
+music.recording_contribution	02pbrn	05r5c	01j2dt1
+cvg.musical_game_song_relationship	0ljdbp	02plp2	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0hsgc	0d060g	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	02lts	03rt9	0pl4nlh
+cvg.musical_game_song_relationship	03psjn	066kp	04f17kv
+cvg.musical_game_song_relationship	0w9_7g	067gh	0fq74z3
+american_football.game_rushing_statistics	03tt0_	07dlp2g
+cvg.musical_game_song_relationship	0dx_n76	067gh	04kbkd1
+cvg.musical_game_song_relationship	0783pr	066kp	06ztwyd
+film.film_regional_release_date	059j2	0jz2p
+american_football.game_rushing_statistics	0c8sqz	07dlvh9
+american_football.game_rushing_statistics	05yj_q	07dlv9x
+cvg.musical_game_song_relationship	0lf2xv	02plp2	04kbkd1
+baseball.baseball_team_stats	04110y2	01ypc
+tennis.tennis_tournament_championship	012xcl	0281b7_
+tennis.tennis_match	0263_qs	0p58j	05rp3d
+cvg.musical_game_song_relationship	05cmg8	067gh	0464gkc
+cvg.musical_game_song_relationship	0q6nfv	067gh	0fq74z3
+cvg.musical_game_song_relationship	04nz0x	02plp2	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	02k8h3	09c7w0	0pl4nkj
+sports.pro_sports_played	0jm_	062yg7
+cvg.musical_game_song_relationship	09gglj	067gh	04kbkd1
+music.recording_contribution	02r_cc	0c0n9v9	01jgn56
+cvg.musical_game_song_relationship	09q_cy	067gh	0fq74z3
+american_football.game_rushing_statistics	0cx4kg	07dlp5y
+baseball.batting_statistics	01ypc	02h7s4g	0bxgm
+cvg.musical_game_song_relationship	0y__8j	02plp2	0fq74z3
+cvg.game_performance	0498g2	01x1wl	0cd17s
+base.petbreeds.dog_city_relationship	016wkx	030qb3t
+cvg.musical_game_song_relationship	01386nd	026kds	04kbkd1
+cvg.musical_game_song_relationship	0d5p74	026kds	04kbkd1
+tennis.tennis_tournament_championship	0p58j	0860dv
+base.ontologies.ontology_instance_mapping	04dm2p_	06l8d
+cvg.game_performance	064ldsd	01mx1l	040qk3
+base.schemastaging.phone_sandbox	02h40lc	04yq3bv	09c7w0	0pl4nmy
+tennis.tennis_match	03crd_3	012xcl	02rgqsl
+baseball.baseball_team_stats	02h7s86	06x68
+baseball.baseball_team_stats	02h7sdf	01d6g
+cvg.musical_game_song_relationship	05c9brr	02plp2	04kbkd1
+cvg.musical_game_song_relationship	011kfcf	02plp2	0fq74z3
+cvg.musical_game_song_relationship	075w695	026kds	04kbkd1
+film.film_regional_release_date	09c7w0	02fj8n
+music.recording_contribution	01wxg0j	0l14md	01l85zz
+music.group_membership	0342h	0280_vt	01rj_6
+baseball.baseball_team_stats	05lqjhl	03sn07
+cvg.musical_game_song_relationship	07n64g	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7sbw	07147
+american_football.player_passing_statistics	0ctv7y	04y6_qr
+baseball.baseball_team_stats	0285r5d	07147
+tennis.tennis_tournament_championship	0mmmt	06vc0f
+base.ontologies.ontology_instance_mapping	04dm2p_	0c4f4
+cvg.musical_game_song_relationship	075w_z1	067gh	04kbkd1
+cvg.musical_game_song_relationship	0g75kfj	026kds	0fq74z3
+music.track_contribution	0342h	0m67s
+cvg.musical_game_song_relationship	0142135	067gh	04kbkd1
+cvg.musical_game_song_relationship	015c74_	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0313mp	07ssc	0pl4nlh
+base.petbreeds.dog_city_relationship	0km3f	0chrx
+cvg.musical_game_song_relationship	0lgcnr	067gh	0fq74z3
+baseball.baseball_team_stats	02h7s0k	01yhm
+cvg.musical_game_song_relationship	0lgqpc	026kds	04kbkd1
+cvg.musical_game_song_relationship	0z44v0	067gh	0fq74z3
+cvg.musical_game_song_relationship	0fgfj6q	067gh	04kbkd1
+cvg.musical_game_song_relationship	0nft9n	067gh	0fq74z3
+cvg.musical_game_song_relationship	0lf2xv	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s7r	07l8x
+cvg.musical_game_song_relationship	025t7rk	02x8rd	0fq74z3
+base.theosbornboysaregrowing.trip	0f67f	01kcnl	03qb78c	04d1j3z	04f97tq
+cvg.musical_game_song_relationship	01drs3m	026kds	04kbkd1
+base.schemastaging.phone_sandbox	03_9r	04951x	02j71	0pl4nkj
+american_football.game_rushing_statistics	02qxmd6	0791mk4
+music.recording_contribution	01n350_	0c0n9v9	01j2nb3
+tennis.tennis_tournament_championship	0p58j	032wxm
+american_football.game_rushing_statistics	05y80m	07dlsry
+baseball.batting_statistics	0713r	02h7s8c	02vy3s
+cvg.musical_game_song_relationship	0lfygt	067gh	04kbkd1
+american_football.game_rushing_statistics	0bnks5	07dlrb3
+cvg.musical_game_song_relationship	0ddpqs	026kds	0fq74z3
+baseball.baseball_team_stats	05m2x6r	061xq
+baseball.baseball_team_stats	04110r3	01ypc
+baseball.baseball_team_stats	03d4p81	061xq
+people.marriage	02j8fb	0b90_r
+tennis.tennis_match	01jyjs	0mmmt	01jm_5
+cvg.musical_game_song_relationship	0q43m_	02plp2	04kbkd1
+music.track_contribution	0290ngj	01vrt_c
+baseball.baseball_team_stats	0411101	05lkwhs
+american_football.game_rushing_statistics	04lgz0	07dlnvs
+base.ontologies.ontology_instance_mapping	04dm2p_	01_c4
+base.schemastaging.phone_sandbox	02h40lc	04wyr	018hr_	0pl4nkj
+tennis.tennis_match	015z4j	0mmmt	016cff
+cvg.musical_game_song_relationship	0mn3lt	026kds	0fq74z3
+music.recording_contribution	01tvz5t	0c0n9v9	01j07w2
+cvg.musical_game_song_relationship	051fl5	02plp2	0464gkc
+cvg.musical_game_song_relationship	0797q51	026kds	0fq74z3
+cvg.musical_game_song_relationship	03psjn	067gh	0464gkc
+american_football.game_passing_statistics	0272kym	07dltgd
+location.location_symbol_relationship	081mh	04g8vjx
+cvg.musical_game_song_relationship	0lf9m6	067gh	0fq74z3
+tennis.tennis_tournament_championship	0l6c9	03k5q3
+baseball.baseball_team_stats	02h7rz_	07l4z
+american_football.game_passing_statistics	021h8y	07dlrmz
+location.location_symbol_relationship	0824r	04627hh
+base.ontologies.ontology_instance_mapping	04dm2p_	0430_
+baseball.baseball_team_stats	02h7s36	01d5z
+cvg.musical_game_song_relationship	016by9r	02plp2	04kbkd1
+american_football.game_rushing_statistics	03d753s	07dlpst
+cvg.musical_game_song_relationship	015v5gb	067gh	0fq74z3
+cvg.musical_game_song_relationship	026m_36	066kp	0464gkc
+cvg.musical_game_song_relationship	058fvn	02plp2	0cnjm0
+cvg.musical_game_song_relationship	05h9dh	02plp2	0464gkc
+tennis.tennis_tournament_championship	084sjy	031hgj
+cvg.musical_game_song_relationship	05c98v2	067gh	04kbkd1
+fashion.clothing_size	01d40f	095zyh	09c7w0
+american_football.game_rushing_statistics	03h5kf7	07dlt03
+film.dubbing_performance	02h40lc	0ngkkr5	0cfdsq	07jf6t
+baseball.baseball_team_stats	02h7sct	01d6g
+cvg.musical_game_song_relationship	075sm89	026kds	0fq74z3
+baseball.batting_statistics	05xvj	02h7s81	0g5352
+cvg.musical_game_song_relationship	0f2hvr	066kp	0642v9q
+american_football.game_passing_statistics	08gf9t	07928c1
+american_football.game_rushing_statistics	02qdp4v	07dlrnr
+cvg.musical_game_song_relationship	0ldf4n	066kp	025vn5m
+cvg.musical_game_song_relationship	0mfxgx	02plp2	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	059ts
+film.film_regional_release_date	09c7w0	0bmjjh7
+baseball.lifetime_batting_statistics	0djys7	026fmqm	026fmqm	02h7s52
+baseball.baseball_team_stats	02h7sbq	07l8x
+cvg.musical_game_song_relationship	0r2_01	026kds	04kbkd1
+american_football.game_rushing_statistics	0cw15s	07dlq2y
+cvg.musical_game_song_relationship	075smfb	067gh	04kbkd1
+tennis.tennis_tournament_championship	0p58j	06vjn0
+american_football.player_passing_statistics	05llk6	03gqdq7
+cvg.musical_game_song_relationship	05n98xm	026kds	0464gkc
+tennis.tennis_tournament_championship	012xcl	08vw4j
+tennis.tennis_tournament_championship	0mmmt	09nj1x
+cvg.musical_game_song_relationship	02qqwxv	067gh	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	0py6t7j	09c7w0	0pl4nkj
+base.ontologies.ontology_instance_mapping	04dm2p_	0162b
+base.schemastaging.phone_sandbox	02h40lc	02pn52z	02j71	0pl4nlh
+cvg.musical_game_song_relationship	087bht	02plp2	025vn5m
+baseball.batting_statistics	01yhm	02h7sd3	05b0fpx
+base.schemastaging.phone_sandbox	02h40lc	0py4bkz	0d060g	0pl4nkj
+baseball.baseball_team_stats	0411101	05knd46
+american_football.game_passing_statistics	0cjcdj	07dlnfz
+american_football.game_rushing_statistics	0cwmrj	0792ht7
+tennis.tennis_tournament_championship	062pwg	031mcp
+cvg.musical_game_song_relationship	075xd0_	026kds	04kbkd1
+sports.sports_team_roster	03b3j	05wc_w
+american_football.game_rushing_statistics	04d4zv	0792fc1
+base.ontologies.ontology_instance_mapping	04dm2p_	0424m
+cvg.musical_game_song_relationship	017q6wg	067gh	06ztwyd
+baseball.baseball_team_stats	02h7sbd	03m1n
+base.schemastaging.phone_sandbox	02h40lc	012t94	0chghy	0pl4nkj
+american_football.game_rushing_statistics	0cx4kg	07dlpk5
+american_football.game_passing_statistics	0cjcdj	0791ys4
+base.schemastaging.phone_sandbox	02h40lc	0by51	07ssc	0pl4nlh
+base.popstra.religion_choice	0c8wxp	05np4c
+base.schemastaging.phone_sandbox	02bv9	07s921b	059j2	0pl4nkj
+cvg.musical_game_song_relationship	06n49d	026kds	0464gkc
+cvg.musical_game_song_relationship	05n991w	067gh	04kbkd1
+tennis.tennis_match	09n70c	084qcy	03wc52
+american_football.game_passing_statistics	0cv72h	0791zxs
+cvg.musical_game_song_relationship	012q_0	067gh	06ztwyd
+tennis.tennis_tournament_championship	062pyl	05zf7w
+tennis.tennis_tournament_championship	012xcl	09gj98
+cvg.musical_game_song_relationship	0x0l0c	026kds	0fq74z3
+film.film_regional_release_date	0b90_r	05c46y6
+base.theosbornboysaregrowing.trip	0vg8j	06z6r	03qb78c	04dssd2	04f97tq
+cvg.musical_game_song_relationship	07n689d	02plp2	06ztwyd
+american_football.game_rushing_statistics	02zh95	0791ppc
+cvg.musical_game_song_relationship	0lfygt	02plp2	0fq74z3
+cvg.musical_game_song_relationship	05h9dh	02plp2	0642v9q
+american_football.game_passing_statistics	027jv8	0792l9d
+cvg.musical_game_song_relationship	0qm9vy	026kds	0fq74z3
+tennis.tennis_tournament_championship	085p0g	076g6d
+tennis.tennis_tournament_championship	062pyl	09gj98
+base.schemastaging.phone_sandbox	02h40lc	0fkl45	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0c7xw8	02x8rd	0fq74z3
+music.recording_contribution	0g3lz6	0c0n9v9	01kdxl5
+film.film_film_distributor_relationship	03xq0f	0czyxs	07ssc
+cvg.musical_game_song_relationship	0gy913	02plp2	0fq74z3
+american_football.game_rushing_statistics	062qp9	07dlnlw
+base.petbreeds.dog_city_relationship	016wkx	0d9jr
+cvg.musical_game_song_relationship	07hzp0	067gh	0464gkc
+music.track_contribution	05r5c	0glt2q
+cvg.musical_game_song_relationship	0ldf4n	026kds	025vn5m
+baseball.baseball_team_stats	02h7s15	03m1n
+cvg.musical_game_song_relationship	0mggqj	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7sc5	05knd46
+tennis.tennis_tournament_championship	0l6c9	02frs6
+cvg.musical_game_song_relationship	05kmf61	02plp2	0fq74z3
+film.film_regional_release_date	0345h	02wgk1
+american_football.player_passing_statistics	019g65	03gqdq7
+baseball.baseball_team_stats	0411101	042v_h4
+cvg.musical_game_song_relationship	0ljr08	026kds	0fq74z3
+cvg.musical_game_song_relationship	02r14hc	066kp	025vn5m
+american_football.game_rushing_statistics	027jv8	0792ht7
+base.theosbornboysaregrowing.trip	0f67f	01kcnl	03qb78c	04d1j3z	04j6583
+american_football.game_rushing_statistics	07yzk2	07dlrnr
+american_football.game_rushing_statistics	07fgn7	07933dg
+baseball.lifetime_batting_statistics	0pzqd	02h7s15	02h7s15	02h7s1h
+tennis.tennis_tournament_championship	062pxq	069d68
+cvg.musical_game_song_relationship	0s6pm4	067gh	04kbkd1
+cvg.musical_game_song_relationship	0xnhy3	067gh	064rc66
+film.dubbing_performance	02h40lc	02rc4d	05bvtd	07y91g
+baseball.baseball_team_stats	026fmqm	01slc
+base.petbreeds.dog_city_relationship	01t032	0dyl9
+film.dubbing_performance	02h40lc	04bb1n	05qjzc	0g57zq
+base.represent.agent_celebrity_representation	05k0kp	06dk0p
+baseball.baseball_team_stats	04111ly	02d02
+cvg.musical_game_song_relationship	017gksd	02plp2	0fq74z3
+baseball.baseball_team_stats	041112p	01yhm
+american_football.game_passing_statistics	04pwwd	07dlpxz
+american_football.game_rushing_statistics	0f6lqs	07dlml9
+baseball.baseball_team_stats	02h7s1b	01ypc
+base.petbreeds.dog_city_relationship	0km5c	0ply0
+american_football.game_rushing_statistics	05yj_0	07dlp8y
+tennis.tennis_tournament_championship	0mmmt	02qqy2g
+location.location_symbol_relationship	04ykg	04627hh
+american_football.game_rushing_statistics	05txyj	0792h4x
+cvg.musical_game_song_relationship	0z9bv4	067gh	04kbkd1
+baseball.baseball_team_stats	041112p	03wzpvl
+cvg.musical_game_song_relationship	064ts9d	067gh	0642v9q
+baseball.batting_statistics	01yjl	02wxr1w	02x7zp
+cvg.musical_game_song_relationship	0flpph	02plp2	025vn5m
+american_football.game_rushing_statistics	097yk7	0793b4v
+music.recording_contribution	04m2zj	0l14qv	036tl9
+base.schemastaging.phone_sandbox	02h40lc	0475mb	0d060g	0pl4nlh
+cvg.musical_game_song_relationship	01bm4cg	02plp2	04kbkd1
+american_football.game_rushing_statistics	019g65	0793yjf
+baseball.baseball_team_stats	02h7r_y	05fc8c9
+american_football.game_passing_statistics	033t8w	07dlp_y
+base.schemastaging.phone_sandbox	05qqm	0qj5wgd	02j71	0pl4nkj
+tennis.tennis_tournament_championship	0p58j	02z3df4
+location.location_symbol_relationship	06yxd	04g8vjx
+american_football.game_rushing_statistics	0d6nyb	07920f6
+cvg.musical_game_song_relationship	0270knw	02plp2	025vn5m
+american_football.player_passing_statistics	0262x0d	03gqdq7
+baseball.batting_statistics	02d02	02h7s57	0gc2c_
+music.recording_contribution	01w9mnm	0_sv_90	06501k
+film.dubbing_performance	02h40lc	04b5rz	03gyvwg	0chwh6
+cvg.musical_game_song_relationship	05n983d	026kds	0464gkc
+baseball.baseball_team_stats	02h7sbq	01ypc
+cvg.musical_game_song_relationship	0lgnl6	02plp2	04kbkd1
+film.film_regional_release_date	059j2	01jrbb
+baseball.baseball_team_stats	04111ck	05xvj
+tennis.tennis_match	0d68f6	012xcl	02wx7qk
+cvg.musical_game_song_relationship	0lfk2f	02plp2	04kbkd1
+tennis.tennis_tournament_championship	012xcl	02plk76
+tv.regular_tv_appearance	06_vpyq	04kr627	0w_g5zz	02rzdcp
+base.schemastaging.phone_sandbox	02h40lc	0rp0jvy	0n4mk	0pl4nkj
+american_football.game_rushing_statistics	08_5y5	07dlnsq
+cvg.musical_game_song_relationship	05n97kb	067gh	06ztwyd
+american_football.game_rushing_statistics	0c8sqz	075rrg0
+cvg.musical_game_song_relationship	05v596p	067gh	0fq74z3
+cvg.musical_game_song_relationship	0pgcpr	067gh	04kbkd1
+american_football.game_rushing_statistics	0cmld3	07dlpk5
+tennis.tennis_match	0g57r8l	012xcl	03c3sjz
+base.popstra.product_choice	027lnzs	01n5309
+cvg.musical_game_song_relationship	01d08g0	026kds	0464gkc
+cvg.musical_game_song_relationship	06z8wm	067gh	04kbkd1
+tv.regular_tv_appearance	02x4zz2	0523x8z	05dvc7k	02py9yf
+cvg.musical_game_song_relationship	0xf21f	067gh	0642v9q
+american_football.game_rushing_statistics	091qw1	0793pgl
+base.ontologies.ontology_instance_mapping	04dm2p_	054rw
+american_football.game_rushing_statistics	097hft	0792y1k
+baseball.baseball_team_stats	02h7s36	0x2p
+cvg.musical_game_song_relationship	01271gr	067gh	04kbkd1
+cvg.game_performance	064ldsd	01h4t2	050swy
+tv.regular_tv_appearance	09r9dp	02s9q_4	04llnmy	02rzdcp
+baseball.lifetime_batting_statistics	02vwp_	02h7s1z	02h7s1z	02h7s3j
+baseball.baseball_team_stats	02h7sc5	0cqt41
+base.schemastaging.phone_sandbox	02h40lc	0swhq5s	0d060g	0pl4nkj
+base.ontologies.ontology_instance_mapping	04dm2p_	0jt90f5
+american_football.game_passing_statistics	027jv8	07dlqhz
+tennis.tennis_tournament_championship	084qcy	02w8g9j
+music.group_membership	0342h	0h4669v	0l8g0
+tennis.tennis_tournament_championship	0p58j	015y3w
+american_football.game_passing_statistics	030bdd	07dlnf4
+american_football.game_rushing_statistics	03d4lw7	07dlnqy
+cvg.musical_game_song_relationship	03jkxv9	026kds	0464gkc
+tennis.tennis_tournament_championship	04wbkq	015z4j
+cvg.game_performance	03chwgt	02jf59	091n7z
+baseball.batting_statistics	01yhm	04110b0	02q3xq
+base.ontologies.ontology_instance_mapping	04dm2p_	04pm6
+baseball.batting_statistics	05ll5_5	0411129	043qzy2
+cvg.musical_game_song_relationship	048cbj	02x8rd	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0cc56
+baseball.baseball_team_stats	02h7s4s	061xq
+tennis.tennis_tournament_championship	0mmmt	02r0g_
+cvg.musical_game_song_relationship	04sc7d	066kp	06ztwyd
+base.schemastaging.phone_sandbox	02h40lc	0vtt7vq	07ssc	0pl4nmy
+cvg.musical_game_song_relationship	02qqwxv	066kp	06ztwyd
+american_football.game_passing_statistics	02qxmd6	0792_9t
+tv.regular_tv_appearance	0gd_b_	080792g	0j5jx15	02rzdcp
+tennis.tennis_tournament_championship	0p58j	05rp3d
+cvg.musical_game_song_relationship	0fqzw4s	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7s6b	04mjl
+american_football.game_rushing_statistics	0855sw	07dlnmk
+cvg.musical_game_song_relationship	0pg2r5	02plp2	04kbkd1
+cvg.musical_game_song_relationship	07np74_	066kp	06ztwyd
+cvg.musical_game_song_relationship	05n9l1l	066kp	025vn5m
+cvg.musical_game_song_relationship	07mq4dw	026kds	04kbkd1
+cvg.musical_game_song_relationship	05srzl	026kds	0464gkc
+tennis.tennis_tournament_championship	012xcl	0b4nf0
+cvg.musical_game_song_relationship	090kp1	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lf9mw	026kds	04kbkd1
+cvg.musical_game_song_relationship	0psk2y	067gh	0fq74z3
+cvg.musical_game_song_relationship	010v81m	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	07tp2
+cvg.game_performance	02qmw51	01rk30	0bjm05
+american_football.game_rushing_statistics	08z7bw	07923h6
+base.petbreeds.dog_city_relationship	02cyl6	0f2v0
+cvg.musical_game_song_relationship	0dwnm8	026kds	06ztwyd
+baseball.baseball_team_stats	02h7s5k	05kmnv1
+baseball.baseball_team_stats	02h7sbw	05m_8
+base.schemastaging.phone_sandbox	02h40lc	02xqq	0kr8v	0pl4nkj
+cvg.musical_game_song_relationship	0rwyy2	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	0109_flk	0d0vqn	0pl4nkj
+baseball.baseball_team_stats	04111lk	05fc8c9
+cvg.musical_game_song_relationship	04jl8jn	066kp	06ztwyd
+american_football.game_passing_statistics	029b2g	07943gd
+baseball.baseball_team_stats	02h7s3j	05m_8
+cvg.musical_game_song_relationship	0dyqww	02plp2	04kbkd1
+sports.pro_sports_played	0jm_	050_yq
+american_football.game_rushing_statistics	095xk6	09tmfvr
+base.ontologies.ontology_instance_mapping	04dm2p_	0k53z
+american_football.game_rushing_statistics	062qp9	07dlnkb
+tennis.tennis_tournament_championship	04wbkq	0dwhy
+base.schemastaging.phone_sandbox	02h40lc	0q52p9g	02j71	0pl4nkj
+film.dubbing_performance	02h40lc	0765hg	05t0zfv	0814k3
+american_football.game_rushing_statistics	02w3v66	07dlnzk
+music.track_contribution	0290ngj	0d9xq
+american_football.game_passing_statistics	03y9prg	07dlnjk
+baseball.baseball_team_stats	02wxq71	06x68
+american_football.game_rushing_statistics	027jv8	07920zk
+american_football.game_passing_statistics	032lfz	07dltqm
+american_football.game_rushing_statistics	09_19y	07dlnzk
+baseball.batting_statistics	01ypc	02h7s3p	0476l
+base.theosbornboysaregrowing.trip	0r2hn	034v_	03qb78c	04d1j3z	04f986k
+cvg.musical_game_song_relationship	075sh9v	02plp2	0fq74z3
+cvg.game_performance	02qmw51	03bxbkg	0bjm05
+film.film_film_distributor_relationship	03xq0f	0170z3	07ssc
+base.ontologies.ontology_instance_mapping	04dm2p_	0_6t_z8
+cvg.musical_game_song_relationship	0y_w3j	026kds	0fq74z3
+cvg.musical_game_song_relationship	0s6pm4	026kds	0fq74z3
+baseball.batting_statistics	04xg_4p	02h7sdr	02rnc1h
+baseball.baseball_team_stats	04110rh	01ypc
+baseball.baseball_team_stats	02h7sct	06wpc
+film.film_film_distributor_relationship	06jntd	02wgk1	0cq_2nv
+american_football.game_rushing_statistics	025j0c	07dlv3k
+cvg.game_performance	02wbtdq	0cj3527	08glff
+base.ontologies.ontology_instance_mapping	04dm2p_	05r4w
+cvg.musical_game_song_relationship	0110_06	026kds	0fq74z3
+american_football.game_passing_statistics	0558dz	07dlr09
+baseball.baseball_team_stats	02h7r_y	0cqt41
+baseball.baseball_team_stats	04110lg	05ll5_5
+cvg.musical_game_song_relationship	025sd6q	026kds	025vn5m
+cvg.musical_game_song_relationship	0ymlhh	026kds	04kbkd1
+baseball.baseball_team_stats	02h7s81	01slc
+cvg.musical_game_song_relationship	0111bls	067gh	04kbkd1
+film.film_regional_release_date	059j2	0bvn25
+american_football.game_rushing_statistics	0cx2qq	0791y81
+cvg.musical_game_song_relationship	0403lxm	066kp	027pg4k
+base.ontologies.ontology_instance_mapping	04dm2p_	0bscw
+baseball.baseball_team_stats	02h7s36	06wpc
+tennis.tennis_match	0cc8b9v	012xcl	05rp3d
+music.recording_contribution	07gph1	0l14qv	027n4xs
+baseball.baseball_team_stats	03c6sl9	04mjl
+base.ontologies.ontology_instance_mapping	04dm2p_	035dk
+cvg.musical_game_song_relationship	04bz52	026kds	06ztwyd
+tennis.tennis_tournament_championship	0l6c9	09gj98
+cvg.musical_game_song_relationship	052n5t	067gh	06ztwyd
+location.location_symbol_relationship	06yxd	04627gn
+american_football.game_passing_statistics	027jv8	07dlmn1
+people.human_measurement	031974	01pk8v
+base.schemastaging.phone_sandbox	02h40lc	027bh4q	07ssc	0pl4nkj
+film.dubbing_performance	02h40lc	03ct66	0bh72t	03wfhn6
+american_football.game_rushing_statistics	02z0mt0	07929pq
+cvg.musical_game_song_relationship	05qp4q	026kds	0642v9q
+cvg.musical_game_song_relationship	0lfpb1	02plp2	0fq74z3
+baseball.baseball_team_stats	02h7s8c	0x2p
+american_football.game_passing_statistics	030bdd	0793zf8
+baseball.baseball_team_stats	0411101	05xvj
+baseball.baseball_team_stats	04110lg	01d5z
+music.group_membership	0l14md	010v_k5t	0wtc_n4
+people.human_measurement	06_kbr	0gv1_v
+american_football.game_rushing_statistics	02q4qzf	07dltgd
+tennis.tennis_tournament_championship	0mmmt	03b221
+american_football.game_rushing_statistics	027jv8	07dlqky
+cvg.musical_game_song_relationship	048cw1	067gh	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	04wlh
+tennis.tennis_tournament_championship	0mmmt	01qx13
+baseball.baseball_team_stats	02h7s07	061xq
+tennis.tennis_tournament_championship	062pbc	04_x29
+base.theosbornboysaregrowing.trip	0lhn5	04_c1nw	03qb78c	04d1j3z	04f97t9
+american_football.game_rushing_statistics	02z5l63	07dln7n
+baseball.baseball_team_stats	02h7s15	07l8x
+cvg.musical_game_song_relationship	02pk5qj	026kds	027pg4k
+cvg.game_performance	0cc7ygk	066_0n	091n7z
+cvg.musical_game_song_relationship	0llym2	02plp2	04kbkd1
+people.human_measurement	031974	047qmw7
+cvg.musical_game_song_relationship	0g75kfj	067gh	0fq74z3
+tennis.tennis_match	0c3w33t	012xcl	0dmy5f
+american_football.game_passing_statistics	074l06	07924rd
+cvg.musical_game_song_relationship	01y4j_	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s0d	061xq
+location.location_symbol_relationship	03s5t	0j749
+tennis.tennis_match	07hp_p	0mmmt	01my95
+tennis.tennis_match	0dl46b	0p58j	02w8pmb
+baseball.batting_statistics	03wzpvl	02h7sfv	03890g
+cvg.musical_game_song_relationship	0r1p0l	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	02qvly	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0177d9m	02plp2	04kbkd1
+american_football.game_rushing_statistics	074l06	0792263
+tennis.tennis_match	07hp_p	062pyl	051q39
+cvg.musical_game_song_relationship	075wsgz	067gh	04kbkd1
+american_football.game_passing_statistics	025j0c	0791p46
+base.schemastaging.phone_sandbox	0jzc	01rvgk	03spz	0pl4nkj
+location.location_symbol_relationship	081mh	04627gn
+cvg.musical_game_song_relationship	0h3dtn	067gh	025vn5m
+base.ontologies.ontology_instance_mapping	04dm2p_	058b6
+cvg.musical_game_song_relationship	0ldd1f	067gh	0fq74z3
+cvg.musical_game_song_relationship	0q43m_	026kds	025vn5m
+baseball.baseball_team_stats	04110t8	06x68
+cvg.musical_game_song_relationship	0d0xd3	066kp	025vn5m
+american_football.game_rushing_statistics	095xk6	0792qt5
+base.schemastaging.phone_sandbox	02h40lc	04wyr	0d6lp	0pl4nkj
+film.dubbing_performance	02h40lc	02w5yb	0420yl	07jf6t
+baseball.current_coaching_tenure	04mjl	0b2bj8	04_57fb
+cvg.musical_game_song_relationship	0q43m_	02plp2	0fq74z3
+cvg.musical_game_song_relationship	06hb7x	067gh	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	0vtthm2	07ssc	0pl4nm4
+base.ontologies.ontology_instance_mapping	04dm2p_	0dtzd
+people.human_measurement	031974	095zyh
+baseball.lifetime_batting_statistics	0gc2c_	02h7s1b	02h7s1b	02h7s3p
+american_football.game_rushing_statistics	08z7bw	07dlqxx
+base.ontologies.ontology_instance_mapping	04dm2p_	06zgc
+cvg.game_performance	02qmw51	066_0n	0bxg26
+base.ontologies.ontology_instance_mapping	04dm2p_	0g10g
+baseball.baseball_team_stats	025ygws	0x0d
+cvg.musical_game_song_relationship	0816cq	067gh	025vn5m
+base.schemastaging.phone_sandbox	02h40lc	0qsc2_s	02j71	0pl4nlh
+film.dubbing_performance	02h40lc	0hqg95g	026pf6t	0d6bs7
+base.schemastaging.phone_sandbox	02h40lc	02h5d	02j71	0pl4nkj
+american_football.game_rushing_statistics	02z5l63	09tmfvr
+american_football.game_rushing_statistics	051xvxm	07dlp2g
+cvg.musical_game_song_relationship	0z3hbq	067gh	0fq74z3
+baseball.baseball_team_stats	02h7r_9	05xvj
+tennis.tennis_match	02w8pmb	012xcl	03b7gw
+baseball.baseball_team_stats	02h7s6z	01slc
+tennis.tennis_match	06148c	012xcl	023q7x
+cvg.musical_game_song_relationship	0frp42p	02plp2	06ztwyd
+cvg.musical_game_song_relationship	0y811m	026kds	0fq74z3
+cvg.musical_game_song_relationship	0g4_t8	02plp2	04kbkd1
+tennis.tennis_tournament_championship	012xcl	01ryfl
+film.film_regional_release_date	0d9jr	0gwndqr
+cvg.musical_game_song_relationship	03qjr_3	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	052bw
+cvg.musical_game_song_relationship	0fb15y	066kp	0464gkc
+american_football.game_rushing_statistics	0cwmzd	07dlt48
+baseball.baseball_team_stats	025ygqm	05m_8
+cvg.musical_game_song_relationship	01btb00	067gh	04kbkd1
+baseball.batting_statistics	051wf	02h7s81	018l20
+american_football.game_rushing_statistics	08_5y5	0793fq_
+baseball.batting_statistics	07l4z	02h7s86	05zrps
+cvg.musical_game_song_relationship	05c98v2	067gh	0fq74z3
+american_football.game_rushing_statistics	062qp9	0791_52
+cvg.musical_game_song_relationship	019xtqr	026kds	0fq74z3
+cvg.musical_game_song_relationship	0t2003	02plp2	0fq74z3
+baseball.baseball_team_stats	03d4p81	02d02
+base.schemastaging.phone_sandbox	06nm1	06w58cc	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	048cw1	067gh	04kbkd1
+baseball.baseball_team_stats	041111k	01d5z
+cvg.musical_game_song_relationship	04gvv9_	066kp	0464gkc
+cvg.musical_game_song_relationship	0dz77p	02plp2	0464gkc
+cvg.musical_game_song_relationship	07n685w	066kp	0464gkc
+location.location_symbol_relationship	0hjy	01yrt2
+film.dubbing_performance	02h40lc	0hqg9ry	02rkmkl	05zkqcy
+base.petbreeds.dog_city_relationship	0km5c	0chrx
+tennis.tennis_match	0c7dg1	012xcl	027q1_3
+cvg.musical_game_song_relationship	051qmx	067gh	0464gkc
+music.group_membership	0l14md	011m98mw	0dn3z6k
+cvg.musical_game_song_relationship	05n98s9	067gh	0fq74z3
+base.petbreeds.dog_city_relationship	01xtxb	0d9jr
+american_football.game_rushing_statistics	04pwwd	0793sfm
+film.dubbing_performance	02h40lc	02rc4d	03z48l	09j5bm
+cvg.musical_game_song_relationship	0nbl5t	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0109_flk	0154j	0pl4nkj
+american_football.game_passing_statistics	04q06_	07dlt5g
+american_football.game_passing_statistics	09z4fb	07dlrl8
+military.force_strength	012gvc	07ssc	01fc7p
+tennis.tennis_match	02w9mk4	062pbc	03cp_nq
+tennis.tennis_match	047s5q4	062pbc	069d71
+tennis.tennis_tournament_championship	0l6c9	03d18hl
+cvg.musical_game_song_relationship	0lfyh0	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0h4_93	067gh	0642v9q
+military.force_strength	07cmd	02vzc	085w4
+american_football.game_rushing_statistics	08z7bw	0792d8g
+baseball.lifetime_batting_statistics	072v3	05kcgsf	05kcgsf	04110y2
+cvg.musical_game_song_relationship	019v1d1	067gh	0fq74z3
+location.location_symbol_relationship	03s5t	01yrt2
+american_football.game_rushing_statistics	0cjcdj	0792wtq
+tennis.tennis_tournament_championship	0mmmt	0j26hwg
+american_football.game_rushing_statistics	0bkv90	07dlt03
+baseball.baseball_team_stats	026fmqm	01yjl
+base.ontologies.ontology_instance_mapping	04dm2p_	0jhd
+base.ontologies.ontology_instance_mapping	04dm2p_	06q07
+american_football.game_rushing_statistics	07fgn7	079341q
+cvg.musical_game_song_relationship	03m97y9	026kds	0464gkc
+music.group_membership	0_sv_90	03bxwtd	02q3w3v
+american_football.game_rushing_statistics	02_jvp	0794pv0
+american_football.game_rushing_statistics	097hft	0792x8p
+baseball.baseball_team_stats	02qmmv6	061xq
+cvg.musical_game_song_relationship	01cz4n8	067gh	06ztwyd
+tennis.tennis_tournament_championship	062psk	01m_gh
+cvg.musical_game_song_relationship	05zxwb7	067gh	04kbkd1
+cvg.musical_game_song_relationship	04jl8jn	02plp2	0642v9q
+cvg.musical_game_song_relationship	0bhc9h3	02plp2	06ztwyd
+baseball.baseball_team_stats	025ygqm	0713r
+tennis.tennis_tournament_championship	0mmmt	02frlr
+base.schemastaging.phone_sandbox	02h40lc	02gqxg	07ssc	0pl4nkj
+baseball.batting_statistics	01d5z	041109n	07rbm
+american_football.game_passing_statistics	097hft	0792wnm
+cvg.musical_game_song_relationship	0f4q5x_	026kds	0fq74z3
+american_football.game_rushing_statistics	0cwmrj	0792fc1
+cvg.musical_game_song_relationship	0cjv1p	026kds	025vn5m
+tennis.tennis_tournament_championship	0p58j	0svt5
+baseball.baseball_team_stats	041110f	02d02
+cvg.musical_game_song_relationship	07jy_9	067gh	04kbkd1
+cvg.musical_game_song_relationship	0md1n_	067gh	0fq74z3
+cvg.musical_game_song_relationship	07mq4dk	067gh	0fq74z3
+cvg.game_performance	02p_ls	01h4t2	039xr8
+cvg.musical_game_song_relationship	05n8__8	067gh	0464gkc
+american_football.game_rushing_statistics	04pl48	0792dmr
+base.schemastaging.phone_sandbox	02h40lc	02pn52z	0d060g	0pl4nm4
+base.petbreeds.dog_city_relationship	02cyl6	0ply0
+american_football.game_rushing_statistics	025j0c	079397c
+cvg.musical_game_song_relationship	0112fbt	067gh	04kbkd1
+cvg.musical_game_song_relationship	05n991w	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lj008	067gh	0fq74z3
+cvg.musical_game_song_relationship	04y5fxf	066kp	0464gkc
+cvg.musical_game_song_relationship	0xf21f	02plp2	027pg4k
+american_football.game_rushing_statistics	03d753s	07dlnd6
+cvg.musical_game_song_relationship	0dl0qt	067gh	04kbkd1
+baseball.baseball_team_stats	05lqwcn	01ypc
+cvg.musical_game_song_relationship	07np74_	026kds	0464gkc
+baseball.lifetime_batting_statistics	07svzt	02h7s78	02h7s78	02h7s1h
+tennis.tennis_match	0gy0f1d	0mmmt	02plk76
+cvg.musical_game_song_relationship	0rwyx6	067gh	04kbkd1
+baseball.baseball_team_stats	02h7sdf	01ync
+cvg.musical_game_song_relationship	07nnpsv	067gh	04kbkd1
+cvg.musical_game_song_relationship	07n74pr	026kds	0642v9q
+cvg.musical_game_song_relationship	0y5g70	02plp2	04kbkd1
+tennis.tennis_tournament_championship	0l6c9	0d68f6
+cvg.musical_game_song_relationship	027hx6b	026kds	027pg4k
+cvg.musical_game_song_relationship	0z69bk	026kds	04kbkd1
+cvg.musical_game_song_relationship	01y4j_	02plp2	06ztwyd
+tennis.tennis_match	069d71	062pyl	03xyp_
+cvg.musical_game_song_relationship	05n90wb	02plp2	0642v9q
+people.human_measurement	06_kbr	04zz22
+cvg.musical_game_song_relationship	06slcm	026kds	04kbkd1
+sports.pro_sports_played	0jm_	04m4gr
+cvg.musical_game_song_relationship	013372w	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0h0h7h	026kds	0fq74z3
+american_football.game_passing_statistics	02x6lw	07dlrm1
+cvg.musical_game_song_relationship	0xt2sn	067gh	04kbkd1
+baseball.batting_statistics	01ypc	02h7sd3	018l20
+baseball.baseball_team_stats	041112p	05knd46
+location.location_symbol_relationship	05kj_	04g8vjx
+cvg.musical_game_song_relationship	0ygfdy	026kds	0fq74z3
+american_football.game_rushing_statistics	05yj_0	07dlrcv
+location.location_symbol_relationship	081yw	0j749
+cvg.musical_game_song_relationship	0129yv9	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	0pyq4s8	09c7w0	0pl4nlh
+location.location_symbol_relationship	0d0x8	01yrt2
+cvg.musical_game_song_relationship	01d7rtn	067gh	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0r9n8gs	0d060g	0pl4nm4
+baseball.batting_statistics	061xq	041110t	02ssmv
+baseball.baseball_team_stats	05lqw34	05kn9mk
+cvg.musical_game_song_relationship	026q2v5	02plp2	0fq74z3
+baseball.baseball_team_stats	04111c5	05kndgg
+cvg.musical_game_song_relationship	01y4j_	026kds	06ztwyd
+base.schemastaging.phone_sandbox	02h40lc	080c4qv	09c7w0	0pl4nmy
+american_football.game_rushing_statistics	025wtny	0793sfm
+baseball.baseball_team_stats	02h7r_9	05kmnv1
+american_football.game_passing_statistics	097hft	07dlsjx
+cvg.musical_game_song_relationship	0lnx9q	02plp2	04kbkd1
+cvg.musical_game_song_relationship	05n98j0	02plp2	0642v9q
+cvg.musical_game_song_relationship	03cj6hh	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0ngh1y	067gh	0464gkc
+baseball.baseball_team_stats	04110lg	05c8tcn
+cvg.musical_game_song_relationship	0xt2sn	067gh	0fq74z3
+base.petbreeds.dog_city_relationship	01llgk	01_d4
+cvg.musical_game_song_relationship	0pdlsn	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0bwdn
+cvg.musical_game_song_relationship	04qbjgv	067gh	04kbkd1
+tennis.tennis_tournament_championship	0p58j	01kfjb
+cvg.musical_game_song_relationship	075x_6w	02plp2	04kbkd1
+baseball.baseball_team_stats	0285r5d	061xq
+cvg.musical_game_song_relationship	026qzd7	02plp2	0642v9q
+cvg.musical_game_song_relationship	027cbrt	026kds	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	04swx
+baseball.baseball_team_stats	04111bt	01ypc
+people.human_measurement	031974	03xbcx
+tennis.tennis_tournament_championship	0l6c9	0f492v
+base.ontologies.ontology_instance_mapping	04dm2p_	051nv
+location.location_symbol_relationship	03v1s	01yrt2
+american_football.game_passing_statistics	0cv72h	09rl2jq
+base.schemastaging.phone_sandbox	02h40lc	0352k1	07ssc	0pl4nkj
+location.location_symbol_relationship	026mj	04627gn
+location.location_symbol_relationship	050l8	04627dk
+cvg.musical_game_song_relationship	0pgcpr	026kds	0464gkc
+baseball.baseball_team_stats	02h7s28	061xq
+cvg.musical_game_song_relationship	028054l	026kds	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	0bccy	0vmt	0pl4nlh
+baseball.baseball_team_stats	02h7s23	061xq
+american_football.game_rushing_statistics	0746cp	07dlpbs
+base.petbreeds.dog_city_relationship	0km3f	0cv3w
+cvg.musical_game_song_relationship	02xkph	067gh	04kbkd1
+cvg.game_performance	05dsx9	01mx1l	040qk3
+people.human_measurement	031974	0d6ysbs
+american_football.game_rushing_statistics	0cz6kk	0791wxm
+cvg.musical_game_song_relationship	07t5zwq	066kp	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	06bz3	02j71	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	02qvly	07ssc	0pl4nlh
+cvg.musical_game_song_relationship	07n689d	067gh	0642v9q
+baseball.baseball_team_stats	02h7s15	07l4z
+baseball.batting_statistics	061xq	02x1xf4	02mz69
+tennis.tennis_tournament_championship	0mmmt	03k17p
+cvg.musical_game_song_relationship	0149qys	026kds	0642v9q
+baseball.baseball_team_stats	025ygqm	01d5z
+cvg.musical_game_song_relationship	0lz4m1	026kds	04kbkd1
+film.film_film_distributor_relationship	03xq0f	0ddd6jp	07ssc
+baseball.baseball_team_stats	027pwzc	06wpc
+cvg.musical_game_song_relationship	0lg1cq	067gh	027pg4k
+cvg.musical_game_song_relationship	07b9771	026kds	0fq74z3
+cvg.musical_game_song_relationship	03s04r	026kds	04kbkd1
+cvg.musical_game_song_relationship	0f2hvr	026kds	06ztwyd
+base.petbreeds.dog_city_relationship	01nw62	01_d4
+base.ontologies.ontology_instance_mapping	04dm2p_	0342h
+baseball.baseball_team_stats	02h7s0q	01d5z
+baseball.baseball_team_stats	04111d9	01yjl
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	07ssc	0pl4nkj
+tennis.tennis_tournament_championship	04wbkq	07nvr4
+film.film_film_distributor_relationship	03xq0f	050f0s	07ssc
+base.schemastaging.phone_sandbox	03_9r	0h94y36	02j71	0pl4nkj
+cvg.musical_game_song_relationship	0mq6st	02plp2	05n03yl
+american_football.game_rushing_statistics	04yc_pf	07dlnfz
+tennis.tennis_tournament_championship	0p58j	0c7dg1
+baseball.baseball_team_stats	02h7s5k	04mjl
+cvg.musical_game_song_relationship	0412kxr	067gh	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0dn0r
+baseball.lifetime_batting_statistics	03k7j6	02h7sd3	02h7sd3	02h7sbd
+cvg.musical_game_song_relationship	0lzmn9	067gh	04kbkd1
+cvg.musical_game_song_relationship	0llym2	067gh	0fq74z3
+film.film_film_distributor_relationship	03xq0f	0cc5mcj	07ssc
+base.popstra.religion_choice	0c8wxp	043p2f2
+music.recording_contribution	02rn_bj	0342h	09rfl4d
+base.ontologies.ontology_instance_mapping	04dm2p_	0l0xy
+cvg.musical_game_song_relationship	018gl9w	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lnl_k	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	0ccf7n	03h64	0pl4nkj
+baseball.baseball_team_stats	02h7s5k	07l8x
+cvg.musical_game_song_relationship	0133732	026kds	0fq74z3
+baseball.baseball_team_stats	02h7s4s	05kmkd0
+tennis.tennis_match	01qx13	0mmmt	06_247
+tennis.tennis_tournament_championship	085p0g	01qx13
+cvg.musical_game_song_relationship	01b1gtp	067gh	0fq74z3
+base.theosbornboysaregrowing.trip	0r2hn	034v_	03qb78c	04dsscx	04j14gs
+cvg.musical_game_song_relationship	0pgcy5	067gh	04kbkd1
+tennis.tennis_match	02w95xv	012xcl	03crd_3
+baseball.baseball_team_stats	02h7sd8	05g76
+cvg.musical_game_song_relationship	03wklf	067gh	0464gkc
+american_football.game_rushing_statistics	07v71t	0793mqw
+base.ontologies.ontology_instance_mapping	04dm2p_	05byy
+baseball.baseball_team_stats	02h7sch	0x0d
+cvg.musical_game_song_relationship	02vq9wl	02plp2	0fq74z3
+tennis.tennis_tournament_championship	0p58j	016cff
+cvg.musical_game_song_relationship	06h9lw	02plp2	04kbkd1
+american_football.game_passing_statistics	07l8mg	07dlqtx
+cvg.musical_game_song_relationship	05n8456	067gh	0464gkc
+base.schemastaging.phone_sandbox	064_8sq	04yf8tq	0d060g	0pl4nkj
+cvg.musical_game_song_relationship	0l0v7c	066kp	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	049g92	07ssc	0pl4nmy
+cvg.musical_game_song_relationship	01f7cpx	026kds	0fq74z3
+cvg.musical_game_song_relationship	05pgym	02plp2	0464gkc
+cvg.musical_game_song_relationship	01f7bhm	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lftjc	026kds	04kbkd1
+cvg.musical_game_song_relationship	013flpq	067gh	0fq74z3
+cvg.musical_game_song_relationship	01d2t4h	02plp2	04kbkd1
+american_football.game_passing_statistics	027jv8	075rrg0
+tennis.tennis_tournament_championship	025_2gr	07gzgw
+people.human_measurement	031974	0b0xxs
+american_football.game_rushing_statistics	03d2btm	07dltqm
+cvg.musical_game_song_relationship	075sh9g	02plp2	0fq74z3
+cvg.musical_game_song_relationship	05n552k	067gh	0464gkc
+american_football.game_passing_statistics	097hft	07928c1
+baseball.baseball_team_stats	02h7s57	06x68
+cvg.game_performance	0498g2	01mx1l	03nlzw9
+cvg.musical_game_song_relationship	0np_c7	02plp2	04kbkd1
+american_football.game_rushing_statistics	027jv8	0792903
+base.schemastaging.phone_sandbox	0gfh2x1	0r5ctz_	03spz	0pl4nkj
+cvg.musical_game_song_relationship	0vc5dm	067gh	0464gkc
+film.dubbing_performance	02h40lc	08z9wb	026tlwy	0411ql
+base.schemastaging.phone_sandbox	06nm1	0pm6v78	0jgd	0pl4nkj
+baseball.baseball_team_stats	03wfgdh	0cqt41
+cvg.musical_game_song_relationship	0frp42p	026kds	06ztwyd
+baseball.baseball_team_stats	02h7s86	07l8x
+american_football.game_rushing_statistics	04nt9g	0792cgn
+music.group_membership	0_sv_90	01rl1dk	0fcsd
+american_football.game_passing_statistics	06cx7p	0792qt5
+cvg.musical_game_song_relationship	019xs5r	067gh	0fq74z3
+american_football.game_passing_statistics	03tt0_	07dlp4m
+cvg.musical_game_song_relationship	0lq4xs	026kds	0fq74z3
+film.film_regional_release_date	0154j	047gn4y
+american_football.game_rushing_statistics	0cwhxj	0b3w6l2
+american_football.game_rushing_statistics	04q2l4	07947tb
+music.group_membership	0342h	0krx6jb	0dm9mxr
+cvg.musical_game_song_relationship	05n98qm	026kds	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	02_fj
+cvg.musical_game_song_relationship	01cbrdm	02plp2	04kbkd1
+base.theosbornboysaregrowing.trip	0lhn5	04_c1nw	03qb78c	04dssd2	04f97t9
+base.ontologies.ontology_instance_mapping	04dm2p_	07ghq
+cvg.musical_game_song_relationship	06m06g	02plp2	027pg4k
+american_football.game_rushing_statistics	03k7k8	0793yjf
+cvg.musical_game_song_relationship	0q6nfv	02plp2	04kbkd1
+baseball.baseball_team_stats	041110t	01d5z
+american_football.game_rushing_statistics	04wmq8	07dlr09
+american_football.game_passing_statistics	029b2g	07932k7
+base.ontologies.ontology_instance_mapping	04dm2p_	03k50
+film.dubbing_performance	02h40lc	01qdv2	042qsv	02z2z5j
+cvg.musical_game_song_relationship	0lgqpc	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0406rh_	02plp2	0fq74z3
+baseball.baseball_team_stats	02h7s4s	05xvj
+cvg.musical_game_song_relationship	019xtqr	02plp2	04kbkd1
+film.dubbing_performance	02h40lc	02jf59	05dfy_	0cbc2k
+cvg.musical_game_song_relationship	01f7bhm	026kds	0fq74z3
+cvg.musical_game_song_relationship	0md1mp	026kds	04kbkd1
+film.film_film_distributor_relationship	03xq0f	08zrbl	07ssc
+cvg.musical_game_song_relationship	0nft9n	026kds	0fq74z3
+cvg.musical_game_song_relationship	04rpmd	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lq4xs	067gh	04kbkd1
+cvg.musical_game_song_relationship	0pdlsn	067gh	0fq74z3
+base.petbreeds.dog_city_relationship	02cyl6	030qb3t
+base.schemastaging.phone_sandbox	064_8sq	04j9t_	052p7	0pl4nkj
+american_football.game_passing_statistics	074l06	07dlm9d
+cvg.musical_game_song_relationship	01d0vs8	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lvj3f	02plp2	06ztwyd
+base.petbreeds.dog_city_relationship	02cj3	02_286
+cvg.musical_game_song_relationship	04bz52	026kds	0fq74z3
+tennis.tennis_tournament_championship	0p58j	01cgs0
+cvg.musical_game_song_relationship	075sgvs	02plp2	04kbkd1
+cvg.musical_game_song_relationship	06dlyz	026kds	06ztwyd
+music.recording_contribution	02r_cc	0c0n9v9	05q65lz
+base.schemastaging.phone_sandbox	02h40lc	03xks	0gyh	0pl4nkj
+american_football.player_passing_statistics	0265q8d	04y6_qr
+cvg.musical_game_song_relationship	04hvtc	067gh	04f17kv
+baseball.baseball_team_stats	02h7s8c	06x68
+baseball.baseball_team_stats	02h7sbd	05m_8
+cvg.musical_game_song_relationship	0psk40	067gh	0fq74z3
+cvg.musical_game_song_relationship	0y7tgc	026kds	0fq74z3
+cvg.musical_game_song_relationship	07n688c	067gh	0fq74z3
+baseball.baseball_team_stats	04111c5	0cqt41
+american_football.game_passing_statistics	0262x0d	07dlnxs
+baseball.batting_statistics	01yjl	02h7s15	0h0hdm
+cvg.musical_game_song_relationship	0bhc9h3	02plp2	04kbkd1
+american_football.game_rushing_statistics	062qp9	07dlnf4
+cvg.musical_game_song_relationship	02vq7_2	067gh	04kbkd1
+american_football.game_rushing_statistics	08gf9t	07dlppz
+american_football.game_passing_statistics	09z4fb	07dlp_1
+american_football.game_rushing_statistics	02qwr64	0792r45
+cvg.musical_game_song_relationship	07t5zwq	066kp	06ztwyd
+cvg.musical_game_song_relationship	07ql41	026kds	04kbkd1
+baseball.batting_statistics	02d02	04110yg	08dzx4
+cvg.musical_game_song_relationship	0b91p6	067gh	0642v9q
+tennis.tennis_tournament_championship	012xcl	05qr52
+cvg.musical_game_song_relationship	0pc8cz	02plp2	04kbkd1
+cvg.musical_game_song_relationship	01f34k7	02plp2	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	0ctw_b	0pl4nm4
+cvg.musical_game_song_relationship	0lccwf	02plp2	0fq74z3
+tennis.tennis_tournament_championship	062pbc	0dl46b
+cvg.musical_game_song_relationship	0_kw5x	02plp2	0fq74z3
+tennis.tennis_tournament_championship	062pxq	03xyp_
+baseball.baseball_team_stats	02h7s5k	02d02
+tennis.tennis_tournament_championship	084qcy	034984
+american_football.game_passing_statistics	0b2v1q	0792z78
+baseball.baseball_team_stats	04110y2	01yjl
+baseball.baseball_team_stats	02h7r_9	05g76
+tennis.tennis_match	02z76bx	012xcl	02w8pmb
+cvg.musical_game_song_relationship	0ptsdg	067gh	04kbkd1
+tennis.tennis_tournament_championship	062pbc	02frlr
+american_football.game_rushing_statistics	09pf2l	0793zf8
+american_football.game_passing_statistics	02zh95	0791nzv
+american_football.game_rushing_statistics	026chnm	07dlsd7
+film.film_film_distributor_relationship	016tt2	03q5db	07ssc
+cvg.musical_game_song_relationship	0lmj8h	026kds	06ztwyd
+tennis.tennis_match	06jt3x	012xcl	0g53p5j
+american_football.game_rushing_statistics	0c28q8	07dlqcz
+cvg.musical_game_song_relationship	07b9771	067gh	04kbkd1
+baseball.baseball_team_stats	02h7sfv	01d5z
+base.schemastaging.phone_sandbox	02h40lc	0qgv8f1	04pnx	0pl4nkj
+base.schemastaging.phone_sandbox	064_8sq	0pyrg_5	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0nfxb3	067gh	0fq74z3
+cvg.musical_game_song_relationship	09q_cy	026kds	0fq74z3
+film.film_film_distributor_relationship	03xq0f	02qk_8	07ssc
+base.ontologies.ontology_instance_mapping	04dm2p_	06gd4
+american_football.game_rushing_statistics	08xbfn	07dln7n
+base.petbreeds.dog_city_relationship	01nw62	0dclg
+american_football.game_passing_statistics	027jv8	07dlqcz
+base.schemastaging.phone_sandbox	06nm1	0pyt3h5	0d060g	0pl4nkj
+baseball.baseball_team_stats	0285r5d	01yhm
+baseball.baseball_team_stats	02h7s6b	01slc
+cvg.musical_game_song_relationship	047vrsx	026kds	025vn5m
+cvg.musical_game_song_relationship	0_nkv3	067gh	04kbkd1
+music.group_membership	0342h	01whg76	01qlt70
+baseball.baseball_team_stats	026fmqm	05kmp0g
+base.schemastaging.phone_sandbox	064_8sq	01rvgk	0f8l9c	0pl4nm4
+american_football.game_rushing_statistics	043ljlz	09rl2k0
+tennis.tennis_match	09gl097	012xcl	047s5q4
+film.dubbing_performance	02h40lc	012698	0cks1m	07cn2c
+cvg.musical_game_song_relationship	0gnvhf	026kds	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	02py351	07ssc	0pl4nkj
+cvg.musical_game_song_relationship	0np8sh	026kds	0fq74z3
+american_football.game_passing_statistics	097hft	0792y1k
+cvg.musical_game_song_relationship	098bqv	067gh	04kbkd1
+music.track_contribution	0290ngj	01wlcr3
+cvg.game_performance	02p_ls	01x1wl	0cd17s
+tennis.tennis_tournament_championship	062pwg	0c17cb
+base.popstra.religion_choice	0c8wxp	0bx_q
+baseball.baseball_team_stats	04111d9	02d02
+american_football.game_passing_statistics	033t8w	07dlpns
+base.ontologies.ontology_instance_mapping	04dm2p_	0b2h3
+tennis.tennis_match	027q1_3	0mmmt	09n70c
+tennis.tennis_tournament_championship	084qcy	06_247
+baseball.baseball_team_stats	02h7sbq	051vz
+cvg.musical_game_song_relationship	0ngh1y	067gh	06ztwyd
+film.dubbing_performance	02h40lc	0ngkklr	042qsv	05v954
+music.track_contribution	05r5c	03h_kgb
+american_football.game_rushing_statistics	097hft	0792wnm
+base.ontologies.ontology_instance_mapping	04dm2p_	0crpc
+base.schemastaging.phone_sandbox	02h40lc	0gyss3x	0yyh	0pl4nkj
+cvg.musical_game_song_relationship	03mdf51	066kp	027pg4k
+cvg.musical_game_song_relationship	0lhn4z	026kds	0fq74z3
+baseball.baseball_team_stats	02h7s3j	061xq
+cvg.musical_game_song_relationship	02pq86h	026kds	04kbkd1
+tennis.tennis_match	023q7x	0p58j	03xyp_
+cvg.musical_game_song_relationship	06dlyz	067gh	0464gkc
+cvg.musical_game_song_relationship	0mggr5	067gh	0fq74z3
+cvg.musical_game_song_relationship	0lmj8h	066kp	06ztwyd
+cvg.musical_game_song_relationship	0y7tgc	02plp2	04kbkd1
+music.track_contribution	05r5c	01sqgd
+fashion.clothing_size	06rrc	02mjmr	09c7w0
+american_football.game_rushing_statistics	046bjz	07dlv8z
+tennis.tennis_tournament_championship	0mmmt	036vlc
+american_football.game_rushing_statistics	033t8w	07dlpvl
+american_football.player_passing_statistics	08_6dw	03gqdq7
+baseball.baseball_team_stats	02h7s28	03m1n
+american_football.game_rushing_statistics	065lzw	07923nq
+baseball.baseball_team_stats	02h7sct	05m_8
+cvg.musical_game_song_relationship	0r2_14	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7sct	05xvj
+tennis.tennis_match	02vqjcx	012xcl	0gpsg4
+baseball.baseball_team_stats	04111lk	042v_h4
+baseball.baseball_team_stats	02h7sd8	01yjl
+cvg.musical_game_song_relationship	03wp0bk	02plp2	0fq74z3
+american_football.game_rushing_statistics	02w3v66	07dlswb
+base.schemastaging.phone_sandbox	03k50	0fxkpc	03rk0	0pl4nkj
+film.dubbing_performance	02h40lc	068k36	026pf6t	05zl9t6
+cvg.musical_game_song_relationship	04gm3fc	026kds	06ztwyd
+cvg.musical_game_song_relationship	03h5xpn	067gh	025vn5m
+american_football.game_passing_statistics	021h8y	0793mqw
+baseball.batting_statistics	01slc	02h7sfp	02wl8c
+cvg.musical_game_song_relationship	07npl0j	066kp	025vn5m
+cvg.musical_game_song_relationship	05b360	026kds	0642v9q
+cvg.musical_game_song_relationship	07t5zwq	067gh	06ztwyd
+base.schemastaging.phone_sandbox	02bv9	01rvgk	059j2	0pl4nkj
+cvg.musical_game_song_relationship	0lnx9h	067gh	04kbkd1
+tennis.tennis_match	03b7gw	062pbc	09gj98
+cvg.musical_game_song_relationship	0cr_wt	066kp	03x_n7k
+tennis.tennis_tournament_championship	0mmmt	0bd276
+american_football.game_rushing_statistics	02qwkw2	07920f6
+music.track_contribution	0290ngj	04gycf
+cvg.game_performance	04mt7r	01rk30	0bjm05
+cvg.musical_game_song_relationship	0lf2wr	02plp2	0fq74z3
+film.film_regional_release_date	0d060g	0kmz6ms
+baseball.baseball_team_stats	02h7s5k	051wf
+american_football.game_rushing_statistics	04m2px	07dlrpr
+music.track_contribution	0290ngj	011vx3
+tennis.tennis_tournament_championship	0l6c9	06ql2d
+cvg.musical_game_song_relationship	0djhxs	067gh	0464gkc
+tennis.tennis_match	0cm922p	012xcl	07kcpkl
+baseball.baseball_team_stats	02qmmv6	05kn7bw
+cvg.musical_game_song_relationship	0q7fhk	02plp2	04kbkd1
+film.film_regional_release_date	0154j	0pd64
+tennis.tennis_tournament_championship	012xcl	06dqw8
+cvg.musical_game_song_relationship	070z4x	026kds	025vn5m
+tennis.tennis_tournament_championship	0mmmt	03btc1
+cvg.musical_game_song_relationship	01dnq5w	02plp2	0464gkc
+baseball.batting_statistics	02d02	02h7s1t	04gc87
+music.recording_contribution	053y0s	0c0n9v9	040_y9
+cvg.musical_game_song_relationship	04bz52	026kds	0642v9q
+baseball.batting_statistics	05lkwhs	02wxr1w	0bw0k7
+baseball.baseball_team_stats	02h7sdf	0cqt41
+cvg.musical_game_song_relationship	052n5t	02plp2	0642v9q
+cvg.musical_game_song_relationship	075x_df	026kds	0fq74z3
+music.recording_contribution	0313_3	0l14md	02pxf6m
+film.dubbing_performance	02h40lc	082yvw	0dd6bf	0btpml
+tennis.tennis_match	0g53p5j	012xcl	0bbwvqy
+music.group_membership	0l14md	02p8wxp	027kwc
+film.film_regional_release_date	07ssc	0jzw
+baseball.baseball_team_stats	02h7s8p	07147
+american_football.game_passing_statistics	04q06_	07dlnyq
+american_football.game_rushing_statistics	0cjcdj	0792yg2
+cvg.musical_game_song_relationship	075sh9n	026kds	04kbkd1
+film.dubbing_performance	02h40lc	02bl6q	0fhnh2	0fmg0n
+cvg.musical_game_song_relationship	05n97q6	066kp	06ztwyd
+base.schemastaging.phone_sandbox	02h40lc	0rqcg8w	07bcn	0pl4nkj
+baseball.baseball_team_stats	05lqwn5	061xq
+base.schemastaging.phone_sandbox	02h40lc	034qg	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0lnx9q	067gh	04kbkd1
+base.petbreeds.dog_city_relationship	01s7fj	04f_d
+base.ontologies.ontology_instance_mapping	04dm2p_	0jbs5
+baseball.historical_coaching_tenure	0804pk	01d5z	04_75jz
+tennis.tennis_tournament_championship	0l6c9	05rlqw
+american_football.player_passing_statistics	05w109	04y6_qr
+american_football.game_rushing_statistics	06m553	07dls2m
+cvg.musical_game_song_relationship	0ls4w9	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lnt9g	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	059_c
+cvg.musical_game_song_relationship	014rnzb	026kds	04kbkd1
+american_football.game_rushing_statistics	05223lq	07dlq6z
+tennis.tennis_tournament_championship	062pyl	051q39
+cvg.musical_game_song_relationship	02z8jl2	02plp2	0fq74z3
+baseball.baseball_team_stats	02h7s7r	01d5z
+baseball.baseball_team_stats	02h7s1t	05xvj
+american_football.game_passing_statistics	025j0c	07dlq3r
+base.petbreeds.dog_city_relationship	02cj3	01smm
+american_football.game_rushing_statistics	0f6lqs	07dlqjy
+aviation.airline_airport_presence	01lfy	08ttpy	01z80n
+tennis.tennis_tournament_championship	0p58j	0b4nf0
+cvg.musical_game_song_relationship	04y375	02plp2	0fq74z3
+baseball.batting_statistics	01d6g	027mvrc	059_k7
+base.schemastaging.phone_sandbox	02h40lc	05k4k	05fly	0pl4nm4
+tennis.tennis_match	047s537	012xcl	02vxz5s
+american_football.game_rushing_statistics	0bnks5	0791mk4
+cvg.musical_game_song_relationship	075sm6z	02plp2	0fq74z3
+american_football.game_rushing_statistics	027qdpl	0792f6n
+baseball.baseball_team_stats	041105l	061xq
+cvg.musical_game_song_relationship	05y1nj	066kp	05n03yl
+cvg.musical_game_song_relationship	0ry95_	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	06d_3
+location.location_symbol_relationship	05k7sb	01yrt2
+baseball.historical_coaching_tenure	02ssmv	01d5z	04_75jz
+base.schemastaging.phone_sandbox	02h40lc	0109_flk	0f8l9c	0pl4nkj
+cvg.musical_game_song_relationship	04gv9b5	066kp	0642v9q
+base.petbreeds.dog_city_relationship	01llgk	0n1rj
+american_football.game_rushing_statistics	0cx2qq	0791ys4
+cvg.musical_game_song_relationship	026mlj3	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lqg3f	026kds	04kbkd1
+military.force_strength	02h78br	06qd3	07_nf
+cvg.musical_game_song_relationship	0ntxvd	067gh	0642v9q
+film.dubbing_performance	02h40lc	01h2r6	0ckr7s	09r7rl
+american_football.game_passing_statistics	07l8mg	07dlmy5
+american_football.game_rushing_statistics	02qwr64	0792zzc
+baseball.baseball_team_stats	02h7sdf	04mjl
+baseball.baseball_team_stats	0285r5d	07l4z
+base.petbreeds.dog_city_relationship	01k3tq	01smm
+cvg.musical_game_song_relationship	03wp0c9	067gh	0fq74z3
+baseball.baseball_team_stats	04110y2	05fc8c9
+baseball.baseball_team_stats	04111bf	0cqt41
+cvg.musical_game_song_relationship	0h4_93	067gh	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	063_t
+cvg.musical_game_song_relationship	04mtsz	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0k70
+american_football.game_rushing_statistics	02qxmd6	0792_9t
+cvg.musical_game_song_relationship	04cx_qs	026kds	0642v9q
+baseball.baseball_team_stats	03c6sl9	01yjl
+base.ontologies.ontology_instance_mapping	04dm2p_	043zg
+cvg.musical_game_song_relationship	01d08g0	067gh	06ztwyd
+tennis.tennis_match	02pk06h	0mmmt	03hmqk_
+film.dubbing_performance	02h40lc	05j4hq	0cxf7c	0g6784
+cvg.musical_game_song_relationship	05kmf61	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7sbd	04mjl
+tennis.tennis_tournament_championship	04w70r	09lsp0
+baseball.baseball_team_stats	04111m9	02d02
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	07ssc	0pl4nkj
+cvg.musical_game_song_relationship	05n9251	026kds	0fq74z3
+american_football.game_rushing_statistics	095xk6	075rrrc
+baseball.baseball_team_stats	02h7s2l	07l4z
+baseball.baseball_team_stats	025ygqm	03m1n
+baseball.baseball_team_stats	02h7s1z	0512p
+cvg.musical_game_song_relationship	0l4j_y	067gh	04kbkd1
+tennis.tennis_tournament_championship	062psk	022skn
+cvg.musical_game_song_relationship	01bxztf	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0417lld	067gh	0464gkc
+american_football.game_rushing_statistics	04ljjn	0794ygq
+tennis.tennis_tournament_championship	062psk	04t92
+base.schemastaging.phone_sandbox	02h40lc	029g_vk	09c7w0	0pl4nkj
+american_football.game_passing_statistics	05txyj	0792fc1
+american_football.game_rushing_statistics	0443dj	0794fry
+sports.pro_sports_played	0jm_	0gs2k8
+cvg.musical_game_song_relationship	085g50	026kds	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	02pn52z	034cm	0pl4nm4
+american_football.game_passing_statistics	030bdd	07dlssm
+baseball.baseball_team_stats	02h7s28	05g76
+cvg.musical_game_song_relationship	0y7qtq	067gh	0fq74z3
+cvg.musical_game_song_relationship	0b8lyl	026kds	06ztwyd
+american_football.game_passing_statistics	07l8mg	07dlqxx
+american_football.game_rushing_statistics	05yj_q	07dlqh1
+cvg.musical_game_song_relationship	04d_pjd	066kp	0464gkc
+base.schemastaging.phone_sandbox	02h40lc	0qj8lr9	03zvnf	0pl4nkj
+location.location_symbol_relationship	0694j	0j749
+film.film_regional_release_date	09c7w0	031gmx
+baseball.baseball_team_stats	0411129	05lkwhs
+cvg.musical_game_song_relationship	0q7hy6	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0797rd9	02x8rd	04kbkd1
+american_football.game_rushing_statistics	04hlp3	07dlq60
+baseball.baseball_team_stats	02h7s31	06x68
+cvg.musical_game_song_relationship	03d2lg0	02plp2	0464gkc
+cvg.musical_game_song_relationship	075sm80	026kds	04kbkd1
+baseball.baseball_team_stats	027pwzc	0713r
+cvg.musical_game_song_relationship	0frbt7x	026kds	0fq74z3
+cvg.musical_game_song_relationship	07np7jl	026kds	06ztwyd
+american_football.game_rushing_statistics	03d753s	07dlqqf
+film.dubbing_performance	02h40lc	01jtv6	0b919v	0dccw0
+cvg.musical_game_song_relationship	0lz4m1	026kds	0fq74z3
+american_football.game_rushing_statistics	03d74x4	0792_5w
+biology.breed_registration	01xtxb	0ljl8	05781x
+base.ontologies.ontology_instance_mapping	04dm2p_	0k670
+cvg.musical_game_song_relationship	0y811m	067gh	04kbkd1
+american_football.game_passing_statistics	0cw15s	0791wxm
+cvg.musical_game_song_relationship	0dvdws0	02plp2	0fq74z3
+baseball.baseball_team_stats	041110t	01yhm
+cvg.musical_game_song_relationship	0r2_01	067gh	0fq74z3
+cvg.musical_game_song_relationship	07kblf	026kds	0464gkc
+base.schemastaging.phone_sandbox	06nm1	0rq6xdc	02j71	0pl4nkj
+american_football.game_rushing_statistics	0cv72h	0791zf6
+baseball.baseball_team_stats	04110yg	01d5z
+cvg.musical_game_song_relationship	01b1gtp	026kds	0fq74z3
+american_football.game_rushing_statistics	029b2g	0792xlc
+cvg.musical_game_song_relationship	03jkxv9	026kds	0642v9q
+baseball.baseball_team_stats	02h7s9g	01yhm
+cvg.musical_game_song_relationship	026qhkb	066kp	05n03yl
+cvg.musical_game_song_relationship	075smfb	067gh	0fq74z3
+tennis.tennis_match	03hh0w4	012xcl	07nvr4
+tennis.tennis_match	026zdkf	012xcl	06jf_z
+music.group_membership	0342h	05fkqt	0y4_d
+american_football.game_rushing_statistics	03h308s	07dlqjy
+music.group_membership	0342h	03xpg8h	06yl8w
+cvg.musical_game_song_relationship	0mfxft	02plp2	04kbkd1
+american_football.game_rushing_statistics	03c87rb	0793x56
+cvg.musical_game_song_relationship	05kjvl	067gh	025vn5m
+american_football.game_rushing_statistics	062qp9	0791y_d
+base.schemastaging.phone_sandbox	02h40lc	0dw7n	09c7w0	0pl4nkj
+baseball.batting_statistics	05knd46	04110_p	0jpmf
+american_football.game_passing_statistics	05w0_k	07dlr09
+baseball.baseball_team_stats	02h7sbd	061xq
+american_football.player_passing_statistics	0cv72h	03gqdq7
+base.schemastaging.phone_sandbox	02h40lc	04j9t_	02_286	0pl4nkj
+baseball.baseball_team_stats	02h7s1z	05g76
+people.marriage	0pkw7	02_286
+cvg.musical_game_song_relationship	0797kwd	02plp2	0fq74z3
+cvg.musical_game_song_relationship	08p9hj	026kds	0fq74z3
+cvg.musical_game_song_relationship	0l_1gm	02plp2	0642v9q
+baseball.baseball_team_stats	02h7s2l	061xq
+cvg.musical_game_song_relationship	04ghf9h	02plp2	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0f13t
+baseball.baseball_team_stats	02h7s0q	05ll5_5
+cvg.musical_game_song_relationship	0lmj8h	067gh	0642v9q
+cvg.musical_game_song_relationship	07147m	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lf8q3	02plp2	0fq74z3
+tennis.tennis_match	0nfwy2v	0mmmt	0bbv546
+cvg.musical_game_song_relationship	027hn5t	067gh	027pg4k
+cvg.musical_game_song_relationship	0tkg59	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0112fbt	02plp2	0fq74z3
+baseball.lifetime_batting_statistics	018l20	02h7sbq	02h7sbq	02h7s1n
+baseball.batting_statistics	061xq	02h7sbd	035gb_
+base.schemastaging.phone_sandbox	02h40lc	0hht9s1	09c7w0	0pl4nkj
+baseball.baseball_team_stats	02h7s7r	03m1n
+film.dubbing_performance	02h40lc	0ndv08y	07fpw5	07jf6t
+base.schemastaging.phone_sandbox	02h40lc	021wy4	0chghy	0pl4nmy
+tennis.tennis_match	0bm90s7	012xcl	05p7ml0
+people.marriage	01pctb	0b90_r
+film.dubbing_performance	02h40lc	07kwn7	06fc9s	0h25vw
+tennis.tennis_tournament_championship	0mmmt	03bjrp
+cvg.musical_game_song_relationship	05nc41y	02plp2	025vn5m
+cvg.musical_game_song_relationship	05n98xm	066kp	06ztwyd
+american_football.game_passing_statistics	06cx7p	0793vcm
+american_football.game_passing_statistics	0464v5	0792qt5
+base.ontologies.ontology_instance_mapping	04dm2p_	0j8js
+cvg.musical_game_song_relationship	017pnsn	02plp2	0642v9q
+cvg.musical_game_song_relationship	0ry95_	02plp2	0fq74z3
+tennis.tennis_match	064ph14	012xcl	03wc52
+base.ontologies.ontology_instance_mapping	04dm2p_	0blt6
+tennis.tennis_tournament_championship	0mmmt	04zkmf
+film.dubbing_performance	02h40lc	0ngkklr	0b919v	05v954
+music.recording_contribution	07h3cc	0l14md	01jgmqq
+cvg.musical_game_song_relationship	0l1f7f	026kds	0fq74z3
+cvg.musical_game_song_relationship	0dyqww	066kp	025vn5m
+cvg.musical_game_song_relationship	07n688c	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0tvyk3	02x8rd	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0bjv6
+cvg.musical_game_song_relationship	0797kwd	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0mlv3j	067gh	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0dw7n	018hr_	0pl4nkj
+cvg.musical_game_song_relationship	01f7cs2	02plp2	04kbkd1
+music.recording_contribution	05sny38	0290ngj	05sny61
+base.popstra.product_choice	026kds	01n5309
+music.recording_contribution	01wkvt3	0l14qv	01qvpzw
+cvg.musical_game_song_relationship	0qhm11	026kds	0fq74z3
+cvg.musical_game_song_relationship	0r2_01	02plp2	04kbkd1
+cvg.musical_game_song_relationship	06zhkz	067gh	04kbkd1
+american_football.game_rushing_statistics	07y_ft	07dlpns
+location.location_symbol_relationship	04tgp	04627gn
+cvg.musical_game_song_relationship	0zpfbg	02plp2	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	019sc6	09c7w0	0pl4nmy
+cvg.musical_game_song_relationship	02vq9wl	066kp	03x_n7k
+american_football.game_rushing_statistics	0cv72h	0791w6f
+baseball.baseball_team_stats	0411129	01yhm
+cvg.musical_game_song_relationship	05n97sh	066kp	06ztwyd
+cvg.game_performance	07xxp9	066_0n	0bxg26
+cvg.musical_game_song_relationship	01blvr0	067gh	04kbkd1
+baseball.baseball_team_stats	05lqwr4	05xvj
+american_football.game_rushing_statistics	0cwlgg	07dlnmk
+cvg.musical_game_song_relationship	0vc5dm	026kds	06ztwyd
+american_football.game_passing_statistics	0cv72h	07dltk2
+american_football.game_rushing_statistics	043mhm7	07dlmy5
+tennis.tennis_tournament_championship	0mmmt	0bdnk3
+baseball.baseball_team_stats	0411101	01d5z
+cvg.musical_game_song_relationship	0fjk88	067gh	025vn5m
+cvg.musical_game_song_relationship	010p6mc	067gh	04kbkd1
+cvg.musical_game_song_relationship	04f43fp	026kds	0642v9q
+cvg.musical_game_song_relationship	0np8sh	067gh	04kbkd1
+film.dubbing_performance	02h40lc	0409pl	02w5tqb	0fps52
+baseball.baseball_team_stats	04111c5	02d02
+cvg.musical_game_song_relationship	013flpq	026kds	0fq74z3
+baseball.baseball_team_stats	02h7s31	04xg_4p
+music.recording_contribution	0f2zvb	0l14qv	02rqldc
+cvg.musical_game_song_relationship	013srq3	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lpnsj	026kds	04kbkd1
+american_football.game_rushing_statistics	05txyj	07929vd
+baseball.baseball_team_stats	05lqcjv	03sn07
+american_football.game_rushing_statistics	0bhy1_	07945k0
+music.recording_contribution	0krsyr8	0c0n9v9	0l8pg6p
+cvg.musical_game_song_relationship	07mq4dq	02plp2	04kbkd1
+american_football.game_rushing_statistics	05vls2	079371d
+base.ontologies.ontology_instance_mapping	04dm2p_	01mk6
+cvg.musical_game_song_relationship	01f34k7	02plp2	0fq74z3
+baseball.baseball_team_stats	02h7sfp	01d5z
+cvg.musical_game_song_relationship	0dvzb1x	026kds	04kbkd1
+cvg.musical_game_song_relationship	01c0y19	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7s1b	07l4z
+location.location_symbol_relationship	0498y	04g8vjx
+baseball.baseball_team_stats	041110t	01yjl
+american_football.game_rushing_statistics	062qp9	07dlmpn
+baseball.baseball_team_stats	02h7r_9	061xq
+base.ontologies.ontology_instance_mapping	04dm2p_	06vbd
+people.human_measurement	031974	07g8bl
+american_football.game_rushing_statistics	03d13n8	07dlpyw
+cvg.musical_game_song_relationship	03h45lf	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0fzvcl	02plp2	0642v9q
+american_football.game_rushing_statistics	065lzw	07dlp_1
+base.ontologies.ontology_instance_mapping	04dm2p_	0h2c3
+film.dubbing_performance	02h40lc	020xc2	06c805	0ck6ln
+cvg.musical_game_song_relationship	05n9081	02plp2	0464gkc
+baseball.baseball_team_stats	041112p	01slc
+baseball.baseball_team_stats	02h7sdf	0713r
+music.group_membership	0290ngj	011nm5vr	0drz_t3
+base.schemastaging.phone_sandbox	02h40lc	0rymjp3	07ssc	0pl4nlv
+military.force_strength	02h78br	05vz3zq	07_nf
+cvg.musical_game_song_relationship	0ddpqs	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s31	04mjl
+cvg.musical_game_song_relationship	0tkg59	026kds	0fq74z3
+american_football.game_rushing_statistics	02qwkw2	07dlnrs
+tennis.tennis_tournament_championship	0g3h5x	02wx7qk
+cvg.musical_game_song_relationship	027hn5t	066kp	027pg4k
+base.ontologies.ontology_instance_mapping	04dm2p_	0j3b
+baseball.lifetime_batting_statistics	035gb_	02h7s1h	02h7s1h	02h7s31
+film.film_regional_release_date	03rt9	08lkvt
+base.schemastaging.phone_sandbox	06nm1	02hq_z	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	05b360	02plp2	0464gkc
+baseball.baseball_team_stats	05lqxcx	05kn7bw
+cvg.musical_game_song_relationship	0pfry3	066kp	0464gkc
+cvg.game_performance	05h55g0	03bxbkg	0bjm05
+cvg.musical_game_song_relationship	026sf4s	066kp	025vn5m
+cvg.musical_game_song_relationship	0lscmf	067gh	0fq74z3
+cvg.musical_game_song_relationship	058fvn	02plp2	0fq74z3
+cvg.musical_game_song_relationship	05sgj_	02plp2	0464gkc
+cvg.musical_game_song_relationship	05n98s9	067gh	04kbkd1
+american_football.game_rushing_statistics	0d6nyb	07927gm
+cvg.musical_game_song_relationship	0lmp4p	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7sfv	02d02
+cvg.musical_game_song_relationship	01cbrdm	026kds	04kbkd1
+tennis.tennis_tournament_championship	0l6c9	0dptk_
+cvg.musical_game_song_relationship	0y7tgc	02plp2	06ztwyd
+tennis.tennis_match	0267yjw	012xcl	02vxz41
+cvg.musical_game_song_relationship	07jy_9	067gh	0fq74z3
+american_football.game_passing_statistics	097hft	07dlt1p
+american_football.game_passing_statistics	025j0c	07dlv4k
+cvg.musical_game_song_relationship	012q_0	026kds	0642v9q
+baseball.baseball_team_stats	05lqlth	01638t
+american_football.game_rushing_statistics	029b2g	0794871
+tennis.tennis_tournament_championship	062psk	066k52
+baseball.baseball_team_stats	05lqw34	01638t
+cvg.musical_game_song_relationship	075x_37	02plp2	04kbkd1
+baseball.baseball_team_stats	025ygws	07147
+baseball.baseball_team_stats	02h7sdr	04mjl
+cvg.musical_game_song_relationship	0frp42p	066kp	0642v9q
+base.petbreeds.dog_city_relationship	02cj3	0f__1
+film.film_regional_release_date	02vzc	057jdv
+baseball.baseball_team_stats	02h7rz_	05m_8
+american_football.game_rushing_statistics	065lzw	0792dmr
+cvg.musical_game_song_relationship	0g4_t8	026kds	0fq74z3
+cvg.musical_game_song_relationship	0cpdrq	067gh	0fq74z3
+cvg.musical_game_song_relationship	02qjyrm	02plp2	0464gkc
+american_football.game_rushing_statistics	0cw15s	07dlrg8
+music.recording_contribution	0m2l9	0c0n9v9	02rqkjh
+baseball.baseball_team_stats	027pwzc	05m_8
+cvg.musical_game_song_relationship	01d08g0	02plp2	0642v9q
+base.schemastaging.phone_sandbox	02h40lc	05rsv2	0ctw_b	0t4tr1y
+film.dubbing_performance	02h40lc	0g4n73j	02z9hqn	084x96
+cvg.musical_game_song_relationship	0y7qtq	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	01gc7
+cvg.musical_game_song_relationship	019xtqr	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s6b	0512p
+tennis.tennis_tournament_championship	0p58j	02q7lnf
+baseball.baseball_team_stats	02h7r_y	061xq
+tennis.tennis_tournament_championship	062psk	01653g
+film.dubbing_performance	02h40lc	0hqg9ry	026pf6t	05zkqcy
+baseball.baseball_team_stats	0dx84s	07l4z
+baseball.baseball_team_stats	04111c5	05ll5_5
+tennis.tennis_tournament_championship	0l6c9	06ql7b
+tennis.tennis_tournament_championship	012xcl	0svt5
+american_football.game_passing_statistics	0bmps_	07dlmnv
+cvg.musical_game_song_relationship	02nt_tg	02plp2	04kbkd1
+tennis.tennis_tournament_championship	04w70r	03btc1
+baseball.lifetime_batting_statistics	03kjxf	02h7r_9	02h7r_9	02h7s1t
+cvg.musical_game_song_relationship	0lf2yq	026kds	0fq74z3
+american_football.game_passing_statistics	0cwhxj	07dlqh1
+sports.pro_sports_played	07bs0	03hh_d_
+tennis.tennis_tournament_championship	062pbc	08l6n5
+cvg.musical_game_song_relationship	05n991w	026kds	04kbkd1
+baseball.baseball_team_stats	02h7s1z	01slc
+base.schemastaging.phone_sandbox	02h40lc	0pmgsxt	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0p8qnt	02plp2	04kbkd1
+american_football.game_passing_statistics	03tt0_	07dlp3q
+baseball.baseball_team_stats	02h7s6z	061xq
+tennis.tennis_tournament_championship	062pbc	0knq
+film.dubbing_performance	02h40lc	02rc4d	06pnn_	07y91g
+base.ontologies.ontology_instance_mapping	04dm2p_	07wjk
+music.recording_contribution	07r4c	0l14qv	0jczf
+cvg.musical_game_song_relationship	0m7btl	026kds	04kbkd1
+american_football.game_rushing_statistics	05yj_q	07dlvc3
+cvg.musical_game_song_relationship	06h9lw	066kp	04f17kv
+cvg.musical_game_song_relationship	05n9763	02plp2	0642v9q
+american_football.game_passing_statistics	03qjjff	0791pf0
+american_football.game_rushing_statistics	030bdd	07931qv
+cvg.musical_game_song_relationship	01dnq5w	067gh	0464gkc
+tennis.tennis_tournament_championship	012xcl	01c4by
+american_football.game_passing_statistics	033t8w	07929vd
+cvg.musical_game_song_relationship	0cjv1p	066kp	025vn5m
+tennis.tennis_match	02gq2g	0p58j	0hdr
+baseball.baseball_team_stats	027pwzc	05g76
+cvg.musical_game_song_relationship	02vq9wl	026kds	0fq74z3
+american_football.game_rushing_statistics	02qdp4v	07dlryw
+tennis.tennis_match	03wc52	04w70r	06m6fl
+cvg.musical_game_song_relationship	0djhxs	026kds	0464gkc
+cvg.musical_game_song_relationship	02qccf	026kds	025vn5m
+people.human_measurement	031974	02p_rs4
+baseball.baseball_team_stats	02h7s57	051wf
+cvg.musical_game_song_relationship	075sm89	067gh	04kbkd1
+cvg.musical_game_song_relationship	04gv9b5	02plp2	0642v9q
+people.marriage	043zg	030qb3t
+cvg.musical_game_song_relationship	01dw53l	02plp2	0fq74z3
+music.track_contribution	0l14md	01tq77z
+tennis.tennis_tournament_championship	0p58j	0650gk
+cvg.musical_game_song_relationship	0djhxs	02plp2	04kbkd1
+base.petbreeds.dog_city_relationship	01t032	013yq
+tennis.tennis_tournament_championship	04wbkq	01jg46
+cvg.musical_game_song_relationship	02801mt	067gh	04kbkd1
+cvg.musical_game_song_relationship	07n689d	026kds	04kbkd1
+baseball.baseball_team_stats	05lqc5f	02zjfp
+people.human_measurement	031974	0dgcphk
+baseball.baseball_team_stats	02h7s8c	01yhm
+cvg.musical_game_song_relationship	060ch6	02plp2	0642v9q
+cvg.musical_game_song_relationship	05n973q	02plp2	0464gkc
+base.schemastaging.phone_sandbox	06nm1	0pyrhmg	0d060g	0pl4nkj
+cvg.musical_game_song_relationship	064ts9d	026kds	0642v9q
+cvg.musical_game_song_relationship	02qsyq9	02plp2	04kbkd1
+cvg.musical_game_song_relationship	05n97ml	067gh	0642v9q
+baseball.baseball_team_stats	02h7s9g	05g76
+cvg.musical_game_song_relationship	0mf8g5	02plp2	04kbkd1
+cvg.musical_game_song_relationship	07k62t	066kp	025vn5m
+tennis.tennis_tournament_championship	062pbc	03cp_nq
+cvg.musical_game_song_relationship	05gt4j	02plp2	0fq74z3
+baseball.baseball_team_stats	041110t	05knd46
+american_football.game_rushing_statistics	0746cp	07dlpds
+cvg.musical_game_song_relationship	0yy9qj	02plp2	0fq74z3
+base.schemastaging.phone_sandbox	02h40lc	09f43b	0d060g	0pl4nkj
+baseball.baseball_team_stats	02h7s0k	01ypc
+cvg.musical_game_song_relationship	0y7tgc	026kds	0642v9q
+film.film_film_distributor_relationship	093h7p	06977k	0cq_2nv
+american_football.game_rushing_statistics	05dcr4	0791r6k
+cvg.musical_game_song_relationship	04n15x7	02plp2	0464gkc
+location.location_symbol_relationship	03v1s	04627gn
+tennis.tennis_tournament_championship	084qcy	03vwtd
+base.schemastaging.phone_sandbox	02h40lc	010gk15m	035qy	0pl4nkj
+baseball.baseball_team_stats	02h7s52	051vz
+baseball.baseball_team_stats	02h7sfv	0cqt41
+cvg.musical_game_song_relationship	048cbj	02plp2	04kbkd1
+cvg.musical_game_song_relationship	01f7cqs	067gh	0fq74z3
+film.film_film_distributor_relationship	03xq0f	0fq6fc4	07ssc
+american_football.game_rushing_statistics	0464v5	0792jk9
+cvg.musical_game_song_relationship	0735c9	066kp	0cnjm0
+american_football.game_rushing_statistics	0cwmzd	07dls_7
+base.schemastaging.phone_sandbox	02h40lc	0273t5w	04vmp	0pl4nkj
+cvg.musical_game_song_relationship	02vq7_2	02plp2	0fq74z3
+baseball.baseball_team_stats	05m2x6r	02zjfp
+base.ontologies.ontology_instance_mapping	04dm2p_	0h0xm
+tennis.tennis_match	02pmq18	012xcl	09n70c
+cvg.musical_game_song_relationship	0m4vrk	026kds	0fq74z3
+people.human_measurement	031974	0dgbfl6
+american_football.game_rushing_statistics	05yj_q	07dlq4k
+baseball.baseball_team_stats	05lqjhl	05lpk7_
+tv.regular_tv_appearance	09btt1	04n3wml	0c69rrz	02rzdcp
+base.schemastaging.phone_sandbox	02h40lc	027lls7	09c7w0	0pl4nm4
+american_football.game_passing_statistics	05txyj	07dlq4k
+baseball.baseball_team_stats	02wxr1w	05xvj
+cvg.musical_game_song_relationship	05n91nv	026kds	0464gkc
+cvg.musical_game_song_relationship	075vpyp	067gh	04kbkd1
+baseball.baseball_team_stats	05lqjhl	05lrgfk
+american_football.game_passing_statistics	033t8w	07dlpwc
+base.ontologies.ontology_instance_mapping	04dm2p_	0ddnl
+tennis.tennis_match	070yz_	062pbc	0706_1
+base.schemastaging.phone_sandbox	02h40lc	0169zh	02j71	0pl4nm4
+american_football.game_rushing_statistics	051018	07dlqcz
+cvg.musical_game_song_relationship	06y3rd	026kds	025vn5m
+american_football.player_passing_statistics	04mmw5	03gqdq7
+cvg.musical_game_song_relationship	0pfry3	02plp2	0642v9q
+american_football.game_passing_statistics	0cwmzd	07dlt83
+american_football.game_rushing_statistics	05k0kp	0791w6f
+film.film_film_distributor_relationship	093h7p	03y0pn	0cq_2nv
+cvg.musical_game_song_relationship	07n68fs	026kds	0642v9q
+baseball.baseball_team_stats	02h7s57	06wpc
+music.recording_contribution	03_vrm	0l14md	02756k5
+cvg.musical_game_song_relationship	07np4zm	026kds	04kbkd1
+base.schemastaging.phone_sandbox	02h40lc	0fxkpc	0f8l9c	0pl4nkj
+baseball.lifetime_batting_statistics	03_507	02h7s2l	02h7s2l	02h7sbd
+cvg.musical_game_song_relationship	05n991w	067gh	06ztwyd
+base.schemastaging.phone_sandbox	02h40lc	04yq3bv	09c7w0	0pl4nkj
+cvg.musical_game_song_relationship	0lhn55	067gh	04kbkd1
+music.recording_contribution	01wlcr3	0l14qv	0954vc
+baseball.batting_statistics	01slc	02h7s52	02dbh0
+tennis.tennis_match	0dmyb1	012xcl	0crfybs
+location.location_symbol_relationship	0gyh	04st6h7
+baseball.baseball_team_stats	03c6sl9	049n7
+cvg.musical_game_song_relationship	04sc7d	067gh	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0dw_m
+base.ontologies.ontology_instance_mapping	04dm2p_	01l8p
+cvg.musical_game_song_relationship	01f7cqs	067gh	04kbkd1
+baseball.baseball_team_stats	02h7r_9	01yjl
+film.dubbing_performance	02h40lc	020xc2	09802n	0ck6ln
+american_football.game_rushing_statistics	027jv8	07dlqhz
+american_football.game_rushing_statistics	04jj47d	07dlq6z
+base.schemastaging.phone_sandbox	02h40lc	06w58cc	0chghy	0pl4nkj
+american_football.player_passing_statistics	05txyj	03gqdq7
+cvg.musical_game_song_relationship	0wff1p	026kds	04kbkd1
+cvg.musical_game_song_relationship	03jkxv9	066kp	0464gkc
+cvg.musical_game_song_relationship	06kg91	067gh	0fq74z3
+base.petbreeds.dog_city_relationship	0km5c	01sn3
+base.petbreeds.dog_city_relationship	01llgk	02cl1
+baseball.baseball_team_stats	02h7s1t	05m_8
+base.schemastaging.phone_sandbox	02h40lc	032t7j	07ssc	0pl4nkj
+baseball.baseball_team_stats	02h7s23	01d6g
+base.schemastaging.phone_sandbox	04306rv	015p1m	06mzp	0pl4nkj
+cvg.musical_game_song_relationship	0ls4w9	067gh	0fq74z3
+film.film_regional_release_date	035qy	08zrbl
+baseball.baseball_team_stats	05lqcjv	05lpk7_
+baseball.baseball_team_stats	04111b1	01slc
+base.schemastaging.phone_sandbox	06nm1	0bpbq5z	05r7t	0pl4nkj
+cvg.musical_game_song_relationship	025t7rk	067gh	0fq74z3
+american_football.game_rushing_statistics	07v71t	075rrrc
+cvg.musical_game_song_relationship	054qd9	02plp2	0464gkc
+tv.regular_tv_appearance	02x4zz2	0523x8z	0c1pt7b	02py9yf
+cvg.musical_game_song_relationship	0mfxgx	026kds	06ztwyd
+tennis.tennis_match	0f8xw6	012xcl	05zkbxm
+cvg.game_performance	02p_ls	07656	039wdq
+cvg.musical_game_song_relationship	0sw_qx	067gh	04kbkd1
+cvg.musical_game_song_relationship	03jkxv9	067gh	0642v9q
+cvg.musical_game_song_relationship	025v45y	026kds	04kbkd1
+american_football.game_rushing_statistics	097hft	0791nj3
+baseball.batting_statistics	05kmnv1	02h7s5k	03hqym
+cvg.musical_game_song_relationship	0y7tgc	02plp2	0464gkc
+american_football.game_rushing_statistics	062qp9	09rl2hg
+base.petbreeds.dog_city_relationship	01t032	0fsb8
+cvg.musical_game_song_relationship	05ncsbs	067gh	025vn5m
+cvg.musical_game_song_relationship	0lf2y1	026kds	0fq74z3
+location.location_symbol_relationship	05fjf	04627hh
+tennis.tennis_tournament_championship	062psk	01gggl
+base.popstra.religion_choice	0c8wxp	019n7x
+baseball.batting_statistics	06x68	04110y2	04cvb85
+cvg.musical_game_song_relationship	0_7c3p	067gh	027pg4k
+base.ontologies.ontology_instance_mapping	04dm2p_	07_kq
+sports.sports_team_roster	02c_4	0kt13j
+baseball.baseball_team_stats	02h7s1z	0713r
+american_football.game_rushing_statistics	065lzw	07dlp83
+people.marriage	02n9k	02_286
+cvg.musical_game_song_relationship	0lx4bp	02plp2	04kbkd1
+baseball.baseball_team_stats	02h7s1n	0512p
+baseball.baseball_team_stats	04110lg	01yjl
+tennis.tennis_tournament_championship	012xcl	036vlc
+american_football.game_rushing_statistics	07fgn7	07dlrpr
+cvg.musical_game_song_relationship	0y7tgc	066kp	0464gkc
+american_football.game_rushing_statistics	07l8mg	0792lj_
+american_football.game_passing_statistics	074l06	07dlml9
+baseball.baseball_team_stats	04110_p	06x68
+american_football.game_passing_statistics	04nprb	07dlqcz
+cvg.musical_game_song_relationship	07ql41	02plp2	04kbkd1
+tennis.tennis_match	01kdh8	0p58j	0svt5
+baseball.batting_statistics	0713r	02h7sbd	02vy3s
+baseball.baseball_team_stats	02h7sd8	01slc
+base.ontologies.ontology_instance_mapping	04dm2p_	0fcgd
+film.film_regional_release_date	0chghy	0jqn5
+film.dubbing_performance	02h40lc	068k36	026q3s3	05zl9t6
+baseball.baseball_team_stats	02h7s36	01yhm
+tennis.tennis_match	047pdkl	012xcl	0gvrwv9
+american_football.game_rushing_statistics	02qw6y3	075rshy
+music.recording_contribution	01wvw_w	0l14qv	05zmw0
+tennis.tennis_tournament_championship	084qcy	09n70c
+film.dubbing_performance	02h40lc	049ns3	06fc9s	066l0d
+cvg.musical_game_song_relationship	026mlj3	066kp	0464gkc
+american_football.game_rushing_statistics	04q2l4	079371d
+music.recording_contribution	0x3b7	0c0n9v9	040_y_
+base.petbreeds.dog_city_relationship	02cj3	013yq
+cvg.musical_game_song_relationship	07ql41	067gh	0fq74z3
+american_football.player_passing_statistics	032lfz	04y6_qr
+base.petbreeds.dog_city_relationship	01k3tq	02_286
+american_football.game_rushing_statistics	04lgz0	07921ll
+base.ontologies.ontology_instance_mapping	04dm2p_	0jmj
+music.group_membership	0l14md	01wmjkb	0134pk
+cvg.musical_game_song_relationship	0zc9wh	02x8rd	04kbkd1
+base.petbreeds.dog_city_relationship	01llgk	0rh6k
+cvg.musical_game_song_relationship	03gpc5	026kds	025vn5m
+american_football.game_rushing_statistics	08_967	0792vhk
+base.schemastaging.phone_sandbox	02h40lc	049g92	07ssc	0pl4nm4
+base.schemastaging.phone_sandbox	02h40lc	0vzkr0b	09c7w0	0pl4nlh
+baseball.baseball_team_stats	04111m9	05lkwhs
+cvg.musical_game_song_relationship	0_9tk5	02plp2	04kbkd1
+cvg.musical_game_song_relationship	078mcc	066kp	025vn5m
+baseball.baseball_team_stats	0411129	01yjl
+base.ontologies.ontology_instance_mapping	04dm2p_	06mq7
+american_football.game_rushing_statistics	04nprb	07dlqtx
+american_football.game_rushing_statistics	04mmw5	07929vd
+base.schemastaging.phone_sandbox	02hxcvy	0s91j5w	0j1z8	0pl4nkj
+baseball.batting_statistics	05xvj	02h7sch	0h0hdm
+american_football.game_rushing_statistics	04q2l4	0793sfm
+music.group_membership	0290ngj	0phx4	03fbc
+base.schemastaging.phone_sandbox	02h40lc	0409wn	02kw88	0pl4nkj
+music.recording_contribution	01n350_	0l14qv	01n34z_
+tennis.tennis_tournament_championship	012xcl	05zf7w
+baseball.baseball_team_stats	02h7s0d	05kmp0g
+baseball.baseball_team_stats	041111k	01slc
+base.ontologies.ontology_instance_mapping	04dm2p_	03q5t
+cvg.musical_game_song_relationship	0lf9mn	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	07tgn
+cvg.musical_game_song_relationship	027dm29	026kds	025vn5m
+base.schemastaging.phone_sandbox	02h40lc	021wy4	07ssc	0pl4nmy
+tennis.tennis_tournament_championship	0p58j	059nrl
+american_football.game_rushing_statistics	05txyj	0792f6n
+american_football.game_rushing_statistics	043ljlz	0791y81
+cvg.musical_game_song_relationship	04l9g7	026kds	04kbkd1
+american_football.game_passing_statistics	0cjcdj	0792181
+music.recording_contribution	08hg7g	0l14md	0d4f00
+music.recording_contribution	04s5_s	0c0n9v9	038dmx
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	03h64	0pl4nkj
+tennis.tennis_tournament_championship	0p58j	01my95
+tennis.tennis_tournament_championship	0l6c9	0575d1
+music.group_membership	0l14md	0fz3j39	05_rv0
+base.petbreeds.dog_city_relationship	016wkx	01smm
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	02j71	0pl4nm4
+cvg.musical_game_song_relationship	0xffn6	026kds	0464gkc
+cvg.musical_game_song_relationship	0ldkcv	02plp2	0fq74z3
+baseball.baseball_team_stats	05lqjhl	02zjfp
+cvg.musical_game_song_relationship	0gfhj0	026kds	0fq74z3
+baseball.baseball_team_stats	0dx84s	05xvj
+film.film_film_distributor_relationship	03xq0f	03d243x	07ssc
+cvg.musical_game_song_relationship	075x_75	067gh	04kbkd1
+baseball.baseball_team_stats	02h7s0k	05xvj
+american_football.game_rushing_statistics	04q2l4	07945t4
+tennis.tennis_match	069d68	0mmmt	02zbhpk
+cvg.musical_game_song_relationship	0mlv4m	02plp2	04kbkd1
+cvg.musical_game_song_relationship	01bxztw	026kds	06ztwyd
+american_football.game_rushing_statistics	06l0vf	07dlpyw
+film.dubbing_performance	02h40lc	08l016	0dd6bf	0n5q9sk
+base.ontologies.ontology_instance_mapping	04dm2p_	05tbn
+american_football.game_rushing_statistics	097hft	07dlsvf
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	06t2t	0pl4nkj
+american_football.game_passing_statistics	04nprb	07dlv4k
+cvg.musical_game_song_relationship	01cw9x7	066kp	047vs1j
+cvg.musical_game_song_relationship	0xx86t	026kds	0fq74z3
+people.human_measurement	031974	0dgg8cq

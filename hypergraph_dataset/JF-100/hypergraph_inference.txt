@@ -1,0 +1,2159 @@
+american_football.game_receiving_statistics	0793mqw	02qx492
+american_football.game_rushing_statistics	02674zg	07dlnqy
+american_football.game_rushing_statistics	04nt4c	0793jw9
+baseball.historical_coaching_tenure	046vz9	01slc	02hyt6
+travel.travel_destination_monthly_climate	0vzm	06vkl
+baseball.baseball_team_stats	04111b1	01slc
+american_football.game_receiving_statistics	07933dg	03b8gw
+baseball.baseball_team_stats	02h7s78	01yjl
+american_football.game_receiving_statistics	0792x8p	06c4zl
+film.dubbing_performance	02h40lc	020xc2	06c805	0ck6ln
+american_football.game_receiving_statistics	07dlphp	03h4s_g
+music.group_membership	018vs	0118qxkx	03pz1q
+american_football.game_rushing_statistics	07v71t	07dltk2
+baseball.baseball_team_stats	047nltd	05kn9ws
+baseball.baseball_team_stats	02h7sd3	07147
+baseball.baseball_team_stats	02h7s4s	05xvj
+music.group_membership	01vj9c	01vn35l	0197vy
+freebase.list_entry	0d6lp	059q7cf
+baseball.baseball_team_stats	027pwzc	05m_8
+film.dubbing_performance	02h40lc	0hqg9ry	02rkmkl	05zkqcy
+travel.travel_destination_monthly_climate	03902	028kb
+baseball.baseball_team_stats	04110y2	06x68
+music.recording_contribution	0g3lz6	0c0n9v9	01kdxl5
+sports.sports_team_season_record	080vs5	02896
+baseball.baseball_team_stats	02h7s0q	01d5z
+american_football.game_receiving_statistics	07dlps3	05mztpl
+baseball.baseball_team_stats	02h7s9g	0713r
+baseball.baseball_team_stats	02h7r_9	05kmnv1
+sports.sports_team_season_record	081xyg	05gg4
+baseball.baseball_team_stats	04110tn	05lkwhs
+sports.sports_team_season_record	07btpd	0738cbk
+music.recording_contribution	01w9mnm	0_sv_90	06501k
+base.militaryinfiction.military_character_service	0c1qlq7	0dc3kqs	0by4xph	0cpbz49	0cpg05_
+baseball.baseball_team_stats	02h7s7r	07147
+base.militaryinfiction.military_character_service	0c0lmd2	0c1myv7	0chzk_3	0chtrwn	0cms8p2
+music.recording_contribution	02r_cc	0c0n9v9	01jgn56
+user.szaijan.fantasy_football.projection	02sj2gw	066r46	02sjlml
+american_football.game_receiving_statistics	07945k0	076ltd
+american_football.game_rushing_statistics	0cjcdj	0792yg2
+sports.sports_team_season_record	07f67z	051q5
+music.group_membership	0l14md	01wmjkb	0134pk
+american_football.game_rushing_statistics	02q_kcw	0794ygq
+music.recording_contribution	01wxwc6	026t6	040jzs
+baseball.baseball_team_stats	04111ly	0cqt41
+sports.sports_team_season_record	07h9p3	01y3v
+base.militaryinfiction.military_character_service	01c83m	0d74xj_	0chzk_3	0cpbz49	0cpg0fg
+american_football.game_rushing_statistics	08z7bw	075rrlk
+sports.sports_team_season_record	07r4b8	084l5
+american_football.game_rushing_statistics	02812tp	0791ms6
+baseball.baseball_team_stats	02h7s15	01yhm
+baseball.baseball_team_stats	041110t	05knd46
+american_football.game_receiving_statistics	0794mtw	04r6rw
+sports.sports_team_season_record	072whw	051q5
+american_football.game_receiving_statistics	0793jw9	09r01t
+american_football.game_receiving_statistics	0791zf6	0cx2qq
+american_football.game_rushing_statistics	05dcr4	0791wxm
+music.group_membership	013y1f	010v_k5t	0wtc_n4
+american_football.game_rushing_statistics	03d753s	07dlqxx
+base.schemastaging.phone_sandbox	03_9r	01vdm0	03_3d	0pl4nkj
+baseball.baseball_team_stats	0411129	02d02
+baseball.baseball_team_stats	02h7s36	01yhm
+baseball.baseball_team_stats	02h7s0k	01yhm
+sports.sports_team_season_record	07btpd	05g3b
+sports.sports_team_season_record	072wh3	01xvb
+travel.travel_destination_monthly_climate	02h6_6p	04w_7
+baseball.baseball_team_stats	02h7sd8	07l8x
+military.military_service	0c1wycn	0130xz	0chtrwn	01ssgq
+sports.sports_team_season_record	082lxm	02c_4
+baseball.baseball_team_stats	0dx84s	05xvj
+baseball.baseball_team_stats	04110t8	05nlyxv
+sports.sports_team_season_record	0733hp	05l71
+american_football.game_receiving_statistics	079254x	051kjg
+sports.sports_team_season_record	078_54	01y3v
+travel.travel_destination_monthly_climate	04x5l8	0lkm
+baseball.baseball_team_stats	02h7s36	0x2p
+baseball.baseball_team_stats	02h7sct	01d6g
+american_football.game_receiving_statistics	07dlrdq	03b8gw
+basketball.basketball_historical_coach_position	0jm3b	0dsj73
+baseball.baseball_team_stats	02h7s23	05xvj
+baseball.baseball_team_stats	02h7rz_	05g76
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	05q80q	0c0l_6d	0d1d8_q
+base.militaryinfiction.military_character_service	0cpbz8x	0ck96kz	0chzk_3	0chtrwn	0cpg0gw
+music.recording_contribution	02s6sh	026t6	055l2q
+baseball.baseball_historical_managerial_position	061xq	01xdwv
+base.schemastaging.athlete_salary	05g3b	09nqf	043mmbx
+music.recording_contribution	01wxvqd	0c0n9v9	01r1wqm
+baseball.baseball_team_stats	04110t8	01ypc
+baseball.baseball_team_stats	02h7sdr	02d02
+baseball.baseball_team_stats	04110rw	0cqt41
+sports.sports_team_season_record	084bt3	05tg3
+american_football.game_receiving_statistics	07925rv	04p5_w
+sports.sports_team_season_record	0721yn	01y49
+baseball.baseball_team_stats	02h7s5k	05kmnv1
+baseball.baseball_team_stats	02h7s86	07l8x
+american_football.game_receiving_statistics	07dlr5_	05yn1m
+baseball.baseball_team_stats	027pwzc	05g76
+base.schemastaging.phone_sandbox	02h40lc	04j9t_	02_286	0pl4nkj
+baseball.baseball_team_stats	04111bt	02d02
+baseball.baseball_team_stats	0411129	01yhm
+baseball.baseball_team_stats	04110y2	05fc8c9
+american_football.game_receiving_statistics	075rr0m	02q4qzf
+baseball.baseball_team_stats	02h7s78	01ypc
+american_football.game_receiving_statistics	0793n3c	0f9958
+base.schemastaging.athlete_salary	01y3v	09nqf	07s9104
+baseball.baseball_team_stats	041108j	05ll5_5
+baseball.baseball_team_stats	02h7s15	03m1n
+american_football.game_rushing_statistics	0g6gx4	0794jz0
+baseball.baseball_team_stats	02h7s3j	01d6g
+baseball.baseball_team_stats	05lqnbt	05kn965
+american_football.game_receiving_statistics	0791y_d	05k0kp
+sports.sports_team_season_record	09p357	01ct6
+baseball.baseball_team_stats	02h7s81	05g76
+music.recording_contribution	01tq77z	0l14md	0jczf
+base.petbreeds.dog_city_relationship	0km5c	0chrx
+music.group_membership	0l14qv	03h632y	04zh5y3
+baseball.baseball_team_stats	02h7s1h	01yjl
+baseball.baseball_team_stats	041110t	05nlyxv
+baseball.baseball_team_stats	03c6r8q	06x68
+music.recording_contribution	01wyp27	0l14md	04c029
+american_football.game_rushing_statistics	05mztpl	07dlqqf
+base.schemastaging.tv_star_dubbing_performance	02h40lc	09xp2	02612lv	09r7n2
+american_football.game_rushing_statistics	07yzk2	0793cl4
+baseball.baseball_team_stats	0411101	01ypc
+baseball.baseball_team_stats	02wxr1w	05xvj
+base.schemastaging.phone_sandbox	02h40lc	0rqcg8w	07bcn	0pl4nkj
+sports.sports_team_season_record	07rj2g	0289q
+base.famouspets.pet_ownership	01b61	05k63b9
+base.petbreeds.dog_city_relationship	01nw62	01_d4
+baseball.baseball_team_stats	04111cy	01yhm
+base.militaryinfiction.military_character_service	0cn3_6j	0czly0m	0chzk_3	0chtrwn	0cms8mt
+baseball.baseball_team_stats	02h7sdr	04mjl
+base.schemastaging.phone_sandbox	02h40lc	085n4	05bcl	0pl4nkj
+american_football.game_rushing_statistics	07s9104	07dlt03
+sports.sports_team_season_record	0721yn	05g3v
+baseball.baseball_team_stats	02h7sdl	01d5z
+baseball.baseball_team_stats	02h7sbw	049n7
+american_football.game_receiving_statistics	07dlt48	0bqnmn
+american_football.game_rushing_statistics	05dcr4	0791r6k
+american_football.game_rushing_statistics	043q534	07dlr10
+american_football.game_rushing_statistics	05k0kp	09rl2hg
+sports.sports_team_season_record	07skf_	06rny
+sports.sports_team_season_record	07f944	06rny
+sports.sports_team_season_record	078_s7	01xvb
+american_football.game_rushing_statistics	08z7bw	07923h6
+baseball.baseball_team_stats	02h7s36	049n7
+sports.sports_team_season_record	074vzg	01c_d
+music.recording_contribution	0g4yvzj	018vs	0g4yv4b
+music.group_membership	05148p4	07nw1d8	04jmmdn
+sports.sports_team_season_record	083cb8	084l5
+base.militaryinfiction.military_character_service	01c83m	0d76rm4	05qh0l8	0cpmh0k	0cpg0fg
+american_football.game_receiving_statistics	09rl2j2	04llqf
+baseball.baseball_team_stats	02h7sch	0x0d
+american_football.game_receiving_statistics	07dlnp4	03b8gw
+baseball.baseball_team_stats	041112p	01yhm
+american_football.game_rushing_statistics	043ljlz	07dlv3k
+baseball.baseball_team_stats	04111cy	0cqt41
+american_football.game_receiving_statistics	07dlv7x	04gmz5
+music.recording_contribution	05b02f5	026t6	05b1xhr
+american_football.game_rushing_statistics	07682f	07928vk
+american_football.game_receiving_statistics	0792h0_	03d753s
+sports.sports_team_season_record	072whw	05tfm
+american_football.game_receiving_statistics	07dlsxh	05y80m
+american_football.game_rushing_statistics	02674zg	09rl2j2
+freebase.list_entry	01_d4	059rl3x
+sports.sports_team_season_record	07f9pv	01y49
+american_football.game_receiving_statistics	07dltgd	07v71t
+travel.travel_destination_monthly_climate	01_d4	05lf_
+music.recording_contribution	05sny44	05148p4	05sny6t
+baseball.baseball_team_stats	04110rh	01ypc
+american_football.game_receiving_statistics	0792fst	05yn0w
+baseball.baseball_team_stats	02h7s2f	061xq
+american_football.game_receiving_statistics	07dlrvn	02qp5gf
+american_football.game_receiving_statistics	07dlpvl	04kk9q
+baseball.baseball_team_stats	0411101	042v_h4
+american_football.game_rushing_statistics	02qxmd6	0792yg2
+baseball.baseball_team_stats	02h7sbw	05m_8
+american_football.game_rushing_statistics	0bmqgn	0792n93
+base.militaryinfiction.military_character_service	0ds78y	0bhbf93	05qh0kq	0cpmh0k	0bxj80p
+american_football.game_rushing_statistics	03d4lw7	07921gm
+base.schemastaging.athlete_salary	06rny	09nqf	0cqjl6
+american_football.game_receiving_statistics	07dln0d	05k0kp
+baseball.baseball_team_stats	02h7s3p	01yjl
+american_football.game_receiving_statistics	07dlq92	067dtl
+baseball.baseball_team_stats	02h7s57	07l4z
+baseball.baseball_team_stats	041110t	01yjl
+american_football.game_rushing_statistics	095c1c	0791x2l
+music.recording_contribution	03_vrm	0l14md	02756k5
+american_football.game_rushing_statistics	02qw6y3	075rs5t
+american_football.game_receiving_statistics	075rrlk	02qw6y3
+film.dubbing_performance	02h40lc	05nspz	01yq27	0502p0
+baseball.baseball_team_stats	0411101	01d5z
+american_football.game_rushing_statistics	0cx2qq	07dln0d
+american_football.game_rushing_statistics	096bk_	0791ms6
+base.schemastaging.phone_sandbox	02hxcvy	0s91j5w	0j1z8	0pl4nkj
+american_football.game_rushing_statistics	027fcy	0791pf0
+american_football.game_rushing_statistics	095c1c	0791w6f
+american_football.game_rushing_statistics	097hft	0792y1k
+american_football.game_receiving_statistics	0792c03	04nt4c
+base.petbreeds.dog_city_relationship	01llgk	0rh6k
+music.recording_contribution	02r_cc	0c0n9v9	05q65lz
+music.recording_contribution	01x1814	0c0n9v9	0bs3l5
+american_football.game_receiving_statistics	07dlmr6	027fcy
+sports.sports_team_season_record	07f83f	06lxvwt
+sports.sports_team_season_record	074w7v	0wsr
+baseball.baseball_historical_managerial_position	061xq	06j5bg
+sports.sports_team_season_record	072whw	01y49
+base.popstra.support	04mjl	04cr6qv
+baseball.baseball_team_stats	02h7s3j	01yjl
+american_football.game_receiving_statistics	0791lp1	07fgn7
+american_football.game_receiving_statistics	07dlsng	04p5_w
+american_football.game_rushing_statistics	0cv72h	0791w6f
+music.recording_contribution	01wvw_w	0l14qv	05zmw0
+sports.sports_team_season_record	078_s7	02c_4
+american_football.game_rushing_statistics	01tz2p	0792bkj
+american_football.game_rushing_statistics	03c0jkp	07dlphp
+music.recording_contribution	0g4yvzj	018vs	0g4yv3p
+american_football.game_rushing_statistics	0cjcdj	07932dv
+base.militaryinfiction.military_character_service	0c0lmd2	0c1myv7	0chzk_3	0chtrwn	0cpg09y
+user.tsegaran.random.taxonomy_entry	0f7fy	04n6k
+baseball.baseball_team_stats	03c6sl9	049n7
+baseball.baseball_team_stats	03c6r8q	05knb8g
+baseball.baseball_team_stats	02h7s86	0713r
+travel.travel_destination_monthly_climate	02_286	05lf_
+american_football.game_receiving_statistics	07dln3y	05dcr4
+travel.travel_destination_monthly_climate	02cl1	06vkl
+baseball.baseball_team_stats	02h7s57	0512p
+baseball.baseball_team_stats	02h7sfv	0cqt41
+american_football.game_receiving_statistics	07dls3j	02qw524
+american_football.game_rushing_statistics	0b34p_	07dls79
+baseball.baseball_team_stats	02h7s15	0713r
+sports.sports_team_season_record	09p357	05g49
+base.schemastaging.athlete_salary	05tg3	09nqf	07fgn7
+user.tsegaran.random.taxonomy_entry	03ytc	04n6k
+music.recording_contribution	01wxvqd	011cs_nk	05q65lz
+sports.sports_team_season_record	072whh	05gg4
+american_football.game_receiving_statistics	07dln7n	05dcr4
+travel.travel_destination_monthly_climate	0chgzm	04w_7
+baseball.baseball_team_stats	04110tn	06x68
+american_football.game_rushing_statistics	03d13n8	07dlptq
+sports.sports_team_season_record	07r4b8	05g49
+base.petbreeds.dog_city_relationship	0km5c	02hrh0_
+baseball.baseball_team_stats	02h7s9g	01yhm
+base.petbreeds.dog_city_relationship	02cj3	02_286
+freebase.list_entry	02c_4	05bjrkt
+baseball.baseball_team_stats	02h7s86	03m1n
+sports.sports_team_season_record	0721y8	05g3b
+travel.travel_destination_monthly_climate	02frhbc	0lkm
+baseball.baseball_team_stats	02h7sch	0cqt41
+baseball.baseball_team_stats	02h7sd8	01slc
+film.dubbing_performance	02h40lc	0409pl	0dh8v4	0b7wjw
+base.schemastaging.athlete_salary	0ws7	09nqf	05zvv0f
+sports.sports_team_season_record	074wdt	04nmxtk
+american_football.game_receiving_statistics	07dlmy5	08z7bw
+baseball.baseball_team_stats	02h7s1z	05g76
+measurement_unit.dated_money_value	085n4	09nqf
+base.militaryinfiction.force_strength_in_fiction	0c1py31	05qjm01	0cxr95t	0c_jkm4	0clv4sk
+american_football.game_receiving_statistics	0792c72	04llqf
+sports.sports_team_season_record	07r4b8	01c_d
+basketball.basketball_player_stats	0993hq	02q5wxc	0jm3b
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0d1d8_q	05qh0kq	0cr0p3b
+travel.travel_destination_monthly_climate	0rh6k	05cw8
+american_football.game_rushing_statistics	097hft	07dlswb
+travel.travel_destination_monthly_climate	02frhbc	05lf_
+american_football.game_receiving_statistics	0792_5w	07fgn7
+sports.sports_team_season_record	07f83f	01c_d
+baseball.baseball_team_stats	041111k	061xq
+baseball.baseball_team_stats	025ygws	049n7
+american_football.game_receiving_statistics	075rrlk	02qxlsm
+film.dubbing_performance	02h40lc	02pj26z	0cxf7c	0c70tb
+music.recording_contribution	01vn35l	026t6	0277__4
+base.petbreeds.dog_city_relationship	0km3f	0fvyg
+baseball.baseball_team_stats	02h7s8c	01d6g
+american_football.game_rushing_statistics	027f42	07dls5d
+film.dubbing_performance	02h40lc	07ps5c	02vw1w2	0c458q
+baseball.baseball_team_stats	03d4p81	061xq
+baseball.baseball_team_stats	02h7sd3	01d5z
+sports.sports_team_roster	05l71	05vlqb
+baseball.baseball_team_stats	02h7r_y	05lkwhs
+travel.travel_destination_monthly_climate	0f2rq	040fv
+film.dubbing_performance	02h40lc	0409pl	02rkmkl	0fps52
+basketball.basketball_player_stats	08030z	07f3g1	0jmhr
+baseball.baseball_team_stats	02h7sct	05xvj
+american_football.game_rushing_statistics	07ynx2	07dlsc8
+film.dubbing_performance	02h40lc	08l016	0dd6bf	0n5q9sk
+music.recording_contribution	01tq77z	0l14md	014qzc
+american_football.game_receiving_statistics	0791nzv	0krrql
+baseball.baseball_team_stats	02h7s6z	061xq
+baseball.baseball_team_stats	03c6sl9	01yjl
+american_football.game_receiving_statistics	07dlryw	02pq4wh
+sports.sports_team_season_record	076y20	01y3v
+music.recording_contribution	0glt2q	013y1f	01j07w2
+american_football.game_receiving_statistics	07dlnqy	02674zg
+baseball.baseball_historical_managerial_position	01yjl	06hwy5
+american_football.game_receiving_statistics	0791x2l	05dcr4
+travel.travel_destination_monthly_climate	03h64	05lf_
+american_football.game_receiving_statistics	07dlswb	05q5wxt
+american_football.game_rushing_statistics	05yj_0	0792wtq
+base.petbreeds.dog_city_relationship	01_gx_	013yq
+basketball.basketball_historical_coach_position	0jmcv	051r7g
+film.dubbing_performance	02h40lc	0ngkklr	0b919v	05v954
+american_football.game_rushing_statistics	097hft	0792x8p
+sports.sports_team_season_record	071qxs	05g49
+american_football.game_rushing_statistics	09cyqn	0791qpr
+travel.travel_destination_monthly_climate	06c62	0lkm
+music.recording_contribution	0f2zvb	03gvt	02rrtbp
+baseball.baseball_team_stats	02h7s3p	051wf
+baseball.historical_coaching_tenure	02ssmv	01d5z	04_75jz
+military.military_post_use	0c5y7sq	0b_wsry
+american_football.game_receiving_statistics	07dlmdq	08vwtr
+american_football.game_receiving_statistics	07925xf	07v6mj
+baseball.baseball_team_stats	04110b0	0cqt41
+baseball.baseball_team_stats	041109n	01d5z
+user.tsegaran.random.taxonomy_entry	07bfd	04n6k
+american_football.game_receiving_statistics	0792tp7	04plb1
+american_football.game_receiving_statistics	07dlply	04y943l
+american_football.game_rushing_statistics	09k147	0793s5z
+baseball.baseball_team_stats	02h7sct	049n7
+american_football.game_receiving_statistics	07dlmht	04qd2z
+american_football.game_receiving_statistics	07dlspd	07rh_m
+baseball.baseball_historical_managerial_position	01slc	09579p
+travel.travel_destination_monthly_climate	08966	028kb
+sports.sports_team_season_record	079430	0487_
+base.petbreeds.dog_city_relationship	02cj3	0ftxw
+american_football.game_receiving_statistics	07dlslm	02qx492
+sports.sports_team_season_record	0721yn	05tfm
+sports.sports_team_season_record	072wh3	05g3b
+travel.travel_destination_monthly_climate	0dclg	06vkl
+music.recording_contribution	05b02f5	026t6	05b5bqm
+sports.sports_team_season_record	072whw	01ct6
+baseball.baseball_team_stats	041112p	01slc
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0czlxdg	05qhjzt	0bhbf93
+american_football.game_rushing_statistics	05dcr4	0791vss
+baseball.baseball_team_stats	02h7sfv	02d02
+baseball.baseball_team_stats	025ygws	0x0d
+basketball.basketball_player_stats	09bjp8	06by8l	0jm5b
+american_football.game_receiving_statistics	0791x2l	043ljlz
+sports.sports_league_draft_pick	04pz6f	01pl14	07l24	03nt7j
+baseball.baseball_team_stats	04110qr	05c8tcn
+base.militaryinfiction.military_character_service	01c83m	0d76rm4	05qh0kt	0dcd14j	0cpg0fg
+baseball.baseball_team_stats	02h7s36	01d5z
+baseball.baseball_team_stats	02h7s3j	061xq
+music.group_membership	05148p4	01jfnvd	0mjn2
+base.schemastaging.athlete_salary	05tfm	09nqf	07bthc
+american_football.game_receiving_statistics	0792nt4	04t8zv
+american_football.game_receiving_statistics	07dlsxh	0cwnvk
+music.recording_contribution	0398nr	0c0n9v9	01qdd4_
+american_football.game_receiving_statistics	07931qv	04jvyg
+american_football.game_receiving_statistics	07dlqzm	05yn1m
+film.dubbing_performance	02h40lc	0hqg9ry	026pf6t	05zkqcy
+baseball.baseball_team_stats	02h7s0q	05ll5_5
+user.tsegaran.random.taxonomy_entry	01b61	04n6k
+american_football.game_receiving_statistics	07947tb	08txt4
+baseball.baseball_team_stats	02h7s4s	0cqt41
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0cqsw15	05qjlx0	0cl7srq
+basketball.basketball_player_stats	0994_r	0287x41	0jm5b
+american_football.game_rushing_statistics	097yk7	07938sl
+american_football.game_rushing_statistics	04lgz0	07dlnsq
+baseball.baseball_team_stats	025ygws	01ypc
+basketball.basketball_player_stats	08lw15	09hrdn	0jm3b
+american_football.game_receiving_statistics	07dlszc	025wl37
+american_football.game_receiving_statistics	07dltmm	05y80m
+film.dubbing_performance	02h40lc	0127pstj	055crg	03jmmn
+music.recording_contribution	065jx5	0l14md	04b__2
+american_football.game_receiving_statistics	0792gfc	0f_ptc
+sports.sports_team_season_record	081yf5	025hfj
+baseball.baseball_team_stats	02h7s6z	01slc
+american_football.game_receiving_statistics	0792b2b	0btjrg
+sports.sports_team_season_record	07f6s7	05g3b
+travel.travel_destination_monthly_climate	0g6xq	05lf_
+sports.sports_team_season_record	0844dx	05tfm
+american_football.game_receiving_statistics	07dlqzm	02qdp4v
+american_football.game_rushing_statistics	0g6gx4	0792vpw
+sports.sports_team_season_record	080gf6	03b3j
+american_football.game_receiving_statistics	07dlpx8	0cvgp4
+american_football.game_rushing_statistics	04pwwd	0793sfm
+freebase.list_entry	02cft	059gx5k
+baseball.baseball_team_stats	02h7s1b	06x68
+film.dubbing_performance	02h40lc	02qmnd	08fbrb	05v954
+american_football.game_rushing_statistics	0cx2qq	0791y81
+travel.travel_destination_monthly_climate	01914	03_ly
+american_football.game_rushing_statistics	04nt4c	0793cwp
+film.dubbing_performance	02h40lc	02rc4d	0bh72t	07y91g
+american_football.game_rushing_statistics	02z5l63	07dltz2
+sports.sports_team_season_record	081xyg	02c_4
+sports.sports_team_season_record	025syt6	05g49
+user.tsegaran.random.taxonomy_entry	06x4c	04n6k
+american_football.game_receiving_statistics	0792ml7	01tz2p
+travel.travel_destination_monthly_climate	013yq	0lkm
+american_football.game_receiving_statistics	0791ys4	0c34px
+basketball.basketball_player_stats	08030z	0dsj73	0jmcv
+base.militaryinfiction.military_character_service	0c0b097	0c0lmgc	06j5wss	0cpmh0k	0cpg02s
+base.petbreeds.dog_city_relationship	0km3f	06wxw
+music.recording_contribution	05902g7	0l14md	02rnv1c
+sports.sports_team_season_record	025syt6	02c_4
+base.schemastaging.athlete_salary	05tg3	09nqf	08z_pz
+american_football.game_rushing_statistics	0b34p_	07dlskr
+american_football.game_rushing_statistics	0h70ys	0792210
+american_football.game_receiving_statistics	0793n3c	02qx492
+baseball.baseball_team_stats	02h7s23	061xq
+american_football.game_receiving_statistics	07dltf7	04t8zv
+sports.sports_team_season_record	07x_5h	06mp1hm
+baseball.baseball_team_stats	02h7s0k	01slc
+user.szaijan.fantasy_football.projection	02sj2gw	09w8fq	02sjlml
+sports.sports_team_season_record	0792sp	070xg
+music.recording_contribution	07gph1	0l14qv	027n4xs
+music.recording_contribution	04m2zj	0l14qv	036tl9
+baseball.baseball_team_stats	02h7s2f	05kmnv1
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0d1d8_d	05qh0kq	0d1d8_q
+base.petbreeds.dog_city_relationship	01_gx_	07bcn
+american_football.game_receiving_statistics	0b3w6l2	0cwhxj
+american_football.game_receiving_statistics	07dlt_y	04pz6f
+base.militaryinfiction.force_strength_in_fiction	0dc60vr	0chzk_3	0cxr95t	0dggvhh	0cj9dk1
+american_football.game_rushing_statistics	05dcr4	0791w6f
+american_football.game_rushing_statistics	05vlqb	0792z78
+baseball.baseball_historical_managerial_position	01yjl	07w93h
+music.recording_contribution	02r_cc	0_sv_90	01jgmtb
+american_football.game_receiving_statistics	079254x	066r46
+user.szaijan.fantasy_football.projection	02sj2gw	0krrql	02sjlml
+baseball.baseball_team_stats	04110lg	01yjl
+sports.sports_team_season_record	07f67z	05g49
+film.dubbing_performance	02h40lc	04bb1n	02z5x7l	0g57zq
+sports.sports_team_season_record	072whh	05tg3
+baseball.baseball_historical_managerial_position	04mjl	02vlpg
+music.recording_contribution	01x1rc0	0l14qv	067bl9
+sports.sports_team_season_record	074w7v	05l71
+american_football.game_receiving_statistics	0793_7m	04t8zv
+american_football.game_rushing_statistics	04nt4c	07dlsq8
+music.recording_contribution	01x2vtc	0l14md	05h18l
+base.militaryinfiction.military_character_service	0c1qdnl	0d3vhnb	05qjm01	0cpmh0k	0cpg0gg
+american_football.game_rushing_statistics	097hft	07dlsvf
+music.recording_contribution	01wxl2s	026t6	01l869z
+sports.sports_team_season_record	0849xl	01xvb
+music.recording_contribution	06xrff	03gvt	04y_qf
+baseball.baseball_team_stats	02h7s6b	04mjl
+music.group_membership	05148p4	01v_pj6	022c__
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0bhbf93	0by4xph	0cpbz49
+sports.sports_team_season_record	074vzg	01y49
+base.petbreeds.dog_city_relationship	038wt3	0d6lp
+american_football.game_receiving_statistics	07dlqyt	05yn1m
+sports.sports_team_season_record	07dtw0	02896
+american_football.game_rushing_statistics	027fcy	0791ppc
+base.militaryinfiction.military_character_service	0c0lmd2	0czly0m	0chzk_3	0chtrwn	0c02ppy
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0czlxdg	05qh0l8	0bhbf93
+base.schemastaging.athlete_salary	03wnh	09nqf	026jqbb
+baseball.baseball_team_stats	02h7s8c	0x2p
+user.tsegaran.random.taxonomy_entry	03xks	04n6k
+baseball.baseball_team_stats	04110t8	05knd46
+travel.travel_destination_monthly_climate	04x5l8	05cw8
+base.schemastaging.athlete_salary	05g3v	09nqf	02qxlsm
+sports.sports_team_season_record	0733hp	03b3j
+baseball.baseball_team_stats	05lqw34	05kn7bw
+baseball.baseball_team_stats	02h7r_y	061xq
+film.dubbing_performance	02h40lc	02rc4d	042qsv	07y91g
+american_football.game_receiving_statistics	07dlsq8	0681l6
+film.dubbing_performance	02h40lc	068k36	026q3s3	05zl9t6
+base.militaryinfiction.military_character_service	0ds78y	0bhbf93	0chzk_3	0clz_31	0cpg0bb
+travel.travel_destination_monthly_climate	02dvp4	028kb
+sports.sports_team_season_record	07rj2g	051q5
+travel.travel_destination_monthly_climate	036g_r	03_ly
+baseball.baseball_team_stats	02h7s0q	01slc
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	0d7k1z	0pl4nm4
+military.military_posting	0cpbz4j	0c5y7sq
+american_football.game_receiving_statistics	0791ys4	05k0kp
+american_football.game_rushing_statistics	053wb4_	07dlps3
+music.recording_contribution	01vn35l	013y1f	0cb5jx
+american_football.game_rushing_statistics	03h308s	07dlp2g
+baseball.baseball_team_stats	02h7sd8	05m_8
+base.schemastaging.tv_star_dubbing_performance	02h40lc	04nc5s	02612lv	09r7w2
+music.recording_contribution	01wxwhx	02dlh2	040j79
+baseball.baseball_team_stats	02h7sc5	01ypc
+music.group_membership	0l14j_	05b4t66	01r0m_m
+american_football.game_receiving_statistics	07dltnw	05y80m
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0dgbbm8	0chzk_3	0dfwbmp
+travel.travel_destination_monthly_climate	02z0j	05cw8
+american_football.game_rushing_statistics	09k147	07dltnw
+american_football.game_rushing_statistics	03k7k8	0793yjf
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c1py31	05qjlx0	0cpyjp3
+american_football.game_receiving_statistics	0793mqw	066r46
+american_football.game_rushing_statistics	02q4qzf	07dltgd
+user.tsegaran.random.taxonomy_entry	09r3f	04n6k
+user.szaijan.fantasy_football.projection	02sj2gw	07ynx2	02sjlml
+baseball.baseball_team_stats	04111lk	042v_h4
+base.petbreeds.dog_city_relationship	02kfwr	071vr
+music.recording_contribution	0ch9nsy	0dwt5	0ch9lds
+american_football.game_rushing_statistics	06l0vf	07dlpyw
+music.recording_contribution	01wzbxy	0l14md	02rj4gh
+baseball.baseball_team_stats	02h7s3j	05m_8
+base.militaryinfiction.military_character_service	0334hh	0d3vhnb	0chzk_3	0cpbz49	0c02ppq
+base.schemastaging.tv_star_dubbing_performance	02bjrlw	03fhcj	04nffq	0h68l50
+base.schemastaging.tv_star_dubbing_performance	02h40lc	030x0f	020qr4	0bjm05
+baseball.baseball_team_stats	02h7s1b	04mjl
+basketball.basketball_player_stats	07z2hs	07dqrx	0jm3b
+baseball.baseball_team_stats	05lq759	05lkr4r
+american_football.game_rushing_statistics	02qwr64	07dlpyw
+basketball.basketball_player_stats	09068d	0fq96g	0jmcv
+baseball.baseball_team_stats	02h7s8c	05g76
+american_football.game_receiving_statistics	0792wtq	03h308s
+baseball.baseball_team_stats	0411129	01yjl
+music.recording_contribution	020xnm	026t6	01j2dt1
+american_football.game_receiving_statistics	07dlnxs	02674zg
+music.recording_contribution	01np_dx	0l14qv	01knf48
+sports.sports_team_season_record	07f8n2	06lxvwt
+american_football.game_receiving_statistics	07dlnjk	05k0kp
+baseball.baseball_team_stats	02h7s81	01slc
+american_football.game_receiving_statistics	0793hh5	04m4kj
+base.militaryinfiction.military_character_service	0cphhg6	0d3vhnb	06j5wss	0clz_31	0c2byws
+base.petbreeds.dog_city_relationship	02kw9d	02cl1
+baseball.baseball_team_stats	04110lg	01d5z
+baseball.baseball_team_stats	02h7s7r	03m1n
+american_football.game_rushing_statistics	03d13n8	07dlpyw
+user.tsegaran.random.taxonomy_entry	0130xz	04n6k
+baseball.baseball_team_stats	02h7s15	01yjl
+sports.sports_team_season_record	078_54	06lxrxk
+sports.sports_team_season_record	025syt6	06x76
+american_football.game_rushing_statistics	043ljlz	0791lch
+base.schemastaging.tv_star_dubbing_performance	02h40lc	0g4n72w	05g1c	027jxfr
+travel.travel_destination_monthly_climate	02cft	040fb
+base.militaryinfiction.military_character_service	0c0lmd2	0bhbf93	0chzk_3	0clz_31	0cpg0bb
+american_football.game_rushing_statistics	062qp9	07dlnkb
+american_football.game_rushing_statistics	03d4lw7	07dlnxs
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c_jbpj	05qhjzt	0c1py31
+baseball.baseball_team_stats	02h7r_9	061xq
+american_football.game_rushing_statistics	04m4kj	0793hpk
+film.dubbing_performance	02h40lc	068k36	026pf6t	05zl9t6
+base.militaryinfiction.military_character_service	0ch9xlz	0bhbf93	0chzk_3	0dcd14j	0cpg0fg
+travel.travel_destination_monthly_climate	0g6xq	0ll3
+sports.sports_team_season_record	07rj2g	06rny
+american_football.game_receiving_statistics	07dlq6z	0cwhxj
+travel.travel_destination_monthly_climate	02frhbc	028kb
+music.group_membership	0l14md	011m98mw	0dn3z6k
+american_football.game_rushing_statistics	02qxmd6	0791y_d
+sports.sports_team_season_record	072whw	01c_d
+travel.travel_destination_monthly_climate	0f04v	040fv
+sports.sports_team_roster	01yjl	07q_9x
+base.petbreeds.dog_city_relationship	0km3f	0fvzg
+baseball.baseball_historical_managerial_position	01ypc	07svzt
+base.militaryinfiction.military_character_service	0cphhg6	0dggv64	05qh0kt	0dcd144	0bxw253
+baseball.baseball_team_stats	02h7sc5	01yhm
+american_football.game_rushing_statistics	04rlp0	07922cn
+base.schemastaging.phone_sandbox	02h40lc	02xqq	0kr8v	0pl4nkj
+baseball.baseball_team_stats	02h7s9g	01d5z
+american_football.game_rushing_statistics	04ljjn	07dltf7
+american_football.game_receiving_statistics	07dlvdr	05827t
+american_football.game_receiving_statistics	07939h0	07yzk2
+sports.sports_team_season_record	076y20	06lxrxk
+american_football.game_receiving_statistics	07dltwk	09yty9
+baseball.baseball_team_stats	04110lg	061xq
+baseball.baseball_team_stats	041105l	061xq
+baseball.baseball_team_stats	02h7s4g	04xg_4p
+american_football.game_receiving_statistics	0792fh5	0f_ptc
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c_jbpj	0cqztld	0c1py31
+music.group_membership	02hnl	05b4t66	01r0m_m
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0bhbf93	05qjlx0	0c_jkm4
+music.group_membership	02hnl	0phx4	03fbc
+baseball.baseball_team_stats	047nltd	05nlyxv
+music.recording_contribution	0m2l9	0c0n9v9	02rqkjh
+music.recording_contribution	02jslp	013y1f	040jr1
+american_football.game_receiving_statistics	0792vpw	04q2l4
+travel.travel_destination_monthly_climate	02dvp4	06vkl
+base.militaryinfiction.military_character_service	0130xz	0dggv64	05qjl_z	0cpmh0k	0bxtt5p
+base.schemastaging.tv_star_dubbing_performance	02h40lc	01kf53	02bpq	0fb727
+baseball.baseball_team_stats	05lqnbt	03sn07
+baseball.baseball_team_stats	03d44h6	03sn07
+base.militaryinfiction.military_character_service	0c1qdnl	0cl7srq	05qh0kt	0c1wxsx	0bxw253
+sports.sports_team_season_record	076y20	06mpvs8
+american_football.game_rushing_statistics	02q_kcw	0793v2s
+sports.sports_team_season_record	076zf_	02c_4
+sports.sports_team_season_record	074w7v	05g3b
+baseball.baseball_team_stats	02h7sdf	0713r
+baseball.baseball_team_stats	02h7s73	01slc
+base.militaryinfiction.force_strength_in_fiction	0c1py31	05qjlx0	0cxr95t	0c_jkm4	0cl_4cp
+user.tsegaran.random.taxonomy_entry	088q4	04n6k
+base.militaryinfiction.military_character_service	0289fz	0dfn84x	0chzk_3	0bhbf93	0cpg02s
+sports.sports_team_season_record	0796vc	06lxvwt
+sports.sports_league_draft_pick	04p5_w	01qrb2	05tfm	07w75n
+baseball.baseball_team_stats	02h7s3j	0512p
+music.recording_contribution	01wxg0j	0l14md	01l85zz
+american_football.game_rushing_statistics	095c1c	0791vbq
+film.dubbing_performance	02bjrlw	02wtdcf	06_sc3	0njjs1j
+baseball.baseball_team_stats	02h7sfp	01d5z
+baseball.baseball_team_stats	02h7s1n	04wmvz
+base.militaryinfiction.military_character_service	0c0lmd2	0c1myv7	0chzk_3	0chtrwn	0c0mtfn
+american_football.game_receiving_statistics	07dlthd	05106z
+baseball.baseball_team_stats	02h7sbq	07l8x
+american_football.game_receiving_statistics	07dlqgd	04ljjn
+base.schemastaging.phone_sandbox	02h40lc	05k4k	05fly	0pl4nm4
+sports.sports_team_season_record	083cb8	06rny
+american_football.game_rushing_statistics	07kfrl	0791ms6
+baseball.baseball_team_stats	04110sm	03wzpvl
+travel.travel_destination_monthly_climate	06mxs	03_ly
+baseball.baseball_team_stats	02h7s81	0512p
+american_football.game_receiving_statistics	0792xlc	05dcqg
+sports.sports_team_season_record	09p357	070xg
+base.militaryinfiction.military_character_service	0c0b18k	0d3vhnb	06j5wss	0dcd144	0cpg05_
+american_football.game_receiving_statistics	07dlnrs	0cvgp4
+american_football.game_rushing_statistics	027fcy	07dlmyz
+base.petbreeds.dog_city_relationship	01llgk	01_d4
+base.militaryinfiction.military_character_service	0c0lmd2	01ssgq	0chzk_3	0chtrwn	0cms8p2
+american_football.game_rushing_statistics	03d4lw7	07dlntx
+baseball.baseball_team_stats	02wxr1w	05ll5_5
+base.petbreeds.dog_city_relationship	02kfwr	02frhbc
+american_football.game_receiving_statistics	079371d	07fgn7
+base.schemastaging.tv_star_dubbing_performance	02h40lc	038jtw	02612lv	053cp1
+base.militaryinfiction.force_strength_in_fiction	0dgbbm8	0chzk_3	0cxr95t	0cl7sth	0cj9dk1
+sports.sports_team_season_record	07f83f	05tfm
+baseball.baseball_team_stats	04111m9	05lkwhs
+sports.sports_team_season_record	0793t1	084l5
+sports.sports_team_season_record	07932s	05tg3
+american_football.game_rushing_statistics	027fcy	0791rzs
+american_football.game_receiving_statistics	07dln0d	05dcr4
+music.group_membership	01vj9c	011jgy4g	01qzvjy
+base.schemastaging.phone_sandbox	02h40lc	0409wn	02kw88	0pl4nkj
+american_football.game_receiving_statistics	07943gd	0cwnvk
+baseball.baseball_team_stats	02h7s81	051vz
+american_football.game_rushing_statistics	03c87rb	0793wqg
+music.group_membership	05148p4	03b77h	0285cy
+american_football.game_receiving_statistics	0793km8	08mxr8
+base.petbreeds.dog_city_relationship	01t032	0fsb8
+music.group_membership	0_sv_90	01rl1dk	0fcsd
+american_football.game_rushing_statistics	0cx2qq	0791nzv
+user.tsegaran.random.taxonomy_entry	0db86	04n6k
+user.tsegaran.random.taxonomy_entry	021wy4	04n6k
+baseball.baseball_historical_managerial_position	061xq	033nn_
+american_football.game_rushing_statistics	0265q8d	07dlspd
+american_football.game_receiving_statistics	0791s6k	027fcy
+american_football.game_receiving_statistics	07932dv	05y80m
+american_football.game_rushing_statistics	0b34p_	07dlrwh
+american_football.game_receiving_statistics	07dlpgy	04t8zv
+baseball.baseball_team_stats	02h7sd8	049n7
+american_football.game_rushing_statistics	062qp9	07dlmpn
+base.petbreeds.dog_city_relationship	0km5c	02dtg
+base.schemastaging.tv_star_dubbing_performance	02h40lc	089wy9	0283ph	05j0wc
+music.group_membership	018vs	011jgmtz	01lr01m
+base.schemastaging.athlete_salary	01yhm	09nqf	0h3x47v
+american_football.game_rushing_statistics	021h8y	0793cl4
+baseball.baseball_team_stats	03c6s24	01yjl
+baseball.baseball_team_stats	02h7rz_	0cqt41
+music.recording_contribution	08hg7g	0l14md	0d4f00
+american_football.game_rushing_statistics	0695k1	079247p
+american_football.game_rushing_statistics	07fgn7	07dlrpr
+music.recording_contribution	01r0t_j	0_sv_90	0bmz9p0
+freebase.list_entry	06c62	059rl3x
+user.tsegaran.random.taxonomy_entry	05kr_	04n6k
+baseball.baseball_team_stats	05lqkf2	02zjfp
+baseball.baseball_team_stats	02h7sbw	02d02
+american_football.game_receiving_statistics	0792nn7	09v4tf
+base.militaryinfiction.military_character_service	0c0b185	0d3vhnb	05qjm01	0cpmh0k	0clzblr
+american_football.game_rushing_statistics	08vwtr	07927zd
+music.recording_contribution	01wwvzv	0c0n9v9	06501k
+baseball.baseball_team_stats	05lqw34	0264nf9
+baseball.baseball_team_stats	0285r5d	03m1n
+baseball.baseball_team_stats	02h7s1b	01ypc
+baseball.baseball_team_stats	02h7s52	051vz
+baseball.baseball_team_stats	041112p	05knd46
+travel.travel_destination_monthly_climate	04jpl	040fb
+american_football.game_rushing_statistics	097hft	0791nj3
+american_football.game_receiving_statistics	07dlrx7	0cwlnq
+american_football.game_receiving_statistics	0793qkd	09r01t
+baseball.baseball_team_stats	04110lg	05ll5_5
+sports.sports_team_season_record	0792sp	051q5
+base.petbreeds.dog_city_relationship	0km3f	01smm
+american_football.game_receiving_statistics	07947tb	09cbwk
+travel.travel_destination_monthly_climate	02_9n	028kb
+american_football.game_receiving_statistics	07dls79	0b34p_
+american_football.game_receiving_statistics	07dlt03	02q_kcw
+music.recording_contribution	05sny44	05148p4	05sny59
+baseball.baseball_team_stats	02h7s3j	03m1n
+sports.sports_team_season_record	07drc8	0487_
+travel.travel_destination_monthly_climate	056_y	040fv
+music.recording_contribution	07h3cc	0l14md	01jgmqq
+military.military_service	0c1wycn	0130xz	0chtrwn	0c0kxqp
+baseball.baseball_team_stats	03d4p81	02d02
+film.dubbing_performance	02h40lc	0ndv08y	055gwx	07jf6t
+baseball.baseball_team_stats	02h7rz_	07l4z
+user.tsegaran.random.taxonomy_entry	0bzvqx	04n6k
+american_football.game_receiving_statistics	09rl2jd	0b34p_
+travel.travel_destination_monthly_climate	02_286	04w_7
+user.szaijan.fantasy_football.projection	02sj2gw	07rh_m	02sjlml
+american_football.game_receiving_statistics	0793gz6	02qw524
+sports.sports_team_season_record	072wh3	06x76
+american_football.game_rushing_statistics	05827t	0794ryp
+user.szaijan.fantasy_football.projection	02sj2gw	05xpnh	02sjlml
+american_football.game_receiving_statistics	079247p	051kjg
+base.schemastaging.athlete_salary	0jm7n	09nqf	02kwhq
+music.recording_contribution	0ch9nsy	0l14j_	0ch9lds
+american_football.game_rushing_statistics	02674zg	07920zk
+american_football.game_receiving_statistics	07dlnhq	04qjlr
+basketball.basketball_player_stats	08p_89	06q8ry	02z8z6
+baseball.baseball_team_stats	02qmmv6	05kn7bw
+american_football.game_rushing_statistics	07s9104	07dln_g
+american_football.game_rushing_statistics	0cw15s	0792wtq
+music.recording_contribution	09ghwvt	026t6	01jgmtb
+baseball.baseball_team_stats	05kcgsf	0713r
+film.dubbing_performance	02h40lc	0nfkt3s	0gydfx	0bkpg4
+military.military_post_use	0c5y7sq	0d76rm4
+baseball.baseball_historical_managerial_position	01ync	01xdwv
+travel.travel_destination_monthly_climate	06wjf	04w_7
+american_football.game_rushing_statistics	0cwnvk	07932dv
+base.famouspets.pet_ownership	01b61	02pxmys
+baseball.baseball_team_stats	03c6sl9	07147
+american_football.game_rushing_statistics	0kt13j	07dlt2j
+sports.sports_team_season_record	081xyg	0ws7
+sports.sports_team_season_record	025syt6	01y49
+sports.sports_team_season_record	07r4kx	03b3j
+film.dubbing_performance	02h40lc	0hqg9ry	0dh8v4	05zkqcy
+sports.sports_team_season_record	076ylc	06mpvs8
+baseball.baseball_team_stats	02h7s5k	07l8x
+base.petbreeds.dog_city_relationship	0km5c	01sn3
+user.tsegaran.random.taxonomy_entry	0k4j	04n6k
+baseball.baseball_team_stats	02h7s8c	06x68
+baseball.baseball_team_stats	02h7sdf	061xq
+sports.sports_team_season_record	0721y8	070xg
+american_football.game_rushing_statistics	02qdp4v	0793bd6
+american_football.game_rushing_statistics	02623bz	07dlrsz
+travel.travel_destination_monthly_climate	05l64	0ll3
+sports.sports_team_season_record	080vx0	02c_4
+travel.travel_destination_monthly_climate	02sn34	03_ly
+travel.travel_destination_monthly_climate	01f62	05lf_
+music.recording_contribution	09l39p	026t6	02rrtbp
+baseball.baseball_team_stats	03c6sl9	0713r
+military.military_combatant_group	0fkyq1	03spz
+base.schemastaging.tv_star_dubbing_performance	02h40lc	07tqjt	07tt9hk	0fh1xk
+american_football.game_receiving_statistics	0791r6k	079qkb
+base.schemastaging.tv_star_dubbing_performance	02h40lc	08ppx4	07tt9hk	06_6j3
+sports.sports_team_season_record	084cdv	06rny
+baseball.baseball_team_stats	02h7s7r	01d5z
+music.recording_contribution	053y0s	0c0n9v9	040_y9
+baseball.baseball_team_stats	02h7scb	05nlyxv
+american_football.game_receiving_statistics	0792v6q	03h4s_g
+sports.sports_team_season_record	076y20	0wsr
+music.recording_contribution	01wxwhx	026g73	040j79
+sports.sports_team_season_record	025syt6	01y3v
+travel.travel_destination_monthly_climate	01f62	0lkm
+travel.travel_destination_monthly_climate	01_d4	03_ly
+sports.sports_team_season_record	07btpd	02896
+american_football.game_receiving_statistics	07dlmnv	03b8gw
+film.dubbing_performance	02h40lc	026th36	026pf6t	0ng1ndt
+travel.travel_destination_monthly_climate	06c62	040fb
+base.militaryinfiction.military_character_service	0ccth98	0dggv4m	05qh0l8	0cpmh0k	0cpg0fg
+sports.sports_team_season_record	09p357	05gg4
+sports.sports_team_season_record	07rhvq	0487_
+american_football.game_rushing_statistics	0cv72h	0791td4
+american_football.game_rushing_statistics	0g6gx4	07947tb
+travel.travel_destination_monthly_climate	04jpl	06vkl
+american_football.game_rushing_statistics	07v71t	07dlsd7
+user.tsegaran.random.taxonomy_entry	087vz	04n6k
+american_football.game_receiving_statistics	07dlrx7	02pqy1y
+base.militaryinfiction.military_character_service	0c0b18k	0ck68rv	0by4xph	0c1wxsx	0cpg0fg
+sports.sports_team_season_record	07f8n2	05tfm
+american_football.game_rushing_statistics	07k26_	0791pf0
+user.tsegaran.random.taxonomy_entry	083p7	04n6k
+military.military_posting	0bxttn0	0c5y7sq
+base.schemastaging.phone_sandbox	02h40lc	02pn52z	034cm	0pl4nm4
+sports.sports_team_season_record	0790_m	02c_4
+basketball.basketball_historical_coach_position	0jm3b	05k19x
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c1py2f	05qjlx0	0bhbf93
+user.tsegaran.random.taxonomy_entry	028rk	04n6k
+baseball.baseball_team_stats	02h7s7r	0cqt41
+american_football.game_receiving_statistics	075rs0n	09hgyg
+music.recording_contribution	09l39p	026t6	0czvp3
+american_football.game_rushing_statistics	021h8y	07dlrwh
+baseball.baseball_team_stats	0dx84s	01ync
+american_football.game_receiving_statistics	07dlnqy	09kjc8
+base.petbreeds.dog_city_relationship	01llgk	0_vn7
+sports.sports_team_season_record	076z27	01xvb
+american_football.game_receiving_statistics	079423h	04t8zv
+baseball.baseball_team_stats	02h7sc5	06x68
+music.group_membership	05148p4	0phx4	03fbc
+military.military_service	0bxw6vb	01gzh0	0cqsw15	0c_jkm4
+american_football.game_receiving_statistics	07dlslm	0btjrg
+travel.travel_destination_monthly_climate	04x5l8	04wzr
+travel.travel_destination_monthly_climate	01914	04w_7
+basketball.basketball_player_stats	08p_89	05p26q	0jm5b
+music.recording_contribution	0632z7	0l14md	05rm45
+user.szaijan.fantasy_football.projection	02sj2gw	05y80m	02sjlml
+sports.sports_team_season_record	07f67z	01y49
+baseball.baseball_team_stats	02h7s8c	04mjl
+sports.sports_team_season_record	071qxs	043vc
+film.dubbing_performance	02h40lc	02bl6q	0fhnh2	0fmg0n
+american_football.game_receiving_statistics	07dlqxx	05827t
+american_football.game_receiving_statistics	07dlrs4	02qw524
+music.recording_contribution	02mx98	0l14md	038dlf
+american_football.game_receiving_statistics	0792qt5	09v4tf
+music.group_membership	05148p4	01vn35l	0197vy
+baseball.baseball_team_stats	04110yg	01d5z
+american_football.game_receiving_statistics	0794b6k	02z5l63
+american_football.game_rushing_statistics	0bg92m	0794mtw
+american_football.game_rushing_statistics	022s5y	075rs0n
+music.recording_contribution	01n350_	0c0n9v9	01j2nb3
+american_football.game_rushing_statistics	02qdp4v	0793c38
+american_football.game_rushing_statistics	03d13n8	07dlpjh
+american_football.game_rushing_statistics	062qp9	09rl2hg
+baseball.baseball_team_stats	05lqwn5	061xq
+sports.sports_team_season_record	07dtw0	01y3v
+american_football.game_receiving_statistics	0793bd6	027ddp
+music.group_membership	01dnws	05b4t66	01r0m_m
+sports.sports_team_season_record	0849xl	084l5
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0cpyjp3	0c0l_6d	0cgr8tv
+american_football.game_rushing_statistics	095c1c	0791t3y
+sports.sports_team_season_record	0733gm	070xg
+american_football.game_rushing_statistics	02z5l63	09tmfvr
+baseball.baseball_team_stats	02h7sdl	04pgss
+music.group_membership	05148p4	0kp3dql	01np9cb
+user.szaijan.fantasy_football.projection	02sj2gw	0443b8	02sjlml
+music.recording_contribution	01wxw7w	026t6	040h9q
+american_football.game_receiving_statistics	0793jjj	0btjrg
+film.dubbing_performance	02h40lc	0dthfr	0dh8v4	091n7z
+baseball.baseball_team_stats	02h7s0k	05xvj
+american_football.game_receiving_statistics	0794ryp	0443b8
+american_football.game_receiving_statistics	0793pgl	04ljjn
+baseball.baseball_team_stats	04110yg	02d02
+american_football.game_rushing_statistics	05zvv0f	09rl2kb
+base.schemastaging.tv_star_dubbing_performance	02h40lc	0cx885	03cst0b	0dxbkq
+baseball.baseball_team_stats	03d4p81	01ypc
+music.group_membership	05148p4	02jslp	0178_w
+music.recording_contribution	02x0j_	0c0n9v9	0fr4dfp
+baseball.baseball_team_stats	0411115	061xq
+base.schemastaging.tv_star_dubbing_performance	02h40lc	01jtv6	02bpq	0dccw0
+american_football.game_receiving_statistics	07dlqtx	087wnx
+music.recording_contribution	01tmnnv	026t6	0czvp3
+base.schemastaging.tv_star_dubbing_performance	02h40lc	02lzsz	04hs7d	07jf6t
+travel.travel_destination_monthly_climate	0d9jr	0lkm
+baseball.baseball_team_stats	02h7s4s	061xq
+music.group_membership	0l14md	02p8wxp	027kwc
+sports.sports_team_season_record	07_z0l	06lycgb
+music.group_membership	02hnl	01v_pj6	022c__
+music.group_membership	0l14md	010v_k5t	0wtc_n4
+music.recording_contribution	01tq77z	02dlh2	04b__2
+music.group_membership	05148p4	0kymnrx	0dmwddv
+american_football.game_receiving_statistics	0792wnm	03h4s_g
+baseball.baseball_team_stats	02h7sd8	05g76
+base.petbreeds.dog_city_relationship	01xtxb	0rh6k
+american_football.game_rushing_statistics	07l8mg	07dlqsx
+sports.sports_team_season_record	071qy4	084l5
+music.group_membership	0dwt5	01t8x6	016k_c
+baseball.baseball_team_stats	02h7s5k	02d02
+baseball.baseball_team_stats	05lqw34	01638t
+music.recording_contribution	0632z7	013y1f	05rm45
+baseball.baseball_team_stats	03wfgdh	01slc
+american_football.game_rushing_statistics	0cwnvk	0792wnm
+base.schemastaging.tv_star_dubbing_performance	02h40lc	02w5yb	02zkqj	07jf6t
+user.tsegaran.random.taxonomy_entry	04rlf	04n6k
+american_football.game_rushing_statistics	07fgn7	079341q
+baseball.baseball_team_stats	04111lk	05fc8c9
+base.petbreeds.dog_city_relationship	016wkx	01smm
+american_football.game_receiving_statistics	075rrwh	0cwlnq
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c_jbpj	05qjlx0	0c1py31
+baseball.baseball_team_stats	05lq8yz	05kmp3z
+baseball.baseball_team_stats	03d44h6	05ksshr
+american_football.game_receiving_statistics	07dlr5_	06l0vf
+baseball.baseball_team_stats	02h7s7r	05xvj
+sports.sports_team_season_record	07x_5h	0289q
+american_football.game_rushing_statistics	01tz2p	0792lj_
+sports.sports_team_season_record	080vs5	05tg3
+american_football.game_rushing_statistics	027ddp	0793b4v
+american_football.game_rushing_statistics	05y80m	07dlsry
+base.militaryinfiction.military_character_service	0c1wxsq	0bhbf93	05qh0l8	0clz_31	0cpg0cq
+american_football.game_receiving_statistics	0791_v5	02qp5gf
+american_football.game_rushing_statistics	03tt0_	07dlp2g
+american_football.game_rushing_statistics	0cw15s	07dlq2y
+baseball.baseball_team_stats	02h7s1n	0512p
+baseball.baseball_team_stats	05lq7n_	02dr5w
+base.schemastaging.athlete_salary	01ct6	09nqf	0d2m89
+american_football.game_rushing_statistics	04nt4c	0793pxw
+american_football.game_receiving_statistics	07dln30	079qkb
+american_football.game_rushing_statistics	09k147	07dlrsz
+american_football.game_receiving_statistics	075rs5t	02qw6y3
+baseball.baseball_team_stats	02h7s28	0512p
+baseball.baseball_team_stats	04110qr	06x68
+american_football.game_receiving_statistics	0793pxw	04cql0
+music.recording_contribution	066tmc	0l14md	02q1xk9
+baseball.baseball_team_stats	02h7sch	05m_8
+travel.travel_destination_monthly_climate	0947l	06vkl
+base.schemastaging.phone_sandbox	07qv_	0qs1pk2	01_9dh	0pl4nkj
+sports.sports_team_season_record	0721yn	01xvb
+baseball.baseball_team_stats	041105l	0cqt41
+sports.sports_team_season_record	07drc8	01y49
+american_football.game_receiving_statistics	0792l9d	07fgn7
+american_football.game_rushing_statistics	019g65	0792vpw
+music.recording_contribution	05sny3q	026t6	05sny61
+travel.travel_destination_monthly_climate	02_9n	040fv
+baseball.baseball_team_stats	04110lg	05c8tcn
+film.dubbing_performance	02h40lc	0ngkkr5	0cfdsq	07jf6t
+sports.sports_team_season_record	07j7ml	06lycgb
+baseball.baseball_team_stats	04111cy	06x68
+american_football.game_rushing_statistics	02623bz	07947tb
+baseball.baseball_team_stats	041110t	01d5z
+sports.sports_league_draft_pick	04plfw	0lyjf	05g49	03nt7j
+baseball.baseball_team_stats	02h7s57	06x68
+american_football.game_rushing_statistics	02qw6y3	07dlt0y
+american_football.game_rushing_statistics	043ljlz	09rl2k0
+travel.travel_destination_monthly_climate	02cl1	05cw8
+travel.travel_destination_monthly_climate	056_y	040fb
+american_football.game_receiving_statistics	0792181	07v74d
+sports.sports_team_season_record	082dhv	02c_4
+travel.travel_destination_monthly_climate	06wjf	06vkl
+baseball.baseball_team_stats	0411101	05knd46
+american_football.game_receiving_statistics	07dlq92	05827t
+sports.sports_team_season_record	07f8n2	05g3b
+american_football.game_receiving_statistics	07dlszc	05q5wxt
+baseball.baseball_team_stats	04111ck	02d02
+american_football.game_receiving_statistics	07927zd	0cl8g6
+american_football.game_rushing_statistics	07v71t	0793mqw
+american_football.game_rushing_statistics	062qp9	07dlnlw
+american_football.game_rushing_statistics	04m4kj	0793n3c
+baseball.baseball_team_stats	02h7s5q	051vz
+baseball.baseball_team_stats	025ygws	07147
+travel.travel_destination_monthly_climate	01cx_	04wzr
+sports.sports_team_season_record	0721y8	07l2m
+baseball.baseball_team_stats	02h7r_9	01yjl
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c1py31	05qjlx0	0c3vns2
+music.recording_contribution	01wkvt3	0l14qv	01qvpzw
+sports.sports_team_season_record	074vzg	04nmxtk
+american_football.game_receiving_statistics	0792wnm	04plb1
+travel.travel_destination_monthly_climate	04jpl	028kb
+sports.sports_team_roster	0jmjr	05r6n_
+sports.sports_team_season_record	076z27	084l5
+american_football.game_rushing_statistics	027qdpl	0792f6n
+sports.sports_team_season_record	072whh	05l71
+military.military_posting	0cms8p2	0c5y7sq
+baseball.baseball_team_stats	02h7s5k	04mjl
+sports.sports_team_season_record	074vzg	05l71
+baseball.baseball_team_stats	02h7sct	05m_8
+baseball.baseball_team_stats	02h7s9g	05g76
+american_football.game_rushing_statistics	062qp9	0791y_d
+sports.sports_team_season_record	0733hp	084l5
+travel.travel_destination_monthly_climate	02frhbc	03_ly
+baseball.baseball_team_stats	02h7s81	0cqt41
+baseball.baseball_team_stats	04111bt	05lkwhs
+military.military_post_use	0c5y7sq	0cl7sth
+sports.sports_team_season_record	07r58s	05gg4
+american_football.game_rushing_statistics	07k26_	0791whn
+music.recording_contribution	050z2	0l14qv	01hmp39
+base.petbreeds.dog_city_relationship	02cj3	0f__1
+music.recording_contribution	050z2	0l14qv	01hmq8n
+american_football.game_receiving_statistics	07dlply	08tx_w
+american_football.game_receiving_statistics	079254x	03tnlt
+american_football.game_receiving_statistics	07938sl	04p5_w
+baseball.baseball_team_stats	02h7s1t	05xvj
+sports.sports_team_season_record	0796vc	02896
+baseball.baseball_team_stats	02h7sbd	061xq
+sports.sports_team_season_record	07f9pv	051q5
+music.recording_contribution	02pbrn	05r5c	01j2dt1
+baseball.baseball_team_stats	04111c5	05ll5_5
+base.schemastaging.athlete_salary	0x0d	09nqf	0dd8yp
+music.recording_contribution	07gph1	0l14md	01h7h6c
+american_football.game_receiving_statistics	07dlstj	02pqy1y
+sports.sports_team_season_record	076zf_	02896
+american_football.game_receiving_statistics	07dlnbl	03d17x_
+music.recording_contribution	01vszv9	0l14md	01knf48
+american_football.game_rushing_statistics	04cql0	0793b4v
+sports.sports_team_season_record	07f83f	03b3j
+baseball.baseball_team_stats	04111ck	042v_h4
+american_football.game_rushing_statistics	02qw6y3	09rl2kb
+base.schemastaging.tv_star_dubbing_performance	02h40lc	02pj26z	03cst0b	0b6gn1
+baseball.baseball_team_stats	041108j	05fc8c9
+american_football.game_receiving_statistics	07940t_	04q2l4
+american_football.game_receiving_statistics	0793km8	08z_pz
+base.militaryinfiction.military_character_service	0130xz	0d3vhnb	0chzk_3	0chtrwn	0c1wycn
+baseball.baseball_team_stats	02h7s28	061xq
+baseball.baseball_team_stats	02h7sc5	05knd46
+american_football.game_rushing_statistics	05k0kp	0791w6f
+travel.travel_destination_monthly_climate	02z0j	0ll3
+american_football.game_rushing_statistics	03tlmz	07925xf
+sports.sports_team_season_record	072wh3	084l5
+sports.sports_team_season_record	0849k7	084l5
+american_football.game_receiving_statistics	07dlrvn	05zp9m5
+film.dubbing_performance	02h40lc	03dd2l	05vc35	0d6bs7
+travel.travel_destination_monthly_climate	02_286	0ll3
+american_football.game_rushing_statistics	05827t	0794w8l
+sports.sports_team_season_record	07r58s	051q5
+travel.travel_destination_monthly_climate	0f04v	0ll3
+baseball.baseball_historical_managerial_position	01ypc	02rdld
+base.schemastaging.phone_sandbox	03_9r	03c3vj4	03_3d	0pl4nkj
+baseball.baseball_team_stats	04111d9	01yjl
+american_football.game_rushing_statistics	04q2l4	079371d
+american_football.game_rushing_statistics	0cv72h	07dlsd7
+american_football.game_receiving_statistics	07dlqjy	05dcqg
+base.schemastaging.phone_sandbox	03_9r	0l14qv	03_3d	0pl4nkj
+american_football.game_receiving_statistics	0792gfc	05yn0w
+base.schemastaging.athlete_salary	0289q	09nqf	09wck4
+base.petbreeds.dog_city_relationship	01_gx_	071vr
+sports.sports_team_season_record	07f8y6	03b3j
+american_football.game_receiving_statistics	07dlpst	043rx7q
+american_football.game_receiving_statistics	0793hpk	02qx492
+american_football.game_rushing_statistics	04q2l4	07945t4
+sports.sports_team_season_record	082kys	025hfj
+sports.sports_team_season_record	07f9pv	0289q
+american_football.game_rushing_statistics	03d753s	07dlqqf
+sports.sports_team_season_record	07r58s	02896
+basketball.basketball_player_stats	099bj0	04ck52	0jmjr
+baseball.baseball_team_stats	04111ck	05xvj
+sports.sports_team_season_record	07rhvq	06mpvs8
+baseball.baseball_team_stats	03c74_8	01slc
+base.schemastaging.athlete_salary	02c_4	09nqf	0bmqgn
+baseball.baseball_historical_managerial_position	01yjl	01fb92
+sports.sports_league_draft_pick	088ssb	01jq0j	06x68	04f37pn
+music.recording_contribution	01wxg0j	026t6	01l8610
+baseball.baseball_team_stats	02h7sdf	051wf
+music.recording_contribution	02s6sh	013y1f	01j2n98
+american_football.game_rushing_statistics	062qp9	07dlnf4
+american_football.game_receiving_statistics	07dlvc3	05106z
+baseball.baseball_team_stats	02h7s5q	06x68
+american_football.game_rushing_statistics	026v49f	0791qpr
+american_football.game_rushing_statistics	04ljjn	07951ds
+sports.sports_team_season_record	0796vc	01c_d
+sports.sports_team_season_record	072whh	07l2m
+sports.sports_team_season_record	0733hp	05tg3
+base.petbreeds.dog_city_relationship	02kfwr	02dtg
+music.recording_contribution	09l39p	026t6	055l2q
+user.tsegaran.random.taxonomy_entry	01nyl	04n6k
+sports.sports_team_season_record	07rhvq	0wsr
+sports.sports_team_season_record	07x_gq	0289q
+baseball.baseball_team_stats	04111bf	01yhm
+sports.sports_team_season_record	07skf_	084l5
+american_football.game_receiving_statistics	07dlr10	03cvzx0
+american_football.game_receiving_statistics	07dln26	079qkb
+sports.sports_team_season_record	074w7v	05g3v
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0dgbbm8	0chzk_3	0dc60vr
+sports.sports_team_season_record	076zf_	05tfm
+baseball.baseball_team_stats	04110y2	05ll5_5
+travel.travel_destination_monthly_climate	0d6lp	040fb
+travel.travel_destination_monthly_climate	02frhbc	040fv
+base.militaryinfiction.military_character_service	0c0lm9m	0cw8hb4	0by4xph	0chtrwn	0b_kysq
+american_football.game_receiving_statistics	07dlv7x	06ckp1
+base.petbreeds.dog_city_relationship	01llgk	01smm
+sports.sports_team_season_record	07f8y6	06lxvwt
+sports.sports_team_season_record	07f944	04nmxtk
+sports.sports_team_season_record	082dpv	05tfm
+base.militaryinfiction.military_character_service	0c0lmd2	0c0kxqp	0chzk_3	0chtrwn	0c02ppy
+american_football.game_rushing_statistics	07fgn7	07dlrnr
+american_football.game_receiving_statistics	0793wqg	05yj_q
+american_football.game_rushing_statistics	05223lq	07dlqdr
+baseball.baseball_team_stats	03c6r8q	05knbz8
+film.dubbing_performance	02h40lc	02rc4d	03z48l	09j5bm
+travel.travel_destination_monthly_climate	01f62	06vkl
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c1py31	05qjm01	0c_jbpj
+travel.travel_destination_monthly_climate	0f2rq	028kb
+baseball.baseball_team_stats	04110r3	01d5z
+baseball.baseball_team_stats	02x1xf4	05kmkc5
+base.schemastaging.phone_sandbox	07qv_	0qs1q05	02gps2	0pl4nkj
+baseball.baseball_team_stats	02h7s7l	01yhm
+music.recording_contribution	0dnxdt	02dlh2	04101k
+american_football.game_receiving_statistics	07dlqzm	051__0
+american_football.game_rushing_statistics	05827t	07dlqxx
+american_football.game_rushing_statistics	02623bz	0793_7m
+american_football.game_receiving_statistics	07dlq60	027qdpl
+music.recording_contribution	01wwxbr	0l14md	01hvn39
+american_football.game_receiving_statistics	0794fry	02z5l63
+american_football.game_receiving_statistics	07dltmm	02z5l63
+baseball.baseball_team_stats	04111bf	0cqt41
+baseball.baseball_team_stats	0285r5d	06x68
+music.recording_contribution	0pk41	0l15bq	04bzyf
+american_football.game_rushing_statistics	04nt4c	0793g9k
+music.recording_contribution	02r_cc	0_sv_90	01jgn8d
+american_football.game_receiving_statistics	0792tz_	0cwmvm
+basketball.basketball_player_stats	09bjp8	02791cy	0jm5b
+baseball.baseball_team_stats	02h7scb	05ll5_5
+baseball.baseball_team_stats	02h7s31	0713r
+music.recording_contribution	0313_3	0l14md	02pxf6m
+baseball.baseball_team_stats	05lq7n_	05lkr4r
+travel.travel_destination_monthly_climate	02h6_6p	05lf_
+sports.sports_team_season_record	07rj2g	06mpvs8
+baseball.baseball_team_stats	02h7r_9	05g76
+sports.sports_team_season_record	07dtw0	07l24
+baseball.baseball_team_stats	05kcgsf	01d6g
+sports.sports_team_season_record	079430	02896
+baseball.baseball_team_stats	04110rh	06x68
+american_football.game_receiving_statistics	07dlmb7	09k147
+american_football.game_receiving_statistics	07dlsd7	056txjf
+american_football.game_receiving_statistics	0793g9k	09r01t
+sports.sports_team_season_record	0796vc	05gg4
+baseball.baseball_team_stats	02h7s81	049n7
+baseball.baseball_team_stats	041108x	05nlyxv
+american_football.game_receiving_statistics	0792gfc	04llqf
+base.schemastaging.athlete_salary	05l71	09nqf	027rvyc
+baseball.baseball_team_stats	05lqwcn	01ypc
+american_football.game_receiving_statistics	0791pf0	079qkb
+american_football.game_receiving_statistics	0793jw9	08cyj8
+baseball.baseball_team_stats	02h7s6b	01slc
+base.militaryinfiction.force_strength_in_fiction	0cwd0l8	0chzk_3	0h7ty	0c0lmgc	0cj9dk1
+base.schemastaging.athlete_salary	01y49	09nqf	043jp1_
+american_football.game_receiving_statistics	07dlq_g	04kk9q
+sports.sports_team_season_record	07rj2g	01y3v
+american_football.game_receiving_statistics	0791wr7	079qkb
+baseball.baseball_team_stats	02h7s3j	04mjl
+baseball.baseball_team_stats	0411101	05xvj
+baseball.baseball_team_stats	027pwzc	01yhm
+film.dubbing_performance	02h40lc	02sp46	03gyvwg	094zvg
+music.recording_contribution	027dpx	026t6	01qdd4_
+sports.sports_team_season_record	078_54	02896
+american_football.game_receiving_statistics	07dlr10	05yn1m
+sports.sports_team_season_record	0796vc	04nmxtk
+sports.sports_team_season_record	0733gm	01c_d
+baseball.baseball_team_stats	0411115	05nlyxv
+sports.sports_team_roster	02c_4	0kt13j
+sports.sports_team_season_record	07f6s7	0wsr
+american_football.game_rushing_statistics	027f42	07dlsmj
+sports.sports_team_season_record	078_s7	01c_d
+baseball.baseball_team_stats	02h7sbd	05m_8
+music.recording_contribution	01wk97t	0c0n9v9	03cnt0
+base.schemastaging.tv_star_dubbing_performance	02h40lc	071wdr	0283ph	0bkpg4
+american_football.game_rushing_statistics	07yzk2	07dlrnr
+american_football.game_rushing_statistics	04r6rw	0793wqg
+sports.sports_team_season_record	07btpd	01y49
+american_football.game_rushing_statistics	07fgn7	0792tz_
+user.tsegaran.random.taxonomy_entry	01hnp	04n6k
+sports.sports_team_season_record	07r4kx	01xvb
+base.militaryinfiction.military_character_service	0c0lmd2	0dggvjx	0chzk_3	0chtrwn	0dgb8yd
+american_football.game_receiving_statistics	07dlptq	025wl37
+baseball.baseball_team_stats	05lqwn5	01d6g
+base.schemastaging.phone_sandbox	02h40lc	0ccf7n	03h64	0pl4nkj
+sports.sports_team_season_record	07rj2g	06lxvwt
+base.schemastaging.phone_sandbox	02h40lc	05k4k	0chgr2	0pl4nm4
+film.dubbing_performance	02h40lc	020xc2	09802n	0ck6ln
+sports.sports_team_season_record	07x_gq	01c_d
+film.dubbing_performance	02h40lc	04bb1n	05qjzc	0g57zq
+american_football.game_rushing_statistics	02q_kcw	0791rfv
+sports.sports_team_season_record	071qy4	01c_d
+base.militaryinfiction.military_character_service	0130xz	0bhbf93	05qh0kt	0dcd144	0bxtt5p
+base.schemastaging.phone_sandbox	0cz8t9q	0bmgknx	09pmkv	0pl4nm4
+american_football.game_receiving_statistics	07dlrx7	02qdp4v
+baseball.baseball_team_stats	041110f	05nlyxv
+baseball.baseball_team_stats	05lqjhl	02zjfp
+base.petbreeds.dog_city_relationship	0km3f	019fh
+sports.sports_team_season_record	0733hp	01ct6
+base.schemastaging.tv_star_dubbing_performance	02h40lc	03fhcj	04nffq	05ntcv
+american_football.game_rushing_statistics	0cjcdj	07dlrgx
+music.group_membership	0_sv_90	03bxwtd	02q3w3v
+base.petbreeds.dog_city_relationship	01_gx_	01snm
+sports.sports_team_season_record	07f944	0wsr
+american_football.game_rushing_statistics	07kfrl	0791lwh
+base.petbreeds.dog_city_relationship	0km3f	0chrx
+american_football.game_rushing_statistics	04rkly	0791y_d
+american_football.game_rushing_statistics	0462zw6	07dltxb
+sports.sports_team_season_record	0844dx	06rny
+sports.sports_team_season_record	025syt6	0wsr
+film.dubbing_performance	02h40lc	0hqg95g	026pf6t	0d6bs7
+american_football.game_rushing_statistics	05yj_q	07dlqh1
+american_football.game_rushing_statistics	02z5l63	0793vrh
+baseball.baseball_team_stats	02h7s6b	0512p
+film.dubbing_performance	02h40lc	0409pl	02w5tqb	0fps52
+baseball.baseball_team_stats	02h7s31	06x68
+base.schemastaging.phone_sandbox	02h40lc	05fjl2	0jhwd	0pl4nkj
+american_football.game_rushing_statistics	04ljjn	0794ygq
+film.dubbing_performance	02h40lc	03dd2l	08dz4r	091n7z
+base.militaryinfiction.military_character_service	0c0lmd2	01ssgq	0chzk_3	0chtrwn	0c0mtfn
+user.tsegaran.random.taxonomy_entry	06c0j	04n6k
+sports.sports_team_season_record	071qy4	01y3v
+sports.sports_team_season_record	079430	051q5
+basketball.basketball_player_stats	08030z	0739r4	0jm5b
+film.dubbing_performance	02h40lc	0301s7	05qjzc	01pgmn
+american_football.game_receiving_statistics	07940t_	02pyvd_
+sports.sports_team_season_record	072wh3	0487_
+sports.sports_team_season_record	025syt6	0ws7
+travel.travel_destination_monthly_climate	0fhp9	05lf_
+music.recording_contribution	04s5_s	0c0n9v9	038dmx
+baseball.baseball_team_stats	02h7sbq	05g76
+sports.sports_team_season_record	0793t1	05tfm
+baseball.baseball_historical_managerial_position	01ypc	0dxg6
+american_football.game_receiving_statistics	07dlsc8	02pq4wh
+sports.sports_team_season_record	072wh3	0wsr
+baseball.baseball_team_stats	02wxq71	06x68
+american_football.game_rushing_statistics	05223lq	07dlq6z
+sports.sports_team_season_record	084bdc	0ws7
+baseball.baseball_team_stats	02h7sbd	01d5z
+american_football.game_receiving_statistics	079341q	03b8gw
+base.militaryinfiction.military_character_service	0c0lm9m	0cw8hb4	0by4xph	0chtrwn	0cpg0bb
+basketball.basketball_player_stats	0994_r	0684s7	0jmjr
+baseball.baseball_team_stats	02h7s15	02__x
+baseball.baseball_team_stats	02h7sdl	025wmp4
+base.militaryinfiction.military_character_service	0ch9xlz	0cr46m3	05qjm01	0cpmh0k	0cms9py
+american_football.game_rushing_statistics	062yhn	07947tb
+base.schemastaging.phone_sandbox	02h40lc	0qs1q05	01_9dh	0pl4nkj
+american_football.game_receiving_statistics	07dlrhq	02qw8dk
+sports.sports_team_season_record	07f944	05g3b
+american_football.game_receiving_statistics	0792b2b	03d13n8
+music.recording_contribution	05b02f5	028tv0	05b1xhr
+music.recording_contribution	01wkvt3	0c0n9v9	01qvpzw
+american_football.game_receiving_statistics	0791pf0	08mhtk
+baseball.baseball_team_stats	02h7s4s	05kmkd0
+baseball.baseball_historical_managerial_position	06x68	082ryw
+baseball.baseball_team_stats	026fmqm	01slc
+american_football.game_rushing_statistics	0bhy1_	07945k0
+film.dubbing_performance	02h40lc	0ndv08y	05926j	07jf6t
+baseball.baseball_team_stats	05lqr69	02zjfp
+baseball.baseball_team_stats	0dx84s	01d5z
+american_football.game_rushing_statistics	02qwkw2	07920f6
+american_football.game_receiving_statistics	07928vk	03tt9p
+user.szaijan.fantasy_football.projection	02sj2gw	0cwnqd	02sjlml
+baseball.baseball_team_stats	0411115	05ll5_5
+travel.travel_destination_monthly_climate	0l0mk	03_ly
+american_football.game_receiving_statistics	0792wnm	03h308s
+travel.travel_destination_monthly_climate	01_d4	040fv
+military.military_service	0c1wycn	0130xz	0chtrwn	0cl7sth
+film.dubbing_performance	02h40lc	0875hc	02vw1w2	0b_w5j
+baseball.baseball_team_stats	02h7s15	07l4z
+baseball.baseball_team_stats	047t_wf	05kn7bw
+base.militaryinfiction.military_character_service	0c258nl	0dggvjx	0chzk_3	0dcd14j	0cpg042
+american_football.game_rushing_statistics	04m4kj	07dlrhq
+baseball.baseball_team_stats	05lqcjv	03sn07
+american_football.game_rushing_statistics	096bk_	0794wyy
+film.dubbing_performance	02bjrlw	01x5g2	09v8clw	0nj8f31
+american_football.game_receiving_statistics	07dlsmj	05yj_q
+base.militaryinfiction.military_character_service	0cnb47g	0d3vhnb	0chzk_3	0chtrwn	0b_kysq
+sports.sports_team_season_record	0733hp	0487_
+sports.sports_team_season_record	072whw	01y3v
+baseball.baseball_team_stats	02h7rz_	061xq
+american_football.game_receiving_statistics	07935p4	03b8gw
+film.dubbing_performance	02h40lc	012698	0cks1m	07cn2c
+travel.travel_destination_monthly_climate	071vr	040fb
+film.dubbing_performance	02h40lc	0409pl	027l7sg	0fps52
+base.militaryinfiction.military_character_service	02p27x5	0d76rm4	05qh0kt	0dcd144	0cpg0f2
+american_football.game_receiving_statistics	0792c_g	0gmhf_
+american_football.game_rushing_statistics	05yj_q	0794wyy
+american_football.game_rushing_statistics	06c4zl	0792wnm
+american_football.game_rushing_statistics	0cvgp4	07dlpx8
+baseball.baseball_team_stats	02h7s31	04mjl
+baseball.baseball_team_stats	04110rh	01slc
+film.dubbing_performance	02h40lc	021zt5	055gwx	07ybnb
+sports.sports_team_season_record	07f9bq	01c_d
+baseball.baseball_team_stats	02h7r_9	05xvj
+music.group_membership	05148p4	072d65	02cchy
+base.schemastaging.phone_sandbox	02h40lc	0qj5wgd	05l64	0pl4nkj
+film.dubbing_performance	02h40lc	0b89bl	07ghv5	0dfxt3
+sports.sports_team_season_record	076ylc	02896
+american_football.game_rushing_statistics	04cql0	0793pxw
+american_football.game_receiving_statistics	07924h_	0695k1
+american_football.game_receiving_statistics	07dlqc2	0cwhxj
+american_football.game_rushing_statistics	022s5y	07945k0
+american_football.game_receiving_statistics	07dlqpl	04ljjn
+film.dubbing_performance	02h40lc	0ng03rj	01kzd_v	02z791n
+american_football.game_receiving_statistics	0b3w6l2	05223lq
+baseball.baseball_team_stats	03d4p81	05lkwhs
+baseball.baseball_team_stats	05kcgsf	02d02
+sports.sports_team_season_record	072whw	05g3b
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0ck68rv	0c0l_6d	0czt9z4
+music.recording_contribution	01vs_1_	026t6	09ctdd
+basketball.basketball_player_stats	09068d	0bm9df	0jm9w
+travel.travel_destination_monthly_climate	0rh6k	03_ly
+sports.sports_team_season_record	07j70y	03b3j
+basketball.basketball_player_stats	08lw15	08lk30	0jm9w
+film.dubbing_performance	02h40lc	02ht69	05dfy_	02q1q1_
+sports.sports_team_season_record	084bdc	06rny
+base.petbreeds.dog_city_relationship	01_gx_	019fh
+base.petbreeds.dog_city_relationship	02cj3	019fh
+american_football.game_receiving_statistics	0793n3c	0443b8
+base.militaryinfiction.military_character_service	0cphhg6	0d3vhnb	05qh0kq	0clz_31	0c2byws
+american_football.game_rushing_statistics	0cwhxj	0792l01
+user.szaijan.fantasy_football.projection	02sj2gw	04t8z3	02sjlml
+baseball.baseball_team_stats	02h7s4s	05kmnv1
+baseball.baseball_team_stats	02h7s86	05g76
+film.dubbing_performance	02h40lc	0ngkkr5	051xbpj	0cb5dm
+sports.team_venue_relationship	017grj	0713r
+base.schemastaging.tv_star_dubbing_performance	02h40lc	05nspz	0283ph	0502p0
+music.recording_contribution	015pt7	026t6	026d2xk
+american_football.game_receiving_statistics	0794ygq	04ljjn
+sports.sports_team_season_record	07f8n2	06rny
+base.militaryinfiction.military_character_service	0c0lmd2	0dggv64	0chzk_3	0d76zb9	0cpg09y
+american_football.game_receiving_statistics	09tmfvr	07v71t
+baseball.baseball_team_stats	04110y2	03wzpvl
+american_football.game_receiving_statistics	0792b2b	025vzmm
+american_football.game_receiving_statistics	07dlqjy	0cwhxj
+baseball.baseball_historical_managerial_position	01d5z	0804pk
+base.militaryinfiction.military_character_service	0c258nl	0dggvjx	0chzk_3	0chtrwn	0cpg042
+film.dubbing_performance	02h40lc	0301s7	02z9hqn	02pr540
+american_football.game_rushing_statistics	044trz	07dlvgl
+american_football.game_receiving_statistics	0791ys4	05yj_0
+american_football.game_receiving_statistics	07dlp4m	03tnlt
+baseball.baseball_team_stats	02h7s4g	061xq
+american_football.game_receiving_statistics	07dlp4m	0gmhf_
+baseball.baseball_team_stats	027mvrc	01slc
+basketball.basketball_player_stats	09068d	04wf0f	0jmcv
+travel.travel_destination_monthly_climate	0947l	05lf_
+american_football.game_rushing_statistics	07kfrl	07dlm7n
+base.militaryinfiction.military_character_service	0c3l16k	0b_wsry	05qh0l8	0cpmh0k	0cpg05_
+baseball.baseball_team_stats	02h7sd3	02d02
+baseball.baseball_team_stats	02h7sbd	04mjl
+base.schemastaging.athlete_salary	01k8vh	09nqf	07d770
+american_football.game_rushing_statistics	021h8y	0793hpk
+american_football.game_receiving_statistics	07dlnf4	095c1c
+american_football.game_rushing_statistics	03d4lw7	07dlnqy
+baseball.baseball_historical_managerial_position	07l4z	03k7j6
+sports.sports_team_season_record	084bkc	03b3j
+sports.sports_team_season_record	081xyg	025hfj
+american_football.game_receiving_statistics	09rl2kb	0cwlnq
+american_football.game_receiving_statistics	09rl2jd	05zp9m5
+user.tsegaran.random.taxonomy_entry	0g_fl	04n6k
+base.schemastaging.athlete_salary	0jm7n	09nqf	04ck52
+sports.sports_team_season_record	081xtm	05gg4
+sports.sports_team_season_record	0733gm	05l71
+baseball.baseball_team_stats	02h7sdf	01ync
+sports.sports_team_season_record	078_s7	084l5
+american_football.game_receiving_statistics	075rqy4	027ddp
+american_football.game_rushing_statistics	027fcy	07dlmm5
+american_football.game_rushing_statistics	01tz2p	07dln12
+base.petbreeds.dog_city_relationship	0km3f	0c_m3
+american_football.game_rushing_statistics	062qp9	0791_52
+user.tsegaran.random.taxonomy_entry	06mnr	04n6k
+music.group_membership	018vs	01tp5bj	0fsyx
+film.dubbing_performance	02h40lc	07kwn7	06fc9s	0h25vw
+american_football.game_rushing_statistics	019g65	0793yjf
+music.recording_contribution	0313_3	013y1f	0fl8xw
+baseball.baseball_team_stats	03d4p81	05fc8c9
+sports.sports_team_season_record	09p357	043vc
+base.militaryinfiction.military_character_service	0cn3_6j	0cw8hb4	0by4xph	0chtrwn	0cms8mt
+base.schemastaging.tv_star_dubbing_performance	02h40lc	03ptqg	04nffq	0789ts
+baseball.baseball_team_stats	02h7s28	05g76
+american_football.game_receiving_statistics	07dlr7l	06l0vf
+film.dubbing_performance	02h40lc	0bf5ysp	05vc35	0gps4j
+baseball.baseball_team_stats	04111ly	01slc
+baseball.baseball_team_stats	02h7sd3	061xq
+american_football.game_receiving_statistics	0792c72	048fq9
+baseball.baseball_team_stats	041111k	01d5z
+baseball.baseball_historical_managerial_position	01ypc	02_tp5
+sports.sports_team_season_record	0733gm	03wnh
+american_football.game_receiving_statistics	079371d	04pz6f
+basketball.basketball_player_stats	095_24	0fm9x_	0jmjr
+american_football.game_receiving_statistics	07dlqdr	05223lq
+american_football.game_rushing_statistics	07k26_	0791ns0
+american_football.game_receiving_statistics	07921ll	02qw7jc
+base.militaryinfiction.military_character_service	0c0lmd2	0dggvjx	0chzk_3	0chtrwn	0cms8p2
+baseball.baseball_team_stats	05lq7jk	05lkr4r
+baseball.baseball_team_stats	02h7s07	061xq
+travel.travel_destination_monthly_climate	0d9jr	06vkl
+base.militaryinfiction.military_character_service	0cr6pjy	0d3vhnb	0chzk_3	0dcd144	0cpbz4j
+travel.travel_destination_monthly_climate	03h64	06vkl
+base.militaryinfiction.military_character_service	0c0b185	0clzlp8	05qjlx0	0cpmh0k	0cms9py
+base.petbreeds.dog_city_relationship	02kfwr	0nbwf
+base.petbreeds.dog_city_relationship	01t032	0dyl9
+american_football.game_receiving_statistics	0793km8	02qx492
+baseball.baseball_team_stats	02h7sct	05g76
+sports.sports_team_season_record	080vx0	01xvb
+travel.travel_destination_monthly_climate	01_d4	040fb
+american_football.game_rushing_statistics	08vwtr	07dlqqf
+baseball.baseball_team_stats	04110_p	06x68
+film.dubbing_performance	02h40lc	09xp2	0ckrgs	09r7n2
+sports.sports_team_season_record	071qy4	03lsq
+sports.sports_team_season_record	0790_m	051q5
+american_football.game_receiving_statistics	07931qv	022s5y
+sports.sports_team_season_record	078_54	03wnh
+base.schemastaging.phone_sandbox	0gfh2x1	0r5ctz_	03spz	0pl4nkj
+sports.sports_team_season_record	0793t1	07l24
+sports.sports_team_roster	06x76	0cwnvk
+sports.sports_team_season_record	071qxs	0487_
+base.petbreeds.dog_city_relationship	02cj3	02frhbc
+film.dubbing_performance	02h40lc	025yg6g	026q3s3	066l3y
+sports.sports_team_season_record	076y20	05tfm
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0ck68rv	0chzk_3	0c_jbpj
+music.group_membership	05148p4	03bxwtd	02q3w3v
+american_football.game_receiving_statistics	0793n3c	08cyj8
+american_football.game_receiving_statistics	0793sfm	04pz6f
+sports.sports_team_season_record	07rhvq	06rny
+american_football.game_rushing_statistics	051kjg	079247p
+music.recording_contribution	01tmnnv	0l14md	05q65lz
+user.szaijan.fantasy_football.projection	02sj2gw	03vxbj	02sjlml
+base.petbreeds.dog_city_relationship	02cj3	01smm
+baseball.baseball_team_stats	041112p	03wzpvl
+american_football.game_rushing_statistics	027ddp	079397c
+american_football.game_rushing_statistics	097yk7	0793b4v
+sports.sports_team_season_record	07r4kx	05g49
+user.tsegaran.random.taxonomy_entry	05rgl	04n6k
+sports.sports_team_season_record	07r58s	05tfm
+baseball.baseball_team_stats	0411101	05lkwhs
+user.szaijan.fantasy_football.projection	02sj2gw	03b8gw	02sjlml
+travel.travel_destination_monthly_climate	0fhp9	0ll3
+american_football.game_rushing_statistics	03c0jkp	07dlr59
+music.recording_contribution	02r_cc	0_sv_90	01jgmpp
+baseball.baseball_team_stats	03wfgdh	061xq
+film.dubbing_performance	02h40lc	02rc4d	05bvtd	07y91g
+american_football.game_receiving_statistics	0793_7m	02pyvd_
+american_football.game_receiving_statistics	09rl2jd	051__0
+baseball.baseball_team_stats	02h7s3p	0x2p
+user.szaijan.fantasy_football.projection	02sj2gw	03tlmz	02sjlml
+base.schemastaging.athlete_salary	05l71	09nqf	04nm2t
+user.tsegaran.random.taxonomy_entry	02yy8	04n6k
+american_football.game_receiving_statistics	0791rfv	06ppd_
+base.petbreeds.dog_city_relationship	01t032	02hrh0_
+baseball.baseball_team_stats	02h7s9g	05m_8
+baseball.baseball_team_stats	041109n	05lkwhs
+travel.travel_destination_monthly_climate	0h7h6	04w_7
+american_football.game_rushing_statistics	07682f	0792gfc
+basketball.basketball_player_stats	08lw15	050t_l	0jmhr
+sports.sports_team_season_record	07dqdx	05g3v
+film.dubbing_performance	02h40lc	074qkg	0k0hw2q	06_6j3
+american_football.game_receiving_statistics	075rr0m	0cwlnq
+american_football.game_receiving_statistics	0791kg5	04qd2z
+baseball.baseball_team_stats	02h7sdf	01d6g
+base.petbreeds.dog_city_relationship	01dj7	0dyl9
+american_football.game_rushing_statistics	02qw8dk	0791ys4
+american_football.game_rushing_statistics	04m4kj	0793km8
+american_football.game_receiving_statistics	07dlpjh	04y943l
+american_football.game_receiving_statistics	07dlnp4	02674zg
+user.tsegaran.random.taxonomy_entry	086m1	04n6k
+american_football.game_receiving_statistics	07dlsf5	04qjlr
+sports.sports_team_season_record	080vs5	01y3v
+base.militaryinfiction.military_character_service	0ds78y	0bhbf93	05qjm01	0cpmh0k	0cpg04h
+sports.sports_team_season_record	074vzg	05g49
+music.recording_contribution	06j8_1	02dlh2	01hktv2
+film.dubbing_performance	02h40lc	04b5rz	03gyvwg	0chwh6
+american_football.game_rushing_statistics	0cwnvk	07945k0
+american_football.game_receiving_statistics	0792181	09ryyx
+music.recording_contribution	065jx5	026t6	085qvk
+baseball.baseball_team_stats	02h7rz_	05m_8
+american_football.game_receiving_statistics	07dlq_g	03b8gw
+baseball.baseball_team_stats	0dx84s	07l4z
+american_football.game_receiving_statistics	07dlmkf	07kfrl
+sports.sports_team_season_record	025syt6	05tg3
+baseball.baseball_team_stats	02h7sdf	01yhm
+travel.travel_destination_monthly_climate	05ywg	0lkm
+baseball.baseball_team_stats	02h7s73	05lkwhs
+sports.sports_team_season_record	079430	05g3b
+sports.sports_team_season_record	072wh3	070xg
+american_football.game_receiving_statistics	07dlrmz	04kk9q
+travel.travel_destination_monthly_climate	0fhp9	04wzr
+music.recording_contribution	053y0s	0l14qv	04101k
+american_football.game_rushing_statistics	04q2l4	07947tb
+american_football.game_rushing_statistics	0cx2qq	0791y_d
+user.tsegaran.random.taxonomy_entry	042kg	04n6k
+baseball.baseball_team_stats	02h7sc5	05lkwhs
+base.militaryinfiction.military_character_service	0c1qlq7	0dc3kpr	05qh0l8	0clz_31	0cpg02s
+base.schemastaging.phone_sandbox	0jzc	0g_fl	01z215	0pl4nkj
+user.tsegaran.random.taxonomy_entry	06nnj	04n6k
+music.group_membership	01vj9c	0gj8ym6	01np2sb
+baseball.baseball_team_stats	0411129	05lkwhs
+american_football.game_rushing_statistics	04nt4c	07927r7
+american_football.game_rushing_statistics	046bjz	07dlvh9
+sports.sports_team_season_record	071qxs	02896
+baseball.baseball_team_stats	05lqjhl	05lrgfk
+american_football.game_rushing_statistics	0cwhxj	0b3w6l2
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0czt9z4	0by4xph	0dgbbm8
+freebase.list_entry	050z2	064j7lk
+base.militaryinfiction.military_character_service	0c0lmd2	0dggvhh	0chzk_3	0dcd14j	0c02ppy
+american_football.game_receiving_statistics	07dlsmj	066r46
+user.szaijan.fantasy_football.projection	02sj2gw	08cyj8	02sjlml
+american_football.game_rushing_statistics	05dcr4	0791whn
+baseball.baseball_team_stats	02wxr1w	05knb8g
+american_football.game_receiving_statistics	0793pxw	04nt4c
+travel.travel_destination_monthly_climate	036g_r	04w_7
+baseball.baseball_team_stats	04110rw	05z0hg
+freebase.list_entry	0fsyx	05bvjx6
+base.militaryinfiction.military_character_service	0c0lmd2	0ck96kz	0chzk_3	0chtrwn	0cpg09y
+american_football.game_receiving_statistics	07dlpgy	0cvgp4
+music.recording_contribution	07gph1	026t6	027n4xs
+american_football.game_rushing_statistics	05yj_q	0794c1z
+american_football.game_receiving_statistics	0792y1k	03cvzx0
+american_football.game_rushing_statistics	0d0gxj	0793jjj
+sports.sports_team_season_record	082lxm	03b3j
+baseball.baseball_team_stats	02h7sd3	05xvj
+music.recording_contribution	0krsyr8	0c0n9v9	0l8pg6p
+american_football.game_receiving_statistics	07dlnrs	02674zg
+baseball.baseball_historical_managerial_position	01d5z	04kc8x
+baseball.baseball_team_stats	02h7sch	05xvj
+baseball.baseball_team_stats	02h7scb	042v_h4
+baseball.baseball_team_stats	02h7s28	03m1n
+american_football.game_receiving_statistics	0794fry	022s5y
+base.militaryinfiction.military_character_service	0ccth98	0d76rm4	05qjm01	0cpmh0k	0cpbz8x
+basketball.basketball_historical_coach_position	01k8vh	05r68c
+american_football.game_rushing_statistics	02623bz	0792z78
+baseball.baseball_team_stats	02h7sd8	0x2p
+base.schemastaging.athlete_salary	03lsq	09nqf	03d17x_
+baseball.baseball_team_stats	02h7s3j	01yhm
+baseball.baseball_team_stats	02h7s5k	051vz
+baseball.baseball_team_stats	026fmqm	05xvj
+baseball.baseball_team_stats	02h7sdf	0cqt41
+user.tsegaran.random.taxonomy_entry	06mz5	04n6k
+sports.sports_team_season_record	072whh	0487_
+baseball.baseball_team_stats	0285r5d	07147
+american_football.game_receiving_statistics	0791tw4	079qkb
+sports.sports_team_season_record	078_54	01y49
+base.petbreeds.dog_city_relationship	01llgk	0dclg
+film.dubbing_performance	02h40lc	038jtw	0cks1m	053cp1
+baseball.baseball_team_stats	02h7s78	051vz
+american_football.game_receiving_statistics	07dlm7n	027ddp
+american_football.game_rushing_statistics	08z7bw	07dlqxx
+american_football.game_receiving_statistics	07dlryw	04t8z3
+baseball.baseball_team_stats	04111ck	0cqt41
+baseball.baseball_team_stats	041108j	03wzpvl
+sports.sports_team_season_record	07f67z	03b3j
+base.famouspets.pet_ownership	06c97	05hqkyh
+sports.sports_team_season_record	082lxm	06mpwv_
+american_football.game_receiving_statistics	0792hhm	05101_
+american_football.game_receiving_statistics	0793hh5	02qx492
+sports.sports_team_season_record	080vx0	0738cbk
+american_football.game_receiving_statistics	07dlsr3	04nt4c
+american_football.game_rushing_statistics	04ljjn	07939h0
+american_football.game_receiving_statistics	07dlnxs	03d13n8
+american_football.game_receiving_statistics	07924x2	0f_ptc
+user.tsegaran.random.taxonomy_entry	0598zp	04n6k
+travel.travel_destination_monthly_climate	05l64	028kb
+american_football.game_receiving_statistics	07933dg	07fgn7
+baseball.baseball_team_stats	02h7sfv	01d5z
+american_football.game_rushing_statistics	027fcy	0791rfv
+user.tsegaran.random.taxonomy_entry	07dv8	04n6k
+baseball.baseball_team_stats	041111k	01slc
+baseball.baseball_team_stats	05m2x6r	061xq
+sports.sports_team_season_record	07f9pv	01xvb
+sports.sports_team_season_record	07932s	04nmxtk
+baseball.baseball_team_stats	03wfgdh	0cqt41
+film.dubbing_performance	02h40lc	05j4hq	0cxf7c	0g6784
+american_football.game_rushing_statistics	01tz2p	0792ht7
+baseball.baseball_team_stats	02h7s5q	051wf
+american_football.game_rushing_statistics	03tt0_	079247p
+base.schemastaging.phone_sandbox	03_9r	0352k1	03_3d	0pl4nkj
+american_football.game_receiving_statistics	07921ll	0f_ptc
+american_football.game_rushing_statistics	09cyqn	07dlmpn
+base.schemastaging.phone_sandbox	02h40lc	0pyq4s8	0hzlz	0pl4nlh
+sports.sports_team_season_record	074vzg	05g3v
+american_football.game_receiving_statistics	07dlrnr	04kk9q
+base.schemastaging.phone_sandbox	02h40lc	0rp0jvy	0n4mk	0pl4nkj
+american_football.game_receiving_statistics	07dlmr6	076ltd
+sports.sports_team_season_record	076y20	05gg4
+american_football.game_rushing_statistics	04ljjn	07dlqgd
+base.militaryinfiction.military_character_service	0c0lmd2	0d76rlw	0chzk_3	0d76zb9	0c02ppy
+american_football.game_rushing_statistics	05yj_q	07dlszc
+american_football.game_rushing_statistics	04lgz0	07923h6
+baseball.baseball_team_stats	041108x	01d5z
+american_football.game_rushing_statistics	04njt9	07dlvh9
+sports.sports_team_season_record	084bkc	05tfm
+american_football.game_rushing_statistics	05yj_q	07dlvc3
+film.dubbing_performance	02h40lc	021zt5	055crg	07ybnb
+user.szaijan.fantasy_football.projection	02sj2gw	0h70ys	02sjlml
+user.tsegaran.random.taxonomy_entry	05sb1	04n6k
+baseball.historical_coaching_tenure	03kzrh	01d5z	0fht58
+baseball.baseball_team_stats	02h7s3p	01yhm
+american_football.game_receiving_statistics	0792gfc	044trz
+baseball.baseball_team_stats	02h7s1z	0713r
+baseball.baseball_team_stats	03c6sl9	02d02
+base.petbreeds.dog_city_relationship	016wkx	0d9jr
+american_football.game_rushing_statistics	04pwwd	07dlr5_
+american_football.game_rushing_statistics	03k7k8	0792n93
+baseball.baseball_team_stats	04110t8	06x68
+baseball.baseball_team_stats	02h7r_y	05fc8c9
+travel.travel_destination_monthly_climate	04x5l8	05lf_
+base.petbreeds.dog_city_relationship	01nw62	0dclg
+american_football.game_receiving_statistics	07dlr1x	03c0jkp
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	03h64	0pl4nkj
+base.militaryinfiction.military_character_service	0c258nl	0cw8hb4	0by4xph	0chtrwn	0cpg042
+sports.sports_team_season_record	0721yn	05g49
+base.schemastaging.tv_star_dubbing_performance	07qv_	0ngxyml	02vvhyz	0nj8xsf
+sports.sports_team_season_record	081xtm	02c_4
+american_football.game_receiving_statistics	079423h	0bqnmn
+american_football.game_receiving_statistics	0791qpr	026v49f
+american_football.game_receiving_statistics	07dlqtx	027qdpl
+baseball.baseball_team_stats	041110t	01ypc
+american_football.game_receiving_statistics	07dlvgl	0cwlnq
+film.dubbing_performance	02h40lc	02jf59	05dfy_	0cbc2k
+sports.sports_team_season_record	07f8y6	0wsr
+base.petbreeds.dog_city_relationship	01s7fj	0f04v
+music.recording_contribution	0f0qfz	02snj9	0497nv
+sports.sports_team_season_record	07f6s7	01y3v
+base.petbreeds.dog_city_relationship	01t032	013yq
+american_football.game_receiving_statistics	0793bmj	0b34p_
+american_football.game_rushing_statistics	03d17x_	07dlnbl
+baseball.baseball_team_stats	02h7sdf	06x68
+american_football.game_rushing_statistics	02qwkw2	07dlnn9
+music.group_membership	0l14md	0fz3j39	05_rv0
+sports.sports_team_season_record	084c6s	03b3j
+sports.sports_team_season_record	07dqdx	01y3v
+film.dubbing_performance	02h40lc	02w5yb	0420yl	07jf6t
+music.recording_contribution	01w0mk8	013y1f	01jgmpp
+american_football.game_rushing_statistics	02qwkw2	07dln_g
+sports.sports_team_season_record	084cdv	0ws7
+baseball.baseball_team_stats	04110rw	01d5z
+american_football.game_receiving_statistics	09rl2k0	095745
+american_football.game_rushing_statistics	043ljlz	0791y81
+american_football.game_receiving_statistics	07dlqgd	04llqf
+american_football.game_rushing_statistics	02674zg	07dlnvs
+sports.sports_team_season_record	079430	05g49
+american_football.game_receiving_statistics	07943gd	05y80m
+american_football.game_receiving_statistics	07dlply	04jj108
+baseball.baseball_team_stats	05lqx_t	061xq
+baseball.baseball_team_stats	04110sm	05knd46
+base.schemastaging.athlete_salary	03b3j	09nqf	07l8mg
+base.schemastaging.tv_star_dubbing_performance	02h40lc	0bfp__p	02bpq	02755z7
+american_football.game_receiving_statistics	07dlqyt	0cw15s
+baseball.baseball_team_stats	02h7s1b	01yhm
+american_football.game_rushing_statistics	02qwkw2	07922cn
+base.schemastaging.tv_star_dubbing_performance	02h40lc	021zt5	02zkqj	07ybnb
+sports.sports_team_season_record	07skf_	0487_
+base.schemastaging.athlete_salary	06x76	09nqf	026ky_5
+american_football.game_rushing_statistics	044trz	0792fh5
+user.szaijan.fantasy_football.projection	02sj2gw	05_6mt	02sjlml
+music.recording_contribution	0pk41	0_sv_90	04c029
+base.petbreeds.dog_city_relationship	01s7fj	019fh
+base.militaryinfiction.military_character_service	0c0lmd2	0czly0m	0chzk_3	0chtrwn	0cpg09y
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	03h64	0pl4nkj
+sports.sports_team_season_record	07f9bq	05tg3
+american_football.game_receiving_statistics	0791_52	05dcqg
+sports.sports_team_season_record	082lxm	0ws7
+sports.sports_team_season_record	076z27	0wsr
+baseball.baseball_team_stats	02h7r_9	051vz
+american_football.game_rushing_statistics	04q2l4	0793sfm
+american_football.game_rushing_statistics	07ynx2	0793hh5
+travel.travel_destination_monthly_climate	03902	04wzr
+american_football.game_receiving_statistics	07dlqyt	05dcqg
+base.militaryinfiction.military_character_service	0c0lm9m	0cw8hb4	0by4xph	0chtrwn	0cpg080
+american_football.game_receiving_statistics	07dlqc2	026jqbb
+american_football.game_receiving_statistics	0793km8	027rvyc
+freebase.list_entry	0chrx	05ch3yz
+american_football.game_receiving_statistics	0792c72	05101_
+base.petbreeds.dog_city_relationship	01llgk	02cl1
+american_football.game_receiving_statistics	0792fst	03c87rb
+music.recording_contribution	01np_dx	0l14qv	02pxf6m
+american_football.game_receiving_statistics	07dlsng	04nt4c
+base.militaryinfiction.force_strength_in_fiction	0dgbbm8	0chzk_3	0h7ty	0cl7sth	0c6nscn
+basketball.basketball_player_stats	08lw15	07clxs	0jmjr
+base.schemastaging.athlete_salary	043vc	09nqf	077w9k
+film.dubbing_performance	02h40lc	01h2r6	0ckr7s	09r7rl
+baseball.baseball_team_stats	02h7s1h	0713r
+baseball.baseball_team_stats	02h7s0d	05kmp0g
+american_football.game_receiving_statistics	07dlsxh	05q5wxt
+american_football.game_receiving_statistics	07dlvfs	05106z
+sports.sports_team_season_record	079430	06mpvs8
+baseball.baseball_team_stats	02h7s6b	0713r
+baseball.baseball_team_stats	02h7s1t	05m_8
+base.militaryinfiction.military_character_service	0c3t7tc	0bhbf93	0chzk_3	0clz_31	0cms8rt
+music.recording_contribution	07_3qd	013y1f	0fvsv1
+baseball.baseball_team_stats	05lq7jk	05kmp3z
+american_football.game_rushing_statistics	02z5l63	07dln7n
+baseball.baseball_team_stats	05lqcjv	02zjfp
+american_football.game_receiving_statistics	0791q1s	04lgz0
+film.dubbing_performance	02h40lc	01ksvs	05vc35	05v954
+american_football.game_receiving_statistics	07920np	02qwkw2
+american_football.game_rushing_statistics	07l8mg	0792lj_
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0dgbbm8	0chzk_3	0c_jbpj
+base.militaryinfiction.military_character_service	0c0lmd2	0bhbf93	0chzk_3	0chtrwn	0cpg0c9
+american_football.game_rushing_statistics	0cz6kk	0791ys4
+baseball.baseball_team_stats	02h7s0k	01ypc
+american_football.game_receiving_statistics	07dlpbs	03tnlt
+film.dubbing_performance	02h40lc	068k36	027l7sg	05zl9t6
+music.recording_contribution	07r4c	0l14qv	0jczf
+music.recording_contribution	01vss02	0c0n9v9	01h7hyk
+base.schemastaging.phone_sandbox	064_8sq	0409wn	02kw88	0pl4nkj
+baseball.baseball_team_stats	02h7sb2	05ll5_5
+american_football.game_receiving_statistics	07dlnsq	03h308s
+baseball.baseball_historical_managerial_position	06x68	046vz9
+basketball.basketball_player_stats	07z2hs	06djwl	0jmjr
+american_football.game_rushing_statistics	09k147	0793_7m
+american_football.game_rushing_statistics	07ynx2	0793fq_
+film.dubbing_performance	02h40lc	0ndv08y	07fpw5	07jf6t
+sports.sports_team_season_record	0721y8	02c_4
+american_football.game_receiving_statistics	0793_7m	0bqnmn
+sports.sports_team_season_record	07f83f	0738cbk
+american_football.game_rushing_statistics	0cv72h	0791zf6
+travel.travel_destination_monthly_climate	0d9jr	0ll3
+american_football.game_rushing_statistics	04ljjn	0794699
+theater.theater_production_staff_gig	0_vmx0k	0j_b9jw	02snj9
+american_football.game_rushing_statistics	03tt0_	07dlp6l
+american_football.game_rushing_statistics	02qdp4v	07dlryw
+baseball.baseball_team_stats	04111m9	05nlyxv
+american_football.game_receiving_statistics	07dlnsq	02674zg
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0cpyjp3	05qh0l8	0cgr8tv
+baseball.baseball_team_stats	04110b0	05knfg0
+american_football.game_receiving_statistics	075rs0n	0cwlnq
+travel.travel_destination_monthly_climate	0vzm	05lf_
+user.szaijan.fantasy_football.projection	02sj2gw	04llqf	02sjlml
+american_football.game_rushing_statistics	0h70ys	07929fd
+american_football.game_rushing_statistics	07k26_	0791m74
+baseball.baseball_team_stats	025ygws	03m1n
+base.petbreeds.dog_city_relationship	01xtxb	013yq
+base.schemastaging.phone_sandbox	02h40lc	0bys4z	03spz	0pl4nkj
+baseball.baseball_team_stats	026fmqm	05kmp0g
+baseball.baseball_team_stats	02h7r_9	0x2p
+base.militaryinfiction.military_character_service	0c3t7tc	0bhbf93	0chzk_3	0chtrwn	0b_kysq
+baseball.baseball_team_stats	02h7r_9	01ypc
+baseball.baseball_team_stats	04111d9	01ypc
+baseball.baseball_team_stats	041112p	05ll5_5
+american_football.game_receiving_statistics	09rl2j2	02674zg
+baseball.baseball_team_stats	05m2x6r	02zjfp
+american_football.game_receiving_statistics	07931qv	0cw15s
+music.group_membership	05r5c	01t8x6	016k_c
+american_football.game_rushing_statistics	05223lq	07dlqc2
+baseball.baseball_team_stats	04110_p	042v_h4
+baseball.baseball_team_stats	02h7sd8	01yjl
+user.szaijan.fantasy_football.projection	02sj2gw	05txy5	02sjlml
+film.dubbing_performance	02h40lc	0g4n73j	02z9hqn	084x96
+baseball.baseball_team_stats	05lq8yz	03sn07
+american_football.game_receiving_statistics	0791tw4	05yj_q
+film.dubbing_performance	02h40lc	02rc4d	06pnn_	07y91g
+american_football.game_receiving_statistics	0794tsq	05827t
+base.schemastaging.phone_sandbox	02h40lc	01_h5j	0chgr2	0pl4nm4
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0cpyjp3	05qh0kq	0cgr8tv
+american_football.game_receiving_statistics	07dlrs4	04t8z3
+military.military_posting	0c0mtfn	0c5y7sq
+user.tsegaran.random.taxonomy_entry	0hqjh	04n6k
+american_football.game_receiving_statistics	07dlnzk	02674zg
+baseball.baseball_team_stats	04111c5	02d02
+american_football.game_rushing_statistics	02qwkw2	07dlnrs
+american_football.game_rushing_statistics	02674zg	07dln26
+music.recording_contribution	0ksfstg	01vj9c	0krsyrs
+sports.sports_team_season_record	09p357	05g3b
+american_football.game_rushing_statistics	0b2v1q	0792z78
+baseball.baseball_team_stats	027pwzc	0713r
+american_football.game_rushing_statistics	04lgz0	07921ll
+baseball.baseball_team_stats	027mvrc	05m_8
+sports.sports_team_season_record	0733gm	043vc
+baseball.baseball_team_stats	02h7s1z	01d5z
+baseball.baseball_team_stats	02h7sbq	051vz
+american_football.game_receiving_statistics	07dlnbl	0f_ptc
+baseball.baseball_team_stats	05lqjhl	03sn07
+basketball.basketball_historical_coach_position	0jm3b	02cg2v
+base.schemastaging.phone_sandbox	02h40lc	0q4h1r0	0dlv0	0pl4nkj
+baseball.baseball_team_stats	02h7sd3	01ypc
+base.petbreeds.dog_city_relationship	01k3tq	02_286
+american_football.game_receiving_statistics	0793gz6	04qjlr
+user.tsegaran.random.taxonomy_entry	04xn_	04n6k
+american_football.game_receiving_statistics	0792h0_	05yn0w
+travel.travel_destination_monthly_climate	02_9n	040fb
+user.tsegaran.random.taxonomy_entry	01ls2	04n6k
+base.petbreeds.dog_city_relationship	01dj7	01cx_
+sports.sports_team_season_record	084bdc	06mpvs8
+sports.sports_team_season_record	0792sp	0wsr
+american_football.game_rushing_statistics	08txt4	07947tb
+baseball.baseball_team_stats	02h7s5k	051wf
+sports.sports_team_season_record	076ylc	0wsr
+base.militaryinfiction.military_character_service	0c3t7tc	0bhbf93	0chzk_3	0clz_31	0cpg080
+american_football.game_rushing_statistics	03qdnxm	07dlm7n
+baseball.baseball_team_stats	02h7sbw	07147
+base.petbreeds.dog_city_relationship	02cj3	02cl1
+american_football.game_receiving_statistics	07947tb	0g6gx4
+sports.sports_team_season_record	07dtw0	03b3j
+american_football.game_rushing_statistics	09cyqn	07dlmr6
+american_football.game_receiving_statistics	07dlv7x	05106z
+base.petbreeds.dog_city_relationship	038wt3	071vr
+baseball.baseball_team_stats	04111b1	05lkwhs
+american_football.game_receiving_statistics	0791y_d	02qwr64
+travel.travel_destination_monthly_climate	0f04v	03_ly
+baseball.baseball_team_stats	05lqw34	05xvj
+sports.sports_team_season_record	07dtw0	05tg3
+user.szaijan.fantasy_football.projection	02sj2gw	09ryyx	02sjlml
+american_football.game_rushing_statistics	0cwhxj	0792fh5
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	05q80q	05qjm01	0d1d8_q
+american_football.game_rushing_statistics	02qdp4v	07dlrnr
+sports.sports_team_season_record	07btpd	051q5
+base.schemastaging.athlete_salary	03b3j	09nqf	03m5knc
+american_football.game_rushing_statistics	04lgz0	07920f6
+american_football.game_rushing_statistics	0cx2qq	0791ys4
+base.petbreeds.dog_city_relationship	01xtxb	0d9jr
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0d76rw8	05qjlx0	0cgr8tv
+baseball.baseball_team_stats	0285r5d	07l4z
+american_football.game_rushing_statistics	03d4lw7	07922cn
+user.tsegaran.random.taxonomy_entry	06c97	04n6k
+baseball.baseball_team_stats	04110_p	01yhm
+baseball.baseball_team_stats	05lq759	05lrgfk
+american_football.game_rushing_statistics	07fgn7	07933dg
+baseball.baseball_team_stats	02h7scb	01yhm
+base.petbreeds.dog_city_relationship	01_gx_	094jv
+american_football.game_receiving_statistics	07dlnqy	02qwkw2
+american_football.game_rushing_statistics	02qwkw2	0792181
+baseball.baseball_team_stats	02h7sdr	04wmvz
+sports.sports_team_season_record	07r4b8	06mpvs8
+sports.sports_team_season_record	0790_m	05gg4
+music.recording_contribution	01tvz5t	0c0n9v9	01j07w2
+base.schemastaging.tv_star_dubbing_performance	02h40lc	03fhlr	01lk02	075wcy
+music.recording_contribution	03c644	026t6	01mvv40
+american_football.game_receiving_statistics	07dlv3k	043ljlz
+baseball.baseball_team_stats	02h7s52	0713r
+travel.travel_destination_monthly_climate	05ywg	028kb
+american_football.game_rushing_statistics	02qwkw2	07dlntx
+baseball.baseball_team_stats	026fmqm	0512p
+sports.sports_team_season_record	071qy4	02c_4
+american_football.game_rushing_statistics	03d4lw7	07920zk
+american_football.game_rushing_statistics	04nt4c	07dlsry
+american_football.game_rushing_statistics	0b34p_	07dlsmj
+american_football.game_rushing_statistics	046bjz	07dlvfs
+base.petbreeds.dog_city_relationship	01s7fj	07bcn
+base.schemastaging.phone_sandbox	02h40lc	015p1m	0h7h6	0pl4nkj
+american_football.game_receiving_statistics	0793hpk	04ljjn
+freebase.list_entry	06c62	05ch3yz
+travel.travel_destination_monthly_climate	0f2rq	040fb
+american_football.game_rushing_statistics	07rh_m	07dlt48
+american_football.game_receiving_statistics	0793yjf	04q2l4
+american_football.game_receiving_statistics	07dlq_g	03c0jkp
+sports.sports_team_season_record	083c4y	06rny
+american_football.game_rushing_statistics	07fgn7	07dlmnv
+user.tsegaran.random.taxonomy_entry	04s7y	04n6k
+baseball.baseball_team_stats	02h7s52	061xq
+american_football.game_rushing_statistics	053wb4_	07dlmdq
+american_football.game_rushing_statistics	04ljjn	07dlt03
+baseball.baseball_team_stats	02h7r_y	0cqt41
+american_football.game_receiving_statistics	07dlnpz	08cyj8
+music.recording_contribution	02x5j5x	026t6	0cs6rr
+american_football.game_rushing_statistics	0g6gx4	0794b6k
+american_football.game_rushing_statistics	05vls2	079371d
+american_football.game_receiving_statistics	079254x	08mxr8
+sports.sports_team_season_record	084bt3	06rny
+american_football.game_rushing_statistics	03b8gw	0791lp1
+american_football.game_receiving_statistics	09rl2jd	02qx492
+sports.sports_team_season_record	071qy4	070xg
+baseball.baseball_team_stats	02qmmv6	061xq
+baseball.baseball_team_stats	04111m9	02d02
+american_football.game_rushing_statistics	07yzk2	079397c
+american_football.game_rushing_statistics	03h308s	07dlqjy
+american_football.game_rushing_statistics	03d4lw7	07923h6
+base.militaryinfiction.military_character_service	0cnb47g	01ssgq	0chzk_3	0dcd14j	0b_kysq
+sports.sports_team_season_record	07f67z	0738cbk
+baseball.baseball_team_stats	027mvrc	01ypc
+american_football.game_receiving_statistics	0794w8l	02qp5gf
+american_football.game_receiving_statistics	0792fst	07rh_m
+basketball.basketball_player_stats	08p_89	04h7dw	0jm5b
+american_football.game_receiving_statistics	0793bmj	027ddp
+travel.travel_destination_monthly_climate	02sn34	06vkl
+user.szaijan.fantasy_football.projection	02sj2gw	05dfhp	02sjlml
+baseball.baseball_team_stats	02h7sdf	04mjl
+base.militaryinfiction.military_character_service	0289fz	0c0lmgc	05qh0l8	0cpmh0k	0cpg02s
+music.recording_contribution	015pt7	011k_j	026d2xk
+travel.travel_destination_monthly_climate	0f2rq	06vkl
+user.tsegaran.random.taxonomy_entry	01vbl	04n6k
+music.recording_contribution	0x3b7	0c0n9v9	040_y_
+base.militaryinfiction.military_character_service	0c0lmd2	0c1myv7	0chzk_3	0chtrwn	0cpg0h8
+travel.travel_destination_monthly_climate	02_9n	04wzr
+sports.sports_team_season_record	076zf_	0wsr
+film.dubbing_performance	02h40lc	01jtv6	0b919v	0dccw0
+music.recording_contribution	07r4c	0_sv_90	0jczf
+american_football.game_rushing_statistics	021h8y	07dlrhq
+american_football.game_receiving_statistics	07dlqqf	047q206
+american_football.game_receiving_statistics	07dlqh1	0cwhxj
+baseball.baseball_team_stats	04110y2	01yjl
+american_football.game_receiving_statistics	07dlmkf	04qd2z
+travel.travel_destination_monthly_climate	05ywg	03_ly
+american_football.game_rushing_statistics	0695k1	0792263
+sports.sports_team_season_record	074w7v	070xg
+music.recording_contribution	020xnm	026t6	0f1pjd9
+american_football.game_receiving_statistics	07dlp2g	05dcqg
+american_football.game_rushing_statistics	02qw6y3	075rshy
+music.recording_contribution	09rbmv	0c0n9v9	01jgn8d
+film.dubbing_performance	02h40lc	071wdr	0hyn_vz	0bkpg4
+baseball.baseball_team_stats	02h7sb2	01yhm
+sports.sports_team_season_record	0792sp	05tfm
+travel.travel_destination_monthly_climate	0h7h6	06vkl
+american_football.game_receiving_statistics	0794w8l	05827t
+sports.sports_team_season_record	084bkc	0738cbk
+sports.sports_team_season_record	072whh	02896
+baseball.baseball_team_stats	041108x	0cqt41
+american_football.game_receiving_statistics	07dlm7n	026v49f
+american_football.game_rushing_statistics	02z5l63	07dlm6x
+base.petbreeds.dog_city_relationship	01llgk	0n1rj
+american_football.game_rushing_statistics	0265q8d	07dlpbs
+american_football.game_rushing_statistics	05k0kp	0791nzv
+base.petbreeds.dog_city_relationship	01xtxb	0f2rq
+baseball.baseball_team_stats	04111ly	02d02
+user.szaijan.fantasy_football.projection	02sj2gw	0cwhxj	02sjlml
+base.schemastaging.tv_star_dubbing_performance	02h40lc	035l29	05x72k	06_6j3
+baseball.baseball_team_stats	02qmmv6	05ll5_5
+baseball.baseball_team_stats	0285r5d	01yhm
+music.group_membership	05148p4	07fhbv	07zjl1
+film.dubbing_performance	02h40lc	0g1wjz	03gyvwg	05q_mg
+sports.sports_team_season_record	078_54	07l24
+baseball.baseball_team_stats	03c6sl9	04mjl
+base.schemastaging.phone_sandbox	02h40lc	0gyss3x	0yyh	0pl4nkj
+american_football.game_receiving_statistics	0792nt4	05_6mt
+basketball.basketball_player_stats	08p_89	026ym1z	0jmcv
+user.tsegaran.random.taxonomy_entry	0j5g9	04n6k
+sports.sports_team_season_record	072whw	07l24
+freebase.list_entry	02_286	059rl3x
+base.schemastaging.athlete_salary	0jm2v	09nqf	05sf0f
+sports.sports_team_season_record	072whh	05g3v
+basketball.basketball_player_stats	07z2hs	069_ks	0jmjr
+american_football.game_rushing_statistics	08z7bw	0791zxs
+american_football.game_rushing_statistics	04lgz0	07dlnvs
+american_football.game_rushing_statistics	02qxgdm	07dlsr3
+sports.sports_team_season_record	07j7ml	01y3v
+american_football.game_receiving_statistics	07dlqqf	03d753s
+american_football.game_rushing_statistics	029b2g	0792xlc
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0cpyjp3	06j5wss	0cgr8tv
+american_football.game_rushing_statistics	0cjcdj	0792wtq
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c1py5h	05qjm01	0c_jbpj
+sports.sports_team_season_record	083c4y	05gg4
+base.militaryinfiction.force_strength_in_fiction	0c1py31	05qh0l8	0cxr95t	0c_jkm4	0clzm7w
+baseball.baseball_team_stats	02h7r_y	05xvj
+american_football.game_rushing_statistics	097hft	0792wnm
+sports.sports_team_season_record	072whh	0289q
+music.group_membership	018vs	01v_pj6	022c__
+music.group_membership	018vs	04vrxh	026f_x
+american_football.game_rushing_statistics	03d753s	07dlpst
+baseball.baseball_team_stats	02h7s1b	07l4z
+sports.sports_team_season_record	07drc8	05gg4
+base.schemastaging.phone_sandbox	02h40lc	02xqq	018hr_	0pl4nkj
+american_football.game_rushing_statistics	02qdp4v	0792c_g
+baseball.baseball_team_stats	04110r3	01ypc
+sports.sports_team_season_record	0796vc	01y49
+sports.sports_team_season_record	071qxs	07l24
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	07bcn	0pl4nkj
+sports.sports_team_season_record	07r58s	0289q
+baseball.baseball_team_stats	04110y2	01ypc
+base.schemastaging.tv_star_dubbing_performance	02h40lc	0n__j3x	02v5xg	066l3y
+film.dubbing_performance	02h40lc	0lyz9qf	0cks1m	09r95d
+film.dubbing_performance	02h40lc	07tqjt	02vw1w2	0fh1xk
+baseball.baseball_team_stats	02h7r_9	01slc
+music.recording_contribution	01wvw_w	026t6	0497nv
+american_football.game_receiving_statistics	07dlq2y	05yj_0
+baseball.baseball_team_stats	02h7s8c	01yhm
+base.schemastaging.tv_star_dubbing_performance	02h40lc	03cx5h	05x72k	07rd3l
+american_football.game_rushing_statistics	05dcr4	0791td4
+baseball.baseball_team_stats	04110f5	01yhm
+film.dubbing_performance	02h40lc	03ct66	0bh72t	03wfhn6
+travel.travel_destination_monthly_climate	02dvp4	05cw8
+transportation.road_starting_point	0j9xz	0d6lp
+baseball.baseball_team_stats	02h7sct	0cqt41
+base.militaryinfiction.military_character_service	0289fz	0c0lmgc	0chzk_3	0ck68rv	0cpg02s
+baseball.baseball_team_stats	02wxr1w	05nlyxv
+baseball.baseball_team_stats	02h7s7r	061xq
+american_football.game_rushing_statistics	05101_	0792k6r
+base.petbreeds.dog_city_relationship	01s7fj	01snm
+sports.sports_team_season_record	081xtm	01y3v
+american_football.game_receiving_statistics	07dlryw	056txjf
+sports.sports_team_season_record	076y20	01y49
+baseball.baseball_team_stats	02wxr1w	042v_h4
+music.recording_contribution	0ksfstg	028tv0	0krsyrs
+baseball.baseball_team_stats	02h7s02	01yhm
+user.szaijan.fantasy_football.projection	02sj2gw	04pl48	02sjlml
+american_football.game_rushing_statistics	027f42	07dlsjx
+base.militaryinfiction.military_character_service	0cfyhx3	01ssgq	0chzk_3	0chtrwn	0b_kysq
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0bhbf93	05qjm01	0c_jbpj
+film.dubbing_performance	02h40lc	07tqjt	05t0zfv	0fh1xk
+american_football.game_rushing_statistics	03c0jkp	07dlr09
+olympics.olympic_athlete_affiliation	03_3d	02vzhtg	06sks6
+american_football.game_receiving_statistics	07947tb	04q2l4
+baseball.baseball_team_stats	02h7s57	01yjl
+american_football.game_receiving_statistics	0792lj_	05xpnh
+american_football.game_rushing_statistics	03d4lw7	07dln_g
+sports.sports_team_season_record	071qy4	05g3v
+baseball.baseball_team_stats	02h7sbd	03m1n
+base.petbreeds.dog_city_relationship	01_gx_	0nbwf
+sports.sports_team_season_record	07rhvq	03b3j
+film.dubbing_performance	02h40lc	02w5yb	0cfdsq	07jf6t
+travel.travel_destination_monthly_climate	056_y	06vkl
+american_football.game_receiving_statistics	07dlsc8	04qjlr
+travel.travel_destination_monthly_climate	02cl1	04w_7
+music.recording_contribution	052_ns	026t6	02pqbrm
+american_football.game_rushing_statistics	07k26_	0791td4
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c1py31	05qjm01	0cpyjp3
+sports.sports_team_season_record	080vx0	05tfm
+american_football.game_receiving_statistics	0791tw4	05dcr4
+freebase.list_entry	01c_d	05bl47b
+baseball.baseball_team_stats	02h7s02	05ll5_5
+sports.sports_team_season_record	071qy4	0wsr
+american_football.game_receiving_statistics	07938sl	07yzk2
+baseball.baseball_team_stats	02h7s0d	061xq
+travel.travel_destination_monthly_climate	01914	040fb
+american_football.game_rushing_statistics	03c0jkp	07dlr10
+baseball.baseball_team_stats	04110sm	0cqt41
+baseball.baseball_team_stats	02h7s7l	01ypc
+film.dubbing_performance	02h40lc	0bf5ysp	0bh72t	0gps4j
+baseball.baseball_team_stats	05kcgsf	061xq
+baseball.baseball_team_stats	02h7s23	01d6g
+american_football.game_receiving_statistics	0792tz_	04kk9q
+base.schemastaging.phone_sandbox	02h40lc	032t7j	0j5g9	0pl4nkj
+user.szaijan.fantasy_football.projection	02sj2gw	0f_ptc	02sjlml
+american_football.game_receiving_statistics	07dlrrl	02qdp4v
+film.dubbing_performance	02h40lc	0ngkklr	042qsv	05v954
+baseball.baseball_team_stats	0411115	06x68
+music.recording_contribution	0455yy	02dlh2	09g83yz
+sports.sports_team_season_record	078_54	070xg
+american_football.game_receiving_statistics	0794jz0	02qp5gf
+baseball.baseball_team_stats	02h7s1z	01slc
+baseball.baseball_team_stats	02h7s78	05g76
+film.dubbing_performance	02h40lc	0h5wn5v	0fhnh2	0cwf_x
+baseball.baseball_team_stats	047t_wf	05lkwhs
+baseball.baseball_team_stats	026fmqm	01yjl
+baseball.baseball_team_stats	02h7s4s	0713r
+music.recording_contribution	050z2	0l15bq	01hmqdw
+american_football.game_rushing_statistics	0272kym	07dlvgl
+baseball.baseball_team_stats	02h7s57	051wf
+music.group_membership	01vj9c	01f2n_	017_hq
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c1py5h	05qhjzt	0cl7srq
+freebase.list_entry	07bcn	059q7cf
+american_football.game_receiving_statistics	07945t4	09yty9
+sports.sports_team_season_record	07f9bq	06mpvs8
+sports.sports_team_season_record	07f9pv	05tg3
+baseball.baseball_team_stats	05lqw34	05kn9mk
+travel.travel_destination_monthly_climate	0f2rq	0ll3
+baseball.baseball_team_stats	02h7sbq	01ypc
+american_football.game_receiving_statistics	0793wqg	07rh_m
+sports.sports_team_season_record	0792sp	06mpvs8
+baseball.baseball_team_stats	047nltd	05lkwhs
+user.tsegaran.random.taxonomy_entry	0qb7t	04n6k
+american_football.game_rushing_statistics	0cwnvk	07945t4
+baseball.baseball_team_stats	02h7s86	06x68
+base.militaryinfiction.military_character_service	0c1qdnl	0d3vhnb	05qjlx0	0clz_31	0bxw5yj
+user.szaijan.fantasy_football.projection	02sj2gw	05cw4l	02sjlml
+sports.sports_team_season_record	084cdv	05gg4
+travel.travel_destination_monthly_climate	06wjf	0ll3
+american_football.game_receiving_statistics	0791nzv	026v49f
+film.dubbing_performance	02h40lc	082yvw	0dd6bf	0btpml
+base.schemastaging.phone_sandbox	0jzc	01rvgk	03spz	0pl4nkj
+baseball.baseball_team_stats	02h7s07	0cqt41
+american_football.game_receiving_statistics	07920zk	02qwkw2
+american_football.game_rushing_statistics	03tt9p	07dlrrl
+base.petbreeds.dog_city_relationship	02cj3	013yq
+baseball.baseball_team_stats	02h7sbq	04mjl
+baseball.baseball_team_stats	041109n	05knfg0
+sports.sports_team_season_record	0790_m	06rny
+american_football.game_receiving_statistics	07dlmm5	0cwnvk
+american_football.game_receiving_statistics	07dlrvn	04t8z3
+baseball.baseball_team_stats	02h7s3j	049n7
+baseball.baseball_team_stats	02h7s7r	07l8x
+base.militaryinfiction.military_character_service	0c258nl	0bhbf93	05qhjzt	0clz_31	0cpg05_
+american_football.game_receiving_statistics	07dlqky	04llqf
+baseball.baseball_team_stats	04111bt	01ypc
+baseball.baseball_team_stats	02h7sc5	0cqt41
+american_football.game_receiving_statistics	0792bkj	08vwtr
+baseball.baseball_team_stats	05lqnbt	05kn9mk
+american_football.game_rushing_statistics	0d0gxj	0792b2b
+baseball.baseball_team_stats	041108x	06x68
+baseball.baseball_team_stats	02h7s81	01yhm
+freebase.list_entry	01w2v	05ch3yz
+film.dubbing_performance	02h40lc	08z9wb	026tlwy	0411ql
+measurement_unit.dated_money_value	0d2tlb	09nqf
+music.recording_contribution	0f2zvb	0l14qv	02rqldc
+freebase.list_entry	071vr	05ch3yz
+sports.sports_team_season_record	072wh3	01ct6
+music.recording_contribution	01n350_	0l14qv	01n34z_
+base.militaryinfiction.military_character_service	0c0lmd2	0cl7sth	0chzk_3	0cpbz49	0cpg0c9
+baseball.baseball_team_stats	02h7s7r	05m_8
+sports.sports_team_season_record	078_54	01c_d
+american_football.game_receiving_statistics	0792tp7	03h4s_g
+user.tsegaran.random.taxonomy_entry	04_13	04n6k
+film.dubbing_performance	02h40lc	01qdv2	042qsv	02z2z5j
+american_football.game_rushing_statistics	0462zw6	07dlm6x
+american_football.game_receiving_statistics	07dlrmz	07fgn7
+baseball.baseball_team_stats	02h7sfv	06x68
+music.recording_contribution	09vtcmj	018vs	01p_zfg
+american_football.game_receiving_statistics	07dlsc8	056txjf
+baseball.baseball_team_stats	02h7s81	05kmnv1
+american_football.game_receiving_statistics	07dlvfs	04ljjn
+base.schemastaging.phone_sandbox	02h40lc	0pv_lt2	09pmkv	0pl4nkj
+base.militaryinfiction.military_combatant_group_tenure_in_fiction	0c1py31	05qh0kq	0cl7srq
+american_football.game_rushing_statistics	02812tp	0791lwh
+film.dubbing_performance	02h40lc	0dthfr	026pf6t	091n7z
+american_football.game_receiving_statistics	0792n93	01tz2p
+american_football.game_receiving_statistics	07dlvgl	02pqy1y
+american_football.game_rushing_statistics	04lgz0	07dlnxs
+sports.sports_team_season_record	081yf5	06mpwv_
+baseball.baseball_team_stats	02h7s1z	0512p
+music.recording_contribution	01vs_1_	0l14md	02pxf6m
+music.recording_contribution	01x2vtc	02snj9	0ftvfmq
+american_football.game_rushing_statistics	02623bz	07dlsr3
+american_football.game_receiving_statistics	07dlq60	05yn0w
+base.militaryinfiction.military_character_service	01gzh0	0ck68rv	05qh0kt	0dcd14j	0bxj80p
+base.schemastaging.phone_sandbox	02h40lc	0qj8lr9	03zvnf	0pl4nkj
+american_football.game_receiving_statistics	0791wxm	05dcr4
+baseball.baseball_team_stats	05lqc5f	02zjfp
+american_football.game_receiving_statistics	07920tc	02qwkw2
+baseball.baseball_team_stats	04110t8	05xvj
+travel.travel_destination_monthly_climate	080h2	04w_7
+music.group_membership	013y1f	0570tr	02qh3p
+baseball.baseball_team_stats	0411101	01yhm
+american_football.game_receiving_statistics	07dlrnr	04t8z3
+sports.sports_team_season_record	078_54	01xvb
+freebase.list_entry	0f__1	05ch3yz
+american_football.game_rushing_statistics	0cz6kk	0791wxm
+film.dubbing_performance	02h40lc	049ns3	06fc9s	066l0d
+baseball.baseball_historical_managerial_position	05m_8	046vz9
+base.militaryinfiction.military_character_service	01c83m	0d3vhnb	05qjm01	0cpmh0k	0cpg0fg
+military.military_posting	0cpg093	0c5y7sq
+baseball.baseball_team_stats	041110t	01yhm
+american_football.game_rushing_statistics	07fgn7	07dlrmz
+travel.travel_destination_monthly_climate	01f62	0ll3
+baseball.baseball_team_stats	02h7s28	0cqt41
+baseball.baseball_team_stats	04110b0	01d5z
+sports.sports_team_season_record	07932s	01c_d
+american_football.game_receiving_statistics	079309b	04kk9q
+sports.sports_team_season_record	07x_5h	02896
+music.recording_contribution	01mxsd	026t6	05fkwl
+travel.travel_destination_monthly_climate	02cft	06vkl
+base.schemastaging.athlete_salary	01ct6	09nqf	0h7q7b
+baseball.baseball_team_stats	041112p	01ypc
+baseball.baseball_team_stats	02h7sbd	05kmnv1
+music.recording_contribution	01wkvt3	03gvt	01qvpsz
+user.szaijan.fantasy_football.projection	02sj2gw	05dcr4	02sjlml
+baseball.baseball_team_stats	02qmmv6	01ypc
+freebase.list_entry	05g3v	05bl47b
+sports.sports_team_season_record	074wdt	01c_d
+music.recording_contribution	0g3lz6	02snj9	01kdxl5
+baseball.baseball_team_stats	02wxq71	05lkwhs
+american_football.game_receiving_statistics	07dlmyz	05yn0w
+baseball.baseball_historical_managerial_position	01slc	0338lb
+basketball.basketball_player_stats	095_24	0cln93	0jmjr
+american_football.game_receiving_statistics	07dlqtx	03hgs5g
+film.dubbing_performance	02h40lc	040b15	02w5tqb	0ckm4x
+user.tsegaran.random.taxonomy_entry	01699	04n6k
+american_football.game_receiving_statistics	07dlnzk	03c87rb
+baseball.baseball_team_stats	02h7s31	04xg_4p
+travel.travel_destination_monthly_climate	0f2rq	04w_7
+baseball.baseball_team_stats	02h7s5q	0x2p
+baseball.historical_coaching_tenure	0804pk	01d5z	04_75jz
+film.dubbing_performance	02h40lc	027gblr	0dh8v4	0dccw0
+american_football.game_receiving_statistics	07dlsf5	0btjrg
+american_football.game_receiving_statistics	07dlt_y	02pqy1y
+baseball.baseball_team_stats	04111d9	02d02
+base.petbreeds.dog_city_relationship	02kfwr	01sn3
+base.petbreeds.dog_city_relationship	01k3tq	01smm
+american_football.game_receiving_statistics	07dlnn9	02qwkw2
+sports.sports_team_season_record	07932s	01y3v
+music.recording_contribution	057vbx	0l14j_	0bh74z
+american_football.game_rushing_statistics	03d4lw7	0791q1s
+american_football.game_rushing_statistics	01tz2p	0792nn7
+music.recording_contribution	0pk41	0_sv_90	04b_t6
+base.militaryinfiction.military_character_service	0c3t7tc	0c1myv7	0chzk_3	0chtrwn	0c0mtfn
+sports.sports_team_season_record	07f8n2	02896
+american_football.game_receiving_statistics	07dlt0y	02q4qzf
+base.schemastaging.athlete_salary	05l71	09nqf	043rf2b
+american_football.game_rushing_statistics	0b34p_	0793bmj
+base.militaryinfiction.force_strength_in_fiction	0dc60vr	0chzk_3	0d771kz	0d74xj_	0clv53r
+baseball.baseball_historical_managerial_position	01slc	04h8yr
+baseball.baseball_team_stats	02x1xf4	05ll5_5
+base.petbreeds.dog_city_relationship	01k3tq	0f__1
+american_football.game_rushing_statistics	08txt4	079481k
+american_football.game_rushing_statistics	067dtl	07924x2
+base.popstra.support	04mjl	0dq9wx
+freebase.list_entry	01cx_	059vdx5
+american_football.game_rushing_statistics	03h308s	0792tp7
+base.militaryinfiction.military_character_service	0c0b185	0c0lmgc	05qh0kq	0cpmh0k	0cpg02s
+american_football.game_rushing_statistics	05znmyb	07dlr5_
+baseball.baseball_team_stats	04111c5	0cqt41
+american_football.game_rushing_statistics	0cw15s	07931qv
+sports.sports_team_season_record	07j6rh	03b3j
+music.recording_contribution	08hg7g	02dlh2	0d4f00
+baseball.baseball_team_stats	02h7s15	07l8x
+sports.sports_team_season_record	07f9pv	04nmxtk
+film.dubbing_performance	02h40lc	0765hg	05t0zfv	0814k3
+film.dubbing_performance	02h40lc	037b28	07927k	08r1f6
+american_football.game_receiving_statistics	07dlnjk	062qp9
+sports.sports_team_roster	0jmcv	03nf3q
+baseball.baseball_team_stats	02h7sfp	01yjl
+american_football.game_rushing_statistics	027ddp	07938sl
+military.military_posting	0cms8mt	0c5y7sq
+basketball.basketball_player_stats	095_24	0dysb7	02kbcr2
+base.schemastaging.athlete_salary	06x76	09nqf	0b29wz
+baseball.baseball_team_stats	02h7sd8	0713r
+american_football.game_receiving_statistics	0791l5r	04qd2z
+baseball.baseball_team_stats	04111c5	01yjl
+american_football.game_rushing_statistics	053wb4_	07dlqpl
+american_football.game_receiving_statistics	07dlrmz	0btjrg
+user.tsegaran.random.taxonomy_entry	02k8k	04n6k
+american_football.game_rushing_statistics	05k0kp	07dlnmk
+baseball.baseball_team_stats	041110f	02d02
+baseball.baseball_team_stats	0285r5d	061xq
+music.recording_contribution	0bpvtz	026t6	09g83yz
+base.schemastaging.phone_sandbox	05zjd	0s81qjv	04llb	0pl4nkj
+american_football.game_rushing_statistics	04rlp0	09rl2j2
+american_football.game_receiving_statistics	0793b4v	051__0
+american_football.game_receiving_statistics	0792tz_	043q534
+music.group_membership	06ncr	02jslp	0178_w
+american_football.game_receiving_statistics	07dlrrl	04t8z3
+film.dubbing_performance	02h40lc	027g6vr	02w5tqb	0gps4j
+american_football.game_rushing_statistics	03c87rb	0793x56
+american_football.game_receiving_statistics	07dls5d	02qw524
+american_football.game_receiving_statistics	079481k	022s5y
+base.schemastaging.phone_sandbox	02h40lc	0s91j5w	0j1z8	0pl4nkj
+user.szaijan.fantasy_football.projection	02sj2gw	07l8mg	02sjlml
+baseball.baseball_team_stats	04110rw	05kmkc5
+american_football.game_rushing_statistics	02qxmd6	0791mk4
+sports.sports_team_season_record	07f9bq	05tfm
+sports.sports_team_season_record	071qxs	01c_d
+baseball.baseball_team_stats	02h7sbq	01slc
+music.recording_contribution	05sny3q	026t6	05sny5k

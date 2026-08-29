@@ -1,0 +1,1056 @@
+basketball.basketball_player_stats	08vg9r	0b5__y	02z8z6
+soccer.football_player_match_participation	01352_	04dc7f	0c44h1j
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	06qd79	03j6_5	033nzk
+soccer.football_team_manager_match_participation	0c0xqws	032hmd	0f93s1
+basketball.basketball_player_stats	0993hq	02qfpqd	0jm9w
+soccer.football_player_match_participation	02bh_v	05zqzdf	0c0lsl8
+base.bioventurist.bv_investment_round	02h8q3n	02_504g	05spxy_	09nqf
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	02qwpdp	0y9j	02bh_v
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	038ps1	0mmd6	02ltg3
+basketball.basketball_player_stats	09nkcp	0bnkh4	025sf78
+sports.sports_team_season_record	07rj2g	06rny
+basketball.basketball_player_stats	08hn_f	02kwhq	0jm7n
+sports.sports_team_season_record	07f9bq	05tfm
+basketball.basketball_player_stats	09drlt	08jqn8	0jm7n
+base.tournaments.match_competitor_relationship	03_qj1	0c0mdph
+american_football.game_rushing_statistics	0br8m3	0791rzs
+soccer.football_disciplinary_action	0df3x4	0cb4z87
+basketball.basketball_player_stats	07z2hs	07f33c	0jm4b
+soccer.football_player_match_participation	040pyq	05vk88	0c1d2xp
+basketball.basketball_player_stats	08w956	0dm4t7	0jml5
+soccer.football_player_substitution	02qwbb	0c44msd	0d3bbm
+basketball.basketball_player_stats	08hplf	08mx86	0jm2v
+basketball.basketball_player_stats	09n0r4	08mw_2	0jm3v
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	03884d	023fb	02pp1
+american_football.game_rushing_statistics	0ct6xc	0794wyy
+basketball.basketball_player_stats	08w956	0bwnjp	0jmm4
+sports.sports_league_draft_pick	04plfw	0lyjf	05g49	03nt7j
+basketball.basketball_player_stats	08vg9r	04s92t	0jml5
+basketball.basketball_player_stats	09n15l	05n0tg	025sf78
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	05l91f	025txtg	03yl2t
+soccer.football_player_match_participation	02s2lg	053xq5	0c1nbvf
+sports.sports_team_coach_tenure	047vnfs	02ltg3
+basketball.basketball_player_stats	095_24	0dysb7	02kbcr2
+american_football.game_rushing_statistics	07kfrl	0791n16
+soccer.football_disciplinary_action	02vrhq2	0c441bl
+sports.sports_team_season_record	0796vc	04nmxtk
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	02vm5d5	0425j7	03zrhb
+basketball.basketball_player_stats	08n6zb	02c5ls	0jm9w
+basketball.basketball_player_stats	09brkf	0bm9mc	0jml5
+soccer.football_team_manager_match_participation	04cvs_n	01fwqn	03ztkt
+basketball.basketball_player_stats	08hn_f	05n2c1	0jmnl
+soccer.football_player_match_participation	03y_f8	071ns8	0c0mdp8
+basketball.basketball_player_stats	07j1pw	07ch5x	0jmdb
+sports.sports_team_coach_tenure	0272806	0hvgt
+base.schemastaging.sports_league_season_ranking	0v3bqvp	0y54
+basketball.basketball_player_stats	09nf59	05ndy1	0239hyt
+soccer.football_player_match_participation	032hmd	0g8lg9	0c0xqws
+soccer.football_team_manager_match_participation	0c1fzw8	0329r5	027zq5r
+basketball.basketball_player_stats	095wtg	0bl9zh	0jm7n
+basketball.basketball_player_stats	09gnpl	02x09hg	0jml5
+basketball.basketball_player_stats	09jzdm	02x19wj	02kbcqj
+sports.sports_team_season_record	0796vc	05gg4
+basketball.basketball_player_stats	08hn_f	07nvhb	0jmm4
+basketball.basketball_player_stats	08mdhv	05f596	0jm8l
+american_football.game_rushing_statistics	07kfrl	0791lwh
+base.schemastaging.athlete_salary	01c_d	09nqf	06zbf_
+basketball.basketball_player_stats	080b2d	02wr0_	0jm64
+basketball.basketball_player_stats	09hqyn	0bq4pc	02kbcqj
+american_football.game_rushing_statistics	053wb4_	07dlmdq
+basketball.basketball_player_stats	09bjp8	05jlfq	0jmdb
+soccer.football_goal	04gr3y_	0c0mdpq	01l3wr
+soccer.football_goal	026f4lr	0c1smtg	0329r5
+basketball.basketball_player_stats	09ln47	0257dq	0bwjj
+basketball.basketball_player_stats	09hqyn	08fnjd	0jm7n
+sports.sports_team_season_record	0790_m	051q5
+basketball.basketball_player_stats	09nfl6	0bvjbh	02kbcrn
+basketball.basketball_player_stats	08mdhv	08g5p6	0jmk7
+basketball.basketball_player_stats	09fwcb	08y5d0	0jmfb
+american_football.game_receiving_statistics	07dlttl	02g9nt
+sports.sports_team_season_record	078_54	07l24
+basketball.basketball_player_stats	0dsb05	06j3_9	0jm9w
+sports.sports_award	08hplf	03794k	0jmnl	031mv0
+soccer.football_disciplinary_action	0h33cq	0c0mdp8
+american_football.game_passing_statistics	096bk_	0791rzs
+soccer.football_player_match_participation	03zrc_	02wcv69	0c0lpm2
+american_football.game_rushing_statistics	0bg92m	0793f64
+sports.sports_team_roster	02w64f	080kwj9
+basketball.basketball_player_stats	096z30	06smlc	0jm7n
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0f93s1	01634x	032hmd
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0cn0qg	080_y	02w64f
+basketball.basketball_player_stats	09n15l	0bk85l	0jm8l
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0f7t5m	03fnrc	02rqxc
+basketball.basketball_player_stats	08030z	0dsj73	0jmcv
+base.popstra.product_choice	018c_r	02r3cn
+soccer.football_player_match_participation	03ylxn	03nqkk4	0c1lz_v
+base.tournaments.match_competitor_relationship	03dj48	0c0lpm2
+sports.sports_team_season_record	081y44	05gg4
+sports.sports_team_coach_tenure	040zjnd	0jmh7
+soccer.football_disciplinary_action	03cjr54	0c1nbvf
+soccer.football_player_substitution	07tfzz	0cc33h6	03yvsf
+basketball.basketball_player_stats	07_x8s	07cl3j	0jmcb
+american_football.game_receiving_statistics	07dlv59	0br8m3
+soccer.football_player_match_participation	01l3wr	03ckywx	0c1m0c5
+american_football.game_passing_statistics	03zy1_	0793dn5
+basketball.basketball_player_stats	08s093	050t_l	0jmhr
+basketball.basketball_player_stats	07z2hs	069_ks	0jmjr
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	08vh6w	023fb	01l3vx
+soccer.football_disciplinary_action	03wdy1j	0c1q8d7
+soccer.football_player_substitution	04y3d5	0c1q83k	084183
+basketball.basketball_player_stats	09ln47	02rhk3p	0jm8l
+soccer.football_player_substitution	047mpth	0c1m0c5	0h2lkz
+basketball.basketball_player_stats	0993hq	053v74	0jmj7
+basketball.basketball_player_stats	07j1pw	03d2bw	0jmjr
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	03m5rcl	03x726	03_qj1
+soccer.football_player_match_participation	0329r5	02vm85z	0c43z58
+basketball.basketball_player_stats	07_x8s	059tyq	0jmj7
+basketball.basketball_player_stats	0dsb05	07g5gp	0jmk7
+basketball.basketball_player_stats	095_24	0cln93	0jmjr
+sports.sports_team_season_record	074w7v	05g3v
+award.hall_of_fame_induction	02m7wj	02h664x	0k89p
+base.schemastaging.sports_league_season_ranking	0rfh262	048xg8
+american_football.game_rushing_statistics	0ct6xc	0791rzs
+american_football.game_rushing_statistics	02g9nt	07dlsf5
+basketball.basketball_player_stats	096z30	01ft64	0jm3v
+sports.sports_team_coach_tenure	040zjnd	02mplj
+soccer.football_goal	025zjfr	0c1smtr	02bh_v
+basketball.basketball_player_stats	08s093	01gcq3	0jm7n
+base.tournaments.match_competitor_relationship	02ltg3	0c1nbsz
+sports.sports_team_roster	02s9vc	04kfrt
+basketball.basketball_player_stats	07z2hs	02ppmf	0jm74
+sports.sports_team_season_record	079430	0487_
+sports.sports_team_roster	05l71	05vlqb
+basketball.basketball_player_stats	09ndwd	087fxb	025sf78
+basketball.basketball_player_stats	08rm43	0d3652	0jm8l
+soccer.football_player_substitution	0867jz	0c1nbtv	0fmks6
+basketball.basketball_player_stats	099bj0	07g5gp	0jm4b
+basketball.basketball_player_stats	08s093	01jjx5	0jm3v
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0268nlc	03d0d7	032jlh
+sports.sports_team_roster	0jmfv	02hf9k
+american_football.game_rushing_statistics	0h16n9	0793f64
+base.bioventurist.bv_investment_round	02gwv73	072nvz	059n7bg	09nqf
+basketball.basketball_player_stats	08hplf	01jjx5	0jm3v
+american_football.game_receiving_statistics	0793rs0	0br8m3
+american_football.game_rushing_statistics	02g9nt	0793gz6
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03bny4	025rpyx	035qgm
+american_football.game_receiving_statistics	0792p8p	05_6mt
+soccer.football_player_substitution	0dw60v	09v2l34	03hnxxq
+sports.sports_league_draft_pick	04pz6f	01pl14	07l24	03nt7j
+soccer.football_player_substitution	01yj16	0c44msp	04sl06
+base.schemastaging.athlete_salary	025rpyx	02l6h	04t5ww
+american_football.game_passing_statistics	0bg92m	0793k3_
+soccer.football_player_substitution	0f8ml9	0c6qzxm	0kst5k
+base.bioventurist.bv_investment_round	02h8q3n	028951g	03dzv69	09nqf
+soccer.football_player_match_participation	02pp1	03y5_6	0c44msp
+basketball.basketball_player_stats	08030z	09w7gw	0jmfv
+american_football.game_receiving_statistics	07dlv0t	051jrr
+american_football.game_receiving_statistics	0794wyy	0bh_vy
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	04dc7f	01634x	01352_
+basketball.basketball_player_stats	08s093	0fq96g	0jm4v
+sports.sports_team_season_record	084bdc	06rny
+soccer.football_player_substitution	05b2p6v	0c0lsl8	02zbj50
+basketball.basketball_player_stats	09hqyn	0476cv	0jmfb
+basketball.basketball_player_stats	09b5jv	0d001w	0jm7n
+basketball.basketball_player_stats	09ln47	0bm8vg	0239hyt
+award.hall_of_fame_induction	084p_h	0bjcgzr	0k89p
+basketball.basketball_player_stats	099bj0	046y_2	0jml5
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0g6402	0177gl	02rqxc
+basketball.basketball_player_stats	080b2d	04w3p_	02z8z6
+soccer.football_player_match_participation	03d8m4	04msvg	0c20gf3
+basketball.basketball_player_stats	08lw15	07clxs	0jmjr
+basketball.basketball_player_stats	0802lk	07chj3	0jm3v
+american_football.game_rushing_statistics	0ct6xc	0793k3_
+soccer.football_player_match_participation	03d8m4	04y3k1	0c1q83k
+basketball.basketball_player_stats	09b5jv	01ym3s	0jmm4
+soccer.football_disciplinary_action	04yjdf	0cb4z87
+soccer.football_player_match_participation	03y_f8	086nc1	0c0mdp8
+soccer.football_disciplinary_action	080kwj9	0gytd9j
+soccer.football_player_substitution	03hnxxq	0cbx_tf	03yvsf
+soccer.football_player_substitution	05s_c38	0c1q86p	07zr66
+basketball.basketball_player_stats	09068d	0fq96g	0jmcv
+soccer.football_player_match_participation	01l3vx	08vg98	0c1l_x_
+basketball.basketball_player_stats	08mdhv	020ntr	0jmm4
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0fmnry	049n2l	03xh50
+sports.sports_award	09cfcf	053tzp	0h1fsjh	02yqk8
+sports.sports_team_season_record	080vx0	0738cbk
+user.szaijan.fantasy_football.projection	02sj2gw	05_6mt	02sjlml
+basketball.basketball_player_stats	096mjy	08h1xg	0jmj7
+basketball.basketball_player_stats	08s093	08j_dc	0jm7n
+american_football.game_receiving_statistics	07dltbp	0bh_vy
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0283_6q	01fwqn	03y_f8
+basketball.basketball_player_stats	09brkf	0d4dym	0jm9w
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	04_063f	0270p_f	040whs
+base.tournaments.match_competitor_relationship	03y_f8	0c1srnl
+basketball.basketball_player_stats	08lw15	012xdf	0jm4b
+basketball.basketball_player_stats	09hqyn	05m273	0bwjj
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	04_z5m	04ltf	035qgm
+basketball.basketball_player_stats	09nl65	02hg53	0bwjj
+sports.sports_team_season_record	0792sp	05tfm
+sports.sports_team_season_record	074vzg	04nmxtk
+sports.sports_team_roster	01ct6	027h94x
+basketball.basketball_team_stats	08_vqd	0jmk7
+basketball.basketball_player_stats	09gnpl	0bzvfh	02kbcqj
+basketball.basketball_player_stats	099bj0	013834	0jmdb
+soccer.football_disciplinary_action	01w22z	0c1nbtv
+sports.sports_league_draft_pick	027ft1l	01rc6f	02896	02qw1zx
+soccer.football_goal	026nlzs	0c1m0c5	03y_f8
+sports.sports_team_season_record	084bt3	06rny
+basketball.basketball_player_stats	099bj0	0301wn	0jm4b
+base.schemastaging.sports_league_season_ranking	0r4t7p1	085v7
+sports.sports_league_draft_pick	04p5_w	01qrb2	05tfm	07w75n
+soccer.football_player_match_participation	03d8m4	09wwz2	0c22yr_
+basketball.basketball_player_stats	09nky6	05s7c0	0jm3v
+basketball.basketball_player_stats	09068d	01ck_1	0jm4v
+sports.sports_team_season_record	072whh	02896
+sports.sports_team_season_record	07f8n2	06lxvwt
+basketball.basketball_player_stats	0dsb05	02cg2v	0jmcv
+sports.sports_team_roster	03d0d7	02ppw24
+sports.sports_league_draft_pick	0dszjs	01hx2t	0jmj7	06jndt
+soccer.football_player_match_participation	02bh_v	04_0gkk	0c1lvg1
+soccer.football_player_match_participation	03yl2t	03hhcvk	0c0xk97
+soccer.football_player_substitution	0387xr	0c44h1j	0f7t5m
+american_football.game_rushing_statistics	07kfrl	07dlm7n
+soccer.football_disciplinary_action	02qwbb	0c44msd
+sports.sports_team_season_record	072whw	05tfm
+basketball.basketball_player_stats	080bhx	012xdf	0jmk7
+basketball.basketball_player_stats	08hn_f	024vtg	0jm2v
+basketball.basketball_player_stats	08p_89	04h7dw	0jm5b
+sports.sports_team_coach_tenure	05l1kmz	0hvgt
+basketball.basketball_player_stats	080bhx	069ggg	0jmcb
+american_football.game_rushing_statistics	027ddp	07dlm62
+basketball.basketball_player_stats	09gnpl	08bybh	0jm4v
+basketball.basketball_player_stats	08hn_f	0b1944	0jmfb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	026f01y	02mplj	02ltg3
+soccer.football_player_match_participation	02ltg3	08w78j	0cb4z8g
+soccer.football_player_substitution	02qdtth	0c44msp	0gnm5h
+soccer.football_player_match_participation	01l3wr	04gr3y_	0c1srnw
+base.tournaments.match_competitor_relationship	02pp1	0c44msp
+sports.sports_team_season_record	0733gm	070xg
+basketball.basketball_player_stats	08vg9r	05ndt1	0jmdb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	09hc0c	0hvgt	01352_
+soccer.football_player_substitution	03by_sd	0c44h1j	06p383
+sports.sports_team_season_record	07btpd	051q5
+soccer.football_player_match_participation	03ys48	0947kq	0c0mdph
+basketball.basketball_player_stats	08w956	06cpj9	0jmm4
+basketball.basketball_player_stats	09jfdf	0d001w	0jmnl
+basketball.basketball_player_stats	0dsb05	06r88x	0jmnl
+soccer.football_player_match_participation	03ylxn	0dxgqy	0c0lsl8
+basketball.basketball_player_stats	09068d	0bm9df	0jm9w
+sports.sports_team_season_record	07f83f	06lxvwt
+base.bioventurist.bv_investment_round	02h8q3n	030pd5k	03p2y06	09nqf
+basketball.basketball_player_stats	0dsb05	04jx5p	0jmcv
+basketball.basketball_player_stats	07_x8s	07chj3	0jm3v
+soccer.football_player_match_participation	03ys48	02qz__w	0c0mdph
+soccer.football_player_match_participation	03d8m4	0d58zz	0c22yr_
+soccer.football_disciplinary_action	0h33cq	0c1srnl
+sports.sports_team_season_record	078_54	03wnh
+basketball.basketball_player_stats	096z30	0fg2zx	0jm4v
+soccer.football_player_match_participation	0329r5	0gnsh8	0c1smtg
+basketball.basketball_player_stats	09lprx	08x750	0239hyt
+soccer.football_team_manager_match_participation	0c1fy1c	02w64f	072gh0
+basketball.basketball_player_stats	09jfdf	0d9fzg	0jmfb
+soccer.football_player_match_participation	03_qrp	04t5ww	0c1nbtv
+basketball.basketball_player_stats	0994_r	05r6dn	0jmnl
+soccer.football_disciplinary_action	04fj3j	0c1lvg1
+basketball.basketball_player_stats	08rm43	07yqwb	0jm4b
+sports.sports_team_coach_tenure	047vnfs	02rqxc
+soccer.football_goal	0h6h8w	0c441bw	03zrhb
+soccer.football_goal	02py076	0gytd9j	0lg7v
+soccer.football_disciplinary_action	038pvw	09v2l34
+soccer.football_player_match_participation	03_qrp	0by1s6x	0cb4z87
+basketball.basketball_player_stats	09nb8x	02m7wj	0bwjj
+soccer.football_player_match_participation	03y_f8	026nlzs	0c1srnl
+american_football.game_rushing_statistics	027ft1l	09rl2jd
+basketball.basketball_player_stats	096mjy	0cln93	0jmj7
+base.tournaments.match_competitor_relationship	01352_	0c44h1j
+soccer.football_goal	026n047	0hznjsv	02w64f
+soccer.football_disciplinary_action	0268nlc	0c1q8nb
+soccer.football_disciplinary_action	07x5y3	0c441bl
+basketball.basketball_player_stats	09nf59	05r6b2	0jm3v
+soccer.football_disciplinary_action	0gjyhc	0c44msp
+sports.team_venue_relationship	039nb5	0jmk7
+soccer.football_player_match_participation	03zrhb	0ffyyw	0c0lsl1
+base.bioventurist.bv_investment_round	02h8q3n	04kz6bn	02_716n	09nqf
+soccer.football_disciplinary_action	0b__ct	0c0xqws
+basketball.basketball_player_stats	080sc7	06yp3h	0jm7n
+soccer.football_player_match_participation	02s9vc	02z6lsp	0c0lv1g
+basketball.basketball_player_stats	099bj0	050d0q	0jmj7
+soccer.football_player_match_participation	03xh50	04ymv9	0c22yr_
+soccer.football_team_manager_match_participation	0cc33g2	0329r5	027zq5r
+basketball.basketball_player_stats	09068d	073_zn	0jmnl
+basketball.basketball_player_stats	08rm43	08j_dc	0jmdb
+basketball.basketball_player_stats	0dsb05	02jyt3	0jm7n
+american_football.game_passing_statistics	05vlqb	07dlsf5
+base.popstra.support	02mdsj	02r3cn
+soccer.football_disciplinary_action	05mt0s	0c0mdpq
+american_football.game_receiving_statistics	0791n16	02zb5gw
+base.schemastaging.athlete_salary	06l22	02l6h	03yvsf
+sports.sports_team_season_record	0844dx	06rny
+soccer.football_player_match_participation	040pyq	03_99l	0c44h17
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	09ntbc	02q3n9c	03_44z
+basketball.basketball_player_stats	08hplf	08lcr5	0jm4v
+basketball.basketball_player_stats	09bjp8	08y560	0jmj7
+base.tournaments.match_competitor_relationship	03d8m4	0cbx_tf
+soccer.football_player_match_participation	02ltg3	0gf47m	0c1nbsz
+basketball.basketball_player_stats	09n15l	08mw_2	0jm8l
+basketball.basketball_player_stats	08s093	04l1yc	0jm3v
+soccer.football_player_match_participation	02w64f	026n047	0c44ckb
+soccer.football_team_manager_match_participation	0c1q83k	032hmd	0f93s1
+basketball.basketball_player_stats	096mjy	06by8l	0jmfb
+basketball.basketball_player_stats	07j1pw	07ch5x	0jmm4
+soccer.football_player_match_participation	03zrhb	079q9x	0c441bw
+basketball.basketball_player_stats	09nb8x	03n52x	025sf78
+basketball.basketball_player_stats	09drlt	01h3b9	0jm3v
+soccer.football_player_substitution	03tb61	0c44ckb	047kk6
+basketball.basketball_player_stats	08lw15	09hrdn	0jm3b
+soccer.football_disciplinary_action	03z2p0	0c0lv1g
+basketball.basketball_player_stats	08rm43	072ndz	0jmbv
+basketball.basketball_player_stats	09jfdf	0457pz	0bwjj
+soccer.football_player_substitution	076xs4c	0c22yrt	0g8lg9
+basketball.basketball_player_stats	09b5jv	09xxv7	0jmm4
+base.bioventurist.bv_investment_round	02gwv6z	04y72md	09x9yj5	09nqf
+soccer.football_player_match_participation	03zrhb	02zbjwr	0c1smtg
+basketball.basketball_player_stats	096z30	05x7bt	0jm8l
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0fbl13	04991x	01l3vx
+basketball.basketball_player_stats	08hplf	06q8ry	0jm3b
+basketball.basketball_player_stats	08mdhv	05jdrp	0jmm4
+soccer.football_player_substitution	02rxh19	0c1l_x_	08vg98
+basketball.basketball_player_stats	096z30	02r1p2l	0jm9w
+basketball.basketball_player_stats	09bjp8	08m11p	0jm8l
+basketball.basketball_player_stats	08rm43	02wk15	0jm74
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	074cmq	025rpyx	035qgm
+basketball.basketball_player_stats	07j1pw	05m4cz	0jmfb
+soccer.football_team_manager_match_participation	0cbx_t6	01l3wr	0d_hf2
+basketball.basketball_team_stats	080kw1	0jmk7
+soccer.football_player_match_participation	02pp1	03884d	0c44msp
+basketball.basketball_player_stats	09b5jv	08m11p	0jm8l
+basketball.basketball_player_stats	09ndwd	03n52x	02kbcrn
+american_football.game_rushing_statistics	06zbf_	07dlm62
+basketball.basketball_player_stats	07z2hs	08stqz	0jmbv
+basketball.basketball_player_stats	07_x8s	04dzk8	0jm6n
+base.schemastaging.athlete_salary	06_y140	01nv4h	03qz3b
+soccer.football_goal	04rc16	0c1nbvf	03yl2t
+soccer.football_player_match_participation	03ylxn	027q2j_	0c1lz_v
+finance.exchange_rate	01j9nc	02l6h
+basketball.basketball_player_stats	09bjp8	0bm98m	0jm7n
+soccer.football_goal	0g5t7d	0c1m0dj	03ys48
+basketball.basketball_player_stats	08vg9r	02wcw58	0jm2v
+soccer.football_player_match_participation	03yl2t	03hhcvk	0c1nbvf
+soccer.football_player_substitution	076xs4c	0c20g6b	027gv73
+sports.sports_team_season_record	07j7j2	05gg4
+basketball.basketball_player_stats	08030z	04vvpr	0jmm4
+basketball.basketball_player_stats	08030z	03794k	0jmnl
+sports.sports_team_season_record	09p357	070xg
+soccer.football_player_match_participation	0329r5	07k4dgf	0c43z58
+basketball.basketball_player_stats	07j1pw	06j3_9	0jmj7
+basketball.basketball_player_stats	096mjy	026xhtw	0jm3v
+basketball.basketball_player_stats	09gnpl	02qfl3h	0jm8l
+basketball.basketball_player_stats	095_24	0fm9x_	0jmjr
+base.tournaments.match_competitor_relationship	03_qj1	0c44msd
+basketball.basketball_player_stats	09gnpl	0g1xgk	0jmk7
+basketball.basketball_player_stats	0993hq	08y5d0	0jmdb
+basketball.basketball_player_stats	09nb8x	0bk85l	0jm8l
+soccer.football_player_stats	0gj8c8	0dq24s
+basketball.basketball_player_stats	09ln47	01tp0s	02kbcrv
+basketball.basketball_player_stats	08hn_f	04wf0f	0jmcv
+base.tournaments.match_competitor_relationship	02rqxc	0k062g8
+soccer.football_player_match_participation	0329r5	03g66x	0c0lq5j
+basketball.basketball_player_stats	09lprx	026rx1p	0bwjj
+soccer.football_player_stats	0v3dm15	02b185
+basketball.basketball_player_stats	08s093	07mmyz	0jmgb
+soccer.football_player_match_participation	03ylxn	09y78j	0c0lsl8
+base.schemastaging.athlete_salary	0bg4f9	02l6h	090ny_
+soccer.football_player_match_participation	040pyq	07sq1s	0c1d2xp
+sports.sports_team_season_record	07btpd	02896
+soccer.football_disciplinary_action	080cmb0	0c1nbtv
+basketball.basketball_player_stats	095wtg	0dysb7	02kbcr2
+soccer.football_goal	04q4d0	0c1sttd	02pp1
+soccer.football_player_substitution	0ftfjf	0c1m0dj	0281k5n
+sports.sports_team_coach_tenure	05l1krc	01634x
+basketball.basketball_player_stats	09drlt	01tg2m	0jm3v
+american_football.game_rushing_statistics	04rlp0	09rl2j2
+sports.sports_team_season_record	07f944	06rny
+soccer.football_player_stats	04y3d5	01n51f
+basketball.basketball_player_stats	080kw1	03pfbs	0bwjj
+basketball.basketball_player_stats	080sc7	07d71f	0gg69rf
+basketball.basketball_player_stats	09brkf	053tzp	0h1fsjh
+soccer.football_player_match_participation	03dj48	0287ywd	0c0lpm2
+sports.sports_team_season_record	07f8n2	06rny
+base.tournaments.match_competitor_relationship	03xh50	0c0xk97
+basketball.basketball_player_stats	080bhx	058yzq	0jm9w
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	02ppjn8	03j6_5	03ylxn
+soccer.football_goal	08vh6w	0c43z5k	01l3vx
+soccer.football_player_match_participation	01l3wr	0g0_l4	0c1srnw
+soccer.football_player_substitution	0867jz	0c1srnw	04yjqf
+soccer.football_player_substitution	0fx_hg	0c44h1j	0cm025
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	0d79m8	051hhz	040pyq
+base.bioventurist.bv_investment_round	02gwv73	02_6bg3	04kywnc	09nqf
+sports.sports_award	09fwcb	051j1r	0jm3v	046s7m
+basketball.basketball_player_stats	08s093	064t7s	0jm2v
+basketball.basketball_player_stats	08hplf	094xbr	0jm4b
+basketball.basketball_player_stats	080sc7	06crrs	0jm3v
+basketball.basketball_player_stats	080bhx	07zwkx	0jm5b
+american_football.football_historical_coach_position	0bhvvf	03nxcl
+basketball.basketball_player_stats	096mjy	08m40h	0jmj7
+basketball.basketball_player_stats	095wtg	072ndz	0jmhr
+basketball.basketball_player_stats	09gnpl	0cb9mw	0jm64
+soccer.football_disciplinary_action	0dclp1	0c1fy1c
+soccer.football_player_match_participation	03yl2t	0dtb5n	0c20hwx
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	03cjr54	02l01d	02s2lg
+soccer.football_player_match_participation	0lg7v	08zpzz	0gytd9j
+basketball.basketball_player_stats	09bjp8	02r95zb	0jm64
+sports.sports_team_season_record	074vzg	05g3v
+basketball.basketball_player_stats	08mdhv	04n0s9	0jm9w
+sports.sports_team_season_record	09p357	05g49
+soccer.football_player_substitution	04n1wvc	0c0xkpl	02wxzm
+soccer.football_player_match_participation	02s2lg	053xqm	0c1nbvf
+basketball.basketball_player_stats	096mjy	0983mg	0jmj7
+sports.sports_team_season_record	0849xl	01xvb
+basketball.basketball_player_stats	080kw1	04jx5p	02z8z6
+basketball.basketball_player_stats	08p_89	08x976	0jm4b
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	044brr	045xx	01_lhg
+basketball.basketball_player_stats	0802lk	03lh3v	0jmbv
+basketball.basketball_player_stats	09cfcf	0gsw2f	0jml5
+basketball.basketball_player_stats	09b5jv	08jqn8	0jm7n
+soccer.football_goal	038pvw	0c22yrt	02ltg3
+basketball.basketball_player_stats	09bjp8	0260xzl	0jm7n
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03yf8c	0cgwt8	03z8bw
+soccer.football_player_match_participation	03xh50	04yn2f	0c22yr_
+basketball.basketball_player_stats	080sc7	02ypm4	0jmfb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	05nr4p	021mkg	032jlh
+sports.sports_award	080kw1	0390wr	0jm4b	0380m_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	026f4lr	0y54	0329r5
+american_football.game_rushing_statistics	096bk_	0791ms6
+base.bioventurist.bv_investment_round	02h8q3n	02_6b8s	0kqq7_	09nqf
+basketball.basketball_player_stats	08w956	0219kb	0bwjj
+base.schemastaging.athlete_salary	05l71	09nqf	04nm2t
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03yq94	02_lt	02s9vc
+base.bioventurist.bv_investment_round	02_rdb9	03gmlck	05dbn6r	09nqf
+basketball.basketball_player_stats	095wtg	08bst7	0jml5
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0fp7d_	03b04g	033nzk
+soccer.football_player_match_participation	03zrc_	026whtg	0c43z5k
+american_football.game_receiving_statistics	0793f64	04pkzn
+soccer.football_player_substitution	08w78j	0c1nbsz	03dvdx
+soccer.football_player_match_participation	01l3wr	02z3k3g	0c1m0c5
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	02k0qr	02qhlm	03ylxn
+basketball.basketball_player_stats	08w956	02c5ls	0jm9w
+soccer.football_team_manager_match_participation	0c20hwx	02ltg3	06_8m8
+basketball.basketball_player_stats	09nb8x	01tp1l	0f8d1k
+basketball.basketball_player_stats	08w956	04pq94	0jm8l
+basketball.basketball_player_stats	08mdhv	08j72f	0jm5b
+soccer.football_player_match_participation	01352_	08tn3g	0c1q89k
+base.schemastaging.sports_league_season_ranking	0r4t7p1	0xbm
+sports.sports_team_coach_tenure	05l1ktd	02mplj
+basketball.basketball_player_stats	08s093	073_zn	0jmbv
+basketball.basketball_player_stats	080sc7	0455pq	0jmm4
+basketball.basketball_player_stats	09n15l	01h3b9	0jm8l
+basketball.basketball_player_stats	080bhx	07f3k4	0jmk7
+basketball.basketball_player_stats	096mjy	05m4cz	0jm5b
+basketball.basketball_historical_coach_position	0jmj7	051r7g
+basketball.basketball_player_stats	0dsb05	04g9sq	0jmj7
+basketball.basketball_player_stats	080bhx	027lhj	0gg69rf
+soccer.football_player_match_participation	03_qrp	04n477n	0c0mdp8
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0b5xst	0bxjpy	03_44z
+soccer.football_team_manager_match_participation	0c0lsl8	02bh_v	02c7q
+base.bioventurist.bv_investment_round	02gwv73	03gj1tx	04g5v14	09nqf
+basketball.basketball_player_stats	08rm43	04wf0f	0jmcv
+american_football.game_rushing_statistics	053wb4_	07dlps3
+soccer.football_player_match_participation	02w64f	07zp10	0c1fy1c
+soccer.football_disciplinary_action	07cyt6	09v2l34
+sports.sports_team_season_record	072whw	01c_d
+soccer.football_player_match_participation	03_qj1	05l7zc	0c0mdph
+base.schemastaging.sports_league_season_ranking	0v3bqvp	03d0d7
+soccer.football_player_substitution	09hc0c	0c1q89k	08tn3g
+basketball.basketball_player_stats	08lw15	0dvv92	0jmnl
+base.popstra.support	0jmk7	02r3cn
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	04yjqf	03yfh3	03_qrp
+basketball.basketball_player_stats	08hplf	064t7s	0jmj7
+sports.sports_team_roster	0jmk7	08jlrz
+soccer.football_player_match_participation	03d8m4	07s3pv9	0c0xkpl
+basketball.basketball_player_stats	09brkf	07m5nm	0jm7n
+soccer.football_player_match_participation	01352_	07zqvv	0c1q89k
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	0ft4g9	03j79x	032jlh
+basketball.basketball_player_stats	08hplf	02c5ls	0jm9w
+basketball.basketball_player_stats	09n4bz	05s7c0	0jm3v
+soccer.football_player_match_participation	01352_	04kh37	0c6qzxm
+soccer.football_player_match_participation	0329r5	079j56	0c43z58
+soccer.football_player_match_participation	03zrc_	02q6t2r	0c43z5k
+base.tournaments.match_competitor_relationship	03yl2t	0c0xk97
+sports.sports_team_season_record	07dtw0	05tg3
+sports.sports_team_roster	0jmcv	03nf3q
+soccer.football_player_match_participation	032hmd	04ygky_	0c1q83k
+soccer.football_team_manager_match_participation	0c0lpm2	03dj48	07lf9y
+soccer.football_player_substitution	0fykk2	0c441bl	0277ylh
+soccer.football_player_match_participation	06l22	0cdgm5	0107dkxt
+basketball.basketball_player_stats	08rm43	064t7s	0jm2v
+basketball.basketball_player_stats	0993hq	02rl4t3	0bwjj
+sports.sports_team_season_record	07rhvq	0487_
+soccer.football_player_match_participation	03zrhb	04ybt2	0c0lsl1
+basketball.basketball_player_stats	07_x8s	06fnn3	0bwjj
+soccer.football_team_management_tenure	02mplj	0282hcz
+basketball.basketball_player_stats	09jzdm	0fcpk9	02kbcqj
+sports.sports_team_season_record	072whh	05tg3
+basketball.basketball_player_stats	080b2d	07d71f	0jmgb
+soccer.football_player_match_participation	01l3wr	02vsll9	0cbx_t6
+sports.sports_league_draft_pick	0br8m3	01jq34	06rny	09l0x9
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0d52hx	0y54	03y_f8
+basketball.basketball_player_stats	09hqyn	02vrrv3	0bwjj
+basketball.basketball_player_stats	09mbww	05pt2s	0bwjj
+basketball.basketball_player_stats	09cfcf	02vrrv3	0bwjj
+sports.sports_team_season_record	07rj2g	0289q
+basketball.basketball_player_stats	09n0r4	051r7g	0jmk7
+soccer.football_player_match_participation	032hmd	027gv5d	0c22yrt
+american_football.game_receiving_statistics	0792nt4	05_6mt
+basketball.basketball_player_stats	09068d	06smlc	0jmbv
+basketball.basketball_player_stats	080b2d	07d6x6	0jm8l
+basketball.basketball_player_stats	07j1pw	02wr0_	0jml5
+sports.sports_award	08s093	01dhkt	0jmh7	02yqnh
+basketball.basketball_player_stats	08rm43	0dvv92	02z8z6
+basketball.basketball_player_stats	07z2hs	07dqrx	0jm3b
+sports.pro_sports_played	018w8	07cl5_
+sports.sports_team_season_record	025syt6	0wsr
+base.bioventurist.bv_investment_round	02_rdb9	04y72md	02_716n	09nqf
+basketball.basketball_player_stats	09nf59	073w_l	0bwjj
+soccer.football_disciplinary_action	09wk54	0c43z5k
+soccer.football_player_substitution	04q7xgk	0c20gf3	084183
+soccer.football_player_match_participation	0329r5	0dzx45	0cb4z87
+basketball.basketball_player_stats	095wtg	0fhfzb	0jmm4
+basketball.basketball_player_stats	099bj0	07cm3h	0jmj7
+basketball.basketball_player_stats	09bjp8	06by8l	0jm5b
+basketball.basketball_player_stats	0993hq	0260xzl	0jmm4
+basketball.basketball_player_stats	08_vqd	0b71zw	0jm4v
+soccer.football_goal	03dvdx	0cc33g2	02ltg3
+sports.sports_team_roster	03zrc_	0406wl0
+basketball.basketball_player_stats	08lw15	0fkvdx	0jmj7
+american_football.game_rushing_statistics	096bk_	0794wyy
+soccer.football_player_substitution	0dtb5n	0c0xk97	09g8q9c
+basketball.basketball_player_stats	08hplf	01vpgl	0jm74
+basketball.basketball_player_stats	08p_89	0dszjs	0jmbv
+basketball.basketball_player_stats	08n6zb	02wkxs	0jm64
+base.schemastaging.sports_league_season_ranking	0rfh262	075q_
+basketball.basketball_player_stats	09drlt	0457pz	0bwjj
+sports.sports_team_season_record	084bkc	05tfm
+base.bioventurist.bv_investment_round	02_rdb9	05fbbhj	05nbmts	09nqf
+sports.sports_team_season_record	082dpv	05tfm
+soccer.football_player_substitution	07fw_b	0c44h1j	0g5_45
+soccer.football_player_substitution	05vk88	0c44h17	0d76zk
+basketball.basketball_player_stats	080bhx	0510ht	0jmj7
+basketball.basketball_player_stats	09b5jv	08y5d0	0jm3b
+basketball.basketball_player_stats	0802lk	058yzq	0jm9w
+soccer.football_player_substitution	04yjnl	0c0mdp8	03hnt63
+soccer.football_disciplinary_action	02zbj50	0c1lvg1
+basketball.basketball_player_stats	09cfcf	05r68c	0bwjj
+sports.sports_team_coach_tenure	05l1ktd	03yfh3
+basketball.basketball_player_stats	08hn_f	04jx5p	0jmk7
+basketball.basketball_player_stats	08hplf	0fb6cs	0jmcv
+basketball.basketball_player_stats	08030z	07d6x6	0jm8l
+base.tournaments.match_competitor_relationship	03ylxn	0c1lz_v
+soccer.football_player_match_participation	032hmd	047c8t7	0c20g6b
+basketball.basketball_player_stats	0802lk	07dq_9	0jmgb
+soccer.football_player_match_participation	03d8m4	02714sd	0c22yr_
+soccer.football_disciplinary_action	0gzj9_	0j66twk
+basketball.basketball_player_stats	08hplf	08485b	0jm5b
+basketball.basketball_player_stats	09068d	08gzjb	0jml5
+soccer.football_disciplinary_action	059z7h	0c20hwx
+basketball.basketball_player_stats	09brkf	08jlrz	0jmbv
+basketball.basketball_player_stats	080b2d	08g5p6	0jm4v
+soccer.football_player_match_participation	02bh_v	04ybjjq	0c1lvg1
+soccer.football_team_management_tenure	023fb	05xt33
+basketball.basketball_player_stats	080kw1	03ld05	0jmjr
+basketball.basketball_player_stats	09nbp4	07y0nk	0bwjj
+base.schemastaging.sports_league_season_ranking	0rfh262	011v3
+sports.sports_team_season_record	072wh3	01xvb
+basketball.basketball_player_stats	08hplf	08lk30	0jm3b
+soccer.football_player_match_participation	02ltg3	059z7h	0c1nbsz
+soccer.football_disciplinary_action	063rt3	09v2l34
+basketball.basketball_player_stats	0802lk	078w9j	0jmfv
+basketball.basketball_player_stats	08030z	07dl5b	0jmnl
+basketball.basketball_player_stats	09drlt	08mpdy	0jmfb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	043jrdl	049bp4	03_qj1
+soccer.football_player_match_participation	0329r5	0gnsh8	0c1fzw8
+basketball.basketball_player_stats	09jxbg	05s7mx	0jm3v
+soccer.football_player_substitution	0bckz9	0c0lsl1	025zjfr
+basketball.basketball_player_stats	09068d	04q4f4	0jm64
+base.schemastaging.sports_league_season_ranking	0rfh262	01dwyd
+soccer.football_player_match_participation	0329r5	026bk56	0c0lpm9
+basketball.basketball_player_stats	0dsb05	078dtb	0jml5
+basketball.basketball_player_stats	07_x8s	07cgyv	0jmk7
+soccer.football_player_match_participation	0329r5	07k4dgf	0c1fzw8
+basketball.basketball_historical_coach_position	0jm3b	0dsj73
+basketball.basketball_player_stats	07z2hs	07clv8	0jmnl
+soccer.football_player_match_participation	032hmd	027gv73	0c0xqws
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	04g0jpj	03x746	03yl2t
+basketball.basketball_player_stats	0994_r	0260xzl	0jm8l
+basketball.basketball_player_stats	080bhx	07lg5v	0jmj7
+sports.pro_sports_played	018w8	0c357n
+sports.team_venue_relationship	01jdrn	051q5
+soccer.football_player_match_participation	03ylxn	03hp488	0c0lsl8
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	07frn7	050fh	02pp1
+basketball.basketball_player_stats	08p_89	0fcybh	0jm4b
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0cqmc8	021mkg	032jlh
+basketball.basketball_player_stats	080kw1	08mxft	0bwjj
+basketball.basketball_player_stats	09njzr	05lszn	0jm3v
+basketball.basketball_player_stats	09068d	08lnq6	0jml5
+soccer.football_team_manager_match_participation	0c1d2xp	02rqxc	03bqh7
+soccer.football_player_match_participation	040pyq	0b0pdf	0c1q89k
+soccer.football_player_match_participation	01l3wr	06nxfp	0c1sttd
+basketball.basketball_player_stats	09cfcf	026q1w7	0jm4v
+base.schemastaging.athlete_salary	03wnh	09nqf	0gznlq
+soccer.football_player_match_participation	032jlh	027b1h6	0c1fy1c
+basketball.basketball_player_stats	09mbww	05m32c	0jm4v
+basketball.basketball_player_stats	09n4bz	0b_vls	0jm3v
+soccer.football_player_substitution	02vm85z	0c0lq5j	026yvt1
+basketball.basketball_player_stats	09759j	05m4cz	0jmj7
+soccer.football_player_match_participation	02rqxc	03b9qr	0c44h1j
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03m7_ll	01nd2c	03yl2t
+basketball.basketball_player_stats	080bhx	07dndk	0jm9w
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	04ybjjq	06f45f	02bh_v
+american_football.game_receiving_statistics	0793h53	04pkzn
+sports.sports_team_season_record	078_54	01y49
+base.bioventurist.bv_investment_round	02gwv73	028951g	04kywc0	09nqf
+basketball.basketball_player_stats	08030z	07dl98	0jmfv
+american_football.game_passing_statistics	05dfhp	07dlqs2
+basketball.basketball_player_stats	0dsb05	0730b4	0jmcb
+basketball.basketball_player_stats	0994_r	08y560	0jmj7
+soccer.football_disciplinary_action	04jg7hj	0cbx_tf
+sports.sports_award	08_vqd	07_s1w	0jmbv	0380m_
+sports.sports_league_draft_pick	053pct	09f2j	0jmj7	0ch_gb
+basketball.basketball_player_stats	07j1pw	07cl5_	0jmcb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0df3x4	02hzx8	03_qrp
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	03v8dr	0mmd6	03ylxn
+sports.sports_team_season_record	07f8n2	05tfm
+basketball.basketball_player_stats	08p_89	07f33c	0jm64
+soccer.football_disciplinary_action	02rwsr2	0cb4z8g
+base.schemastaging.athlete_salary	0hvjr	01nv4h	03d71tj
+basketball.basketball_player_stats	09gnpl	0fcpk9	0jmk7
+basketball.basketball_player_stats	096z30	095nx	0jmk7
+basketball.basketball_player_stats	080bhx	04vvpr	0jm9w
+basketball.basketball_player_stats	08lw15	04qmdn	0jmk7
+soccer.football_disciplinary_action	0gqhz4	0c22yrt
+soccer.football_player_match_participation	03_44z	08cywd	0c0xqws
+soccer.football_player_match_participation	01_lhg	05msy4	0c20g6b
+basketball.basketball_player_stats	09ncv9	088bb7	0239hyt
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	072j74	011v3	02s9vc
+sports.sports_team_season_record	025syt6	05g49
+american_football.game_receiving_statistics	09rl2j2	04llqf
+soccer.football_player_match_participation	03_qrp	0df3x4	0c1stt5
+base.schemastaging.athlete_salary	05g3v	09nqf	02qxlsm
+sports.sports_team_season_record	076z27	01xvb
+american_football.game_receiving_statistics	09rl2jd	05zp9m5
+soccer.football_disciplinary_action	048nnl	0c1smtr
+basketball.basketball_player_stats	0993hq	0fb6hk	0jm64
+soccer.football_player_match_participation	03ys48	0gnm5h	0c0mdph
+base.bioventurist.bv_investment_round	02h8q3n	02_xpvw	03p2y06	09nqf
+soccer.football_player_match_participation	03_44z	0b5gqt	0c1q86p
+basketball.basketball_player_stats	08p_89	02wk15	0jm74
+american_football.game_receiving_statistics	07dlt_y	04pz6f
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	07fkqq	03j70t	02s2lg
+basketball.basketball_player_stats	080b2d	04pj46	0jmcb
+basketball.basketball_player_stats	08030z	0739r4	0jm5b
+sports.sports_team_season_record	07f9pv	0289q
+basketball.basketball_player_stats	0802lk	05jzdc	0jmfv
+basketball.basketball_player_stats	09fwcb	0278_sc	0bwjj
+base.schemastaging.athlete_salary	06zpgb2	02l6h	03_y2f
+basketball.basketball_player_stats	08n6zb	01vfqy	0jm8l
+soccer.football_goal	08zpzz	0c6r0k6	02w64f
+base.tournaments.match_competitor_relationship	03ys48	0c0mdph
+basketball.basketball_player_stats	08hn_f	07dl5b	0jmbv
+measurement_unit.dated_money_value	0d2tlb	09nqf
+sports.sports_team_season_record	07dtw0	07l24
+basketball.basketball_player_stats	0dsb05	078dxj	0jm4b
+basketball.basketball_player_stats	080kw1	06fnn3	02z8z6
+soccer.football_player_substitution	01yj16	0c1sttd	04sl06
+soccer.football_team_manager_match_participation	0c1sttd	02pp1	030_wt
+sports.sports_team_season_record	071qxs	07l24
+basketball.basketball_player_stats	08hplf	04pj46	0jm3v
+soccer.football_player_match_participation	03d8m4	04y3d5	0cbx_tf
+basketball.basketball_player_stats	09n15l	05m32c	025sf78
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	053qc6	0bl8l	02s9vc
+basketball.basketball_player_stats	08lw15	050t_l	0jmhr
+user.szaijan.fantasy_football.projection	02sj2gw	04llqf	02sjlml
+sports.sports_team_season_record	07x_gq	0289q
+basketball.basketball_player_stats	09bjp8	0g927d	0jm64
+basketball.basketball_player_stats	08n6zb	07mmyz	0jm9w
+soccer.football_player_match_participation	01_lhg	05msy4	0c0xkpl
+soccer.football_disciplinary_action	02pzx20	09v2l34
+sports.sports_team_roster	03bj3y	08gz6c
+base.bioventurist.bv_investment_round	02h8q3n	03l1pp	0cmbtnz	09nqf
+basketball.basketball_player_stats	09drlt	06by8l	03bj3y
+base.bioventurist.bv_investment_round	02_rdb9	028951g	02sjwyg	09nqf
+american_football.game_receiving_statistics	07921tn	04rlp0
+basketball.basketball_player_stats	08n6zb	03lp0g	0jmj7
+soccer.football_player_substitution	0288mw0	0c0lq5j	0g0_l4
+soccer.football_player_match_participation	03zrhb	02zbj50	0c1lvg1
+soccer.football_player_substitution	02vyjwt	0c1q8nb	02r6flm
+soccer.football_player_substitution	021xgm	0c1fy1c	02v_30x
+base.tournaments.match_competitor_relationship	01l3vx	0c0lpm9
+basketball.basketball_player_stats	08rm43	0788sh	0jmjr
+soccer.football_player_match_participation	02w64f	055kq6	0c1fy1c
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	026xn2q	05511w	0329r5
+basketball.basketball_player_stats	09jxbg	0257dq	0bwjj
+basketball.basketball_player_stats	08hplf	02hdjz	0jm5b
+soccer.football_player_match_participation	03d8m4	04y3k1	0c0xkpl
+sports.sports_league_draft_pick	02hf9k	0bx8pn	0jmj7	04ckrk
+basketball.basketball_player_stats	095_24	08y76b	0jm4v
+base.popstra.hangout	02r3cn	0k049
+soccer.football_disciplinary_action	026d3lm	0c1q8nb
+soccer.football_team_manager_match_participation	0c1q8d7	02rqxc	03bqh7
+sports.sports_team_season_record	09p357	043vc
+soccer.football_player_match_participation	02pp1	07k91_	0c1m0g3
+basketball.basketball_player_stats	09nfx8	05mqj1	02kbcrn
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0d90x5	02hzx8	032jlh
+sports.sports_team_season_record	071qy4	070xg
+sports.sports_team_season_record	0721y8	05g3b
+basketball.basketball_player_stats	099bj0	072qyn	0jm7n
+soccer.football_disciplinary_action	0fl3k7	0c1l_x_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	026hvjz	085v7	033nzk
+sports.sports_team_season_record	07btpd	05g3b
+basketball.basketball_player_stats	08hplf	07kz79	0jm2v
+basketball.basketball_player_stats	09jxbg	02x19wj	0jml5
+base.tournaments.match_competitor_relationship	040pyq	0c1q89k
+basketball.basketball_player_stats	09jfdf	02vrrv3	0bwjj
+basketball.basketball_historical_coach_position	0jm9w	0fbbl
+basketball.basketball_player_stats	096mjy	053pct	0jmk7
+soccer.football_player_substitution	0bmj_9	0c0mdpq	07nvmx
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	027snb6	049912	03_qj1
+soccer.football_disciplinary_action	04qv66	0c1q89k
+sports.sports_award	09ln47	04r3y_	0jm8l	02yqnh
+soccer.football_player_match_participation	032hmd	027gvdm	0c22yrt
+basketball.basketball_player_stats	08p_89	05p26q	0jm5b
+basketball.basketball_player_stats	080kw1	0dqp3x	0jm2v
+basketball.basketball_player_stats	09068d	02n45z	0jm8l
+basketball.basketball_player_stats	080sc7	07gqh4	0jmm4
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0d4bh2	02mplj	02ltg3
+basketball.basketball_player_stats	09cfcf	04dddn	0jm3v
+basketball.basketball_player_stats	09068d	07_s1w	0jmbv
+basketball.basketball_player_stats	09nbp4	087fxb	0jm8l
+soccer.football_player_match_participation	01352_	026_y13	0c1q89k
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	09l8z_	09n4_l	03_44z
+soccer.football_player_match_participation	032jlh	06zsgzn	0c1q8nb
+soccer.football_player_match_participation	040pyq	03qkv8f	0c1d2xp
+sports.sports_team_season_record	0792sp	051q5
+american_football.game_rushing_statistics	0bg92m	0794mtw
+sports.sports_team_season_record	07drc8	05gg4
+soccer.football_player_substitution	02714sd	0j66twk	0gzj9_
+base.tournaments.match_competitor_relationship	01_lhg	0c0xkpl
+sports.sports_league_draft_pick	0gxrc1	07w0v	0jmnl	0f4vx0
+basketball.basketball_player_stats	09n4bz	08gz6c	0jmk7
+basketball.basketball_historical_coach_position	0jm4b	040x5b
+sports.sports_team_season_record	072whw	051q5
+soccer.football_player_match_participation	03ys48	043qdrd	0c0mdph
+basketball.basketball_player_stats	0802lk	0bnttl	0jm7n
+basketball.basketball_player_stats	095_24	08gzjb	0jml5
+american_football.game_rushing_statistics	05dfhp	07dltbp
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	026md0g	0425j7	03zrhb
+basketball.basketball_player_stats	08p_89	06q8ry	02z8z6
+basketball.basketball_player_stats	096z30	0684s7	0jmj7
+base.bioventurist.bv_investment_round	02gwv6z	02h670g	03dzvhq	09nqf
+soccer.football_disciplinary_action	0f7t5m	0c44h1j
+soccer.football_goal	0277ylh	0c1lz_v	035qgm
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	02qny_	01k2yr	02s9vc
+base.bioventurist.bv_investment_round	0515tjs	02hh10	02h5j_f	09nqf
+soccer.football_player_substitution	02z3k3g	0c1m0c5	04gr3y_
+basketball.basketball_player_stats	09nfx8	0bvjbh	02kbcrn
+basketball.basketball_player_stats	096mjy	08hqgp	0jmhr
+basketball.basketball_player_stats	09lprx	01tp9_	0jm3v
+soccer.football_team_manager_match_participation	0c43z58	0329r5	027zq5r
+american_football.game_receiving_statistics	0791swc	04rlp0
+soccer.football_team_manager_match_participation	0c6qzxm	01352_	0556fn
+soccer.football_player_substitution	05l_8j	0c20hwx	03hhcvk
+basketball.basketball_player_stats	080bhx	01l_v5	0jmfb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0f_sw_	01rlz4	03ylxn
+basketball.basketball_player_stats	08rm43	0clh71	0jmgb
+soccer.football_player_substitution	04zwrk3	0c44h17	04zy73m
+basketball.basketball_player_stats	095_24	01ft64	0jml5
+basketball.basketball_player_stats	08p_89	026ym1z	0jmcv
+base.tournaments.match_competitor_relationship	03_qrp	0c1nbtv
+basketball.basketball_player_stats	0dsb05	05_wp1	0jmbv
+basketball.basketball_player_stats	096z30	05f4b0	0jmdb
+basketball.basketball_player_stats	08w956	02c2g6	0jmhr
+basketball.basketball_player_stats	08hplf	0301wn	0jm8l
+soccer.football_player_match_participation	01l3wr	06n0nr	0c1sttd
+soccer.football_player_substitution	027snb6	0c1m0g3	04y74d4
+basketball.basketball_team_stats	09hqyn	0jmk7
+soccer.football_player_match_participation	032hmd	0gj8c8	0c0xqws
+soccer.football_player_substitution	04_063f	0c1q8d7	09g8n09
+soccer.football_player_match_participation	01352_	05fct1	0c44h1j
+basketball.basketball_player_stats	080kw1	04q4f4	0jmcb
+basketball.basketball_player_stats	08w956	0dyw7q	0bwjj
+basketball.basketball_player_stats	0dsb05	05pptr	0jm6n
+soccer.football_player_match_participation	02ltg3	090ny_	0cc33g2
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0943bq	047fwlg	0cnk2q
+soccer.football_goal	0dp6kj	0c1d32j	01352_
+soccer.football_player_match_participation	03yl2t	03m7_ll	0c0xk97
+base.tournaments.match_competitor_relationship	03zrc_	0c0lpm2
+basketball.basketball_player_stats	09bjp8	05s7sl	0jm3v
+basketball.basketball_player_stats	08vg9r	05jdq7	0jmfb
+user.cheunger.sports_test.roster_membership	076qnly	0dgrmp
+sports.sports_team_season_record	084bt3	05tg3
+basketball.basketball_player_stats	080sc7	0bw44d	0jmj7
+base.schemastaging.athlete_salary	01k2yr	09nqf	0b5xst
+sports.sports_team_season_record	07f9pv	051q5
+american_football.game_rushing_statistics	03zy1_	0793bmj
+basketball.basketball_player_stats	09ncv9	02rh1yg	0jm3v
+base.schemastaging.athlete_salary	06l22	01nv4h	08p1qm
+soccer.football_disciplinary_action	07sp_m	0c1q89k
+american_football.game_receiving_statistics	079423h	04t8zv
+basketball.basketball_player_stats	07j1pw	06cfvr	0jm6n
+soccer.football_player_match_participation	0329r5	02y_kzs	0c0lpm9
+basketball.basketball_player_stats	09gnpl	08h_gh	0jm8l
+basketball.basketball_player_stats	09bjp8	08y5d0	0h1fsjh
+soccer.football_disciplinary_action	06mmrh	09v2l34
+soccer.football_player_substitution	07grfp	0c1m0dj	072j74
+basketball.basketball_player_stats	09bjp8	096d19	0jm9w
+base.tournaments.match_competitor_relationship	033nzk	0c1q8nb
+soccer.football_player_substitution	04_0gkk	0cbx_t6	05zqzdf
+basketball.basketball_player_stats	096z30	08y5d0	0jm9w
+basketball.basketball_player_stats	09jxbg	08mw_2	0jmk7
+soccer.football_player_match_participation	03ys48	043qdrd	0c44msp
+basketball.basketball_player_stats	08lw15	07cl5_	0jmbv
+basketball.basketball_player_stats	080b2d	0fkrd4	0jmnl
+basketball.basketball_player_stats	0994_r	0287x41	0jm5b
+basketball.basketball_player_stats	07z2hs	058yzq	0jm9w
+basketball.basketball_player_stats	0994_r	0260xzl	0jm7n
+basketball.basketball_player_stats	08rm43	073_zn	0jmbv
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0gbts2	01n24j	03_qj1
+basketball.basketball_player_stats	08030z	07f3g1	0jmhr
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	041x65	023fb	01l3vx
+soccer.football_disciplinary_action	027dd2s	0c1q83k
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	0514dk	0ckf6	02pp1
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	03g66x	0lg7v	0329r5
+sports.sports_team_season_record	07f67z	051q5
+basketball.basketball_player_stats	08hn_f	0fkvdx	0jmcb
+basketball.basketball_player_stats	09n15l	08m13r	02kbcqj
+american_football.game_rushing_statistics	04rlp0	07922cn
+soccer.football_player_substitution	0ksh74	0c0mdpq	0g0_l4
+basketball.basketball_player_stats	095wtg	0b71zw	0jm5b
+soccer.football_player_match_participation	02w64f	07cyt6	0cbx_tf
+sports.sports_team_season_record	074w7v	0wsr
+sports.pro_sports_played	018w8	053tzp
+soccer.football_player_substitution	06zwl_	0cbx_t6	04gr3y_
+american_football.game_passing_statistics	03zy1_	07dlv0t
+basketball.basketball_player_stats	08_vqd	06cpj9	0jmm4
+sports.sports_team_season_record	072whw	01ct6
+american_football.game_receiving_statistics	07dlrvn	05zp9m5
+basketball.basketball_player_stats	095wtg	08kzs9	0jm3v
+american_football.game_receiving_statistics	0792nt4	04t8zv
+soccer.football_goal	0h6h8w	0c0lsl1	03zrhb
+basketball.basketball_player_stats	08vg9r	04pq94	0jm8l
+soccer.football_disciplinary_action	02w8_8r	0c1q8nb
+soccer.football_goal	0dcphf	0c0xqws	032hmd
+soccer.football_player_match_participation	03ys48	0gl285	0c44msp
+basketball.basketball_player_stats	080kw1	07dqvd	0bwjj
+basketball.basketball_player_stats	07j1pw	02hdjz	0jm8l
+soccer.football_player_match_participation	02s9vc	053qc6	0c44msd
+soccer.football_player_substitution	026mbph	0c44h1j	02rwsr2
+american_football.game_rushing_statistics	07kfrl	0791ms6
+american_football.game_receiving_statistics	07921tn	04pkzn
+base.tournaments.match_competitor_relationship	01352_	0c1q89k
+base.schemastaging.athlete_salary	02896	09nqf	07vy9h
+basketball.basketball_player_stats	09759j	08h1xg	0jmm4
+basketball.basketball_player_stats	09fwcb	02vvzqc	03bj3y
+basketball.basketball_player_stats	08rm43	0cjl62	0jmbv
+soccer.football_player_substitution	04zc91	0c0lsl1	0bv7_5
+basketball.basketball_player_stats	09jzdm	04dddn	0jm3v
+basketball.basketball_player_stats	09brkf	096d19	0jm3b
+base.tournaments.match_competitor_relationship	0329r5	0c0lpm9
+american_football.game_receiving_statistics	0793bd6	027ddp
+soccer.football_disciplinary_action	0281k5n	0c1m0dj
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	03hkk8j	0d2psv	03zrc_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0bfmst	0j46b	035qgm
+basketball.basketball_player_stats	08lw15	08lk30	0jm9w
+sports.sports_team_season_record	07r4kx	05g49
+soccer.football_player_substitution	0c012t4	0c20hwx	03nnpwf
+base.tournaments.match_competitor_relationship	03_44z	0c20gf3
+basketball.basketball_player_stats	08hplf	08lnq6	0jm74
+american_football.game_receiving_statistics	0791lwh	06zbf_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	068sc9	02hm0m	01l3wr
+sports.sports_team_roster	011v3	09y78j
+basketball.basketball_player_stats	0802lk	0fkdp4	0jm8l
+basketball.basketball_player_stats	0993hq	0bm9df	0jmbv
+basketball.basketball_player_stats	08p_89	08dkds	0jm8l
+soccer.football_player_match_participation	03dj48	083qy7	0c43z58
+basketball.basketball_player_stats	095_24	06smlc	0jmbv
+basketball.basketball_player_stats	09759j	089_5t	0jm3b
+sports.sports_team_season_record	080vx0	01xvb
+basketball.basketball_player_stats	080bhx	04phv9	0jmm4
+basketball.basketball_player_stats	080sc7	08j6yx	0jm8l
+sports.sports_award	09nbp4	05ndy1	0239hyt	02yqk8
+sports.sports_team_roster	03d8m4	04y38k
+sports.sports_team_coach_tenure	03cv4n6	01ct6
+base.popstra.religion_choice	01lp8	02r3cn
+basketball.basketball_player_stats	09068d	04wf0f	0jmcv
+soccer.football_player_match_participation	03xh50	04ym_v	0c1nbsz
+soccer.football_player_substitution	04p44g	0c0xkpl	084183
+basketball.basketball_player_stats	08mdhv	053v74	0bwjj
+soccer.football_disciplinary_action	047pb4k	0c22yr_
+base.schemastaging.sports_league_season_ranking	0r4zfgy	0lg7v
+basketball.basketball_player_stats	07z2hs	0739r4	0jmfb
+sports.sports_team_season_record	072whh	07l2m
+basketball.basketball_player_stats	09jxbg	01h3b9	0jm3v
+soccer.football_player_match_participation	01l3wr	02rf301	0c0lq5j
+soccer.football_disciplinary_action	0cz6n9	0c22yrt
+basketball.basketball_player_stats	08_vqd	04wf0f	0jmcv
+basketball.basketball_player_stats	09mbww	0b_vls	0bwjj
+soccer.football_disciplinary_action	04zvq9	0c0xqws
+soccer.football_team_manager_match_participation	0c1smtr	03dj48	07lf9y
+basketball.basketball_player_stats	08w956	084vjz	0jm4v
+basketball.basketball_player_stats	09brkf	05p81s	0h1fsjh
+soccer.football_player_substitution	0gf43t	09v2l34	053sw3
+basketball.basketball_player_stats	0dsb05	0739r4	0jmcv
+soccer.football_player_substitution	0866z1	0c1nbtv	03hnt63
+base.bioventurist.bv_investment_round	02gwv6z	028951g	05gq7n5	09nqf
+basketball.basketball_player_stats	08mdhv	02c5ls	0jm9w
+soccer.football_player_match_participation	01_lhg	04n1wvc	0c20g6b
+sports.pro_sports_played	018w8	0b6_nf
+basketball.basketball_player_stats	09bjp8	0bl1hp	0jmbv
+soccer.football_player_substitution	09zvyq	0c1d32j	04qv66
+basketball.basketball_player_stats	09b5jv	08bst7	0jml5
+american_football.game_rushing_statistics	06zbf_	07dlmdq
+basketball.basketball_player_stats	07j1pw	05r52b	0jmk7
+basketball.basketball_player_stats	080bhx	067t0p	0jmj7
+soccer.football_player_match_participation	03y_f8	086nc1	0c1m0c5
+soccer.football_goal	03bh7f	0c1q8d7	02rqxc
+basketball.basketball_player_stats	08vg9r	0f8vbt	02z8z6
+basketball.basketball_player_stats	099bj0	04ck52	0jmjr
+sports.sports_team_season_record	074w7v	070xg
+soccer.football_player_match_participation	02ltg3	04j7c7	0c20hwx
+soccer.football_player_match_participation	0329r5	027tl2v	0cb4z87
+basketball.basketball_player_stats	08n6zb	08j6yx	0jm2v
+basketball.basketball_player_stats	07j1pw	03lghn	0jmbv
+basketball.basketball_player_stats	08lw15	07q38w	0jmm4
+soccer.football_team_management_tenure	0bl8l	02wd_0
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	04655x	02gys2	02bh_v
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	03wdy1j	05glrg	040whs
+base.schemastaging.athlete_salary	0ckf6	01nv4h	0633x2
+soccer.football_player_loan	03hl68d	01fwqn	02b185
+sports.sports_team_coach_tenure	047vnfs	045xx
+soccer.football_player_match_participation	0329r5	03nsp2k	0c0lpm9
+sports.sports_team_season_record	07rhvq	0wsr
+soccer.football_player_match_participation	035qgm	07x5y3	0c0lsl1
+base.schemastaging.athlete_salary	03lsq	09nqf	0b7t63
+soccer.football_team_manager_match_participation	0c1smtr	02bh_v	02c7q
+base.schemastaging.athlete_salary	02896	09nqf	027ft1l
+basketball.basketball_player_stats	08hplf	08l3qw	0bwjj
+soccer.football_player_match_participation	02w64f	06mmrh	09v2l34
+soccer.football_player_match_participation	02rqxc	0gdljk	0c1d2xp
+american_football.game_receiving_statistics	07dlrvn	051jrr
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	04y3k1	01dwyd	03d8m4
+basketball.basketball_player_stats	08mdhv	08x976	0jm4b
+basketball.basketball_player_stats	0802lk	03lh3v	0jmnl
+soccer.football_disciplinary_action	06nxfp	0c1sttd
+sports.sports_team_season_record	072wh3	0487_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	01cp87	0175rc	01l3wr
+basketball.basketball_player_stats	09nbp4	02ryq1h	0jm8l
+basketball.basketball_player_stats	07_x8s	03g4bf	0jm74
+basketball.basketball_player_stats	08lw15	01ps4k	0jmj7
+basketball.basketball_player_stats	080kw1	08j72f	0jm7n
+soccer.football_player_substitution	0ktbjy	0c1m0g3	05l831
+basketball.basketball_player_stats	08mdhv	01gcq3	0jm74
+base.tournaments.match_competitor_relationship	03y_f8	0c0mdp8
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	02z4dfr	075q_	0329r5
+sports.sports_team_roster	05g49	08cq92
+soccer.football_player_match_participation	03y_f8	071ns8	0c1srnl
+base.tournaments.match_competitor_relationship	02s2lg	0c20hwp
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	07bp3v	042rlf	03zrhb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0f6zmq	03w7kx	01l3vx
+soccer.football_player_match_participation	02rqxc	0f8qdm	0c6r0k6
+basketball.basketball_player_stats	09jfdf	08n1f1	0jm8l
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0gj8c8	0ly8z	032hmd
+soccer.football_player_match_participation	03_qj1	05l831	0c44msd
+basketball.basketball_player_stats	08hplf	0bnttl	0jm2v
+basketball.basketball_player_stats	095wtg	02wcw58	0jm3v
+sports.sports_award	08_vqd	095nx	0jmk7	02yqk8
+soccer.football_player_match_participation	0329r5	07k63st	0cc33g2
+basketball.basketball_player_stats	0994_r	0684s7	0jmjr
+american_football.football_historical_coach_position	0bhvvf	040zjnd
+basketball.basketball_player_stats	08vg9r	0fcxbg	0jmdb
+soccer.football_player_match_participation	02rqxc	02xt6q	0c1q8d7
+basketball.basketball_player_stats	08vg9r	03461q	0jm9w
+base.schemastaging.sports_league_season_ranking	0r4zfgy	0hvgt
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	047bmnq	0lhp1	03y_f8
+basketball.basketball_player_stats	08w956	0fcxbg	0jmdb
+basketball.basketball_player_stats	08hplf	0266p25	0jmcv
+soccer.football_team_manager_match_participation	0c1d32j	01352_	0556fn
+soccer.football_disciplinary_action	02rqnmx	0c1q83k
+soccer.football_player_match_participation	040whs	09g8n09	0c1q8d7
+soccer.football_player_substitution	099vgz	0cbx_t6	027pnw2
+sports.sports_team_roster	01xvb	05byjc
+sports.sports_league_draft_pick	02ryq1h	0225bv	0jmj7	02h7nl5
+basketball.basketball_player_stats	09759j	06h03t	0jm64
+american_football.game_rushing_statistics	053wb4_	07dlqpl
+basketball.basketball_player_stats	08030z	01vpp2	0jm64
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0f8qdm	0266bd5	02rqxc
+basketball.basketball_player_stats	080b2d	05r52b	0jm4v
+soccer.football_player_substitution	0gj8c8	0c22yrt	02rx4ck
+basketball.basketball_player_stats	08hn_f	0301wn	0jm8l
+soccer.football_player_match_participation	033nzk	027f26b	0c1q8nb
+soccer.football_player_substitution	044mw7	0c1smtr	03_77y
+base.popstra.support	0jmk7	0dvmd
+soccer.football_team_manager_match_participation	0c0xk9g	02s2lg	04spv6
+soccer.football_team_manager_match_participation	0c0mdp8	03y_f8	07gh0x
+basketball.basketball_player_stats	0994_r	06h03t	0jm64
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	04lfdsm	0kq9l	03ys48
+basketball.basketball_player_stats	09drlt	0d0_4m	02kbcr2
+soccer.football_player_match_participation	01l3vx	0ksbmv	0c43z5k
+sports.sports_team_season_record	0792sp	070xg
+basketball.basketball_player_stats	0993hq	02q5wxc	0jm3b
+base.schemastaging.sports_league_season_ranking	0r4t7p1	0hvjr
+basketball.basketball_player_stats	08n6zb	0cp66j	0jmdb
+soccer.football_disciplinary_action	02vmxdk	0cc33g2
+soccer.football_player_match_participation	040whs	04n3f76	0c44h17
+basketball.basketball_player_stats	08mdhv	07yqwb	0jm2v
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	055kq6	0hvgt	02w64f
+soccer.football_player_substitution	0866z1	0c1srnw	025zgjt
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	05z1yg	045xx	01_lhg
+basketball.basketball_player_stats	09bjp8	08jqn8	0jm7n
+american_football.game_rushing_statistics	0cfqy0	07dlm7n
+basketball.basketball_player_stats	0dsb05	07dl86	0jmfb
+basketball.basketball_player_stats	07z2hs	06djwl	0jmjr
+american_football.game_rushing_statistics	09cyqn	0791swc
+soccer.football_player_match_participation	01_lhg	0c4hn_	0c0xkpl
+basketball.basketball_player_stats	08n6zb	0bvgm4	0jm5b
+basketball.basketball_player_stats	09ln47	08mpdy	03bj3y
+soccer.football_player_match_participation	03d8m4	0d58wf	0c0xkpl
+basketball.basketball_player_stats	080b2d	07dqvd	0bwjj
+basketball.basketball_player_stats	08vg9r	02n45z	0jm8l
+basketball.basketball_player_stats	080kw1	02ypm4	0jmfb
+sports.sports_team_roster	0jmjr	05r6n_
+soccer.football_player_match_participation	01_lhg	02rncf5	0c0xkpl
+soccer.football_player_substitution	0ffwqv	0c20g6b	0fdb72
+basketball.basketball_player_stats	09ln47	08mw_2	03bj3y
+soccer.football_player_match_participation	02s9vc	02qv04_	0c44msd
+soccer.football_team_manager_match_participation	0c6r0k6	02rqxc	03bqh7
+sports.sports_team_season_record	0793t1	07l24
+basketball.basketball_player_stats	0dsb05	07d770	0jm5b
+basketball.basketball_player_stats	0802lk	0fktx8	0jmdb
+basketball.basketball_player_stats	09n15l	0bm8vg	0239hyt
+soccer.football_goal	02rqnmx	0c1q83k	03d8m4
+basketball.basketball_player_stats	08rm43	0dqsqd	0jm5b
+soccer.football_player_substitution	02vx3wm	0c441bl	03bny4
+base.tournaments.match_competitor_relationship	02w64f	0hznjsv
+soccer.football_player_substitution	07tfzz	0cbx_tf	04w6xn
+basketball.basketball_player_stats	09jxbg	073c5l	0jm74
+basketball.basketball_player_stats	09b5jv	027b9l7	0jmk7
+basketball.basketball_player_stats	08hplf	081chb	0jmcb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03npy_b	02qhlm	03_qj1
+soccer.football_player_match_participation	02s2lg	0d930p	0c20hwp
+american_football.game_rushing_statistics	09cyqn	0791qpr
+basketball.basketball_player_stats	080kw1	07dqrx	0jm9w
+soccer.football_goal	0d9ry_	0gytd9j	06l22
+basketball.basketball_player_stats	09bjp8	02791cy	0jm5b
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	027dd2s	0498yf	032hmd
+basketball.basketball_player_stats	09drlt	0dp__b	0jmm4
+sports.sports_team_coach_tenure	047vnfs	011v3
+base.tournaments.match_competitor_relationship	03_44z	0c1q86p
+soccer.football_player_match_participation	040pyq	0d761n	0c44h17
+soccer.football_player_match_participation	03_44z	03d7x9n	0c0xqws
+soccer.football_player_match_participation	02pp1	07frn7	0c0lv1g
+soccer.football_team_manager_match_participation	0c441bw	03ylxn	03l6wy
+basketball.basketball_player_stats	09drlt	05p81s	0h1fsjh
+basketball.basketball_player_stats	0802lk	050d0q	0jmj7
+basketball.basketball_player_stats	08n6zb	0ds41m	0jm2v
+sports.sports_league_draft_pick	02plszc	07ccs	0jmj7	0c620w
+sports.sports_team_season_record	072whw	01y49
+basketball.basketball_player_stats	08rm43	02qv2d	0jmj7
+basketball.basketball_player_stats	095_24	020ntr	0jmm4

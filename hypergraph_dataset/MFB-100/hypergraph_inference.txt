@@ -1,0 +1,4514 @@
+people*profession	m.018n6m	m.0196pc
+people*profession	m.06vqdf	m.01kyvx
+people*profession	m.02mjf2	m.01xr66
+influence*influence_node	m.02y49	m.037jz
+people*profession	m.01hmb_	m.0g7nc
+people*profession	m.098n_m	m.0g7nc
+music*instrument	m.0l14md	m.05cljf	m.0bm02
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0346qt
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.02b1k5
+influence*influence_node	m.016dmx	m.06myp
+influence*influence_node	m.019z7q	m.03jxw
+people*profession	m.01qz69r	m.02t8yb
+people*profession	m.01pk3z	m.02t8yb
+people*profession	m.05jm7	m.028fjr
+influence*influence_node	m.05jm7	m.03j2gxx
+influence*influence_node	m.07h1q	m.07h1q
+people*profession	m.04yywz	m.01xr66
+people*profession	m.01nzz8	m.0g7nc
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.04mp9q
+people*profession	m.062dn7	m.05vyk
+music*instrument	m.0d8lm	m.01pbxb	m.01v8y9
+people*profession	m.02lfns	m.01c72t
+people*profession	m.04gc65	m.0mbx4
+people*profession	m.01gp_x	m.025352
+people*profession	m.0fp_v1x	m.016z4k
+music*instrument	m.0d8lm	m.0gkg6	m.042v_gx
+people*profession	m.022yb4	m.0147fv
+people*profession	m.01vn35l	m.09l65
+music*instrument	m.0fx80y	m.01vrnsk	m.01rhl
+influence*influence_node	m.07lp1	m.03hnd
+people*profession	m.013zs9	m.04f2zj
+people*profession	m.0f4vbz	m.028fjr
+people*profession	m.07rhpg	m.0np9r
+people*profession	m.01gx5f	m.01tkqy
+music*instrument	m.0l14md	m.01vs14j	m.011k_j
+music*instrument	m.0l14md	m.03h_fqv	m.01w4c9
+people*profession	m.0k269	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.01s_d4
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.041xyk
+people*profession	m.058vp	m.0kyk
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.06rv5t
+people*profession	m.02yj7w	m.01xr66
+people*profession	m.01vzx45	m.01c8w0
+people*profession	m.0kb3n	m.02hv44_
+people*profession	m.02lfwp	m.021wpb
+people*profession	m.02wrrm	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.06l7jj
+music*instrument	m.05148p4	m.01vn35l	m.01679d
+people*profession	m.05cgy8	m.02hv44_
+people*profession	m.03j149k	m.0g7nc
+people*profession	m.0l56b	m.09jwl
+people*profession	m.07tvwy	m.01kyvx
+people*profession	m.0cg9y	m.0nbcg
+influence*influence_node	m.0n6kf	m.06myp
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.080_y
+music*instrument	m.0l14md	m.095x_	m.026g73
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.02b1mr
+people*profession	m.083chw	m.01tkqy
+people*profession	m.02tq2r	m.01tkqy
+people*profession	m.01jrp0	m.0mbx4
+people*profession	m.04g4n	m.02t8yb
+people*profession	m.0b_4z	m.02t8yb
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03fn34
+people*profession	m.06j8wx	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0hcm7
+people*profession	m.0j582	m.0np9r
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.04v9wn
+people*profession	m.01b3bp	m.0147fv
+people*profession	m.0m2l9	m.0nbcg
+people*profession	m.0ddkf	m.0d2b38
+people*profession	m.06g2d1	m.01kyvx
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.03mq33
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.056jrs
+people*profession	m.03d6wsd	m.0mbx4
+people*profession	m.03ldxq	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.093g7v
+people*profession	m.04x1_w	m.025352
+people*profession	m.06lvlf	m.01kyvx
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0cq4k_
+people*profession	m.03ktjq	m.01tkqy
+people*profession	m.01mbwlb	m.01tkqy
+people*profession	m.04gcd1	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.09k34g
+people*profession	m.0b9f7t	m.0mbx4
+influence*influence_node	m.02kz_	m.0gs7x
+people*profession	m.027_sn	m.025sd_y
+people*profession	m.01kwlwp	m.0nbcg
+people*profession	m.02n1gr	m.05798
+people*profession	m.063b4k	m.0mbx4
+people*profession	m.01l03w2	m.025sd_y
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.019lvv
+people*profession	m.03m6_z	m.025sd_y
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.03x762
+music*instrument	m.05148p4	m.01w5gg6	m.01679d
+people*profession	m.01v0fn1	m.0gbbt
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.03j755
+influence*influence_node	m.0dzf_	m.0427y
+people*profession	m.01l03w2	m.05vyk
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.05vjt6
+people*profession	m.011lpr	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0b5ysl
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.09nzn6
+people*profession	m.03mg35	m.01xr66
+people*profession	m.0cjsxp	m.09lbv
+people*profession	m.01rw116	m.01xr66
+influence*influence_node	m.014ps4	m.03hnd
+people*profession	m.054k_8	m.0g7nc
+music*instrument	m.0fx80y	m.01wkmgb	m.018vs
+people*profession	m.0232lm	m.09lbv
+people*profession	m.02lk95	m.0mbx4
+music*instrument	m.0d8lm	m.01l87db	m.018vs
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.08132w
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.04999m
+people*profession	m.07663r	m.01tkqy
+influence*influence_node	m.0lcx	m.081k8
+people*profession	m.030vmc	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03tck1
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.04jbyg
+people*profession	m.041ly3	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.06zpgb2
+people*profession	m.01wgfp6	m.0g7nc
+people*profession	m.0187y5	m.0g7nc
+influence*influence_node	m.014ps4	m.0c1fs
+people*profession	m.01gbb4	m.01xr66
+influence*influence_node	m.02ln1	m.081k8
+people*profession	m.02wd48	m.01b30l
+influence*influence_node	m.037jz	m.0bwx3
+people*profession	m.032w8h	m.01xr66
+people*profession	m.015mrk	m.01nxfc
+people*profession	m.03dq9	m.0np9r
+people*profession	m.04s430	m.09lbv
+music*instrument	m.0l14md	m.032t2z	m.02hnl
+people*profession	m.0jt90f5	m.0mbx4
+people*profession	m.0432b	m.0mbx4
+music*instrument	m.0d8lm	m.0fhxv	m.042v_gx
+music*instrument	m.0l14md	m.01vng3b	m.011k_j
+people*profession	m.01n5309	m.02hv44_
+people*profession	m.0126rp	m.01kyvx
+influence*influence_node	m.026fd	m.06lbp
+common*notable_for	m.05798	m.05798
+people*profession	m.01k5t_3	m.021wpb
+people*profession	m.02qnyr7	m.0g7nc
+people*profession	m.06cv1	m.01b30l
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0284h6
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.02q3n9c
+people*profession	m.02clgg	m.0147fv
+people*profession	m.04f7c55	m.0nbcg
+people*profession	m.025xt8y	m.02t8yb
+people*profession	m.0cwtm	m.02t8yb
+people*profession	m.0739y	m.021wpb
+people*profession	m.0gx_p	m.021wpb
+music*instrument	m.0fx80y	m.01gf5h	m.042v_gx
+people*profession	m.028mc6	m.0np9r
+people*profession	m.05_k56	m.064xm0
+people*profession	m.019r_1	m.04j5jl
+people*profession	m.01r4bps	m.01tkqy
+influence*influence_node	m.0d5_f	m.043s3
+people*profession	m.025jj7	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.03x726
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.03lb76
+people*profession	m.044ntk	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.05jx2d
+influence*influence_node	m.0dzf_	m.015cbq
+people*profession	m.01vvyd8	m.0g7nc
+music*instrument	m.0fx80y	m.01yzl2	m.01rhl
+people*profession	m.017b2p	m.06wkj0
+people*profession	m.01pllx	m.0np9r
+people*profession	m.03hfxx	m.01tkqy
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.04pbsq
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0d3fdn
+influence*influence_node	m.07dnx	m.07ym0
+people*profession	m.01wwvt2	m.0fnpj
+influence*influence_node	m.01l7qw	m.081lh
+people*profession	m.01x9_8	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0cj_v7
+people*profession	m.01q_wyj	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.01l3wr
+people*profession	m.01v9724	m.025352
+music*instrument	m.05148p4	m.02y7sr	m.01679d
+people*profession	m.024my5	m.01tkqy
+influence*influence_node	m.058vp	m.0372p
+people*profession	m.07nx9j	m.0g7nc
+people*profession	m.02h48	m.01tkqy
+people*profession	m.04bbv7	m.016z4k
+people*profession	m.09hnb	m.01b30l
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0690ct
+people*profession	m.01cbt3	m.025sd_y
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.034_t5
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.046f25
+people*profession	m.01tzm9	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0gfp09
+people*profession	m.02q6cv4	m.01kyvx
+music*instrument	m.0d8lm	m.018y81	m.01rhl
+people*profession	m.05j12n	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.05jx2d
+influence*influence_node	m.084nh	m.043s3
+people*profession	m.02s6sh	m.0nbcg
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.051hhz
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0dkb83
+influence*influence_node	m.021yw7	m.0cj2w
+people*profession	m.01q_ph	m.0g7nc
+people*profession	m.012c6j	m.01tkqy
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.082237
+people*profession	m.027bs_2	m.021wpb
+people*profession	m.04bs3j	m.01xr66
+influence*influence_node	m.0jt86	m.0zm1
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.06yszk
+influence*influence_node	m.04x56	m.081k8
+influence*influence_node	m.03j43	m.02lt8
+people*profession	m.01s21dg	m.02ynfr
+influence*influence_node	m.0mbw0	m.014z8v
+people*profession	m.01qvtwm	m.01xr66
+people*profession	m.01pfkw	m.04j5jl
+people*profession	m.013vdl	m.0147fv
+people*profession	m.02k6rq	m.01tkqy
+people*profession	m.042ly5	m.0147fv
+people*profession	m.02pzc4	m.0mbx4
+people*profession	m.07s3vqk	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.019m9h
+people*profession	m.01nn6c	m.025sd_y
+influence*influence_node	m.04z0g	m.0j3v
+music*instrument	m.0l14md	m.024dw0	m.02dlh2
+people*profession	m.04w391	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.03fhj1
+people*profession	m.01k_0fp	m.0147fv
+music*instrument	m.0d8lm	m.0kvjrw	m.02sgy
+people*profession	m.082mw	m.02h661t
+people*profession	m.016wvy	m.09lbv
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.03yhgp
+people*profession	m.0cj2w	m.0gbbt
+people*profession	m.0fb7c	m.0np9r
+people*profession	m.05cgy8	m.01xr66
+influence*influence_node	m.0gs7x	m.01ty4
+people*profession	m.018db8	m.05vyk
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0y54
+music*instrument	m.0fx80y	m.016wvy	m.01rhl
+music*instrument	m.0fx80y	m.02nfjp	m.01rhl
+people*profession	m.0kftt	m.01xr66
+music*instrument	m.0fx80y	m.07g2v	m.02sgy
+people*profession	m.01kwlwp	m.025sd_y
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02b1l_
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.035qlx
+people*profession	m.01pw9v	m.01c979
+people*profession	m.036c_0	m.064xm0
+influence*influence_node	m.06c44	m.015n8
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0mmd6
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.02b185
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02b1cn
+music*instrument	m.0fx80y	m.0zjpz	m.042v_gx
+people*profession	m.01npcy7	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.039_ym
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03262k
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0bxjpy
+music*instrument	m.0fx80y	m.02cx90	m.018vs
+people*profession	m.0chw_	m.0fnpj
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.044crp
+people*profession	m.0mm1q	m.04s84y
+people*profession	m.02j490	m.0147fv
+people*profession	m.0ddfph	m.0np9r
+people*profession	m.01ycbq	m.021wpb
+music*instrument	m.0fx80y	m.02y7sr	m.02sgy
+people*profession	m.02qmncd	m.04f2zj
+people*profession	m.01vswwx	m.09lbv
+people*profession	m.0gthm	m.0g7nc
+people*profession	m.0277c3	m.01b30l
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0j13b
+people*profession	m.01s21dg	m.01tkqy
+people*profession	m.03f0324	m.0kyk
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0hqzm6r
+people*profession	m.055t01	m.021wpb
+people*profession	m.01wvxw1	m.01c8w0
+music*instrument	m.0d8lm	m.01mxnvc	m.01rhl
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.09stq9
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.035l_9
+music*instrument	m.0d8lm	m.01y_rz	m.01rhl
+music*instrument	m.0d8lm	m.0130sy	m.042v_gx
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.029q3k
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0329t7
+influence*influence_node	m.040_t	m.03j43
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.07vk9f
+people*profession	m.0cj2w	m.01tkqy
+people*profession	m.01bbwp	m.0d8qb
+people*profession	m.0bz60q	m.0dxtg
+music*instrument	m.0d8lm	m.01vxqyl	m.018vs
+people*profession	m.03cz4j	m.0np9r
+music*instrument	m.0fx80y	m.02g1jh	m.018vs
+people*profession	m.02fgm7	m.0147fv
+people*profession	m.0d_skg	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0284h6
+influence*influence_node	m.0jt90f5	m.014635
+people*profession	m.03jxw	m.025352
+people*profession	m.099d4	m.0mbx4
+music*instrument	m.0l14md	m.0kxbc	m.01p970
+people*profession	m.0gpprt	m.021wpb
+people*profession	m.01f7v_	m.064xm0
+people*profession	m.06y9c2	m.05vyk
+people*profession	m.0309jm	m.0kyk
+people*profession	m.0fqjhm	m.0g7nc
+people*profession	m.0136p1	m.0g7nc
+people*profession	m.05nqq3	m.01tkqy
+people*profession	m.0311wg	m.0nbcg
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.04knkd
+music*instrument	m.0fx80y	m.02f1c	m.018vs
+people*profession	m.0d0l91	m.02n9jv
+influence*influence_node	m.04x56	m.045bg
+people*profession	m.05v45k	m.0g7nc
+people*profession	m.024tj	m.021wpb
+people*profession	m.016tbr	m.021wpb
+people*profession	m.020hh3	m.01tkqy
+people*profession	m.014zfs	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.01dtl
+people*profession	m.0161c2	m.016z4k
+people*profession	m.01vrnsk	m.09l65
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.04knkd
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0gd70t
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0266sb_
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0bk17k
+influence*influence_node	m.0yxl	m.03hpr
+influence*influence_node	m.02ln1	m.03sbs
+people*profession	m.01nd6v	m.01xr66
+people*profession	m.03d2k	m.09lbv
+people*profession	m.02lxj_	m.01nxfc
+people*profession	m.0bg539	m.01kyvx
+influence*influence_node	m.03sbs	m.026lj
+people*profession	m.01vv6_6	m.05vyk
+influence*influence_node	m.01hb6v	m.0w6w
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.011v3
+people*profession	m.05683p	m.0np9r
+influence*influence_node	m.0j0pf	m.0dzkq
+people*profession	m.04n_g	m.021wpb
+people*profession	m.0jsg0m	m.04f2zj
+people*profession	m.01vrx35	m.01tkqy
+people*profession	m.02ghq	m.0dxtg
+influence*influence_node	m.0jt90f5	m.0hky
+people*profession	m.0hwd8	m.0np9r
+influence*influence_node	m.0dzkq	m.028p0
+people*profession	m.081lh	m.039v1
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.019ltg
+people*profession	m.01lvzbl	m.03lgtv
+people*profession	m.0cg9y	m.02t8yb
+people*profession	m.02yy8	m.028fjr
+people*profession	m.01wk7b7	m.01xr66
+people*profession	m.03cs_z7	m.039v1
+people*profession	m.01vswwx	m.0fnpj
+influence*influence_node	m.0lrh	m.03_87
+influence*influence_node	m.016dmx	m.0mj0c
+people*profession	m.02wlk	m.0lgw7
+people*profession	m.03jg5t	m.016z4k
+influence*influence_node	m.0x3r3	m.06jkm
+people*profession	m.01zlh5	m.0g7nc
+people*profession	m.01nkxvx	m.0g7nc
+music*instrument	m.0d8lm	m.09mq4m	m.018vs
+people*profession	m.0bq4j6	m.064xm0
+people*profession	m.01vs4ff	m.0gbbt
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0266shh
+people*profession	m.015882	m.01b30l
+people*profession	m.01qg7c	m.01xr66
+people*profession	m.01f7v_	m.0g7nc
+people*profession	m.01pjr7	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.09xb4h
+music*instrument	m.0d8lm	m.01kh2m1	m.02k856
+people*profession	m.049_zz	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0cgwt8
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0272vm
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.033kqb
+people*profession	m.05gpy	m.05z96
+people*profession	m.01hbq0	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.057pq5
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.04kmx_
+influence*influence_node	m.0q5hw	m.01wp_jm
+people*profession	m.09xrxq	m.0g7nc
+people*profession	m.0241wg	m.01xr66
+people*profession	m.02d6cy	m.064xm0
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.07_w1l
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.057pq5
+people*profession	m.02f93t	m.021wpb
+people*profession	m.018yj6	m.01xr66
+people*profession	m.09n70c	m.0147fv
+influence*influence_node	m.04hcw	m.03_f0
+people*profession	m.0bytkq	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.01xn6jr
+people*profession	m.0341n5	m.0g7nc
+influence*influence_node	m.04l19_	m.01t9qj_
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02b1ng
+influence*influence_node	m.05x8n	m.0bt23
+people*profession	m.01m7pwq	m.01b30l
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.034_cr
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0dy6c9
+people*profession	m.0f2c8g	m.064xm0
+people*profession	m.01xdf5	m.08z956
+people*profession	m.0f87jy	m.016z4k
+people*profession	m.03ft8	m.05z96
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.043y95
+people*profession	m.02l101	m.0g7nc
+people*profession	m.01y_rz	m.01b30l
+people*profession	m.02_l96	m.021wpb
+people*profession	m.02q3bb	m.05vyk
+people*profession	m.0q5hw	m.0np9r
+people*profession	m.02t0n9	m.021wpb
+people*profession	m.01tv3x2	m.01c8w0
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.045346
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.022fhd
+people*profession	m.0d0mbj	m.0dxtg
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01jdxj
+people*profession	m.01wz01	m.0np9r
+people*profession	m.0f0qfz	m.039v1
+people*profession	m.04pqqb	m.03bx017
+influence*influence_node	m.02_j7t	m.0djywgn
+people*profession	m.05pzdk	m.0d8qb
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.068l3t
+influence*influence_node	m.02lhm2	m.02633g
+people*profession	m.01wvxw1	m.039v1
+influence*influence_node	m.0h0yt	m.028p0
+people*profession	m.033071	m.0g7nc
+people*profession	m.0f5zj6	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0ytc
+people*profession	m.01dw4q	m.0g7nc
+music*instrument	m.085jw	m.01y_rz	m.03qmg1
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03fhm5
+people*profession	m.0fy2s1	m.0513yzt
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0g701n
+people*profession	m.03jqw5	m.0mbx4
+people*profession	m.03wh95l	m.01c72t
+people*profession	m.05b2f_k	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.07_q87
+people*profession	m.0f13b	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.042l8n
+people*profession	m.06crng	m.0g7nc
+people*profession	m.01l7qw	m.08z956
+influence*influence_node	m.026fd	m.0lrh
+people*profession	m.01xcqc	m.025352
+influence*influence_node	m.05x8n	m.03j0d
+music*instrument	m.0fx80y	m.02bh9	m.02k856
+people*profession	m.0725ny	m.01kyvx
+people*profession	m.03wh95l	m.021wpb
+people*profession	m.069ld1	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03_lsr
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.09cvbq
+music*instrument	m.0d8lm	m.01wgjj5	m.02sgy
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0kq95
+people*profession	m.011s9r	m.02ynfr
+people*profession	m.0pz91	m.01xr66
+people*profession	m.06cv1	m.0np9r
+people*profession	m.0338g8	m.021wpb
+people*profession	m.01vsy95	m.039v1
+people*profession	m.0dt645q	m.0gbbt
+people*profession	m.05y7hc	m.039v1
+people*profession	m.01bpc9	m.01tkqy
+people*profession	m.0kvrb	m.0np9r
+people*profession	m.0f5zj6	m.0147fv
+influence*influence_node	m.073bb	m.06jkm
+music*instrument	m.0fx80y	m.01lvzbl	m.042v_gx
+people*profession	m.013tjc	m.0mbx4
+people*profession	m.022s1m	m.0mbx4
+people*profession	m.02t_8z	m.02hv44_
+music*instrument	m.0d8lm	m.02p68d	m.02sgy
+people*profession	m.0cl0bk	m.01xr66
+people*profession	m.012dr7	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.042rlf
+music*instrument	m.0d8lm	m.0fhxv	m.02sgy
+people*profession	m.016tbr	m.01tkqy
+people*profession	m.07g2v	m.0147fv
+people*profession	m.06lbp	m.05z96
+people*profession	m.03pm9	m.02hv44_
+people*profession	m.028qyn	m.016z4k
+people*profession	m.02fn5r	m.03lgtv
+influence*influence_node	m.03h_fqv	m.03jxw
+people*profession	m.0bqvs2	m.05vyk
+people*profession	m.057_yx	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03fn8k
+influence*influence_node	m.0lcx	m.03j43
+influence*influence_node	m.04x56	m.0ff3y
+people*profession	m.01qmy04	m.021wpb
+people*profession	m.03lmzl	m.02t8yb
+people*profession	m.01dzz7	m.02hv44_
+people*profession	m.02fx3c	m.021wpb
+people*profession	m.01tcf7	m.01tkqy
+music*instrument	m.0d8lm	m.01lz4tf	m.018vs
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.03z1c5
+people*profession	m.06bzwt	m.0147fv
+people*profession	m.018phr	m.0gbbt
+people*profession	m.06pj8	m.04s84y
+people*profession	m.082mw	m.025352
+people*profession	m.01yg9y	m.021wpb
+people*profession	m.0fpj4lx	m.016z4k
+people*profession	m.0301yj	m.0gbbt
+influence*influence_node	m.084nh	m.06c44
+people*profession	m.02lymt	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.09451k
+people*profession	m.0161h5	m.0np9r
+people*profession	m.082_p	m.0dxtg
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0515zg
+people*profession	m.01htxr	m.0nbcg
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.01634x
+people*profession	m.0bqvs2	m.0d2b38
+people*profession	m.01c5d5	m.05z96
+people*profession	m.0hhqw	m.021wpb
+influence*influence_node	m.040_t	m.02kz_
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.035tjy
+people*profession	m.01pj5q	m.02t8yb
+people*profession	m.0gv5c	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0bxjpy
+influence*influence_node	m.06whf	m.048cl
+people*profession	m.05cgy8	m.0fnpj
+influence*influence_node	m.047cqr	m.06hgj
+people*profession	m.06t8b	m.01tkqy
+people*profession	m.01tvz5j	m.01xr66
+people*profession	m.01qrbf	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03_9hm
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.03j79x
+people*profession	m.01hrqc	m.02t8yb
+people*profession	m.0372kf	m.0147fv
+people*profession	m.059j1m	m.03lgtv
+people*profession	m.015v3r	m.064xm0
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03m10r
+people*profession	m.033jkj	m.01xr66
+people*profession	m.01f2f8	m.025352
+people*profession	m.0h10vt	m.01xr66
+people*profession	m.03f0324	m.02hv44_
+people*profession	m.03gvpk	m.0dxtg
+influence*influence_node	m.0b78hw	m.0d0mbj
+people*profession	m.01mxt_	m.0147fv
+people*profession	m.044zvm	m.0mbx4
+music*instrument	m.0d8lm	m.01whg97	m.02k856
+people*profession	m.02wrhj	m.02t8yb
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0dy68h
+people*profession	m.06dv3	m.064xm0
+people*profession	m.03vrnh	m.064xm0
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0hvgt
+people*profession	m.05qtcv	m.05z96
+people*profession	m.06pj8	m.01tkqy
+music*instrument	m.0d8lm	m.016h4r	m.01v8y9
+influence*influence_node	m.04jvt	m.039n1
+people*profession	m.04ls53	m.0nbcg
+music*instrument	m.0fx80y	m.0ggjt	m.042v_gx
+influence*influence_node	m.014ps4	m.05gpy
+people*profession	m.01wttr1	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0329gm
+common*notable_for	m.02t8yb	m.02t8yb
+influence*influence_node	m.0821j	m.05qzv
+influence*influence_node	m.027y_	m.084w8
+people*profession	m.04s04	m.01c72t
+people*profession	m.02j3d4	m.01b30l
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0lmm3
+people*profession	m.06cv1	m.021wpb
+people*profession	m.01l87db	m.021wpb
+people*profession	m.01q8fxx	m.02t8yb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.01cwq9
+people*profession	m.06m6z6	m.0g7nc
+people*profession	m.01vrx35	m.025sd_y
+people*profession	m.0285c	m.05vyk
+people*profession	m.03zz8b	m.016z4k
+people*profession	m.01nczg	m.01kyvx
+people*profession	m.047c9l	m.021wpb
+people*profession	m.014g_s	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.07_w1l
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01z1r
+influence*influence_node	m.045bg	m.07g2b
+people*profession	m.06k02	m.028fjr
+people*profession	m.0bz5v2	m.01tkqy
+people*profession	m.04bgy	m.0mbx4
+people*profession	m.04snp2	m.02hv44_
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.034_cr
+people*profession	m.02ktrs	m.02t8yb
+music*instrument	m.05148p4	m.0lzkm	m.01679d
+people*profession	m.01wl38s	m.05vyk
+people*profession	m.0bvls5	m.02hv44_
+music*instrument	m.0d8lm	m.018y81	m.042v_gx
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.08r98b
+people*profession	m.041ly3	m.021wpb
+people*profession	m.0pmw9	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.04h5_c
+people*profession	m.017m2y	m.0g7nc
+people*profession	m.0f3zsq	m.021wpb
+people*profession	m.015rkw	m.0np9r
+people*profession	m.0dn44	m.0147fv
+people*profession	m.0knjh	m.0d2b38
+people*profession	m.06w2yp9	m.0np9r
+people*profession	m.012_53	m.02hv44_
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.04h5_c
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0b5ysl
+influence*influence_node	m.017r2	m.048cl
+music*instrument	m.0d8lm	m.016qtt	m.02k856
+influence*influence_node	m.06hgj	m.015n8
+people*profession	m.03dpqd	m.01xr66
+people*profession	m.08gyz_	m.0mbx4
+people*profession	m.0162c8	m.0g7nc
+music*instrument	m.0fx80y	m.082brv	m.018vs
+influence*influence_node	m.05ty4m	m.03s9b
+people*profession	m.0p5mw	m.01c8w0
+people*profession	m.01f6zc	m.04f2zj
+music*instrument	m.0fx80y	m.01k_n63	m.01v8y9
+people*profession	m.02wlk	m.0kyk
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.05nwfr
+people*profession	m.01gbbz	m.01xr66
+people*profession	m.01wgfp6	m.039v1
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03_qj1
+influence*influence_node	m.02kz_	m.0113sg
+people*profession	m.01_rh4	m.0147fv
+people*profession	m.08n9ng	m.03lgtv
+people*profession	m.08b8vd	m.01tkqy
+people*profession	m.03n52j	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.07c2yr
+people*profession	m.06gb2q	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.04kmx_
+people*profession	m.05h7tk	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.03l7tr
+people*profession	m.0137hn	m.05vyk
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03_3z4
+influence*influence_node	m.0gthm	m.06lbp
+people*profession	m.01csvq	m.025352
+people*profession	m.018fq	m.028fjr
+people*profession	m.033tln	m.021wpb
+people*profession	m.0k525	m.039v1
+influence*influence_node	m.04z0g	m.047g6
+music*instrument	m.0d8lm	m.01vtg4q	m.02k856
+people*profession	m.027jq2	m.09lbv
+people*profession	m.0517bc	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01kc4s
+influence*influence_node	m.01l7qw	m.014z8v
+influence*influence_node	m.01ty4	m.03sbs
+people*profession	m.01ycbq	m.01kyvx
+influence*influence_node	m.0x3r3	m.043s3
+people*profession	m.02fn5r	m.039v1
+influence*influence_node	m.013pp3	m.0d0mbj
+people*profession	m.02cpb7	m.01xr66
+people*profession	m.01r7t9	m.0np9r
+influence*influence_node	m.0zm1	m.0gz_
+people*profession	m.070c93	m.01xr66
+people*profession	m.09zmys	m.0147fv
+music*instrument	m.0d8lm	m.0133x7	m.02k856
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.05f33tk
+people*profession	m.0kvsb	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.04gkp3
+people*profession	m.04f7c55	m.039v1
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.07c2wt
+music*instrument	m.0l14md	m.018y81	m.01w4c9
+people*profession	m.04nw9	m.02t8yb
+people*profession	m.0sw62	m.021wpb
+people*profession	m.01mmslz	m.01xr66
+people*profession	m.0fsm8c	m.039v1
+influence*influence_node	m.02yl42	m.042q3
+music*instrument	m.0fx80y	m.01w7nww	m.02sgy
+people*profession	m.01309x	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.04bjff
+influence*influence_node	m.043tg	m.042q3
+people*profession	m.01m65sp	m.01xr66
+people*profession	m.0739y	m.09l65
+people*profession	m.01pjr7	m.025352
+people*profession	m.026fd	m.0147fv
+music*instrument	m.0fx80y	m.037hgm	m.01rhl
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0515zg
+people*profession	m.011zd3	m.06wkj0
+people*profession	m.01vh18t	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.02b1b5
+people*profession	m.03c602	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.075q_
+people*profession	m.01k_n63	m.01tkqy
+influence*influence_node	m.0q5hw	m.04sd0
+people*profession	m.0c33pl	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0425hg
+people*profession	m.01jbx1	m.0g7nc
+people*profession	m.032wdd	m.0mbx4
+people*profession	m.02t_99	m.0np9r
+people*profession	m.05zbm4	m.021wpb
+people*profession	m.01vb403	m.0kyk
+people*profession	m.020jqv	m.04f2zj
+people*profession	m.06q5t7	m.0gbbt
+music*instrument	m.0fx80y	m.01tp5bj	m.042v_gx
+influence*influence_node	m.03f0324	m.07kb5
+people*profession	m.06fc0b	m.025sd_y
+influence*influence_node	m.0hcvy	m.03hnd
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0d0bsj
+people*profession	m.04353	m.01tkqy
+people*profession	m.0k2mxq	m.0g7nc
+influence*influence_node	m.04xm_	m.084nh
+people*profession	m.03hzl42	m.09l65
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0420td
+people*profession	m.01l9v7n	m.029bkp
+music*instrument	m.0fx80y	m.04mx7s	m.042v_gx
+influence*influence_node	m.0821j	m.045bg
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.06zpgb2
+music*instrument	m.0d8lm	m.07_3qd	m.01v8y9
+influence*influence_node	m.02ghq	m.03j0d
+people*profession	m.01sbf2	m.05vyk
+influence*influence_node	m.0c1fs	m.03jxw
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0hvjr
+people*profession	m.05hj0n	m.01tkqy
+influence*influence_node	m.02kz_	m.081k8
+people*profession	m.02pzc4	m.01tkqy
+people*profession	m.016qtt	m.01xr66
+people*profession	m.0hwqz	m.0dxtg
+people*profession	m.01vzx45	m.01xr66
+influence*influence_node	m.04z0g	m.04hcw
+people*profession	m.04yj5z	m.0g7nc
+people*profession	m.0py5b	m.01tkqy
+people*profession	m.0f0kz	m.0g7nc
+people*profession	m.01t265	m.0mbx4
+people*profession	m.034zc0	m.01xr66
+people*profession	m.02cgb8	m.01b30l
+people*profession	m.034np8	m.04gf49c
+people*profession	m.0309jm	m.0d8qb
+people*profession	m.01mxnvc	m.0gbbt
+people*profession	m.01w9ph_	m.0147fv
+people*profession	m.030znt	m.0np9r
+influence*influence_node	m.048cl	m.081k8
+people*profession	m.032qgs	m.01kyvx
+influence*influence_node	m.04cbtrw	m.0mj0c
+people*profession	m.02lm0t	m.01xr66
+influence*influence_node	m.0399p	m.06lbp
+people*profession	m.02v60l	m.0147fv
+music*instrument	m.0l14md	m.04bgy	m.01w4c9
+people*profession	m.0djc3s	m.025sd_y
+people*profession	m.01vzx45	m.0147fv
+music*instrument	m.0d8lm	m.01whg97	m.042v_gx
+people*profession	m.01vv6xv	m.025sd_y
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.056zdj
+music*instrument	m.0fx80y	m.09r8l	m.01rhl
+music*instrument	m.0d8lm	m.02bgmr	m.018vs
+people*profession	m.02yy8	m.0mch7
+influence*influence_node	m.0683n	m.084w8
+people*profession	m.021yw7	m.04j5jl
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.01wx_y
+people*profession	m.016jll	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.07c404
+influence*influence_node	m.018zvb	m.01vh096
+influence*influence_node	m.0lrh	m.045bg
+people*profession	m.0g10g	m.0np9r
+music*instrument	m.0fx80y	m.08wq0g	m.018vs
+people*profession	m.0b4rf3	m.021wpb
+people*profession	m.02t__3	m.02n9jv
+people*profession	m.0bg539	m.0nbcg
+people*profession	m.03cfjg	m.04f2zj
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.04h4zx
+influence*influence_node	m.01x53m	m.015k7
+influence*influence_node	m.03s9b	m.03sbs
+people*profession	m.05gc0h	m.021wpb
+influence*influence_node	m.019z7q	m.0113sg
+people*profession	m.01ynzf	m.0d8qb
+people*profession	m.045zr	m.09lbv
+influence*influence_node	m.0gthm	m.03jxw
+people*profession	m.01yb09	m.01kyvx
+people*profession	m.02bwjv	m.0147fv
+influence*influence_node	m.01rgr	m.01v9724
+influence*influence_node	m.047g6	m.09gnn
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03jb2n
+people*profession	m.0ffgh	m.0fnpj
+music*instrument	m.0fx80y	m.02y7sr	m.01v8y9
+people*profession	m.015njf	m.0d8qb
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0786vq
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.02p8q1
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0hqzm6r
+people*profession	m.01rzqj	m.0g7nc
+people*profession	m.0739y	m.016z4k
+people*profession	m.07s3vqk	m.039v1
+people*profession	m.05bnp0	m.0np9r
+people*profession	m.0432b	m.01tkqy
+people*profession	m.01wyz92	m.0g7nc
+people*profession	m.0484q	m.09lbv
+music*instrument	m.0fx80y	m.01vswwx	m.02sgy
+influence*influence_node	m.06hgj	m.03pm9
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02b1mc
+people*profession	m.0783m_	m.016z4k
+people*profession	m.06pk8	m.021wpb
+people*profession	m.0309jm	m.028fjr
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04_cdd
+people*profession	m.0gy6z9	m.09lbv
+people*profession	m.02pt27	m.0gbbt
+people*profession	m.01kgg9	m.0np9r
+influence*influence_node	m.01mxt_	m.0j6cj
+people*profession	m.06gn7r	m.02hv44_
+influence*influence_node	m.01hb6v	m.03f70xs
+people*profession	m.03n52j	m.03bx017
+people*profession	m.0261x8t	m.0np9r
+people*profession	m.0h3mrc	m.01tkqy
+people*profession	m.016cff	m.04gf49c
+people*profession	m.01gf5h	m.02t8yb
+people*profession	m.017l4	m.01xr66
+people*profession	m.01tszq	m.0147fv
+people*profession	m.014488	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.044l47
+influence*influence_node	m.0n6kf	m.081k8
+people*profession	m.01kd57	m.01c8w0
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.06lkg8
+people*profession	m.0ccqd7	m.01kyvx
+people*profession	m.022q4j	m.016z4k
+people*profession	m.03ryks	m.09lbv
+influence*influence_node	m.049gc	m.08304
+people*profession	m.016ks_	m.0147fv
+influence*influence_node	m.01xdf5	m.049gc
+music*instrument	m.0fx80y	m.01jgkj2	m.01v8y9
+music*instrument	m.0fx80y	m.0jfx1	m.018vs
+people*profession	m.07csf4	m.0mbx4
+people*profession	m.06nsb9	m.0np9r
+people*profession	m.019pm_	m.0g7nc
+people*profession	m.0gs1_	m.021wpb
+people*profession	m.0277c3	m.01c72t
+influence*influence_node	m.01dzz7	m.02mpb
+people*profession	m.01qklj	m.0np9r
+people*profession	m.04qsdh	m.0147fv
+people*profession	m.06w6_	m.01kyvx
+people*profession	m.0k8y7	m.01xr66
+people*profession	m.0yxl	m.01c72t
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01rlzn
+people*profession	m.0c35b1	m.0mbx4
+people*profession	m.01ydzx	m.0gbbt
+people*profession	m.01n8_g	m.0np9r
+music*instrument	m.0l14md	m.02mx98	m.06rvn
+people*profession	m.01h4rj	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.03d8m4
+people*profession	m.0443y3	m.01tkqy
+people*profession	m.027n4zv	m.021wpb
+people*profession	m.04bbv7	m.09l65
+influence*influence_node	m.014ps4	m.03_dj
+people*profession	m.01w8n89	m.016z4k
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01kkfp
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.01h0b0
+music*instrument	m.0fx80y	m.01vsyg9	m.018vs
+people*profession	m.023322	m.0gbbt
+people*profession	m.048svj	m.05z96
+people*profession	m.05th8t	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.049912
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.02qfyk
+people*profession	m.04_jsg	m.04gf49c
+influence*influence_node	m.06hgj	m.07ym0
+music*instrument	m.0fx80y	m.0knjh	m.02k856
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.01zhs3
+influence*influence_node	m.016dmx	m.06jkm
+people*profession	m.04yywz	m.0mbx4
+people*profession	m.02cx90	m.04f2zj
+people*profession	m.01my929	m.04f2zj
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.037css
+people*profession	m.03_gd	m.0np9r
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.07sqbl
+people*profession	m.0btpx	m.0np9r
+music*instrument	m.0fx80y	m.0bkg4	m.018vs
+music*instrument	m.0fx80y	m.01t110	m.02sgy
+people*profession	m.014zfs	m.01tkqy
+people*profession	m.0gp8sg	m.01xr66
+people*profession	m.02bj6k	m.021wpb
+people*profession	m.0csdzz	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0ytc
+people*profession	m.018n6m	m.02ynfr
+people*profession	m.0161h5	m.021wpb
+influence*influence_node	m.040_t	m.06lbp
+people*profession	m.02184q	m.064xm0
+people*profession	m.09p0q	m.0np9r
+people*profession	m.043gj	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.051qvn
+people*profession	m.09p0q	m.0mbx4
+people*profession	m.02t_vx	m.01tkqy
+people*profession	m.08hhm6	m.0np9r
+people*profession	m.031x_3	m.09l65
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.05nsfc
+influence*influence_node	m.099bk	m.026lj
+people*profession	m.0161c2	m.0nbcg
+people*profession	m.01qscs	m.01tkqy
+people*profession	m.081_zm	m.0kyk
+people*profession	m.01f2f8	m.02hv44_
+people*profession	m.01qqtr	m.0np9r
+people*profession	m.02clgg	m.0mbx4
+people*profession	m.016yzz	m.025352
+influence*influence_node	m.081lh	m.0d5_f
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0f1k__
+influence*influence_node	m.0d4jl	m.0l99s
+influence*influence_node	m.042xh	m.081k8
+people*profession	m.016fnb	m.09lbv
+people*profession	m.017lqp	m.01tkqy
+influence*influence_node	m.01n4f8	m.02_p8v
+people*profession	m.02jq1	m.04f2zj
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0gfnqh
+music*instrument	m.0d8lm	m.01wvxw1	m.01rhl
+influence*influence_node	m.04cbtrw	m.0gthm
+people*profession	m.03qd_	m.0mbx4
+people*profession	m.015pxr	m.064xm0
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0kwv2
+influence*influence_node	m.01t07j	m.0f6lx
+people*profession	m.01nx_8	m.01tkqy
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.04lhft
+music*instrument	m.05148p4	m.015196	m.01679d
+people*profession	m.020_95	m.016z4k
+people*profession	m.0180w8	m.0fnpj
+influence*influence_node	m.019z7q	m.0bk5r
+influence*influence_node	m.03f47xl	m.028p0
+music*instrument	m.0fx80y	m.01qgry	m.042v_gx
+people*profession	m.025_ql1	m.01c8w0
+people*profession	m.01l1b90	m.021wpb
+people*profession	m.0b7t3p	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.02b10w
+people*profession	m.0p__8	m.02t8yb
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.01kckd
+people*profession	m.0bz60q	m.025sd_y
+music*instrument	m.0d8lm	m.01vsyjy	m.01rhl
+people*profession	m.0154qm	m.0np9r
+people*profession	m.01mvth	m.03lgtv
+people*profession	m.04s430	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0182r9
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0cnk2q
+music*instrument	m.0fx80y	m.0411q	m.018vs
+people*profession	m.012c6j	m.0147fv
+music*instrument	m.0l14md	m.01q_wyj	m.02dlh2
+people*profession	m.01ps2h8	m.09lbv
+people*profession	m.04xn2m	m.02hv44_
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.06xbsn
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0175tv
+influence*influence_node	m.07lp1	m.058vp
+people*profession	m.024tj	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0182r9
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.03fhjz
+influence*influence_node	m.05jm7	m.0gz_
+music*instrument	m.0fx80y	m.01wj18h	m.02k856
+people*profession	m.020hh3	m.02t8yb
+influence*influence_node	m.05jm7	m.03f70xs
+music*instrument	m.0d8lm	m.02bgmr	m.02sgy
+people*profession	m.015qt5	m.01kyvx
+people*profession	m.02bfmn	m.01kyvx
+people*profession	m.023n39	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.042l8n
+music*instrument	m.0d8lm	m.01wkmgb	m.042v_gx
+people*profession	m.05m63c	m.0g7nc
+people*profession	m.04qr6d	m.02t8yb
+people*profession	m.01qvgl	m.0gbbt
+people*profession	m.01vv126	m.01b30l
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0425hg
+music*instrument	m.0fx80y	m.01vvlyt	m.02sgy
+people*profession	m.01sl1q	m.0mbx4
+people*profession	m.01438g	m.09l65
+people*profession	m.04d_mtq	m.02t8yb
+people*profession	m.0m2wm	m.02n9jv
+people*profession	m.03j90	m.0dxtg
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.09rntd
+influence*influence_node	m.014ps4	m.081k8
+people*profession	m.030vnj	m.0147fv
+people*profession	m.01bbwp	m.0fnpj
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.03jb2n
+people*profession	m.02ch1w	m.0np9r
+music*instrument	m.0d8lm	m.01vv126	m.01v8y9
+influence*influence_node	m.015pxr	m.014zfs
+people*profession	m.03j3pg9	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.044lbv
+people*profession	m.0m0hw	m.02hv44_
+people*profession	m.02g3mn	m.01tkqy
+people*profession	m.0lpjn	m.039v1
+people*profession	m.03jqw5	m.039v1
+people*profession	m.01r9c_	m.01kyvx
+people*profession	m.029ql	m.016z4k
+people*profession	m.0c1j_	m.028fjr
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03j6_5
+people*profession	m.01vvlyt	m.02t8yb
+influence*influence_node	m.041_y	m.01vh096
+influence*influence_node	m.047g6	m.015k7
+people*profession	m.0170qf	m.0g7nc
+influence*influence_node	m.0mb0	m.045bg
+people*profession	m.01wd9lv	m.029bkp
+influence*influence_node	m.03772	m.014635
+people*profession	m.01fh0q	m.09l65
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.042l8n
+people*profession	m.01l1ls	m.021wpb
+music*instrument	m.0fx80y	m.05sq20	m.018vs
+people*profession	m.09g0h	m.0147fv
+influence*influence_node	m.05cv8	m.03f47xl
+people*profession	m.01pfkw	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.090q32
+people*profession	m.02v2jy	m.05vyk
+people*profession	m.0svqs	m.064xm0
+people*profession	m.04ls53	m.0fnpj
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.03fhj1
+people*profession	m.01b9z4	m.01kyvx
+people*profession	m.01vsps	m.0g7nc
+people*profession	m.01vrz41	m.0nbcg
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.01k2yr
+people*profession	m.04xbr4	m.0np9r
+people*profession	m.07s3vqk	m.01nxfc
+people*profession	m.0bz5v2	m.021wpb
+music*instrument	m.0d8lm	m.01vwbts	m.02k856
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.04vn_k
+influence*influence_node	m.09gnn	m.043s3
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.02b1l7
+people*profession	m.01q7cb_	m.02n9jv
+influence*influence_node	m.04z0g	m.043s3
+influence*influence_node	m.0lcx	m.03_f0
+influence*influence_node	m.0jt86	m.07kb5
+people*profession	m.02zyy4	m.0g7nc
+people*profession	m.0pk41	m.039v1
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.01xbpn
+people*profession	m.0k525	m.0147fv
+people*profession	m.0274ck	m.0fnpj
+music*instrument	m.0l14md	m.01wmjkb	m.02hnl
+people*profession	m.090gk3	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0230rx
+people*profession	m.030s5g	m.021wpb
+influence*influence_node	m.056wb	m.0c1fs
+people*profession	m.01wg25j	m.02t8yb
+music*instrument	m.0d8lm	m.0j6cj	m.042v_gx
+influence*influence_node	m.07lp1	m.0c1jh
+people*profession	m.054_mz	m.01tkqy
+people*profession	m.0234pg	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0230rx
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.03x746
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03ylxn
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.01kc4s
+people*profession	m.05gp3x	m.0np9r
+people*profession	m.058vp	m.0dxtg
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03zm00
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0906w9
+music*instrument	m.0fx80y	m.027hm_	m.02k856
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03l7tr
+people*profession	m.01sp81	m.01tkqy
+people*profession	m.06_bq1	m.021wpb
+influence*influence_node	m.048cl	m.0w6w
+people*profession	m.01p45_v	m.02t8yb
+people*profession	m.0k_mt	m.0g7nc
+people*profession	m.060_7	m.09jwl
+people*profession	m.049qx	m.0gbbt
+people*profession	m.0m77m	m.025352
+influence*influence_node	m.01h1b	m.01gn36
+people*profession	m.052hl	m.064xm0
+people*profession	m.03chx58	m.0mbx4
+music*instrument	m.0d8lm	m.01k3qj	m.01rhl
+people*profession	m.04rg6	m.064xm0
+people*profession	m.0473q	m.01c8w0
+people*profession	m.0g824	m.025sd_y
+people*profession	m.01l1ls	m.0513yzt
+people*profession	m.01kh2m1	m.0g7nc
+music*instrument	m.0d8lm	m.01wkmgb	m.02sgy
+people*profession	m.08624h	m.04gf49c
+people*profession	m.06hmd	m.0dxtg
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.06xbsn
+people*profession	m.02rsz0	m.05z96
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.04nrcg
+people*profession	m.05qtcv	m.0g7nc
+influence*influence_node	m.043tg	m.03pm9
+people*profession	m.08qxx9	m.02n9jv
+people*profession	m.0739y	m.04f2zj
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.03tc8d
+people*profession	m.02s_qz	m.0mbx4
+people*profession	m.04cl1	m.0g7nc
+people*profession	m.0309jm	m.01tkqy
+influence*influence_node	m.02yl42	m.05qzv
+people*profession	m.01bcq	m.0147fv
+influence*influence_node	m.0yxl	m.040db
+people*profession	m.05cljf	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0b5ysl
+influence*influence_node	m.03hpr	m.06jkm
+influence*influence_node	m.040rjq	m.040_9
+people*profession	m.0bdlj	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.070tng
+people*profession	m.03hfxx	m.0mbx4
+people*profession	m.0f3zsq	m.0np9r
+people*profession	m.03j9ml	m.0g7nc
+people*profession	m.044prt	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.06l22
+people*profession	m.01vv126	m.09lbv
+people*profession	m.057_yx	m.0g7nc
+people*profession	m.01n7qlf	m.0np9r
+influence*influence_node	m.06whf	m.04093
+people*profession	m.027_sn	m.0d2b38
+music*instrument	m.0d8lm	m.01vv6xv	m.018vs
+influence*influence_node	m.06myp	m.043s3
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02b0zt
+music*instrument	m.0fx80y	m.01wj92r	m.01rhl
+people*profession	m.02bgmr	m.02t8yb
+people*profession	m.03fwln	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.05511w
+people*profession	m.01b9z4	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.03y_f8
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.02279c
+music*instrument	m.0fx80y	m.0m_31	m.01rhl
+people*profession	m.03_1pg	m.05vyk
+people*profession	m.01vh08	m.02t8yb
+people*profession	m.0h0yt	m.021wpb
+people*profession	m.01vs73g	m.09l65
+people*profession	m.0c2dl	m.0kyk
+music*instrument	m.0d8lm	m.01w8n89	m.018vs
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.06ylv0
+people*profession	m.064jjy	m.01tkqy
+influence*influence_node	m.034bs	m.026lj
+people*profession	m.015rkw	m.01xr66
+people*profession	m.014q2g	m.021wpb
+people*profession	m.06hgym	m.016z4k
+people*profession	m.0gdqy	m.021wpb
+people*profession	m.01gbb4	m.0g7nc
+people*profession	m.03hpr	m.0d8qb
+music*instrument	m.05148p4	m.04f7c55	m.01679d
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.035s37
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.04hzfz
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.033g54
+people*profession	m.06hhrs	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.05d8_h
+music*instrument	m.0fx80y	m.01rmnp	m.02sgy
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.03mg5f
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.04kngf
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0dsfnd
+people*profession	m.025h4z	m.0mbx4
+people*profession	m.02k21g	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04991x
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.049n2l
+music*instrument	m.0fx80y	m.0473q	m.042v_gx
+people*profession	m.01_6dw	m.0dxtg
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03lygq
+influence*influence_node	m.02yl42	m.0113sg
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.02wwr5n
+influence*influence_node	m.01w9ph_	m.0379s
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.011v3
+music*instrument	m.0d8lm	m.01vtg4q	m.01v8y9
+people*profession	m.0m9c1	m.0g7nc
+influence*influence_node	m.0mj0c	m.0tfc
+influence*influence_node	m.040_t	m.043s3
+influence*influence_node	m.01ty4	m.03_f0
+people*profession	m.055t01	m.01kyvx
+people*profession	m.04x1_w	m.0mbx4
+people*profession	m.021npv	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0dsfnd
+people*profession	m.02624g	m.01xr66
+people*profession	m.0130sy	m.039v1
+influence*influence_node	m.016hvl	m.0gz_
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.08lfyn
+people*profession	m.01_x6d	m.0147fv
+music*instrument	m.0d8lm	m.02ck1	m.02hrlh
+influence*influence_node	m.02465	m.02lt8
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.05hc96
+people*profession	m.07hbxm	m.0mbx4
+people*profession	m.05jm7	m.0np9r
+people*profession	m.04954	m.0np9r
+people*profession	m.02whj	m.03bx017
+people*profession	m.0klw	m.01xr66
+people*profession	m.01w23w	m.0gbbt
+people*profession	m.01x1fq	m.021wpb
+people*profession	m.0f0qfz	m.025sd_y
+people*profession	m.0309jm	m.025352
+people*profession	m.012c6x	m.0g7nc
+people*profession	m.016yzz	m.0fnpj
+people*profession	m.05qw5	m.0g7nc
+people*profession	m.0227vl	m.016z4k
+influence*influence_node	m.049gc	m.03pm9
+people*profession	m.046chh	m.01kyvx
+people*profession	m.01gw8b	m.0mbx4
+influence*influence_node	m.016yzz	m.084nh
+people*profession	m.02sh8y	m.0mbx4
+people*profession	m.0knjh	m.0lgw7
+people*profession	m.019fz	m.01b30l
+people*profession	m.015p37	m.0g7nc
+influence*influence_node	m.0379s	m.042q3
+people*profession	m.02p5hf	m.016z4k
+influence*influence_node	m.07lp1	m.041_y
+people*profession	m.03c7ln	m.0gbbt
+people*profession	m.02fybl	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.049bmk
+people*profession	m.02qhm3	m.028fjr
+people*profession	m.025jj7	m.0g7nc
+music*instrument	m.0d8lm	m.01y_rz	m.042v_gx
+people*profession	m.01bpc9	m.01b30l
+people*profession	m.0814k3	m.0147fv
+people*profession	m.01qdjm	m.09l65
+people*profession	m.0ggjt	m.05vyk
+people*profession	m.0dt645q	m.09l65
+people*profession	m.0knjh	m.0g7nc
+people*profession	m.0f0y8	m.05vyk
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.05nmg_
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.025czw
+music*instrument	m.0d8lm	m.0fq117k	m.01rhl
+people*profession	m.09qr6	m.016z4k
+people*profession	m.0b_7k	m.0mbx4
+influence*influence_node	m.0h0yt	m.03_hd
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.019lxm
+people*profession	m.01ynzf	m.028fjr
+people*profession	m.019r_1	m.0np9r
+people*profession	m.0d_skg	m.021wpb
+music*instrument	m.0d8lm	m.01k3qj	m.02sgy
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.01cwm1
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02b190
+people*profession	m.03h_9lg	m.021wpb
+influence*influence_node	m.048cl	m.03sbs
+people*profession	m.01whg97	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01352_
+people*profession	m.01vsyjy	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.01_jky
+people*profession	m.06pjs	m.0g7nc
+people*profession	m.02k76g	m.02hv44_
+people*profession	m.044f7	m.021wpb
+people*profession	m.01p9hgt	m.04f2zj
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.019ltg
+people*profession	m.01l4zqz	m.01c8w0
+people*profession	m.024t0y	m.0147fv
+people*profession	m.01tpl1p	m.0gbbt
+people*profession	m.01vv126	m.01c72t
+people*profession	m.0121rx	m.0g7nc
+people*profession	m.03xpfzg	m.0d8qb
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.037ts6
+people*profession	m.025ldg	m.0147fv
+people*profession	m.02633g	m.016z4k
+music*instrument	m.0d8lm	m.06gd4	m.01rhl
+people*profession	m.04smkr	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02s6tk
+music*instrument	m.0d8lm	m.01vrx35	m.02k856
+people*profession	m.01swck	m.0np9r
+people*profession	m.01l_vgt	m.0147fv
+common*notable_for	m.0bmnm	m.0bmnm
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04pbsq
+people*profession	m.021bk	m.01c72t
+people*profession	m.03j3pg9	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.019ltg
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.02b1lm
+music*instrument	m.0d8lm	m.02pt27	m.018vs
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0ljbg
+people*profession	m.06pcz0	m.0mbx4
+influence*influence_node	m.01hc9_	m.0113sg
+people*profession	m.0pyg6	m.01kyvx
+music*instrument	m.0d8lm	m.02cx90	m.01v8y9
+people*profession	m.042gr4	m.02t8yb
+people*profession	m.03pmty	m.021wpb
+people*profession	m.027y_	m.01c979
+people*profession	m.04s04	m.09l65
+people*profession	m.024y6w	m.0mbx4
+people*profession	m.02qtywd	m.021wpb
+people*profession	m.0m68w	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.075q_
+music*instrument	m.0d8lm	m.04mx7s	m.01rhl
+people*profession	m.02g3w	m.025352
+influence*influence_node	m.02ghq	m.01ty4
+people*profession	m.087qxp	m.0kyk
+people*profession	m.0prjs	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.01gjlw
+people*profession	m.01lz4tf	m.09l65
+people*profession	m.01w724	m.03lgtv
+music*instrument	m.05148p4	m.07g2v	m.01679d
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02b18l
+people*profession	m.054_mz	m.02hv44_
+people*profession	m.01d0fp	m.01xr66
+people*profession	m.015qyf	m.021wpb
+people*profession	m.01nms7	m.0fnpj
+influence*influence_node	m.0399p	m.03_dj
+music*instrument	m.0fx80y	m.04n65n	m.01rhl
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0b256b
+music*instrument	m.0l14md	m.01pr_j6	m.01w4dy
+people*profession	m.02v0ff	m.04j5jl
+influence*influence_node	m.048cl	m.0h336
+people*profession	m.01x4sb	m.01b30l
+music*instrument	m.0d8lm	m.01t8399	m.042v_gx
+people*profession	m.031zkw	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.07vk9f
+people*profession	m.018pj3	m.039v1
+people*profession	m.053yx	m.03lgtv
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.068l3t
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.04kn29
+people*profession	m.04cr6qv	m.0nbcg
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0bl8l
+people*profession	m.0443y3	m.0np9r
+people*profession	m.01vb403	m.0dxtg
+people*profession	m.015z4j	m.03bx017
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.09c04n
+influence*influence_node	m.049fgvm	m.014zfs
+people*profession	m.06cgy	m.021wpb
+music*instrument	m.0d8lm	m.02b25y	m.01v8y9
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.04mp8x
+people*profession	m.011xjd	m.0np9r
+people*profession	m.0chw_	m.09lbv
+people*profession	m.07f7jp	m.01c72t
+people*profession	m.08wq0g	m.01xr66
+people*profession	m.03flwk	m.064xm0
+people*profession	m.01pcmd	m.0513yzt
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0ytc
+people*profession	m.04hw4b	m.0dxtg
+people*profession	m.01vhb0	m.01tkqy
+people*profession	m.02qfhb	m.01c72t
+people*profession	m.01k9lpl	m.01tkqy
+people*profession	m.0285c	m.09lbv
+people*profession	m.0gz_	m.0dxtg
+people*profession	m.0klw	m.0kyk
+people*profession	m.06jkm	m.05z96
+music*instrument	m.0d8lm	m.0161c2	m.01v8y9
+people*profession	m.0fvt2	m.028fjr
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.04kn29
+people*profession	m.021lby	m.0147fv
+people*profession	m.01dpsv	m.025sd_y
+people*profession	m.03lgg	m.0dxtg
+people*profession	m.0hqly	m.0147fv
+people*profession	m.014g9y	m.016z4k
+people*profession	m.02tk74	m.0g7nc
+people*profession	m.018qpb	m.0mbx4
+people*profession	m.01npcy7	m.0g7nc
+people*profession	m.01t9qj_	m.01tkqy
+people*profession	m.02k6rq	m.016z4k
+people*profession	m.01pcbg	m.0mbx4
+people*profession	m.01h4rj	m.021wpb
+influence*influence_node	m.0399p	m.06myp
+people*profession	m.018y2s	m.0np9r
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.034_t5
+people*profession	m.04y0yc	m.01xr66
+influence*influence_node	m.01hc9_	m.07dnx
+people*profession	m.09zmys	m.0np9r
+people*profession	m.043q6n_	m.01xr66
+influence*influence_node	m.0bk5r	m.06c44
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.029n80
+people*profession	m.045bs6	m.0g7nc
+people*profession	m.0gkg6	m.0fnpj
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0199gx
+influence*influence_node	m.02xfj0	m.01gn36
+influence*influence_node	m.014z8v	m.0739y
+people*profession	m.01fkv0	m.01xr66
+influence*influence_node	m.01w9ph_	m.07dnx
+people*profession	m.0fg_hg	m.0g7nc
+people*profession	m.03h502k	m.0gbbt
+music*instrument	m.0d8lm	m.01rwcgb	m.042v_gx
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.09cvbq
+people*profession	m.01wg3q	m.09l65
+music*instrument	m.0d8lm	m.0g824	m.01rhl
+people*profession	m.06hx2	m.0dl08
+people*profession	m.04l19_	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.01kckd
+people*profession	m.045w_4	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.03mgdy
+people*profession	m.0pz91	m.03lgtv
+people*profession	m.016lv3	m.028fjr
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0dy68h
+people*profession	m.02yy8	m.02hv44_
+music*instrument	m.0fx80y	m.03xl77	m.042v_gx
+people*profession	m.01ggbx	m.0d8qb
+music*instrument	m.0d8lm	m.01mxt_	m.042v_gx
+music*instrument	m.085jw	m.01yzl2	m.02pprs
+people*profession	m.067hq2	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.05nmg_
+influence*influence_node	m.05jm7	m.02465
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.05tfn1
+people*profession	m.01l87db	m.016z4k
+people*profession	m.02lkcc	m.01kyvx
+people*profession	m.04xbr4	m.021wpb
+influence*influence_node	m.0p__8	m.081k8
+people*profession	m.03jm6c	m.0kyk
+people*profession	m.012x2b	m.0np9r
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0ljbg
+people*profession	m.044zvm	m.016z4k
+people*profession	m.0br1w	m.01tkqy
+people*profession	m.07myb2	m.01xr66
+people*profession	m.045931	m.01xr66
+people*profession	m.039crh	m.021wpb
+influence*influence_node	m.05qzv	m.058vp
+people*profession	m.01x209s	m.01xr66
+people*profession	m.01zg98	m.0g7nc
+people*profession	m.0djtky	m.0147fv
+people*profession	m.01nms7	m.01b30l
+people*profession	m.04bbv7	m.025sd_y
+influence*influence_node	m.06whf	m.03_f0
+people*profession	m.01w806h	m.0d2b38
+people*profession	m.02r34n	m.0dxtg
+people*profession	m.0bkg4	m.04f2zj
+people*profession	m.083p7	m.0dl08
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.046f25
+people*profession	m.033m23	m.021wpb
+people*profession	m.01tw31	m.016z4k
+people*profession	m.0q9kd	m.016z4k
+people*profession	m.02t_v1	m.0g7nc
+influence*influence_node	m.084nh	m.0c1jh
+people*profession	m.0f4vbz	m.0dxtg
+people*profession	m.019f2f	m.0np9r
+music*instrument	m.0fx80y	m.01wt4wc	m.02sgy
+people*profession	m.04w1j9	m.0g7nc
+people*profession	m.057xn_m	m.0gbbt
+people*profession	m.016h9b	m.09l65
+people*profession	m.0693l	m.0np9r
+people*profession	m.01qr1_	m.0g7nc
+people*profession	m.032qgs	m.025sd_y
+music*instrument	m.0fx80y	m.0bg539	m.018vs
+people*profession	m.01mr2g6	m.0nbcg
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0425gc
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.031zm1
+people*profession	m.03dq9	m.021wpb
+people*profession	m.02w4fkq	m.02ynfr
+people*profession	m.01wttr1	m.021wpb
+people*profession	m.0fxky3	m.01xr66
+people*profession	m.062dn7	m.021wpb
+people*profession	m.0h1mt	m.0d8qb
+people*profession	m.0lgm5	m.0nbcg
+influence*influence_node	m.0gthm	m.040db
+people*profession	m.027hm_	m.01c8w0
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02b0zd
+people*profession	m.0d8cr0	m.028fjr
+music*instrument	m.0fx80y	m.0j6cj	m.01rhl
+people*profession	m.0b78hw	m.0dxtg
+people*profession	m.0pyg6	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.09cl0w
+people*profession	m.041xl	m.028fjr
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.048xg8
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.01vcnl
+people*profession	m.01pw9v	m.0d8qb
+music*instrument	m.0l14md	m.02mx98	m.01w4c9
+influence*influence_node	m.042xh	m.015n8
+people*profession	m.01yndb	m.0mbx4
+people*profession	m.03mstc	m.01kyvx
+people*profession	m.04d2yp	m.01kyvx
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02b149
+people*profession	m.01kgg9	m.02t8yb
+people*profession	m.01mylz	m.0147fv
+people*profession	m.084m3	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.03j722
+people*profession	m.0372kf	m.0g7nc
+people*profession	m.064jjy	m.0147fv
+people*profession	m.0b1q7c	m.0147fv
+influence*influence_node	m.05ty4m	m.013tjc
+people*profession	m.02y0yt	m.01tkqy
+people*profession	m.0fpj4lx	m.01xr66
+people*profession	m.01hkck	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.01j95f
+influence*influence_node	m.04z0g	m.048cl
+music*instrument	m.0d8lm	m.04f7c55	m.02k856
+music*instrument	m.0d8lm	m.04mx7s	m.042v_gx
+people*profession	m.08664q	m.0147fv
+influence*influence_node	m.0g72r	m.034bs
+people*profession	m.01mqc_	m.064xm0
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0882r_
+people*profession	m.01b3bp	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.02ltg3
+people*profession	m.02jg92	m.0fnpj
+influence*influence_node	m.081nh	m.014635
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.04112r
+people*profession	m.08433	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.02b18l
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0lhp1
+people*profession	m.01wz3cx	m.01b30l
+influence*influence_node	m.03sbs	m.0m93
+music*instrument	m.0fx80y	m.01tv3x2	m.01v8y9
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.02b1mr
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0498yf
+people*profession	m.01hgwkr	m.021wpb
+people*profession	m.0ffgh	m.064xm0
+music*instrument	m.0fx80y	m.01vtmw6	m.02k856
+influence*influence_node	m.043tg	m.0c1jh
+people*profession	m.095b70	m.0147fv
+people*profession	m.03_1pg	m.0147fv
+influence*influence_node	m.0dzkq	m.03_f0
+influence*influence_node	m.067xw	m.04093
+influence*influence_node	m.084w8	m.0gz_
+people*profession	m.07z542	m.09l65
+people*profession	m.0h5f5n	m.01tkqy
+influence*influence_node	m.045bg	m.081k8
+people*profession	m.019r_1	m.064xm0
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02rg5rm
+people*profession	m.025h4z	m.0147fv
+people*profession	m.03h_fk5	m.01xr66
+people*profession	m.0kt64b	m.01xr66
+influence*influence_node	m.027y_	m.03_87
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.02b1gz
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.027024
+people*profession	m.0dn44	m.01xr66
+people*profession	m.01fxck	m.021wpb
+people*profession	m.01qr1_	m.0mbx4
+influence*influence_node	m.02kz_	m.03hnd
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0gfnqh
+people*profession	m.04l19_	m.021wpb
+influence*influence_node	m.06jcc	m.01v9724
+influence*influence_node	m.040_t	m.07ym0
+people*profession	m.01tszq	m.0mbx4
+music*instrument	m.0d8lm	m.0889x	m.02k856
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.08k05y
+people*profession	m.0693l	m.064xm0
+people*profession	m.07g2v	m.016z4k
+people*profession	m.01gc7h	m.01tkqy
+people*profession	m.01wgjj5	m.01b30l
+influence*influence_node	m.0399p	m.081k8
+people*profession	m.01qz69r	m.01xr66
+people*profession	m.03wjb7	m.03lgtv
+influence*influence_node	m.02lt8	m.04xjp
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.0k_l4
+people*profession	m.01vrx35	m.04f2zj
+people*profession	m.0517bc	m.02t8yb
+people*profession	m.0f7hc	m.0nbcg
+people*profession	m.06hgj	m.021wpb
+people*profession	m.01p1z_	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.05p8bf9
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03j70t
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.019lwb
+music*instrument	m.0d8lm	m.0bg539	m.01v8y9
+influence*influence_node	m.0p8jf	m.02mpb
+people*profession	m.016s_5	m.0gbbt
+people*profession	m.02wb6yq	m.01tkqy
+people*profession	m.01wgjj5	m.0nbcg
+influence*influence_node	m.043tg	m.06myp
+people*profession	m.032xhg	m.01tkqy
+people*profession	m.0ddfph	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.02b168
+people*profession	m.0c8br	m.02hv44_
+people*profession	m.0693l	m.025352
+people*profession	m.01l1b90	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0gxkm
+influence*influence_node	m.0d4jl	m.03f70xs
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.05tfn1
+influence*influence_node	m.01q_ph	m.02_p8v
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.09pgj2
+people*profession	m.05jcn8	m.0d8qb
+influence*influence_node	m.01h910	m.01s7qqw
+music*instrument	m.0fx80y	m.01yzl2	m.018vs
+people*profession	m.01x2tm8	m.0147fv
+people*profession	m.046rfv	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.03fmw_
+people*profession	m.01l47f5	m.01c8w0
+music*instrument	m.0fx80y	m.0jfx1	m.042v_gx
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.08k05y
+people*profession	m.01vs4f3	m.03lgtv
+people*profession	m.05sq20	m.01b30l
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.06ylv0
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.045346
+people*profession	m.0gbwp	m.0513yzt
+influence*influence_node	m.05qw5	m.03_87
+influence*influence_node	m.0c1fs	m.042q3
+people*profession	m.017gxw	m.01xr66
+people*profession	m.01wz01	m.0g7nc
+people*profession	m.0fpj9pm	m.09lbv
+people*profession	m.02r0st6	m.0147fv
+people*profession	m.07y_r	m.0g7nc
+people*profession	m.04rsd2	m.0147fv
+people*profession	m.01g1lp	m.09l65
+people*profession	m.01yznp	m.0kyk
+people*profession	m.0161c2	m.0np9r
+people*profession	m.032nl2	m.016z4k
+people*profession	m.01m7pwq	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.0gfw56
+people*profession	m.044ntk	m.021wpb
+people*profession	m.0jfx1	m.064xm0
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01xmxj
+music*instrument	m.0d8lm	m.01lz4tf	m.042v_gx
+people*profession	m.049qx	m.01c72t
+people*profession	m.08bqy9	m.025352
+people*profession	m.0338g8	m.01tkqy
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.08036w
+music*instrument	m.0l14md	m.01nn3m	m.01vnt4
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.08132w
+people*profession	m.011lvx	m.01c8w0
+people*profession	m.034bgm	m.064xm0
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.01yxbw
+influence*influence_node	m.0mb5x	m.06jkm
+people*profession	m.05m7zg	m.01kyvx
+influence*influence_node	m.015rmq	m.0hr3g
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.04btgp
+people*profession	m.01nczg	m.0dxtg
+music*instrument	m.0d8lm	m.01p0vf	m.02k856
+influence*influence_node	m.0m2l9	m.0zm1
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.01l3vx
+influence*influence_node	m.03_87	m.0d5_f
+music*instrument	m.0l14md	m.01l47f5	m.02hnl
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.029n80
+people*profession	m.086nl7	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04mrhq
+music*instrument	m.05148p4	m.0bdlj	m.01679d
+people*profession	m.016dgz	m.04f2zj
+influence*influence_node	m.01nczg	m.0zm1
+people*profession	m.018qql	m.01tkqy
+people*profession	m.044f7	m.0147fv
+people*profession	m.05lnk0	m.02hv44_
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.01453
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03d8m4
+people*profession	m.01gp_x	m.0dxtg
+people*profession	m.02y49	m.02hv44_
+people*profession	m.03d6wsd	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0bg4j_
+people*profession	m.01nms7	m.03lgtv
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0449sw
+people*profession	m.0cf2h	m.0g7nc
+people*profession	m.02xfj0	m.01kyvx
+people*profession	m.01mvth	m.025sd_y
+people*profession	m.0dszr0	m.021wpb
+people*profession	m.0f1vrl	m.03bx017
+people*profession	m.038b_x	m.01xr66
+people*profession	m.04zd4m	m.028fjr
+people*profession	m.01vng3b	m.0fnpj
+music*instrument	m.0d8lm	m.01vrx35	m.02sgy
+people*profession	m.04fhn_	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.077jpc
+music*instrument	m.085jw	m.01qgry	m.02pprs
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.03fn8k
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.02wwr5n
+people*profession	m.0byfz	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.02mplj
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.01zhs3
+people*profession	m.013w7j	m.01tkqy
+people*profession	m.01gq0b	m.0g7nc
+people*profession	m.059_gf	m.0147fv
+music*instrument	m.0fx80y	m.01t8399	m.042v_gx
+people*profession	m.0k29f	m.0dxtg
+people*profession	m.04r7p	m.01xr66
+influence*influence_node	m.08433	m.01rgr
+people*profession	m.0b1q7c	m.05vyk
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.05jx17
+influence*influence_node	m.02ghq	m.01v9724
+influence*influence_node	m.06hmd	m.05gpy
+people*profession	m.01wgfp6	m.0513yzt
+music*instrument	m.0l14md	m.01q_wyj	m.01w4dy
+people*profession	m.0g824	m.03lgtv
+people*profession	m.07csf4	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.07245g
+influence*influence_node	m.019z7q	m.06whf
+people*profession	m.0227vl	m.03bx017
+people*profession	m.01fxck	m.09lbv
+people*profession	m.059fjj	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0747k8
+people*profession	m.01l_vgt	m.01tkqy
+people*profession	m.0gy6z9	m.01c8w0
+people*profession	m.0274ck	m.01c72t
+people*profession	m.013t9y	m.0g7nc
+people*profession	m.045931	m.01kyvx
+influence*influence_node	m.0p8jf	m.08433
+influence*influence_node	m.0hcvy	m.06jkm
+people*profession	m.01yndb	m.01xr66
+people*profession	m.01lqnff	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.02w64f
+people*profession	m.01h320	m.0kyk
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01s_d4
+people*profession	m.0250f	m.01xr66
+influence*influence_node	m.018zvb	m.08433
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.03ylxn
+people*profession	m.0234pg	m.0np9r
+people*profession	m.0137hn	m.03lgtv
+people*profession	m.02465	m.0mbx4
+influence*influence_node	m.06hgj	m.0w6w
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.03xzxb
+people*profession	m.01w806h	m.039v1
+people*profession	m.02wycg2	m.0147fv
+music*instrument	m.085jw	m.01tp5bj	m.0bmnm
+people*profession	m.01yznp	m.04f2zj
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02b1mc
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.047g6m
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0425c5
+influence*influence_node	m.0q9t7	m.04xjp
+people*profession	m.02qgyv	m.01kyvx
+influence*influence_node	m.040_t	m.084w8
+people*profession	m.0mdyn	m.02t8yb
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0177gl
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.088_9g
+influence*influence_node	m.01wp_jm	m.026lj
+music*instrument	m.085jw	m.01vrnsk	m.02pprs
+influence*influence_node	m.0mb5x	m.07g2b
+people*profession	m.042z_g	m.064xm0
+common*notable_for	m.0513yzt	m.0513yzt
+people*profession	m.034bgm	m.021wpb
+music*instrument	m.0l14md	m.01q_wyj	m.026g73
+influence*influence_node	m.01d494	m.06c44
+music*instrument	m.0d8lm	m.016s_5	m.01v8y9
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.05kjc6
+music*instrument	m.0d8lm	m.0274ck	m.02hrlh
+people*profession	m.01sxq9	m.01kyvx
+people*profession	m.01pp3p	m.0kyk
+people*profession	m.095x_	m.039v1
+people*profession	m.041b4j	m.01xr66
+people*profession	m.01tnxc	m.09lbv
+people*profession	m.0ffgh	m.0d2b38
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0cg2cj
+people*profession	m.01qx13	m.0mbx4
+people*profession	m.0h7dd	m.02t8yb
+influence*influence_node	m.03dbds	m.099bk
+people*profession	m.04pz5c	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03d8m4
+people*profession	m.09hd16	m.0np9r
+people*profession	m.07d3x	m.02hv44_
+people*profession	m.08304	m.01xy5l_
+people*profession	m.02jxkw	m.04gf49c
+people*profession	m.0djc3s	m.01b30l
+people*profession	m.02cff1	m.01xr66
+influence*influence_node	m.07h07	m.02ln1
+people*profession	m.01w724	m.01b30l
+influence*influence_node	m.0bqs56	m.063_t
+people*profession	m.01nhkxp	m.0gbbt
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02b1yn
+people*profession	m.01yd8v	m.0g7nc
+people*profession	m.0806vbn	m.01xr66
+people*profession	m.01j5ws	m.021wpb
+influence*influence_node	m.018zvb	m.06myp
+people*profession	m.022411	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02qdzd
+people*profession	m.0hnkp	m.0147fv
+people*profession	m.05wqr1	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.04f1glf
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.03x6w8
+people*profession	m.027_sn	m.039v1
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.07sqm1
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.03078l
+people*profession	m.043js	m.01kyvx
+people*profession	m.02hkw6	m.01xr66
+people*profession	m.07pzc	m.01xr66
+people*profession	m.0320jz	m.0np9r
+music*instrument	m.0fx80y	m.01jgkj2	m.01rhl
+people*profession	m.01wyy_	m.064xm0
+people*profession	m.01rddlc	m.02t8yb
+people*profession	m.074tb5	m.0gbbt
+people*profession	m.0lkr7	m.0147fv
+people*profession	m.06pcz0	m.021wpb
+people*profession	m.01f873	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0dsfnd
+people*profession	m.02yygk	m.0gbbt
+people*profession	m.0kb3n	m.025352
+people*profession	m.0gpprt	m.0dxtg
+people*profession	m.03k0yw	m.025sd_y
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.06xj4w
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0cg2cj
+people*profession	m.04pz5c	m.0g7nc
+influence*influence_node	m.013pp3	m.084w8
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.049f05
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.077jpc
+people*profession	m.0h953	m.01c72t
+people*profession	m.06jcc	m.0kyk
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.056zf9
+influence*influence_node	m.0282x	m.01hb6v
+influence*influence_node	m.0cbgl	m.014635
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.057n_g
+people*profession	m.079vf	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.019m9h
+influence*influence_node	m.0jfx1	m.081lh
+people*profession	m.07sgfvl	m.0g7nc
+people*profession	m.01tpl1p	m.01tkqy
+people*profession	m.0739y	m.0d8qb
+influence*influence_node	m.03_87	m.03pm9
+people*profession	m.017l4	m.0147fv
+people*profession	m.05whq_9	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03d0d7
+people*profession	m.0141kz	m.01tkqy
+influence*influence_node	m.06whf	m.0m93
+influence*influence_node	m.01h2_6	m.01h2_6
+people*profession	m.01pcbg	m.025352
+people*profession	m.063b4k	m.0g7nc
+people*profession	m.01gy7r	m.0mbx4
+people*profession	m.0197tq	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0420td
+people*profession	m.01qvgl	m.02t8yb
+people*profession	m.03qd_	m.0fnpj
+people*profession	m.06rnl9	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0882j7
+people*profession	m.02g0mx	m.09l65
+people*profession	m.01nqfh_	m.016z4k
+people*profession	m.0315q3	m.01tkqy
+influence*influence_node	m.0gp_x9	m.0gp_x9
+people*profession	m.03h_fk5	m.03lgtv
+influence*influence_node	m.05jm7	m.041h0
+music*instrument	m.0fx80y	m.0lzkm	m.02k856
+people*profession	m.016fnb	m.09jwl
+people*profession	m.07z1_q	m.0g7nc
+people*profession	m.095b70	m.0np9r
+people*profession	m.01swck	m.021wpb
+people*profession	m.01wg3q	m.0fnpj
+people*profession	m.0285c	m.016z4k
+people*profession	m.02b25y	m.021wpb
+influence*influence_node	m.040db	m.0379s
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.067zx9
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0196bp
+people*profession	m.016nff	m.0147fv
+influence*influence_node	m.0465_	m.026lj
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0182r9
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.05d8_h
+people*profession	m.0241jw	m.0mbx4
+people*profession	m.01s7z0	m.064xm0
+people*profession	m.01nr36	m.09lbv
+influence*influence_node	m.040_t	m.0gs7x
+influence*influence_node	m.041_y	m.0zm1
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.024tsn
+people*profession	m.05cgy8	m.0mbx4
+people*profession	m.01wt4wc	m.039v1
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.04f1glf
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.04k3r_
+people*profession	m.089kpp	m.09l65
+influence*influence_node	m.0m77m	m.03sbs
+people*profession	m.03cs_z7	m.05vyk
+people*profession	m.02yygk	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.03j722
+people*profession	m.0q9t7	m.0dxtg
+influence*influence_node	m.034bs	m.084nh
+influence*influence_node	m.04cbtrw	m.080r3
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0cnk2q
+music*instrument	m.0fx80y	m.0lzkm	m.042v_gx
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.04ltf
+people*profession	m.031bf1	m.01kyvx
+people*profession	m.02lfl4	m.01xr66
+people*profession	m.01rrd4	m.021wpb
+music*instrument	m.0fx80y	m.01ydzx	m.02k856
+people*profession	m.01vn35l	m.01c72t
+people*profession	m.06ns98	m.0147fv
+people*profession	m.012v9y	m.0mbx4
+music*instrument	m.0d8lm	m.0c9d9	m.02sgy
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.031zm1
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.01hznh
+influence*influence_node	m.0bk5r	m.07kb5
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.01xn5th
+people*profession	m.02lxj_	m.0d2b38
+people*profession	m.044qx	m.0np9r
+influence*influence_node	m.0n6kf	m.02kz_
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03b04g
+influence*influence_node	m.01h2_6	m.05qmj
+influence*influence_node	m.041_y	m.0d5_f
+people*profession	m.02ldv0	m.09lbv
+music*instrument	m.0fx80y	m.01wdcxk	m.042v_gx
+people*profession	m.0159h6	m.0mbx4
+people*profession	m.0bqvs2	m.0fnpj
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.03zkr8
+music*instrument	m.0d8lm	m.02jg92	m.02k856
+people*profession	m.0m593	m.02n9jv
+music*instrument	m.0d8lm	m.01tv3x2	m.01v8y9
+people*profession	m.01hkg9	m.01kyvx
+people*profession	m.03lq43	m.0mbx4
+people*profession	m.0fx0mw	m.01tkqy
+people*profession	m.05nw9m	m.021wpb
+music*instrument	m.0d8lm	m.01k3qj	m.018vs
+people*profession	m.0mbs8	m.0g7nc
+people*profession	m.037hgm	m.01c72t
+influence*influence_node	m.0hky	m.081k8
+music*instrument	m.0fx80y	m.0kvjrw	m.018vs
+people*profession	m.06k02	m.01b30l
+people*profession	m.0m77m	m.0d8qb
+people*profession	m.04qsdh	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0515zg
+people*profession	m.07nx9j	m.021wpb
+people*profession	m.01xllf	m.0np9r
+influence*influence_node	m.01pw9v	m.028p0
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0329nn
+people*profession	m.01vb403	m.0d8qb
+music*instrument	m.0fx80y	m.0fhxv	m.042v_gx
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.02b1mc
+music*instrument	m.0fx80y	m.011hdn	m.01v8y9
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.03_z5f
+influence*influence_node	m.07h07	m.0c1jh
+people*profession	m.01nczg	m.0g7nc
+people*profession	m.0fhxv	m.025sd_y
+people*profession	m.0hqly	m.02n9jv
+people*profession	m.02rf1y	m.0mbx4
+people*profession	m.013km	m.028fjr
+people*profession	m.01dzz7	m.05z96
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.088_kf
+music*instrument	m.085jw	m.01wmjkb	m.02pprs
+music*instrument	m.0fx80y	m.01whg97	m.02k856
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.09bkc6
+people*profession	m.01x4sb	m.039v1
+people*profession	m.08b8vd	m.021wpb
+people*profession	m.01l1b90	m.0g7nc
+people*profession	m.01qgry	m.05vyk
+people*profession	m.0ckm4x	m.01xr66
+music*instrument	m.0d8lm	m.01vtg4q	m.01rhl
+music*instrument	m.0d8lm	m.057xn_m	m.02sgy
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0449sw
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0hqzm6r
+people*profession	m.015rhv	m.0147fv
+people*profession	m.01vrz41	m.01c72t
+people*profession	m.01mskc3	m.09l65
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0138mv
+influence*influence_node	m.040db	m.04093
+people*profession	m.02v0ff	m.0g7nc
+people*profession	m.03h_9lg	m.02t8yb
+people*profession	m.01d1st	m.01tkqy
+people*profession	m.05bnp0	m.064xm0
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.04mp8g
+influence*influence_node	m.02ghq	m.06d6y
+music*instrument	m.0d8lm	m.01wz3cx	m.01v8y9
+people*profession	m.01lz4tf	m.0g7nc
+people*profession	m.01l4zqz	m.0nbcg
+influence*influence_node	m.07dnx	m.043s3
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.017_1x
+people*profession	m.01ckhj	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0284gc
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.06rk8r
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.01453
+people*profession	m.01w3lzq	m.05vyk
+people*profession	m.02wycg2	m.028fjr
+people*profession	m.01cspq	m.064xm0
+influence*influence_node	m.014ps4	m.01vh096
+people*profession	m.02mx98	m.0fnpj
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03mp54
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.04lhft
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0f1kwr
+people*profession	m.012_53	m.01tkqy
+people*profession	m.01hb6v	m.02hv44_
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.02b16p
+people*profession	m.027hnjh	m.0d8qb
+influence*influence_node	m.045bg	m.01vh096
+music*instrument	m.0d8lm	m.01l87db	m.02k856
+people*profession	m.01438g	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.075q_
+music*instrument	m.0fx80y	m.07g2v	m.01v8y9
+influence*influence_node	m.049gc	m.03hnd
+people*profession	m.06151l	m.01kyvx
+people*profession	m.054k_8	m.064xm0
+people*profession	m.01yf85	m.0147fv
+people*profession	m.04s5_s	m.0fnpj
+people*profession	m.01vv126	m.01c8w0
+influence*influence_node	m.07h07	m.042q3
+people*profession	m.0456xp	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.033nzk
+people*profession	m.01qg7c	m.01tkqy
+people*profession	m.014v1q	m.01tkqy
+influence*influence_node	m.041h0	m.06lbp
+people*profession	m.01t9qj_	m.0g7nc
+people*profession	m.053yx	m.0lgw7
+people*profession	m.0b7t3p	m.01kyvx
+people*profession	m.01hb6v	m.0kyk
+influence*influence_node	m.04cbtrw	m.0l99s
+influence*influence_node	m.03772	m.0h25
+influence*influence_node	m.0p8jf	m.0j3v
+people*profession	m.03m6pk	m.03lgtv
+people*profession	m.02rrsz	m.021wpb
+people*profession	m.01q7cb_	m.03bx017
+people*profession	m.0814k3	m.064xm0
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.046br4
+influence*influence_node	m.0lrh	m.01v9724
+people*profession	m.04ls53	m.025sd_y
+influence*influence_node	m.0fvt2	m.014635
+people*profession	m.0ckcvk	m.04f2zj
+influence*influence_node	m.02z3zp	m.0l5yl
+people*profession	m.08jtv5	m.021wpb
+music*instrument	m.085jw	m.02b25y	m.0l15f_
+people*profession	m.02xgdv	m.01tkqy
+music*instrument	m.0fx80y	m.02jq1	m.01rhl
+people*profession	m.01385g	m.064xm0
+music*instrument	m.0d8lm	m.0m2l9	m.01rhl
+people*profession	m.0170pk	m.01b30l
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.05vjt6
+music*instrument	m.0d8lm	m.01tp5bj	m.01v8y9
+people*profession	m.07hbxm	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0j2pg
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02s6tk
+people*profession	m.02c6pq	m.021wpb
+people*profession	m.02qfhb	m.0np9r
+music*instrument	m.0fx80y	m.01vvybv	m.018vs
+people*profession	m.04c636	m.0g7nc
+people*profession	m.062hgx	m.0147fv
+people*profession	m.025p38	m.0g7nc
+people*profession	m.07f3xb	m.0np9r
+music*instrument	m.0fx80y	m.017xm3	m.02k856
+people*profession	m.04dz_y7	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0j2pg
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.02b0_m
+people*profession	m.03_1pg	m.04f2zj
+people*profession	m.05gp3x	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.04mp75
+people*profession	m.01xpxv	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.05z8cq
+people*profession	m.02n1gr	m.02n9jv
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.02b0y3
+people*profession	m.03f1zhf	m.021wpb
+people*profession	m.01jfrg	m.03bx017
+people*profession	m.084m3	m.0nbcg
+people*profession	m.08c7cz	m.02hv44_
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.02b10w
+people*profession	m.032t2z	m.025sd_y
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.04kd5d
+music*instrument	m.0l14md	m.03h_fqv	m.01vnt4
+people*profession	m.01j5x6	m.021wpb
+people*profession	m.0cyhq	m.0np9r
+people*profession	m.0q1lp	m.0np9r
+influence*influence_node	m.099bk	m.07kb5
+people*profession	m.0kftt	m.02t8yb
+people*profession	m.01qmy04	m.0fnpj
+people*profession	m.0jt86	m.028fjr
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.02psgvg
+people*profession	m.01k_0fp	m.01tkqy
+influence*influence_node	m.01w9ph_	m.041mt
+music*instrument	m.0d8lm	m.03f0fnk	m.02k856
+influence*influence_node	m.0h3mrc	m.015cbq
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.049n2l
+influence*influence_node	m.01vsy95	m.0f6lx
+people*profession	m.01w5gg6	m.039v1
+people*profession	m.01yd8v	m.0np9r
+people*profession	m.0bkg4	m.09lbv
+influence*influence_node	m.0821j	m.05gpy
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.025rpyx
+music*instrument	m.0d8lm	m.01vv126	m.01rhl
+music*instrument	m.0d8lm	m.01s7qqw	m.02k856
+people*profession	m.05y7hc	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.04mp9q
+influence*influence_node	m.05cv8	m.040_t
+people*profession	m.06cv1	m.01kyvx
+people*profession	m.01vzxld	m.0g7nc
+people*profession	m.02pp_q_	m.01xr66
+people*profession	m.013zs9	m.09lbv
+influence*influence_node	m.0g72r	m.060_7
+people*profession	m.07rd7	m.09jwl
+people*profession	m.02sh8y	m.01kyvx
+influence*influence_node	m.01n4f8	m.01hmk9
+music*instrument	m.0l14md	m.0ph2w	m.06rvn
+people*profession	m.0ksf29	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03__77
+influence*influence_node	m.047cqr	m.02mpb
+people*profession	m.02lfl4	m.0g7nc
+people*profession	m.078jnn	m.0g7nc
+people*profession	m.01tp5bj	m.0mbx4
+people*profession	m.019389	m.09lbv
+influence*influence_node	m.03_87	m.0bwx3
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.04b4yg
+people*profession	m.015dqj	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.07s8qm7
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.06q02g
+people*profession	m.07ymr5	m.021wpb
+people*profession	m.01mbwlb	m.0mbx4
+people*profession	m.023l9y	m.039v1
+influence*influence_node	m.0j3v	m.0tfc
+people*profession	m.02my3z	m.04f2zj
+influence*influence_node	m.0399p	m.0399p
+people*profession	m.0149xx	m.0gbbt
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.05hywl
+people*profession	m.025_ql1	m.016z4k
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.04wqsm
+people*profession	m.012zng	m.021wpb
+people*profession	m.037gjc	m.021wpb
+people*profession	m.02f9wb	m.02hv44_
+people*profession	m.01qmy04	m.0g7nc
+people*profession	m.03j2gxx	m.0c_xl
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.019m5j
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.04pbsq
+people*profession	m.0cjsxp	m.039v1
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02b0_m
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.01gjlw
+people*profession	m.0bvls5	m.021wpb
+influence*influence_node	m.040_t	m.0448r
+people*profession	m.07g2v	m.09lbv
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.01fjz9
+people*profession	m.0285xqh	m.02hv44_
+people*profession	m.0347db	m.0g7nc
+people*profession	m.01pcbg	m.01kyvx
+people*profession	m.01my929	m.09lbv
+influence*influence_node	m.041mt	m.06y8v
+people*profession	m.01wgfp6	m.05vyk
+people*profession	m.04vmqg	m.01tkqy
+people*profession	m.03h502k	m.0d2b38
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01njml
+people*profession	m.0dfrq	m.025352
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.049msk
+influence*influence_node	m.0ff3y	m.06myp
+people*profession	m.01k5zk	m.0d8qb
+people*profession	m.05jcn8	m.02hv44_
+music*instrument	m.0fx80y	m.01vd7hn	m.042v_gx
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03__77
+music*instrument	m.0fx80y	m.05qw5	m.02k856
+people*profession	m.03xl77	m.0mbx4
+people*profession	m.03d6wsd	m.025352
+people*profession	m.0klw	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.04kn29
+people*profession	m.04wf_b	m.064xm0
+influence*influence_node	m.0738b8	m.01t_wfl
+people*profession	m.01qqtr	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.03fnnn
+people*profession	m.0l56b	m.01nxfc
+people*profession	m.02lg3y	m.0mbx4
+people*profession	m.0p_pd	m.02n9jv
+people*profession	m.060j8b	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01njml
+influence*influence_node	m.0453t	m.0372p
+people*profession	m.01304j	m.01b30l
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.019lty
+people*profession	m.01c5d5	m.064xm0
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.049d_
+people*profession	m.0ftqr	m.0nbcg
+people*profession	m.019389	m.01xr66
+influence*influence_node	m.039n1	m.0tfc
+people*profession	m.02ql_ms	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03fnmd
+people*profession	m.07zft	m.05vyk
+people*profession	m.03f7jfh	m.02dsz
+influence*influence_node	m.0fby2t	m.01pjr7
+common*notable_for	m.02dsz	m.02dsz
+music*instrument	m.0d8lm	m.04d_mtq	m.018vs
+people*profession	m.08141d	m.0d8qb
+people*profession	m.02pp_q_	m.021wpb
+people*profession	m.0pnf3	m.064xm0
+people*profession	m.023mdt	m.021wpb
+people*profession	m.011zd3	m.01c979
+people*profession	m.01t265	m.021wpb
+people*profession	m.01f5q5	m.09l65
+people*profession	m.0bqch	m.0mbx4
+people*profession	m.0738y5	m.0d8qb
+people*profession	m.0gps0z	m.02t8yb
+people*profession	m.0kryqm	m.021wpb
+people*profession	m.0bzyh	m.05z96
+music*instrument	m.0d8lm	m.02jq1	m.01rhl
+people*profession	m.01d6jf	m.09l65
+people*profession	m.02r3cn	m.01b30l
+people*profession	m.02t_v1	m.04s84y
+people*profession	m.05d7rk	m.0g7nc
+people*profession	m.01s7ns	m.02t8yb
+people*profession	m.01r9md	m.0gbbt
+people*profession	m.0ftqr	m.0fnpj
+people*profession	m.021yw7	m.016z4k
+people*profession	m.018x3	m.01b30l
+people*profession	m.02mjmr	m.0dl08
+people*profession	m.0yxl	m.0d2b38
+people*profession	m.02ndbd	m.01kyvx
+people*profession	m.01nz1q6	m.09lbv
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.01p_ng
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0d3fdn
+music*instrument	m.0d8lm	m.01jgkj2	m.01rhl
+influence*influence_node	m.016yzz	m.058vp
+people*profession	m.03xmy1	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.047kn_
+influence*influence_node	m.0gthm	m.0l99s
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0dxyzb
+people*profession	m.01zp33	m.0513yzt
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.021mkg
+music*instrument	m.085jw	m.0zjpz	m.0bmnm
+people*profession	m.03kwtb	m.04f2zj
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.04mpbk
+music*instrument	m.0fx80y	m.016t00	m.018vs
+people*profession	m.02sh8y	m.01tkqy
+people*profession	m.016qtt	m.05vyk
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0bxjpy
+people*profession	m.02r6c_	m.0147fv
+people*profession	m.069z_5	m.021wpb
+people*profession	m.01g5kv	m.0d8qb
+music*instrument	m.0fx80y	m.01nn3m	m.02sgy
+people*profession	m.01vhb0	m.01xr66
+influence*influence_node	m.0x3r3	m.02lt8
+influence*influence_node	m.018fq	m.08433
+people*profession	m.0mdqp	m.01xr66
+people*profession	m.09prnq	m.04f2zj
+people*profession	m.025mb_	m.0mbx4
+people*profession	m.0flj39	m.0g7nc
+influence*influence_node	m.01rgr	m.04xjp
+people*profession	m.0794g	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.05f5sr9
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.015_z1
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03yhgp
+people*profession	m.02l0xc	m.01tkqy
+people*profession	m.0408np	m.01kyvx
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.043t1s
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.06z9k8
+people*profession	m.0k525	m.03lgtv
+music*instrument	m.0fx80y	m.018y2s	m.01rhl
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0d_q40
+people*profession	m.03m6_z	m.04f2zj
+music*instrument	m.0d8lm	m.02lk95	m.01rhl
+people*profession	m.06gd4	m.01c72t
+people*profession	m.01vwbts	m.025sd_y
+people*profession	m.04mhxx	m.01xr66
+people*profession	m.06_6j3	m.021wpb
+people*profession	m.08c9b0	m.0np9r
+people*profession	m.01wmgrf	m.0196pc
+influence*influence_node	m.081lh	m.0l5yl
+influence*influence_node	m.048cl	m.07kb5
+influence*influence_node	m.0bk5r	m.0372p
+influence*influence_node	m.0bqs56	m.01t_wfl
+people*profession	m.049fgvm	m.0np9r
+music*instrument	m.0d8lm	m.018d6l	m.042v_gx
+people*profession	m.01v3s2_	m.01xr66
+people*profession	m.0415svh	m.01xr66
+people*profession	m.013km	m.026sdt1
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03m6zs
+people*profession	m.0301yj	m.039v1
+people*profession	m.01vsyg9	m.039v1
+music*instrument	m.0fx80y	m.01whg97	m.018vs
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03jb2n
+people*profession	m.02xv8m	m.0np9r
+influence*influence_node	m.03j0d	m.042q3
+people*profession	m.0gjvqm	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0c9cp0
+influence*influence_node	m.01hc9_	m.0gthm
+music*instrument	m.0fx80y	m.01w923	m.01rhl
+music*instrument	m.0fx80y	m.09swkk	m.01v8y9
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.048_lz
+music*instrument	m.0l14md	m.0285c	m.02hnl
+music*instrument	m.085jw	m.01mxnvc	m.03t22m
+people*profession	m.018n6m	m.039v1
+people*profession	m.0djtky	m.0g7nc
+people*profession	m.04qp06	m.0g7nc
+people*profession	m.04jlgp	m.01tkqy
+people*profession	m.03xn3s2	m.0mbx4
+people*profession	m.011w20	m.0d8qb
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.09cvbq
+music*instrument	m.0fx80y	m.02jq1	m.018vs
+people*profession	m.049k07	m.0nbcg
+influence*influence_node	m.01hc9_	m.03rx9
+people*profession	m.02_j8x	m.01tkqy
+people*profession	m.02hsgn	m.0np9r
+people*profession	m.040rjq	m.064xm0
+people*profession	m.0mb0	m.0d8qb
+influence*influence_node	m.0n6kf	m.0d0mbj
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.048gd_
+people*profession	m.02h48	m.0mbx4
+people*profession	m.0f5xn	m.01xr66
+people*profession	m.09r8l	m.021wpb
+people*profession	m.0hnkp	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0515_6
+people*profession	m.02ctyy	m.01xr66
+music*instrument	m.0d8lm	m.02w4fkq	m.042v_gx
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01h0b0
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.04b8pv
+people*profession	m.01wmjkb	m.01c72t
+people*profession	m.026yqrr	m.016z4k
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02b17t
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.05r_x5
+people*profession	m.01v3s2_	m.0mbx4
+people*profession	m.01kws3	m.025sd_y
+people*profession	m.06m6z6	m.064xm0
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.07245g
+people*profession	m.0m2l9	m.05vyk
+people*profession	m.0k1bs	m.02ynfr
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.04mpbk
+people*profession	m.03cfjg	m.0d8qb
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.021mkg
+people*profession	m.07g2v	m.09l65
+music*instrument	m.05148p4	m.02jxkw	m.01679d
+people*profession	m.0411q	m.04f2zj
+people*profession	m.04954	m.01tkqy
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.09glnr
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0bg4j_
+people*profession	m.066l3y	m.01kyvx
+influence*influence_node	m.014635	m.081k8
+people*profession	m.0q5hw	m.0kyk
+influence*influence_node	m.041_y	m.042q3
+music*instrument	m.0d8lm	m.01wdcxk	m.01rhl
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.09kzxt
+people*profession	m.0fhxv	m.01b30l
+influence*influence_node	m.037jz	m.042q3
+influence*influence_node	m.0739y	m.03_87
+people*profession	m.0kvnn	m.0nbcg
+people*profession	m.0f0y8	m.09lbv
+people*profession	m.02_fj	m.0np9r
+people*profession	m.01tnxc	m.04f2zj
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.05hz6_
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.03ytj1
+music*instrument	m.0l14md	m.03ds3	m.02hnl
+people*profession	m.0bqch	m.09l65
+people*profession	m.01wz3cx	m.04f2zj
+influence*influence_node	m.0j0pf	m.01bpn
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.049bmk
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02b1j1
+people*profession	m.0dbbz	m.0d8qb
+common*notable_for	m.0mch7	m.0mch7
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.036kmk
+influence*influence_node	m.01w9ph_	m.08433
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.01cw24
+people*profession	m.01vb6z	m.0d8qb
+people*profession	m.02my3z	m.09l65
+people*profession	m.06pjs	m.01xr66
+people*profession	m.0bd2n4	m.0g7nc
+people*profession	m.016zp5	m.0np9r
+people*profession	m.06rnl9	m.0g7nc
+influence*influence_node	m.0126rp	m.0ph2w
+people*profession	m.04353	m.0mbx4
+people*profession	m.06y9c2	m.016z4k
+people*profession	m.04kjrv	m.09jwl
+people*profession	m.024tj	m.01xr66
+influence*influence_node	m.0p8jf	m.0379s
+people*profession	m.016vqk	m.09lbv
+people*profession	m.07s8r0	m.0g7nc
+people*profession	m.049dyj	m.0g7nc
+influence*influence_node	m.0dzkq	m.084w8
+people*profession	m.0dpqk	m.05vyk
+influence*influence_node	m.0lcx	m.039n1
+influence*influence_node	m.03772	m.03hnd
+people*profession	m.03hmr_	m.01c72t
+people*profession	m.01m7pwq	m.05vyk
+music*instrument	m.0d8lm	m.01m1dzc	m.01v8y9
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.06pqy_
+people*profession	m.03cz4j	m.01kyvx
+people*profession	m.0blq0z	m.01tkqy
+people*profession	m.01p7yb	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.01k2yr
+influence*influence_node	m.042v2	m.01vh096
+people*profession	m.02hh8j	m.01xr66
+influence*influence_node	m.07dnx	m.06myp
+people*profession	m.01vtmw6	m.016z4k
+people*profession	m.01mskc3	m.04f2zj
+people*profession	m.0g_92	m.021wpb
+influence*influence_node	m.0gd5z	m.0bt23
+people*profession	m.047f9jp	m.0147fv
+people*profession	m.02rsz0	m.021wpb
+people*profession	m.016nff	m.0np9r
+people*profession	m.03c602	m.0fnpj
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.05jx17
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.06zpgb2
+people*profession	m.02s58t	m.0mbx4
+people*profession	m.079ws	m.09jwl
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.04ngn
+influence*influence_node	m.0dzkq	m.03_hd
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0kz4w
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.05ls3r
+people*profession	m.0372p	m.0mch7
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.06ppc4
+people*profession	m.0372kf	m.01c72t
+people*profession	m.02_hj4	m.0dxtg
+people*profession	m.01wl38s	m.02hv44_
+music*instrument	m.0d8lm	m.0m_31	m.02sgy
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.01wx_y
+people*profession	m.0gthm	m.01tkqy
+people*profession	m.0m0hw	m.01tkqy
+people*profession	m.05yjhm	m.01xr66
+people*profession	m.01ypsj	m.0np9r
+people*profession	m.01wgjj5	m.0gbbt
+people*profession	m.046lt	m.01kyvx
+people*profession	m.031y07	m.0np9r
+people*profession	m.01gvyp	m.01tkqy
+people*profession	m.014y6	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0c9cp0
+people*profession	m.03d0ns	m.0147fv
+people*profession	m.05y7hc	m.09lbv
+people*profession	m.01wk51	m.01xr66
+music*instrument	m.0fx80y	m.017l4	m.02k856
+people*profession	m.02g1jh	m.021wpb
+people*profession	m.01v_pj6	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.03b6j8
+influence*influence_node	m.02ln1	m.0372p
+influence*influence_node	m.0534v	m.081k8
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.016gp5
+people*profession	m.0ly5n	m.016z4k
+people*profession	m.02fybl	m.0np9r
+people*profession	m.0gkg6	m.0147fv
+people*profession	m.02b25y	m.09lbv
+people*profession	m.022qw7	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.031zm1
+people*profession	m.01wkmgb	m.03lgtv
+music*instrument	m.0l14md	m.09qr6	m.02dlh2
+influence*influence_node	m.04cbtrw	m.0ff3y
+people*profession	m.029m83	m.021wpb
+people*profession	m.02624g	m.01tkqy
+music*instrument	m.0d8lm	m.02r3cn	m.02sgy
+people*profession	m.01v3vp	m.01xr66
+people*profession	m.02y7sr	m.016z4k
+people*profession	m.019f9z	m.0g7nc
+people*profession	m.01bbwp	m.05vyk
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03mgbf
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.06lkg8
+people*profession	m.01m4kpp	m.02t8yb
+people*profession	m.01j5sd	m.028fjr
+people*profession	m.03wh95l	m.0mbx4
+people*profession	m.0bkg4	m.016z4k
+people*profession	m.0137hn	m.0147fv
+people*profession	m.0170s4	m.03bx017
+people*profession	m.02zrv7	m.025sd_y
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03x6w8
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.02_t6d
+people*profession	m.06688p	m.0d8qb
+people*profession	m.0fp_v1x	m.025sd_y
+influence*influence_node	m.041xl	m.084w8
+music*instrument	m.0l14md	m.03c7ln	m.01vnt4
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.01_gv
+people*profession	m.0mdqp	m.021wpb
+people*profession	m.03y2kr	m.05798
+people*profession	m.02z1yj	m.0147fv
+music*instrument	m.0l14md	m.01wmjkb	m.011k_j
+people*profession	m.02l_7y	m.016z4k
+people*profession	m.0sw6y	m.01kyvx
+people*profession	m.01d4cb	m.01b30l
+people*profession	m.0bzyh	m.0np9r
+people*profession	m.0knjh	m.0fnpj
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0dxyzb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.04j689
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.017znw
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.03cwqpm
+influence*influence_node	m.01vz80y	m.063_t
+people*profession	m.07yp0f	m.01tkqy
+people*profession	m.02zyy4	m.025352
+people*profession	m.03lgg	m.0np9r
+people*profession	m.01pm0_	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0303jw
+people*profession	m.04qt29	m.01xr66
+people*profession	m.0bzyh	m.021wpb
+people*profession	m.014dq7	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03fhjz
+people*profession	m.01q8fxx	m.0mbx4
+people*profession	m.027zz	m.01tkqy
+people*profession	m.01x4sb	m.01c72t
+people*profession	m.05cljf	m.025sd_y
+influence*influence_node	m.07d3x	m.07kb5
+influence*influence_node	m.0m77m	m.03_87
+music*instrument	m.0fx80y	m.01w3lzq	m.02sgy
+people*profession	m.01w9ph_	m.0fnpj
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0bs31sl
+people*profession	m.02f9wb	m.0dxtg
+people*profession	m.053yx	m.01xr66
+people*profession	m.032wdd	m.026sdt1
+people*profession	m.06jcc	m.0np9r
+people*profession	m.02yplc	m.021wpb
+music*instrument	m.085jw	m.01yzl2	m.03t22m
+people*profession	m.02yj7w	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0fzs6w
+people*profession	m.03x16f	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.04k3r_
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.03mp37
+music*instrument	m.0d8lm	m.0417z2	m.01rhl
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03tck1
+people*profession	m.0fx0mw	m.021wpb
+influence*influence_node	m.01n4f8	m.01s7qqw
+people*profession	m.0svqs	m.0np9r
+people*profession	m.02y7sr	m.0fnpj
+music*instrument	m.0d8lm	m.01wk7b7	m.01v8y9
+people*profession	m.014zfs	m.04f2zj
+people*profession	m.0kbg6	m.0kyk
+people*profession	m.0n6kf	m.0dxtg
+people*profession	m.0tj9	m.01xr66
+music*instrument	m.0fx80y	m.0knjh	m.018vs
+people*profession	m.019fz	m.0dxtg
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.04h54p
+people*profession	m.0yxl	m.02ynfr
+people*profession	m.01nkxvx	m.039v1
+influence*influence_node	m.0bt23	m.0gz_
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02b1l_
+people*profession	m.0jsg0m	m.0g7nc
+people*profession	m.027hq5f	m.0147fv
+people*profession	m.0bkg4	m.02t8yb
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0d8_wz
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.02q3n9c
+people*profession	m.0djywgn	m.0np9r
+people*profession	m.01l7qw	m.016z4k
+people*profession	m.0c33pl	m.0np9r
+influence*influence_node	m.0mb0	m.03sbs
+people*profession	m.0c3kw	m.025352
+people*profession	m.01k_n63	m.09l65
+people*profession	m.01yfm8	m.09lbv
+people*profession	m.02x7vq	m.01xr66
+people*profession	m.086nl7	m.021wpb
+people*profession	m.017b2p	m.02ynfr
+people*profession	m.0149xx	m.09lbv
+music*instrument	m.0fx80y	m.01vswwx	m.02k856
+people*profession	m.089z0z	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0hvjr
+people*profession	m.05cx7x	m.01xr66
+music*instrument	m.0d8lm	m.01whg97	m.02sgy
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.03dj6y
+influence*influence_node	m.01vb6z	m.041mt
+people*profession	m.044zvm	m.0g7nc
+people*profession	m.07n39	m.025352
+people*profession	m.01j5ts	m.0147fv
+influence*influence_node	m.0dzkq	m.01bpn
+people*profession	m.06jvj7	m.039v1
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0515_6
+people*profession	m.01wz3cx	m.0mbx4
+people*profession	m.01gc7h	m.064xm0
+people*profession	m.0cgzj	m.0g7nc
+music*instrument	m.0d8lm	m.01hgwkr	m.01v8y9
+influence*influence_node	m.013pp3	m.0h336
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.02_lt
+people*profession	m.015t7v	m.021wpb
+people*profession	m.014nvr	m.0kyk
+influence*influence_node	m.0b78hw	m.01v9724
+people*profession	m.0fhxv	m.0mbx4
+people*profession	m.0kb3n	m.028fjr
+people*profession	m.04mg6l	m.01kyvx
+people*profession	m.02lgj6	m.01tkqy
+music*instrument	m.0fx80y	m.02f1c	m.02sgy
+people*profession	m.01f9zw	m.05vyk
+people*profession	m.07ddz9	m.0mbx4
+people*profession	m.049k07	m.09l65
+influence*influence_node	m.0p8jf	m.06jkm
+people*profession	m.01g4bk	m.021wpb
+people*profession	m.05qmj	m.0c_xl
+people*profession	m.0ddkf	m.016z4k
+people*profession	m.044lyq	m.01kyvx
+people*profession	m.025l5	m.0nbcg
+people*profession	m.03h502k	m.01c979
+people*profession	m.0p5mw	m.01c72t
+people*profession	m.07r1h	m.0147fv
+people*profession	m.045zr	m.0nbcg
+influence*influence_node	m.0d4jl	m.037jz
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04j6dg
+people*profession	m.01qvtwm	m.021wpb
+people*profession	m.07s6prs	m.039v1
+people*profession	m.01xsc9	m.0147fv
+people*profession	m.0391jz	m.0g7nc
+people*profession	m.01kt17	m.01xr66
+music*instrument	m.0fx80y	m.02jxkw	m.01rhl
+music*instrument	m.0fx80y	m.0fpj4lx	m.01v8y9
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.01slcv
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.096cw_
+people*profession	m.01sp81	m.064xm0
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.04j1n8
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.03tc5p
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.01s_d4
+influence*influence_node	m.0n6kf	m.028p0
+music*instrument	m.0fx80y	m.01vrnsk	m.01v8y9
+people*profession	m.0b455l	m.025352
+people*profession	m.02wr2r	m.0np9r
+influence*influence_node	m.07g2b	m.05qmj
+people*profession	m.0131kb	m.01tkqy
+music*instrument	m.0d8lm	m.03h_fqv	m.02k856
+people*profession	m.01qmy04	m.039v1
+people*profession	m.07d370	m.021wpb
+people*profession	m.0343h	m.0147fv
+people*profession	m.01q8wk7	m.029bkp
+people*profession	m.01m7f5r	m.04f2zj
+people*profession	m.06b_0	m.0kyk
+people*profession	m.06vsbt	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03fhm5
+people*profession	m.01wdqrx	m.0g7nc
+people*profession	m.0kvrb	m.0147fv
+people*profession	m.0362q0	m.01tkqy
+influence*influence_node	m.03f0324	m.043s3
+people*profession	m.01w5jwb	m.0147fv
+people*profession	m.01y_rz	m.025sd_y
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.05r_x5
+music*instrument	m.0fx80y	m.01pr_j6	m.02sgy
+people*profession	m.01csvq	m.0mbx4
+people*profession	m.0bd2n4	m.0np9r
+people*profession	m.0pz91	m.09lbv
+people*profession	m.01l47f5	m.0g7nc
+influence*influence_node	m.05jm7	m.03jxw
+people*profession	m.02t_8z	m.0mbx4
+influence*influence_node	m.05jm7	m.05gpy
+music*instrument	m.0fx80y	m.01vn35l	m.01rhl
+people*profession	m.062dn7	m.0nbcg
+people*profession	m.01cwcr	m.02t8yb
+people*profession	m.0pj8m	m.04f2zj
+people*profession	m.028qyn	m.02n9jv
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.059nf5
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.02b10g
+people*profession	m.01d6jf	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01n_2f
+people*profession	m.03xpfzg	m.0kyk
+people*profession	m.06fc0b	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0371rb
+people*profession	m.05mcjs	m.0dxtg
+people*profession	m.031y07	m.01xr66
+people*profession	m.0djywgn	m.0g7nc
+people*profession	m.0168ql	m.05z96
+influence*influence_node	m.06myp	m.039n1
+people*profession	m.08n__5	m.039v1
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0kwv2
+music*instrument	m.0d8lm	m.0kvnn	m.01v8y9
+people*profession	m.02t_zq	m.01kyvx
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.06l22
+people*profession	m.02y49	m.025352
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.09hyvp
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.03fhm5
+people*profession	m.02t__l	m.016z4k
+people*profession	m.0ds2sb	m.0dxtg
+people*profession	m.01v_pj6	m.0nbcg
+people*profession	m.05g3ss	m.0np9r
+people*profession	m.04n65n	m.09lbv
+people*profession	m.0gps0z	m.09lbv
+people*profession	m.01vsqvs	m.025sd_y
+people*profession	m.0k2mxq	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03_z5f
+people*profession	m.02lfl4	m.01tkqy
+influence*influence_node	m.022_lg	m.058vp
+people*profession	m.0jrny	m.01kyvx
+people*profession	m.0fpj4lx	m.01c8w0
+people*profession	m.03qhyn8	m.0dxtg
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.03mck3c
+people*profession	m.020jqv	m.0nbcg
+influence*influence_node	m.01x53m	m.028p0
+people*profession	m.035sc2	m.0147fv
+music*instrument	m.0d8lm	m.0lzkm	m.02k856
+people*profession	m.01v_pj6	m.05vyk
+people*profession	m.06b0d2	m.01tkqy
+influence*influence_node	m.0c1jh	m.028p0
+people*profession	m.0gthm	m.01xr66
+people*profession	m.05cgy8	m.025sd_y
+music*instrument	m.0d8lm	m.0274ck	m.01v8y9
+influence*influence_node	m.0h5g_	m.013sg6
+people*profession	m.01njxvw	m.025sd_y
+music*instrument	m.0d8lm	m.03f0fnk	m.018vs
+music*instrument	m.0fx80y	m.01qgry	m.02sgy
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.03z0dt
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.03l7tr
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.049bp4
+people*profession	m.02qhm3	m.0np9r
+people*profession	m.0ph2w	m.04j5jl
+influence*influence_node	m.0h25	m.07kb5
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0906w9
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.06jwys
+people*profession	m.0z4s	m.0nbcg
+influence*influence_node	m.026lj	m.07ym0
+influence*influence_node	m.06jkm	m.0372p
+people*profession	m.015cbq	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.04nrcg
+people*profession	m.01304j	m.0gbbt
+people*profession	m.03f0r5w	m.0np9r
+music*instrument	m.0fx80y	m.01pbxb	m.01rhl
+people*profession	m.01vn35l	m.0nbcg
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.073hkx
+influence*influence_node	m.030dr	m.05qmj
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.093142
+people*profession	m.032nl2	m.021wpb
+people*profession	m.01y665	m.01tkqy
+people*profession	m.01n8_g	m.0mbx4
+people*profession	m.0q9t7	m.01xr66
+people*profession	m.03061d	m.01xr66
+people*profession	m.01vtg4q	m.02t8yb
+people*profession	m.0b4rf3	m.0147fv
+people*profession	m.02s6sh	m.03lgtv
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.019m60
+people*profession	m.020_4z	m.0gbbt
+people*profession	m.05hrq4	m.028fjr
+people*profession	m.0177g	m.02hv44_
+people*profession	m.01w03jv	m.01b30l
+people*profession	m.0j6cj	m.01tkqy
+music*instrument	m.0fx80y	m.02b25y	m.02sgy
+people*profession	m.03lgg	m.016z4k
+people*profession	m.04h6mm	m.0g7nc
+music*instrument	m.0fx80y	m.0pz91	m.018vs
+people*profession	m.0pgjm	m.0147fv
+people*profession	m.01vs73g	m.05vyk
+influence*influence_node	m.04bs3j	m.052hl
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.04bjff
+people*profession	m.03wjb7	m.0nbcg
+people*profession	m.07tvwy	m.01xr66
+music*instrument	m.0d8lm	m.016s_5	m.02sgy
+people*profession	m.0gp_x9	m.021wpb
+people*profession	m.028k57	m.01tkqy
+people*profession	m.02q5xsx	m.0np9r
+people*profession	m.03y2kr	m.0g7nc
+people*profession	m.03mz9r	m.02hv44_
+people*profession	m.01nbq4	m.0d8qb
+people*profession	m.01wz3cx	m.01tkqy
+music*instrument	m.0fx80y	m.020jqv	m.02k856
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0cj_v7
+influence*influence_node	m.047g6	m.07ym0
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.07s5fz
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0690dn
+people*profession	m.01htxr	m.021wpb
+influence*influence_node	m.0fby2t	m.01vb6z
+people*profession	m.029ghl	m.02n9jv
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.05jx2d
+people*profession	m.03h502k	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.01vqc7
+influence*influence_node	m.013pp3	m.0113sg
+influence*influence_node	m.0h0yt	m.01t_wfl
+people*profession	m.01w9ph_	m.0g7nc
+influence*influence_node	m.06jkm	m.05gpy
+people*profession	m.03c5f7l	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.01cw24
+music*instrument	m.0d8lm	m.01wdcxk	m.02k856
+people*profession	m.03d8njj	m.0dxtg
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0hqzm6r
+people*profession	m.0fq117k	m.02t8yb
+people*profession	m.01rw116	m.0nbcg
+people*profession	m.01tpl1p	m.0mbx4
+people*profession	m.0677ng	m.025sd_y
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.0c9cp0
+people*profession	m.04bd8y	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0786vq
+people*profession	m.03wy70	m.02n9jv
+people*profession	m.01lcxbb	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0xbm
+music*instrument	m.085jw	m.01y_rz	m.0bmnm
+people*profession	m.09qr6	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0b256b
+people*profession	m.02_01w	m.01tkqy
+people*profession	m.018n6m	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.02b1jf
+people*profession	m.05gp3x	m.0kyk
+music*instrument	m.0l14md	m.01wy61y	m.01p970
+people*profession	m.019fz	m.01c72t
+people*profession	m.067pl7	m.03bx017
+people*profession	m.01vs4ff	m.0nbcg
+people*profession	m.0dhqyw	m.01b30l
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.0906w9
+influence*influence_node	m.03ft8	m.04093
+people*profession	m.07cbs	m.028fjr
+people*profession	m.0484q	m.016z4k
+people*profession	m.016_mj	m.01tkqy
+people*profession	m.04wvhz	m.028sdw
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.021p26
+people*profession	m.017b2p	m.04s84y
+influence*influence_node	m.01vs4f3	m.028p0
+people*profession	m.01wvxw1	m.01tkqy
+people*profession	m.0l_dv	m.0dxtg
+people*profession	m.01l7qw	m.039v1
+people*profession	m.04pp9s	m.0mbx4
+people*profession	m.039n1	m.02h661t
+influence*influence_node	m.0b_c7	m.02kz_
+people*profession	m.0kzy0	m.09lbv
+people*profession	m.03g62	m.0g7nc
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0261w5
+people*profession	m.05hj_k	m.03bx017
+music*instrument	m.0d8lm	m.03f0fnk	m.01rhl
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02qjb_
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.016gp5
+people*profession	m.02nb2s	m.0147fv
+people*profession	m.01kkx2	m.01tkqy
+people*profession	m.098n_m	m.064xm0
+people*profession	m.01b3bp	m.01tkqy
+people*profession	m.0kvjrw	m.021wpb
+people*profession	m.01h1b	m.064xm0
+people*profession	m.013sg6	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.049msk
+people*profession	m.0341n5	m.0mbx4
+people*profession	m.023l9y	m.01c979
+people*profession	m.05qw5	m.0np9r
+influence*influence_node	m.01pw9v	m.06jkm
+influence*influence_node	m.03hnd	m.01lwx
+people*profession	m.01pjr7	m.01tkqy
+music*instrument	m.0d8lm	m.01vswwx	m.042v_gx
+music*instrument	m.0d8lm	m.0k1bs	m.042v_gx
+people*profession	m.0c4y8	m.0kyk
+music*instrument	m.0d8lm	m.01w02sy	m.01rhl
+people*profession	m.024zq	m.025sd_y
+people*profession	m.027r8p	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.05f8c2
+influence*influence_node	m.0mbw0	m.0b78hw
+people*profession	m.049gc	m.028fjr
+people*profession	m.03mg35	m.01kyvx
+people*profession	m.0pz7h	m.021wpb
+people*profession	m.0qf3p	m.05vyk
+music*instrument	m.0d8lm	m.058s57	m.02k856
+influence*influence_node	m.0bk5r	m.0tfc
+people*profession	m.0qf3p	m.01c72t
+people*profession	m.014g9y	m.064xm0
+people*profession	m.0d_skg	m.01xr66
+influence*influence_node	m.0lcx	m.045m1_
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03yfh3
+influence*influence_node	m.0cbgl	m.03f0324
+influence*influence_node	m.06hmd	m.0465_
+people*profession	m.015196	m.01c72t
+people*profession	m.0bz60q	m.028fjr
+people*profession	m.017lqp	m.0g7nc
+people*profession	m.03m6_z	m.09lbv
+influence*influence_node	m.04zkj5	m.0427y
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03_qrp
+people*profession	m.01sbf2	m.0nbcg
+people*profession	m.02633g	m.025sd_y
+people*profession	m.0kxbc	m.016z4k
+people*profession	m.02pby8	m.0147fv
+people*profession	m.0prfz	m.0g7nc
+music*instrument	m.0d8lm	m.0180w8	m.02sgy
+people*profession	m.037gjc	m.01tkqy
+influence*influence_node	m.0453t	m.015k7
+people*profession	m.01g23m	m.01xr66
+people*profession	m.03nk3t	m.0147fv
+people*profession	m.01vvybv	m.0nbcg
+people*profession	m.02kxbx3	m.064xm0
+people*profession	m.09qc1	m.028fjr
+people*profession	m.01qmy04	m.04f2zj
+people*profession	m.03ywyk	m.01xr66
+people*profession	m.0347xl	m.0mbx4
+people*profession	m.016xk5	m.021wpb
+people*profession	m.06mfvc	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.06ls0l
+people*profession	m.01mr2g6	m.05vyk
+people*profession	m.02lfcm	m.021wpb
+people*profession	m.02g3mn	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04kn29
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0gw2y6
+people*profession	m.02vntj	m.0np9r
+music*instrument	m.0fx80y	m.02f1c	m.042v_gx
+people*profession	m.08141d	m.0kyk
+people*profession	m.01mh8zn	m.0147fv
+influence*influence_node	m.013pp3	m.03_87
+people*profession	m.01jbx1	m.05798
+people*profession	m.01hdht	m.064xm0
+people*profession	m.03hpr	m.02hv44_
+people*profession	m.01pw9v	m.0d2b38
+people*profession	m.017l4	m.01c72t
+people*profession	m.02sjf5	m.01tkqy
+people*profession	m.050_qx	m.0g7nc
+music*instrument	m.0d8lm	m.0282x	m.01rhl
+influence*influence_node	m.0g72r	m.03_87
+people*profession	m.04rfq	m.025352
+people*profession	m.02k21g	m.0np9r
+influence*influence_node	m.056wb	m.0bt23
+people*profession	m.01k9lpl	m.0g7nc
+people*profession	m.0292l3	m.021wpb
+people*profession	m.014g_s	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0515_6
+people*profession	m.05cljf	m.0g7nc
+people*profession	m.036jp8	m.021wpb
+people*profession	m.06z4wj	m.02hv44_
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.02b18l
+people*profession	m.04wtx1	m.01tkqy
+influence*influence_node	m.02ghq	m.04107
+people*profession	m.01rrd4	m.0np9r
+music*instrument	m.0d8lm	m.015076	m.02k856
+people*profession	m.0jsg0m	m.0lgw7
+people*profession	m.04kwbt	m.0np9r
+people*profession	m.0151ns	m.05vyk
+people*profession	m.01l1ls	m.0np9r
+influence*influence_node	m.0p8jf	m.042q3
+people*profession	m.01dpsv	m.039v1
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.037mjv
+people*profession	m.02p8v8	m.0mch7
+people*profession	m.08433	m.0np9r
+people*profession	m.031bf1	m.064xm0
+influence*influence_node	m.0c1fs	m.05qmj
+people*profession	m.08pth9	m.01kyvx
+people*profession	m.09byk	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.056xx8
+influence*influence_node	m.0399p	m.099bk
+people*profession	m.01nr36	m.01c8w0
+music*instrument	m.0fx80y	m.023l9y	m.01v8y9
+people*profession	m.03nyts	m.0mbx4
+influence*influence_node	m.03dbds	m.015n8
+influence*influence_node	m.01hb6v	m.01bpn
+people*profession	m.03yrkt	m.01tkqy
+music*instrument	m.0d8lm	m.0g824	m.018vs
+people*profession	m.06cddt	m.0147fv
+people*profession	m.01wg25j	m.021wpb
+people*profession	m.0lpjn	m.03lgtv
+people*profession	m.0168dy	m.0mbx4
+people*profession	m.0565cz	m.04f2zj
+influence*influence_node	m.02z3zp	m.03s9b
+influence*influence_node	m.06crng	m.01hmk9
+people*profession	m.03h2d4	m.01kyvx
+people*profession	m.01wj92r	m.0nbcg
+people*profession	m.03_1pg	m.0fnpj
+music*instrument	m.0d8lm	m.040z9	m.042v_gx
+people*profession	m.09_2gj	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04ltf
+people*profession	m.04vrxh	m.03lgtv
+influence*influence_node	m.018zvb	m.01rgr
+people*profession	m.0djc3s	m.0gbbt
+music*instrument	m.0fx80y	m.01yndb	m.02k856
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.02b1gz
+people*profession	m.02js9p	m.021wpb
+people*profession	m.01qr1_	m.016z4k
+people*profession	m.03f0qd7	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.05cwnc
+people*profession	m.04n65n	m.016z4k
+influence*influence_node	m.022_lg	m.02kz_
+people*profession	m.063tn	m.016z4k
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.04pbsq
+people*profession	m.0klw	m.04j5jl
+people*profession	m.0fq117k	m.025sd_y
+people*profession	m.05cgy8	m.028fjr
+people*profession	m.0flj39	m.01tkqy
+people*profession	m.04mlmx	m.01xr66
+people*profession	m.08qxx9	m.0147fv
+people*profession	m.0fp_v1x	m.05vyk
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.025txtg
+people*profession	m.0mm1q	m.028sdw
+influence*influence_node	m.045bg	m.04xm_
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.02mplj
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.046br4
+people*profession	m.03kcyd	m.03bx017
+people*profession	m.0b1q7c	m.0np9r
+people*profession	m.0652ty	m.021wpb
+people*profession	m.0113sg	m.05z96
+people*profession	m.045zr	m.01c8w0
+music*instrument	m.0fx80y	m.024dgj	m.02k856
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.01cwq9
+people*profession	m.024zq	m.09l65
+people*profession	m.0bqvs2	m.0mbx4
+people*profession	m.06k02	m.0mbx4
+people*profession	m.01wd9lv	m.01c72t
+music*instrument	m.0d8lm	m.01yndb	m.01rhl
+influence*influence_node	m.0m77m	m.04xjp
+people*profession	m.01y9xg	m.021wpb
+people*profession	m.0lkr7	m.021wpb
+people*profession	m.0gv5c	m.01xr66
+people*profession	m.0170qf	m.0mbx4
+people*profession	m.024bbl	m.01tkqy
+people*profession	m.027jq2	m.03lgtv
+influence*influence_node	m.0b78hw	m.07kb5
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02jgm0
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.08s3w_
+people*profession	m.02t_8z	m.0d8qb
+people*profession	m.0c7ct	m.0g7nc
+people*profession	m.02w4fkq	m.05vyk
+people*profession	m.04nw9	m.0147fv
+people*profession	m.0m77m	m.05z96
+people*profession	m.02rf1y	m.021wpb
+music*instrument	m.0d8lm	m.0565cz	m.02k856
+people*profession	m.01j5x6	m.01xr66
+people*profession	m.01mqc_	m.01tkqy
+music*instrument	m.0fx80y	m.01mr2g6	m.02sgy
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.082237
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0fzs6w
+people*profession	m.03j2gxx	m.01c979
+people*profession	m.02g0mx	m.0np9r
+people*profession	m.017b2p	m.021wpb
+people*profession	m.09y20	m.0g7nc
+people*profession	m.059j1m	m.05vyk
+people*profession	m.0c33pl	m.0g7nc
+influence*influence_node	m.0399p	m.02ln1
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01rly6
+people*profession	m.0blt6	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0425kh
+people*profession	m.0lx2l	m.01kyvx
+people*profession	m.01f9mq	m.03lgtv
+influence*influence_node	m.018zvb	m.03jxw
+people*profession	m.06cv1	m.09lbv
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.04lhft
+people*profession	m.0b25vg	m.021wpb
+influence*influence_node	m.01x53m	m.04xjp
+influence*influence_node	m.02y49	m.03_dj
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0b5ysl
+influence*influence_node	m.082mw	m.0j3v
+people*profession	m.01tt43d	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01xn5th
+people*profession	m.03p9hl	m.0147fv
+people*profession	m.03y2kr	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.01l3wr
+influence*influence_node	m.045bg	m.042q3
+people*profession	m.01vh3r	m.0kyk
+influence*influence_node	m.042q3	m.043s3
+people*profession	m.03q3sy	m.01xr66
+people*profession	m.015cbq	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.04btgp
+people*profession	m.02wyc0	m.01xr66
+people*profession	m.032xhg	m.0np9r
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0425yz
+people*profession	m.06gp3f	m.021wpb
+music*instrument	m.0d8lm	m.05qw5	m.01v8y9
+people*profession	m.03kxdw	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.049bmk
+people*profession	m.07y_r	m.0np9r
+influence*influence_node	m.01wp_jm	m.03s9b
+people*profession	m.049qx	m.09lbv
+people*profession	m.045bs6	m.021wpb
+influence*influence_node	m.043tg	m.0372p
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03262k
+people*profession	m.0265z9l	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.02b15x
+people*profession	m.0gs1_	m.01tkqy
+people*profession	m.02g1jh	m.0np9r
+influence*influence_node	m.05txrz	m.0pz91
+people*profession	m.01bbwp	m.04j5jl
+influence*influence_node	m.014ps4	m.037jz
+music*instrument	m.0l14md	m.095x_	m.01w4c9
+influence*influence_node	m.02yl42	m.034bs
+people*profession	m.091yn0	m.09lbv
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0j47s
+music*instrument	m.0d8lm	m.032t2z	m.042v_gx
+people*profession	m.03f47xl	m.025352
+influence*influence_node	m.03rx9	m.04hcw
+people*profession	m.02mpb	m.02hv44_
+people*profession	m.054_mz	m.025352
+people*profession	m.0cj2w	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.01whvs
+people*profession	m.02qfhb	m.01tkqy
+people*profession	m.03k0yw	m.0fnpj
+people*profession	m.04bbv7	m.01b30l
+people*profession	m.06k02	m.025sd_y
+influence*influence_node	m.045bg	m.0hr3g
+people*profession	m.04mhxx	m.0g7nc
+music*instrument	m.085jw	m.04vrxh	m.03t22m
+influence*influence_node	m.0343h	m.01cspq
+influence*influence_node	m.01whg97	m.03f70xs
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.049bp4
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.03c0t9
+people*profession	m.02s_qz	m.021wpb
+people*profession	m.0421st	m.021wpb
+music*instrument	m.0d8lm	m.0pgjm	m.02sgy
+people*profession	m.02mz_6	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.088_9g
+influence*influence_node	m.01s7qqw	m.03s9b
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.027pwl
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.07sqhm
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.05kjc6
+people*profession	m.047cqr	m.0d8qb
+people*profession	m.01wmgrf	m.01c72t
+people*profession	m.01gx5f	m.016z4k
+people*profession	m.0m9c1	m.0mbx4
+people*profession	m.01gzm2	m.028fjr
+people*profession	m.0f3zf_	m.01xr66
+influence*influence_node	m.03s9b	m.039n1
+people*profession	m.029ghl	m.021wpb
+people*profession	m.03lgg	m.08z956
+people*profession	m.04d_mtq	m.0fnpj
+people*profession	m.02qvhbb	m.0dxtg
+people*profession	m.01qscs	m.0np9r
+people*profession	m.019g40	m.02t8yb
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.09k34g
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03x726
+people*profession	m.0k57l	m.0g7nc
+people*profession	m.01k5zk	m.0mbx4
+people*profession	m.02lvtb	m.016z4k
+influence*influence_node	m.0821j	m.040_9
+people*profession	m.02ktrs	m.0196pc
+music*instrument	m.0d8lm	m.01qmy04	m.01v8y9
+music*instrument	m.085jw	m.09hnb	m.0bmnm
+people*profession	m.02xgdv	m.0147fv
+influence*influence_node	m.05qw5	m.080r3
+people*profession	m.010xjr	m.064xm0
+people*profession	m.02bh9	m.0g7nc
+music*instrument	m.0d8lm	m.01w923	m.042v_gx
+people*profession	m.08n9ng	m.0147fv
+music*instrument	m.0fx80y	m.03d2k	m.018vs
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.01s0t3
+music*instrument	m.0l14md	m.03xl77	m.01p970
+music*instrument	m.0d8lm	m.02lk95	m.01v8y9
+people*profession	m.0223g8	m.028fjr
+people*profession	m.0blgl	m.025352
+people*profession	m.01w9ph_	m.025352
+people*profession	m.013zs9	m.0fnpj
+people*profession	m.01y8cr	m.0mbx4
+music*instrument	m.0l14md	m.01wd9lv	m.02hnl
+people*profession	m.0bv7t	m.02hv44_
+people*profession	m.01bpc9	m.0d8qb
+influence*influence_node	m.0yxl	m.03f70xs
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.04b4yg
+people*profession	m.02t0n9	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.01kc4s
+people*profession	m.0jlv5	m.021wpb
+people*profession	m.04s5_s	m.016z4k
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0329t7
+people*profession	m.015pxr	m.0np9r
+people*profession	m.023322	m.03lgtv
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03yvln
+people*profession	m.034np8	m.0np9r
+people*profession	m.057xn_m	m.0nbcg
+people*profession	m.03f1zhf	m.04s84y
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01whvs
+people*profession	m.0zjpz	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.04gkp3
+influence*influence_node	m.0mbw0	m.081lh
+people*profession	m.06m6z6	m.021wpb
+people*profession	m.01pnn3	m.0g7nc
+people*profession	m.06cv1	m.0nbcg
+people*profession	m.016h9b	m.03lgtv
+people*profession	m.01bbwp	m.039v1
+people*profession	m.04y9dk	m.021wpb
+people*profession	m.0lgm5	m.01c8w0
+people*profession	m.028k57	m.016z4k
+people*profession	m.03b78r	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.01whvs
+people*profession	m.0k1bs	m.03lgtv
+people*profession	m.04gvt5	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.01fjz9
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.019m9h
+influence*influence_node	m.02lt8	m.0h336
+people*profession	m.0686zv	m.0g7nc
+people*profession	m.036dyy	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03mg5f
+influence*influence_node	m.0yxl	m.014635
+people*profession	m.01934k	m.01tkqy
+people*profession	m.0gqrb	m.01c8w0
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.06l22
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0177gl
+people*profession	m.0crvfq	m.01tkqy
+people*profession	m.02t0n9	m.01c8w0
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.04mp9q
+people*profession	m.0b25vg	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.077jpc
+people*profession	m.01ydzx	m.01c8w0
+people*profession	m.01nczg	m.05z96
+people*profession	m.08q3s0	m.0mbx4
+people*profession	m.0863x_	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0gfw56
+people*profession	m.0gbwp	m.01xr66
+people*profession	m.01f9mq	m.0nbcg
+people*profession	m.034np8	m.04s84y
+music*instrument	m.0fx80y	m.0fpj9pm	m.02k856
+people*profession	m.03ds3	m.01b30l
+people*profession	m.05m7zg	m.0g7nc
+influence*influence_node	m.0klw	m.06y8v
+people*profession	m.024dgj	m.01c72t
+people*profession	m.016_mj	m.021wpb
+people*profession	m.06pcz0	m.0d8qb
+influence*influence_node	m.016hvl	m.015n8
+people*profession	m.03q5dr	m.021wpb
+people*profession	m.02my3z	m.0mbx4
+people*profession	m.0mb5x	m.0mbx4
+people*profession	m.05hrq4	m.0d8qb
+influence*influence_node	m.042v2	m.0j3v
+people*profession	m.0pz04	m.01tkqy
+influence*influence_node	m.0343h	m.028p0
+people*profession	m.016ntp	m.01c979
+people*profession	m.09fb5	m.0g7nc
+influence*influence_node	m.03f47xl	m.040_9
+people*profession	m.02m92h	m.028fjr
+people*profession	m.039n1	m.0d8qb
+music*instrument	m.0fx80y	m.04m2zj	m.02k856
+people*profession	m.01vy_v8	m.0mbx4
+people*profession	m.04cr6qv	m.025sd_y
+people*profession	m.03w1v2	m.09l65
+influence*influence_node	m.042xh	m.084nh
+people*profession	m.03h4mp	m.01tkqy
+people*profession	m.04kr63w	m.0g7nc
+people*profession	m.05mt6w	m.09lbv
+people*profession	m.051wwp	m.0kyk
+people*profession	m.02g8h	m.01tkqy
+people*profession	m.0lrh	m.025sd_y
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03fn16
+people*profession	m.01fxck	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.065zf3p
+influence*influence_node	m.0d4jl	m.0113sg
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0j47s
+people*profession	m.014dq7	m.01tkqy
+people*profession	m.033tln	m.01xr66
+people*profession	m.028qyn	m.0nbcg
+people*profession	m.012c6x	m.01tkqy
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0bxjpy
+people*profession	m.01_njt	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.01_1kk
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01l3wr
+people*profession	m.03mg35	m.01tkqy
+influence*influence_node	m.0ff3y	m.081k8
+people*profession	m.015nhn	m.01xr66
+people*profession	m.0121rx	m.03lgtv
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.01h0b0
+people*profession	m.01x1cn2	m.0gbbt
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.042l8n
+music*instrument	m.0l14md	m.01v0fn1	m.01w4dy
+music*instrument	m.0l14md	m.0fp_v1x	m.0bm02
+people*profession	m.0mm1q	m.03bx017
+people*profession	m.01vv6_6	m.0mbx4
+people*profession	m.0dfjb8	m.0mbx4
+people*profession	m.02rk45	m.01tkqy
+people*profession	m.0h5g_	m.0mbx4
+music*instrument	m.0l14md	m.01vs4f3	m.06rvn
+people*profession	m.02jxmr	m.01c72t
+people*profession	m.022wxh	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0d9qmn
+people*profession	m.05kfs	m.0g7nc
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03j7cf
+people*profession	m.08k1lz	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.03zj_3
+influence*influence_node	m.016hvl	m.01rgr
+music*instrument	m.0fx80y	m.01wwvc5	m.02k856
+people*profession	m.0261x8t	m.02n9jv
+people*profession	m.014q2g	m.0gbbt
+music*instrument	m.0d8lm	m.01k_n63	m.02k856
+people*profession	m.04g865	m.0dxtg
+influence*influence_node	m.02xyl	m.04093
+people*profession	m.0m0hw	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.093g7v
+people*profession	m.01vng3b	m.0147fv
+people*profession	m.01vh18t	m.01tkqy
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.041n28
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.02rg5rm
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.047fwlg
+people*profession	m.0kbg6	m.0mbx4
+people*profession	m.01p0vf	m.0fnpj
+people*profession	m.015882	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.06xl8z
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.035qlx
+people*profession	m.08304	m.09jwl
+influence*influence_node	m.0399p	m.07h1q
+people*profession	m.0pmhf	m.021wpb
+people*profession	m.05gpy	m.0dxtg
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0g7s1n
+people*profession	m.08s0m7	m.021wpb
+people*profession	m.0fby2t	m.01tkqy
+people*profession	m.0j582	m.064xm0
+influence*influence_node	m.0282x	m.02465
+influence*influence_node	m.014dq7	m.0bwx3
+people*profession	m.07b3r9	m.01tkqy
+people*profession	m.0glmv	m.0kyk
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.025txtg
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.06zdt7
+influence*influence_node	m.07ymr5	m.01s7qqw
+people*profession	m.04bgy	m.021wpb
+people*profession	m.0265z9l	m.01xr66
+influence*influence_node	m.01xwqn	m.03s9b
+people*profession	m.02mjf2	m.064xm0
+people*profession	m.02h9_l	m.025sd_y
+music*instrument	m.0d8lm	m.01wwvc5	m.018vs
+people*profession	m.01tj34	m.0g7nc
+people*profession	m.01lqf49	m.0g7nc
+people*profession	m.02vyw	m.0np9r
+influence*influence_node	m.041xl	m.01lwx
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.05glrg
+influence*influence_node	m.041xl	m.0d5_f
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.07sqbl
+people*profession	m.01s7zw	m.064xm0
+people*profession	m.02knnd	m.0g7nc
+people*profession	m.015t56	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01634x
+people*profession	m.023kzp	m.025352
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.068l3t
+influence*influence_node	m.0bv7t	m.045bg
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.071rlr
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.05vjt6
+people*profession	m.01swck	m.0kyk
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0bk17k
+influence*influence_node	m.0j3v	m.045m1_
+influence*influence_node	m.01hb6v	m.07dnx
+people*profession	m.044f7	m.01kyvx
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0gd70t
+people*profession	m.01vvlyt	m.021wpb
+people*profession	m.018gkb	m.0nbcg
+people*profession	m.01vxqyl	m.05vyk
+music*instrument	m.0fx80y	m.01jgkj2	m.02k856
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0mmd6
+influence*influence_node	m.045bg	m.0tfc
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.03ff65
+people*profession	m.01r6jt2	m.0mbx4
+people*profession	m.06dkzt	m.0147fv
+people*profession	m.083p7	m.0mch7
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.05glrg
+people*profession	m.028lc8	m.0np9r
+people*profession	m.02zrv7	m.0gbbt
+people*profession	m.0311wg	m.0np9r
+people*profession	m.02hfp_	m.021wpb
+people*profession	m.012ycy	m.0nbcg
+people*profession	m.0flpy	m.01c72t
+people*profession	m.0m68w	m.02t8yb
+people*profession	m.01gn36	m.0196pc
+people*profession	m.02qx5h	m.09l65
+people*profession	m.03jm6c	m.025352
+people*profession	m.02cff1	m.0np9r
+common*notable_for	m.0196pc	m.0196pc
+people*profession	m.0pz7h	m.0fnpj
+people*profession	m.0fy2s1	m.02t8yb
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.07sqnh
+influence*influence_node	m.01_x6v	m.0739y
+people*profession	m.01wv9p	m.0np9r
+people*profession	m.03975z	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03ys48
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.02b15h
+people*profession	m.02t_zq	m.0mbx4
+music*instrument	m.0fx80y	m.02fn5r	m.01rhl
+people*profession	m.02mz_6	m.064xm0
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0jv5x
+influence*influence_node	m.0x3r3	m.0hky
+people*profession	m.040z9	m.021wpb
+people*profession	m.011s9r	m.025352
+people*profession	m.0k_mt	m.028fjr
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.03x726
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03078l
+influence*influence_node	m.01w9ph_	m.042q3
+people*profession	m.03xmy1	m.01c8w0
+people*profession	m.03kcyd	m.05798
+influence*influence_node	m.040_t	m.0465_
+people*profession	m.024dgj	m.0nbcg
+influence*influence_node	m.09gnn	m.028p0
+people*profession	m.06lj1m	m.0147fv
+influence*influence_node	m.0c4y8	m.0113sg
+people*profession	m.011vx3	m.03lgtv
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04_bfq
+music*instrument	m.0fx80y	m.0180w8	m.01v8y9
+people*profession	m.015qt5	m.0np9r
+people*profession	m.01nc3rh	m.01b30l
+influence*influence_node	m.045bg	m.03_hd
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0fm6m8
+people*profession	m.0379s	m.02hv44_
+people*profession	m.0285c	m.0147fv
+people*profession	m.084m3	m.0dxtg
+people*profession	m.025hzx	m.01xr66
+people*profession	m.05sq20	m.025sd_y
+influence*influence_node	m.03sbs	m.07kb5
+influence*influence_node	m.045bg	m.01rgr
+people*profession	m.03fwln	m.0np9r
+influence*influence_node	m.0gd5z	m.03hnd
+people*profession	m.07_m9_	m.01c979
+people*profession	m.04t2l2	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.04kngf
+people*profession	m.0232lm	m.0np9r
+influence*influence_node	m.02yl42	m.04hcw
+people*profession	m.01x_d8	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.02w59b
+people*profession	m.07rzf	m.0mbx4
+people*profession	m.01jmv8	m.0mbx4
+influence*influence_node	m.04cbtrw	m.01vh096
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.019ltg
+people*profession	m.03hpr	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03l7rh
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.07vk9f
+people*profession	m.03kpvp	m.0mch7
+music*instrument	m.0d8lm	m.01k3qj	m.01v8y9
+people*profession	m.04zkj5	m.0147fv
+music*instrument	m.0l14md	m.095x_	m.02dlh2
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03j76b
+people*profession	m.0ftqr	m.04f2zj
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.03j70t
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.02b0zt
+music*instrument	m.0fx80y	m.01yzl2	m.01v8y9
+people*profession	m.016tbr	m.01xr66
+music*instrument	m.0d8lm	m.09swkk	m.02sgy
+people*profession	m.04n_g	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0329r5
+people*profession	m.06b0d2	m.01xr66
+influence*influence_node	m.0lrh	m.048cl
+people*profession	m.044mfr	m.01xr66
+people*profession	m.0168ql	m.0d8qb
+people*profession	m.07q68q	m.021wpb
+people*profession	m.03yrkt	m.01xr66
+influence*influence_node	m.049fgvm	m.0l5yl
+influence*influence_node	m.0p8jf	m.05x8n
+people*profession	m.087qxp	m.025352
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03j76b
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.0gw2y6
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.024_ql
+people*profession	m.02rsz0	m.0d8qb
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0122wc
+people*profession	m.01s1zk	m.01b30l
+people*profession	m.0p5mw	m.0fnpj
+influence*influence_node	m.06jcc	m.05gpy
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.03_9x6
+influence*influence_node	m.019z7q	m.06c44
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.01k2yr
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.049bmk
+people*profession	m.027dtv3	m.0147fv
+people*profession	m.09r9m7	m.039v1
+people*profession	m.08wjf4	m.01tkqy
+common*notable_for	m.01xy5l_	m.01xy5l_
+influence*influence_node	m.0fby2t	m.0py5b
+people*profession	m.0bdt8	m.01tkqy
+people*profession	m.016ntp	m.0nbcg
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.01xmxj
+people*profession	m.02kxbwx	m.0147fv
+people*profession	m.07ymr5	m.09lbv
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.09rntd
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.09glnr
+influence*influence_node	m.06jcc	m.0c1fs
+people*profession	m.011vx3	m.01c72t
+people*profession	m.0z4s	m.0g7nc
+people*profession	m.03pvt	m.0g7nc
+people*profession	m.01t110	m.09lbv
+music*instrument	m.0d8lm	m.012zng	m.02k856
+people*profession	m.01dpsv	m.0fnpj
+people*profession	m.0x3b7	m.0g7nc
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04jnd7
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.05p8bf9
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.05hyzx
+people*profession	m.014ps4	m.0kyk
+people*profession	m.0bw6y	m.01xr66
+people*profession	m.028k57	m.0np9r
+people*profession	m.028d4v	m.0kyk
+people*profession	m.01nc3rh	m.0nbcg
+people*profession	m.0c3p7	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.07c404
+people*profession	m.09byk	m.0mbx4
+people*profession	m.0276g40	m.0g7nc
+people*profession	m.031x_3	m.039v1
+people*profession	m.0hvb2	m.01xr66
+music*instrument	m.0d8lm	m.0kvjrw	m.01rhl
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.05ls3r
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.027ffq
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03x6xl
+people*profession	m.0b1q7c	m.01c8w0
+people*profession	m.01tp5bj	m.04f2zj
+people*profession	m.05y7hc	m.025sd_y
+people*profession	m.027_sn	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.07_w1l
+people*profession	m.0k1bs	m.0nbcg
+influence*influence_node	m.048cl	m.030dr
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01dtl
+people*profession	m.01r4hry	m.0gbbt
+people*profession	m.03rx9	m.02hv44_
+music*instrument	m.0fx80y	m.011vx3	m.01v8y9
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.049f05
+people*profession	m.0n839	m.0mbx4
+influence*influence_node	m.019z7q	m.039n1
+influence*influence_node	m.0p8jf	m.040db
+people*profession	m.078g3l	m.0g7nc
+music*instrument	m.0fx80y	m.02wb6yq	m.01rhl
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.057pq5
+people*profession	m.0k1bs	m.01c72t
+people*profession	m.06ltr	m.0np9r
+influence*influence_node	m.026fd	m.0379s
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.0fzs6w
+people*profession	m.01wl38s	m.025352
+people*profession	m.0svqs	m.0147fv
+people*profession	m.01vv6xv	m.01c8w0
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.03j755
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0byq0v
+people*profession	m.01mbwlb	m.0np9r
+people*profession	m.0b455l	m.02hv44_
+people*profession	m.081nh	m.04j5jl
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01cwq9
+people*profession	m.0m0hw	m.0dxtg
+influence*influence_node	m.0gd5z	m.039n1
+influence*influence_node	m.07h1q	m.0h336
+influence*influence_node	m.039n1	m.07kb5
+music*instrument	m.0d8lm	m.0gs6vr	m.01v8y9
+people*profession	m.032qgs	m.01tkqy
+people*profession	m.043c4j	m.025sd_y
+people*profession	m.01lqnff	m.01xr66
+music*instrument	m.0d8lm	m.02b25y	m.042v_gx
+people*profession	m.03_87	m.0dxtg
+people*profession	m.015npr	m.01tkqy
+people*profession	m.030xr_	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01p_ng
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.07r78j
+influence*influence_node	m.0h0yt	m.015n8
+people*profession	m.0lcx	m.0d8qb
+people*profession	m.01hkg9	m.0np9r
+people*profession	m.02b9g4	m.025352
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.017znw
+people*profession	m.09g0h	m.01b30l
+people*profession	m.02q4mt	m.064xm0
+influence*influence_node	m.01hc9_	m.0j3v
+people*profession	m.0jpdn	m.064xm0
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0kq95
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.01cwq9
+people*profession	m.0b_fw	m.025352
+influence*influence_node	m.06q5t7	m.0py5b
+people*profession	m.05jcn8	m.01kyvx
+people*profession	m.015njf	m.021wpb
+people*profession	m.01gp_x	m.028fjr
+people*profession	m.01qvtwm	m.0mbx4
+people*profession	m.06b_0	m.028fjr
+people*profession	m.09mq4m	m.016z4k
+people*profession	m.08wjf4	m.0np9r
+people*profession	m.013w7j	m.064xm0
+influence*influence_node	m.084w8	m.01bpn
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.040whs
+people*profession	m.01fxck	m.0nbcg
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.035tjy
+people*profession	m.02qjj7	m.01tkqy
+influence*influence_node	m.05jm7	m.05qmj
+people*profession	m.01zz8t	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.01hwgt
+people*profession	m.01pcz9	m.021wpb
+people*profession	m.05_swj	m.09lbv
+people*profession	m.06cv1	m.01c72t
+people*profession	m.01r93l	m.0mbx4
+people*profession	m.04kj2v	m.01tkqy
+people*profession	m.020bg	m.09jwl
+music*instrument	m.085jw	m.01pbs9w	m.03qlv7
+people*profession	m.09jd9	m.025352
+people*profession	m.06jvj7	m.021wpb
+people*profession	m.0kxbc	m.0g7nc
+influence*influence_node	m.041xl	m.0zm1
+people*profession	m.07y8l9	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.02vr30
+influence*influence_node	m.010p3	m.04sd0
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.01_jky
+people*profession	m.016xk5	m.0g7nc
+people*profession	m.0blgl	m.0dxtg
+people*profession	m.0bytkq	m.01xr66
+people*profession	m.01xv77	m.03bx017
+people*profession	m.03d0ns	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01fjz9
+people*profession	m.04qt29	m.0mbx4
+influence*influence_node	m.0n6kf	m.042q3
+music*instrument	m.0fx80y	m.01s21dg	m.042v_gx
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.049n2l
+people*profession	m.01hcj2	m.0147fv
+people*profession	m.0d6d2	m.0147fv
+people*profession	m.03ywyk	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.02b1zs
+influence*influence_node	m.017r2	m.0gz_
+people*profession	m.044f7	m.01xr66
+people*profession	m.03k545	m.021wpb
+people*profession	m.043kzcr	m.0np9r
+people*profession	m.01dhpj	m.05vyk
+influence*influence_node	m.0pz04	m.052hl
+influence*influence_node	m.01d494	m.0hr3g
+people*profession	m.016fjj	m.021wpb
+music*instrument	m.0d8lm	m.03f1zhf	m.02k856
+people*profession	m.04954	m.01c72t
+people*profession	m.027_sn	m.0196pc
+people*profession	m.03_x5t	m.02t8yb
+people*profession	m.01qgry	m.03lgtv
+people*profession	m.01yznp	m.0dxtg
+people*profession	m.0cc63l	m.0np9r
+people*profession	m.03j2gxx	m.0196pc
+people*profession	m.01pp3p	m.01tkqy
+influence*influence_node	m.014dq7	m.060_7
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.07c2wt
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.024tsn
+music*instrument	m.05148p4	m.0161c2	m.01679d
+people*profession	m.01wmgrf	m.01c979
+people*profession	m.05yzt_	m.0nbcg
+people*profession	m.0tj9	m.01c8w0
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.04czcb
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.02b0zd
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0bl8l
+influence*influence_node	m.03j90	m.039n1
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.05z8cq
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.049d_
+people*profession	m.01wwvt2	m.01b30l
+people*profession	m.0bkf4	m.01c72t
+people*profession	m.01m65sp	m.01c72t
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.02rytm
+people*profession	m.01wj18h	m.0513yzt
+people*profession	m.0dh1n_	m.01tkqy
+music*instrument	m.0d8lm	m.089pg7	m.01rhl
+people*profession	m.0lzcs	m.0dl08
+people*profession	m.01t2h2	m.016z4k
+music*instrument	m.0d8lm	m.09qr6	m.01v8y9
+people*profession	m.01n8_g	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.02_lt
+people*profession	m.016t00	m.0fnpj
+music*instrument	m.05148p4	m.07zft	m.01679d
+people*profession	m.01d1st	m.0147fv
+people*profession	m.01g1lp	m.064xm0
+people*profession	m.04gc65	m.01tkqy
+people*profession	m.01lvzbl	m.01b30l
+people*profession	m.01wj92r	m.04f2zj
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.04b5n0
+people*profession	m.01gf5h	m.04f2zj
+people*profession	m.02h48	m.04f2zj
+people*profession	m.01wbsdz	m.01c72t
+people*profession	m.04r7p	m.0kyk
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.06vv_6
+people*profession	m.03jqw5	m.02t8yb
+people*profession	m.0kvsb	m.05z96
+music*instrument	m.0d8lm	m.015076	m.042v_gx
+people*profession	m.0jdhp	m.0g7nc
+people*profession	m.04vmqg	m.01kyvx
+people*profession	m.0f14q	m.01tkqy
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.01zhs3
+music*instrument	m.085jw	m.0kxbc	m.02pprs
+people*profession	m.01dw_f	m.01c72t
+people*profession	m.01q_wyj	m.01c8w0
+music*instrument	m.0d8lm	m.0167v4	m.01rhl
+people*profession	m.0p3r8	m.0mbx4
+influence*influence_node	m.04jvt	m.043s3
+people*profession	m.027_sn	m.09l65
+people*profession	m.06j8q_	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.01w_d6
+people*profession	m.028r4y	m.0g7nc
+people*profession	m.0tj9	m.02t8yb
+people*profession	m.02ch1w	m.016z4k
+people*profession	m.01rw116	m.0gbbt
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.02s6tk
+people*profession	m.01x4sb	m.09l65
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.02qdzd
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.037mjv
+music*instrument	m.0l14md	m.01wt4wc	m.026g73
+people*profession	m.013w7j	m.09l65
+people*profession	m.040_9	m.0kyk
+people*profession	m.0783m_	m.0147fv
+influence*influence_node	m.01bpn	m.030dr
+influence*influence_node	m.02yl42	m.081k8
+people*profession	m.012d40	m.064xm0
+people*profession	m.0534v	m.0dxtg
+music*instrument	m.05148p4	m.016ntp	m.01679d
+influence*influence_node	m.0zm1	m.03sbs
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.042l8n
+people*profession	m.016wvy	m.0mbx4
+people*profession	m.0g9zcgx	m.0mbx4
+influence*influence_node	m.01lwx	m.015n8
+people*profession	m.0prjs	m.0147fv
+people*profession	m.0347db	m.01b30l
+people*profession	m.04xhwn	m.01tkqy
+influence*influence_node	m.02ghq	m.081k8
+music*instrument	m.0d8lm	m.01qmy04	m.01rhl
+people*profession	m.02lhm2	m.0np9r
+people*profession	m.03d29b	m.016z4k
+music*instrument	m.0fx80y	m.01vv126	m.01v8y9
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.088_kf
+people*profession	m.05683p	m.01xr66
+people*profession	m.01pcmd	m.025352
+people*profession	m.03pp73	m.09l65
+people*profession	m.044mfr	m.03lgtv
+people*profession	m.01y_rz	m.016z4k
+people*profession	m.01_x6v	m.04f2zj
+people*profession	m.02d45s	m.01xr66
+people*profession	m.0b57p6	m.025352
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.02b1j1
+influence*influence_node	m.0683n	m.0h336
+people*profession	m.06q5t7	m.03lgtv
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.01fwqn
+people*profession	m.03xb2w	m.021wpb
+influence*influence_node	m.0j0pf	m.026fd
+people*profession	m.0d0l91	m.0g7nc
+music*instrument	m.0d8lm	m.01wz3cx	m.01rhl
+influence*influence_node	m.09gnn	m.0mj0c
+people*profession	m.0163kf	m.01tkqy
+people*profession	m.03_2td	m.01kyvx
+people*profession	m.01dy7j	m.021wpb
+people*profession	m.04pp9s	m.016z4k
+music*instrument	m.0d8lm	m.01cv3n	m.01rhl
+people*profession	m.01wwvc5	m.01xr66
+people*profession	m.0157m	m.0mch7
+people*profession	m.063tn	m.039v1
+influence*influence_node	m.0282x	m.040db
+influence*influence_node	m.06whf	m.03j43
+people*profession	m.01yznp	m.01xr66
+people*profession	m.01n5309	m.01c72t
+people*profession	m.0lbj1	m.09lbv
+people*profession	m.01w23w	m.021wpb
+people*profession	m.0241wg	m.0g7nc
+people*profession	m.06dn58	m.0147fv
+influence*influence_node	m.0453t	m.04xjp
+people*profession	m.0p_2r	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.0449sw
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.05gsd2
+people*profession	m.01qx13	m.0np9r
+people*profession	m.01tp5bj	m.016z4k
+people*profession	m.0f2df	m.0np9r
+people*profession	m.02k4b2	m.01xr66
+influence*influence_node	m.04l19_	m.0427y
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03mgdy
+people*profession	m.01lvzbl	m.05vyk
+influence*influence_node	m.02z3zp	m.012gq6
+influence*influence_node	m.040_t	m.081k8
+people*profession	m.0fhxv	m.01xr66
+people*profession	m.01kd57	m.04f2zj
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.04mrgz
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.03mg3l
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.048j1q
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.02vr30
+music*instrument	m.0fx80y	m.01vwbts	m.01v8y9
+music*instrument	m.0fx80y	m.01w5gg6	m.02k856
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.01p0mx
+influence*influence_node	m.0j3v	m.07ym0
+people*profession	m.01vv126	m.0nbcg
+people*profession	m.011s9r	m.09jwl
+influence*influence_node	m.0dzkq	m.03hnd
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.01j95f
+influence*influence_node	m.0cpvcd	m.06c44
+people*profession	m.043kzcr	m.0mbx4
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.01rlz4
+music*instrument	m.0fx80y	m.05cljf	m.02k856
+influence*influence_node	m.043tg	m.0j3v
+people*profession	m.0168dy	m.09l65
+people*profession	m.01gn36	m.0d2b38
+people*profession	m.01wj5hp	m.02hv44_
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.09glnr
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.04112r
+people*profession	m.03xb2w	m.01kyvx
+people*profession	m.08141d	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03_9hm
+people*profession	m.01pm0_	m.01xr66
+people*profession	m.01nbq4	m.08z956
+people*profession	m.03q1vd	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.01rlzn
+people*profession	m.02__94	m.021wpb
+people*profession	m.01wj5hp	m.05vyk
+people*profession	m.07g2v	m.01xr66
+people*profession	m.016kb7	m.0mbx4
+people*profession	m.01c6l	m.025352
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.02_cq0
+music*instrument	m.0l14md	m.03ds3	m.011k_j
+people*profession	m.02m92h	m.01tkqy
+people*profession	m.01934k	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.05f33tk
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03fn6z
+influence*influence_node	m.040db	m.0hr3g
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02gys2
+people*profession	m.0g_rs_	m.0dxtg
+people*profession	m.060_7	m.01c979
+people*profession	m.01f2f8	m.028fjr
+people*profession	m.01sbf2	m.025sd_y
+influence*influence_node	m.0gdqy	m.060_7
+people*profession	m.02x7vq	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02rytm
+people*profession	m.0g824	m.0fnpj
+influence*influence_node	m.047g6	m.05qmj
+people*profession	m.0blq0z	m.04s84y
+music*instrument	m.0fx80y	m.01hgwkr	m.01rhl
+people*profession	m.0bg539	m.025sd_y
+people*profession	m.01m4kpp	m.0dxtg
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02jgm0
+people*profession	m.01s7ns	m.01tkqy
+music*instrument	m.0fx80y	m.03bxwtd	m.01v8y9
+people*profession	m.03ktjq	m.0np9r
+people*profession	m.05l4yg	m.0np9r
+people*profession	m.013pp3	m.025352
+people*profession	m.02h8hr	m.0g7nc
+people*profession	m.05qw5	m.0147fv
+music*instrument	m.0fx80y	m.01vrkdt	m.01v8y9
+music*instrument	m.0fx80y	m.02bgmr	m.01rhl
+people*profession	m.01rgr	m.05z96
+people*profession	m.0p_2r	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.02b15h
+people*profession	m.01g5kv	m.05z96
+influence*influence_node	m.0399p	m.03hnd
+people*profession	m.03n52j	m.0np9r
+people*profession	m.01gn36	m.01tkqy
+people*profession	m.01sbf2	m.01b30l
+people*profession	m.0lzb8	m.01kyvx
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.06ls0l
+people*profession	m.0451j	m.01xr66
+people*profession	m.04xjp	m.05z96
+people*profession	m.01w806h	m.09l65
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.011v3
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03mck3c
+people*profession	m.0qkj7	m.02n9jv
+people*profession	m.0288crq	m.0147fv
+music*instrument	m.0fx80y	m.0c9d9	m.02sgy
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.011v3
+influence*influence_node	m.0cbgl	m.018zvb
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.01r5xw
+people*profession	m.04bs3j	m.01tkqy
+people*profession	m.01cyjx	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.044lbv
+people*profession	m.063b4k	m.01tkqy
+people*profession	m.01twmp	m.04f2zj
+people*profession	m.0qdwr	m.02n9jv
+people*profession	m.033jj1	m.0np9r
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.049bmk
+people*profession	m.0c35b1	m.0np9r
+people*profession	m.042gr4	m.0g7nc
+influence*influence_node	m.05cv8	m.0n6kf
+music*instrument	m.0l14md	m.0fp_v1x	m.02dlh2
+people*profession	m.02jyhv	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.04j1n8
+people*profession	m.02sb1w	m.0147fv
+music*instrument	m.05148p4	m.01qgry	m.01679d
+people*profession	m.016vqk	m.021wpb
+influence*influence_node	m.01h2_6	m.07h1q
+people*profession	m.0dvld	m.02t8yb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0747k8
+music*instrument	m.0d8lm	m.01vwbts	m.02sgy
+people*profession	m.0432cd	m.0147fv
+influence*influence_node	m.040rjq	m.0mb5x
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.019m5j
+people*profession	m.01m7f5r	m.016z4k
+people*profession	m.018y81	m.0gbbt
+influence*influence_node	m.049fgvm	m.012gq6
+people*profession	m.0b_fw	m.02hv44_
+people*profession	m.01v3vp	m.0fnpj
+influence*influence_node	m.0q9t7	m.03_87
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.019lty
+people*profession	m.04mhl	m.028fjr
+people*profession	m.02y7sr	m.01b30l
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.09hldj
+music*instrument	m.0d8lm	m.03wjb7	m.042v_gx
+people*profession	m.01t265	m.0g7nc
+music*instrument	m.0d8lm	m.015mrk	m.01v8y9
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03j0ss
+people*profession	m.02wyc0	m.01tkqy
+people*profession	m.021yw7	m.0np9r
+music*instrument	m.0fx80y	m.02pt27	m.01rhl
+people*profession	m.012j8z	m.021wpb
+influence*influence_node	m.0c2dl	m.03_87
+people*profession	m.041xl	m.025352
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.0dt_q_
+people*profession	m.05k2s_	m.0g7nc
+people*profession	m.0h25	m.0kyk
+people*profession	m.081lh	m.0np9r
+people*profession	m.029ql	m.0mbx4
+people*profession	m.03m6pk	m.01kyvx
+people*profession	m.01fwk3	m.0np9r
+music*instrument	m.0d8lm	m.03f0fnk	m.01v8y9
+people*profession	m.0cnl1c	m.021wpb
+people*profession	m.09qh1	m.01xr66
+people*profession	m.01304j	m.039v1
+people*profession	m.01wy5m	m.0g7nc
+people*profession	m.05pq9	m.0dxtg
+influence*influence_node	m.01hb6v	m.01d494
+people*profession	m.01ccr8	m.02t8yb
+people*profession	m.01h8f	m.01xr66
+influence*influence_node	m.0399p	m.01v9724
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0byq0v
+music*instrument	m.0d8lm	m.05sq20	m.02k856
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.03j6_5
+people*profession	m.016ntp	m.01nxfc
+people*profession	m.0flw6	m.0nbcg
+people*profession	m.0qf3p	m.0fnpj
+people*profession	m.05hrq4	m.0dxtg
+people*profession	m.018phr	m.02t8yb
+people*profession	m.012gbb	m.016z4k
+people*profession	m.089z0z	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03fnqj
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.04j689
+people*profession	m.05g3ss	m.09l65
+people*profession	m.0c9xjl	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02ltg3
+people*profession	m.0fn8jc	m.021wpb
+people*profession	m.0bdlj	m.04f2zj
+people*profession	m.04x4s2	m.01tkqy
+people*profession	m.04cl1	m.021wpb
+people*profession	m.03ftmg	m.025352
+people*profession	m.019803	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.05nwfr
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.04ngn
+people*profession	m.059j1m	m.0mbx4
+people*profession	m.02rn_bj	m.09lbv
+influence*influence_node	m.03s9b	m.0gz_
+people*profession	m.0252fh	m.01kyvx
+people*profession	m.040wdl	m.0mbx4
+people*profession	m.05bpg3	m.0147fv
+influence*influence_node	m.07rd7	m.0ldd
+people*profession	m.01dpsv	m.04f2zj
+common*notable_for	m.01nxfc	m.01nxfc
+people*profession	m.0cwtm	m.0g7nc
+people*profession	m.04h6mm	m.04gf49c
+people*profession	m.06jcc	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.0747k8
+influence*influence_node	m.014zfs	m.014zfs
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03mp1_
+people*profession	m.01tp5bj	m.0np9r
+people*profession	m.02r99xw	m.021wpb
+music*instrument	m.0l14md	m.02qfhb	m.026g73
+people*profession	m.04d2yp	m.0np9r
+people*profession	m.03y2kr	m.04s84y
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0j47s
+people*profession	m.03061d	m.01tkqy
+influence*influence_node	m.0453t	m.0gz_
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02v4vl
+people*profession	m.016dmx	m.02hv44_
+people*profession	m.015v3r	m.05z96
+people*profession	m.01_6dw	m.025352
+people*profession	m.0yxl	m.0nbcg
+people*profession	m.041mt	m.0g7nc
+people*profession	m.0kszw	m.0np9r
+people*profession	m.01gzm2	m.0dxtg
+influence*influence_node	m.06q5t7	m.0pz91
+people*profession	m.01g4bk	m.08z956
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.05kjc6
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.02w59b
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.01xn6mc
+people*profession	m.03k1vm	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0266shh
+people*profession	m.01v_pj6	m.0fnpj
+people*profession	m.02wb6yq	m.0147fv
+people*profession	m.05ty4m	m.01kyvx
+music*instrument	m.0fx80y	m.02l_7y	m.02k856
+influence*influence_node	m.049gc	m.06c44
+people*profession	m.014v1q	m.016z4k
+influence*influence_node	m.0lcx	m.0mj0c
+music*instrument	m.0d8lm	m.016h4r	m.02k856
+people*profession	m.0418ft	m.0g7nc
+people*profession	m.01l47f5	m.01c72t
+people*profession	m.02lxj_	m.06wkj0
+people*profession	m.01qmy04	m.0nbcg
+people*profession	m.04ch23	m.0mbx4
+influence*influence_node	m.04107	m.0gs7x
+people*profession	m.023kzp	m.0np9r
+influence*influence_node	m.0br1w	m.03hnd
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0cnk2q
+people*profession	m.0140t7	m.01c72t
+people*profession	m.0565cz	m.01c72t
+influence*influence_node	m.084nh	m.0gz_
+people*profession	m.01wwnh2	m.016z4k
+influence*influence_node	m.0126rp	m.0q9t7
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.0gxkm
+people*profession	m.044prt	m.02n9jv
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.06h4y9
+people*profession	m.049g_xj	m.01tkqy
+people*profession	m.03j3pg9	m.01xr66
+people*profession	m.0721cy	m.02ynfr
+people*profession	m.01g1lp	m.039v1
+people*profession	m.01n5309	m.0gbbt
+people*profession	m.011s9r	m.0d2b38
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.01fcmh
+people*profession	m.08n9ng	m.04f2zj
+influence*influence_node	m.01w9ph_	m.0448r
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.02k9k9
+people*profession	m.01r6jt2	m.05z96
+people*profession	m.09byk	m.02hv44_
+people*profession	m.016jfw	m.01b30l
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.03fhjz
+influence*influence_node	m.0tfc	m.0tfc
+people*profession	m.02qnbs	m.028fjr
+people*profession	m.02pby8	m.0mbx4
+people*profession	m.03y2kr	m.021wpb
+influence*influence_node	m.0p8jf	m.03f0324
+people*profession	m.016bx2	m.01tkqy
+influence*influence_node	m.06lbp	m.0j3v
+people*profession	m.02cpb7	m.0147fv
+people*profession	m.09r9m7	m.0nbcg
+people*profession	m.01yznp	m.028fjr
+people*profession	m.01h1b	m.0kyk
+people*profession	m.01wg25j	m.05vyk
+people*profession	m.0783m_	m.02t8yb
+people*profession	m.01wdqrx	m.09l65
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.03_9x6
+people*profession	m.01yb09	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0b_ljy
+people*profession	m.011lvx	m.025sd_y
+people*profession	m.01lqf49	m.016z4k
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0hvjr
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0266bd5
+people*profession	m.04r7p	m.02hv44_
+people*profession	m.01gy7r	m.064xm0
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.073hhn
+people*profession	m.01x4sb	m.0gbbt
+music*instrument	m.0fx80y	m.01kd57	m.02k856
+influence*influence_node	m.027y_	m.07g2b
+music*instrument	m.0fx80y	m.01whg97	m.042v_gx
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.05jx17
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03m10r
+people*profession	m.03q3sy	m.03lgtv
+influence*influence_node	m.0lcx	m.084nh
+people*profession	m.02knnd	m.01tkqy
+music*instrument	m.05148p4	m.0ckcvk	m.01679d
+people*profession	m.01t9qj_	m.02dsz
+people*profession	m.0137hn	m.09l65
+people*profession	m.02whj	m.028sdw
+influence*influence_node	m.04107	m.040_9
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.019m5j
+people*profession	m.02g87m	m.05vyk
+people*profession	m.032nl2	m.01c72t
+people*profession	m.02qnyr7	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.041xyk
+people*profession	m.01ydzx	m.01c72t
+influence*influence_node	m.06hgj	m.099bk
+music*instrument	m.0fx80y	m.01h5f8	m.018vs
+people*profession	m.07csf4	m.0g7nc
+influence*influence_node	m.01h2_6	m.0d5_f
+people*profession	m.06hhrs	m.0g7nc
+music*instrument	m.0d8lm	m.01qmy04	m.02k856
+people*profession	m.01pw9v	m.02ynfr
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0ghd6l
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03y_f8
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0xbm
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0g701n
+people*profession	m.03_wpf	m.0g7nc
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.03tck1
+people*profession	m.0484q	m.0lgw7
+people*profession	m.02lg3y	m.0147fv
+people*profession	m.01w8n89	m.05vyk
+people*profession	m.016xk5	m.0gbbt
+people*profession	m.021yw7	m.05vyk
+influence*influence_node	m.049gc	m.07dnx
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.01l0__
+people*profession	m.05b_7n	m.0147fv
+people*profession	m.01d4cb	m.025sd_y
+people*profession	m.01s7ns	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.02v4vl
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.02k9k9
+people*profession	m.03nkts	m.0mbx4
+people*profession	m.03q64h	m.021wpb
+people*profession	m.0dn44	m.0g7nc
+influence*influence_node	m.0399p	m.015n8
+people*profession	m.0dt645q	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.047g98
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.04d817
+people*profession	m.016wvy	m.0nbcg
+people*profession	m.01v9l67	m.0gbbt
+influence*influence_node	m.03_lf	m.0gz_
+people*profession	m.02r34n	m.01xr66
+influence*influence_node	m.01vb6z	m.084w8
+influence*influence_node	m.0d4jl	m.0465_
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.049fcd
+people*profession	m.0677ng	m.09lbv
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0y54
+people*profession	m.0h3mrc	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02k9k9
+people*profession	m.0f0kz	m.0mbx4
+people*profession	m.073bb	m.0kyk
+people*profession	m.077rj	m.02hv44_
+people*profession	m.08vpjv	m.0np9r
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.02b1hb
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03dj48
+influence*influence_node	m.016hvl	m.048cl
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.068l3t
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.05ns4g
+people*profession	m.059j1m	m.01c72t
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0j2pg
+people*profession	m.01qmy04	m.0gbbt
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.05d8_h
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03fnnn
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.01dwyd
+influence*influence_node	m.01x53m	m.03_dj
+people*profession	m.02zyy4	m.0kyk
+people*profession	m.025tdwc	m.016z4k
+people*profession	m.01mh8zn	m.029bkp
+people*profession	m.01tw31	m.039v1
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.017znw
+people*profession	m.0cg9y	m.025sd_y
+people*profession	m.012vby	m.0mbx4
+influence*influence_node	m.03f47xl	m.03_dj
+people*profession	m.05d1dy	m.01kyvx
+people*profession	m.0pz7h	m.04f2zj
+influence*influence_node	m.041_y	m.0465_
+people*profession	m.027y_	m.028fjr
+people*profession	m.01wt4wc	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.019m5j
+people*profession	m.0x3b7	m.0147fv
+influence*influence_node	m.01sbhvd	m.01hmk9
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.04991x
+influence*influence_node	m.06hmd	m.02lt8
+people*profession	m.0cj2nl	m.01tkqy
+influence*influence_node	m.06lbp	m.04xjp
+people*profession	m.014nvr	m.0d8qb
+people*profession	m.0k8y7	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.02b1k5
+music*instrument	m.0d8lm	m.01vn35l	m.01rhl
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0425hg
+people*profession	m.0n8bn	m.04f2zj
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.02b171
+people*profession	m.01s1zk	m.039v1
+people*profession	m.03x16f	m.0g7nc
+influence*influence_node	m.01xdf5	m.0427y
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.057n_g
+people*profession	m.0f0y8	m.039v1
+influence*influence_node	m.0yxl	m.04093
+people*profession	m.027cxsm	m.028fjr
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.0425c5
+people*profession	m.01sl1q	m.01xr66
+people*profession	m.01s1zk	m.0lgw7
+people*profession	m.02l101	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0bk17k
+people*profession	m.0jbp0	m.0147fv
+people*profession	m.01hdht	m.01tkqy
+people*profession	m.033p3_	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0ytc
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.056zf9
+influence*influence_node	m.047g6	m.0h336
+people*profession	m.0g10g	m.016z4k
+people*profession	m.01pcrw	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.02b1l_
+people*profession	m.02bfmn	m.01xr66
+people*profession	m.0113sg	m.028fjr
+people*profession	m.03l3jy	m.01kyvx
+people*profession	m.0250f	m.01kyvx
+people*profession	m.06jrhz	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.01rly6
+people*profession	m.03m6pk	m.05vyk
+people*profession	m.01yf85	m.028sdw
+people*profession	m.02ndbd	m.02hv44_
+people*profession	m.0q5hw	m.025352
+influence*influence_node	m.0br1w	m.03j0d
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.08132w
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.03_9x6
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.03lb76
+people*profession	m.047c9l	m.0g7nc
+influence*influence_node	m.02yl42	m.04xjp
+music*instrument	m.05148p4	m.01ydzx	m.01679d
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.06zdt7
+people*profession	m.0jpdn	m.0g7nc
+people*profession	m.021bk	m.01xr66
+people*profession	m.01dw_f	m.09lbv
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.05f8c2
+people*profession	m.0bn8fw	m.01xr66
+people*profession	m.01rw116	m.016z4k
+people*profession	m.0197tq	m.02ynfr
+people*profession	m.01htxr	m.01b30l
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.03fhml
+people*profession	m.01qscs	m.0147fv
+people*profession	m.01wwvt2	m.03lgtv
+people*profession	m.01x_d8	m.01xr66
+people*profession	m.0f4vbz	m.0mbx4
+music*instrument	m.0d8lm	m.01nqfh_	m.01rhl
+people*profession	m.013cr	m.01kyvx
+influence*influence_node	m.01wp_jm	m.02_p8v
+people*profession	m.0dt645q	m.01tkqy
+music*instrument	m.0fx80y	m.01wkmgb	m.042v_gx
+people*profession	m.0347db	m.01c72t
+influence*influence_node	m.014635	m.019fz
+people*profession	m.0sx5w	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.01h0b0
+people*profession	m.050_qx	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.047g98
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.03zrhb
+people*profession	m.01hcj2	m.021wpb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.058dm9
+influence*influence_node	m.03f0324	m.05qmj
+people*profession	m.01vv126	m.0gbbt
+people*profession	m.016dp0	m.02hv44_
+music*instrument	m.05148p4	m.0459z	m.01679d
+people*profession	m.0428bc	m.0np9r
+music*instrument	m.0d8lm	m.0473q	m.02sgy
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.05jx5r
+people*profession	m.0cj2nl	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0f6cl2
+people*profession	m.01my929	m.03lgtv
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.06zdt7
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.01kwhf
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.01hznh
+people*profession	m.01w23w	m.0nbcg
+people*profession	m.02__94	m.064xm0
+people*profession	m.03vrnh	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.04knh6
+people*profession	m.016dp0	m.0mbx4
+people*profession	m.03ds83	m.021wpb
+people*profession	m.01v0fn1	m.0fnpj
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.02b10g
+people*profession	m.01z0lb	m.0g7nc
+influence*influence_node	m.01rgr	m.0w6w
+people*profession	m.03f68r6	m.05vyk
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.05f8c2
+people*profession	m.01385g	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.03ytp3
+people*profession	m.08vr94	m.028fjr
+people*profession	m.0fsm8c	m.0nbcg
+music*instrument	m.0fx80y	m.01wx756	m.01v8y9
+people*profession	m.027_sn	m.0lgw7
+people*profession	m.01ft2l	m.0147fv
+people*profession	m.044zvm	m.0147fv
+people*profession	m.0fn5bx	m.0np9r
+people*profession	m.01p0vf	m.0147fv
+people*profession	m.070yzk	m.0g7nc
+music*instrument	m.0d8lm	m.0fp_v1x	m.018vs
+influence*influence_node	m.0ldd	m.06y8v
+people*profession	m.0161h5	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.01yxbw
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.082237
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.032c7m
+people*profession	m.0k7pf	m.01b30l
+influence*influence_node	m.0bt23	m.0hr3g
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.03tc8d
+people*profession	m.0164r9	m.0147fv
+people*profession	m.04s430	m.0mbx4
+people*profession	m.0hnkp	m.01tkqy
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.08lmt7
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.03zj_3
+people*profession	m.0kvnn	m.0mbx4
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.05kjc6
+people*profession	m.01g1lp	m.01c72t
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.087_xx
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.022fhd
+people*profession	m.018phr	m.01c72t
+people*profession	m.02t_8z	m.028fjr
+people*profession	m.01wj5hp	m.0147fv
+people*profession	m.06dl_	m.028fjr
+people*profession	m.0gy6z9	m.01tkqy
+influence*influence_node	m.05txrz	m.01pjr7
+music*instrument	m.0d8lm	m.0kvnn	m.02k856
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.01dwyd
+people*profession	m.01l7qw	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.01jdxj
+music*instrument	m.0d8lm	m.01s21dg	m.01v8y9
+people*profession	m.01mt1fy	m.01kyvx
+people*profession	m.01mbwlb	m.05vyk
+people*profession	m.0pz04	m.0147fv
+influence*influence_node	m.0h336	m.043s3
+people*profession	m.04c636	m.02t8yb
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.09nzn6
+people*profession	m.042xrr	m.01xr66
+people*profession	m.03_1pg	m.01kyvx
+people*profession	m.025_ql1	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.025rpyx
+people*profession	m.01ztgm	m.01xr66
+music*instrument	m.0d8lm	m.02w4fkq	m.02sgy
+people*profession	m.02nfhx	m.01b30l
+music*instrument	m.0l14md	m.0gs6vr	m.01p970
+people*profession	m.042l3v	m.0147fv
+people*profession	m.022yb4	m.01kyvx
+music*instrument	m.0fx80y	m.01wkmgb	m.01v8y9
+people*profession	m.073x6y	m.0np9r
+people*profession	m.02tn0_	m.0147fv
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03x73c
+influence*influence_node	m.01hb6v	m.01rgr
+people*profession	m.01nc3rh	m.0fnpj
+people*profession	m.01x1fq	m.01tkqy
+people*profession	m.03h_9lg	m.0mbx4
+influence*influence_node	m.0p8jf	m.041_y
+influence*influence_node	m.06hgj	m.039n1
+people*profession	m.02r3cn	m.039v1
+people*profession	m.0197tq	m.0147fv
+people*profession	m.01wb8bs	m.0147fv
+people*profession	m.01pgzn_	m.0g7nc
+people*profession	m.0b_4z	m.02hv44_
+influence*influence_node	m.0p8jf	m.07g2b
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.021mkg
+people*profession	m.041b4j	m.0mbx4
+people*profession	m.05mt6w	m.03lgtv
+music*instrument	m.0fx80y	m.0gs6vr	m.02k856
+people*profession	m.0678gl	m.01tkqy
+influence*influence_node	m.04jvt	m.0gz_
+people*profession	m.01nx_8	m.0g7nc
+influence*influence_node	m.0lrh	m.058vp
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.034_cr
+people*profession	m.0171lb	m.05z96
+people*profession	m.04sx9_	m.0g7nc
+people*profession	m.090gk3	m.01tkqy
+music*instrument	m.0fx80y	m.0565cz	m.02k856
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.019m60
+influence*influence_node	m.08433	m.0c1jh
+people*profession	m.0cdf37	m.01xr66
+influence*influence_node	m.040db	m.0448r
+people*profession	m.01nz1q6	m.01tkqy
+people*profession	m.01ynzf	m.064xm0
+people*profession	m.01mr2g6	m.02t8yb
+people*profession	m.078g3l	m.0np9r
+people*profession	m.01dw_f	m.01xr66
+people*profession	m.05bpg3	m.021wpb
+people*profession	m.0lbj1	m.01c72t
+people*profession	m.05strv	m.064xm0
+influence*influence_node	m.026lj	m.015n8
+music*instrument	m.0d8lm	m.01l87db	m.01v8y9
+people*profession	m.01k_n63	m.0196pc
+people*profession	m.0fxky3	m.0147fv
+people*profession	m.01vxqyl	m.02t8yb
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.073hkx
+people*profession	m.01x1fq	m.01c8w0
+influence*influence_node	m.05qzv	m.0zm1
+influence*influence_node	m.047g6	m.099bk
+people*profession	m.0436kgz	m.0513yzt
+people*profession	m.0184jw	m.0147fv
+influence*influence_node	m.014dq7	m.014635
+people*profession	m.021yw7	m.01c8w0
+people*profession	m.02jtjz	m.0147fv
+people*profession	m.012q4n	m.01b30l
+people*profession	m.05zbm4	m.01tkqy
+people*profession	m.033cw	m.0kyk
+people*profession	m.04258w	m.01xr66
+influence*influence_node	m.045bg	m.0j3v
+people*profession	m.042q3	m.0kyk
+people*profession	m.08wq0g	m.01tkqy
+people*profession	m.01bbwp	m.08z956
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.02b1jf
+people*profession	m.0q5hw	m.0dxtg
+music*instrument	m.0l14md	m.01vs4f3	m.01p970
+people*profession	m.05_swj	m.01c8w0
+people*profession	m.01wwvc5	m.01c72t
+people*profession	m.0177s6	m.01xr66
+people*profession	m.0dfrq	m.02hv44_
+music*instrument	m.0fx80y	m.01797x	m.01v8y9
+music*instrument	m.0d8lm	m.02l_7y	m.01v8y9
+influence*influence_node	m.01s7qqw	m.015cbq
+people*profession	m.02lxj_	m.01xr66
+people*profession	m.02v92l	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.03_44z
+influence*influence_node	m.02633g	m.063_t
+people*profession	m.06w38l	m.0g7nc
+people*profession	m.0ffgh	m.06wkj0
+influence*influence_node	m.0q9zc	m.063_t
+people*profession	m.05qg6g	m.021wpb
+people*profession	m.0p3sf	m.01tkqy
+people*profession	m.09yrh	m.0np9r
+people*profession	m.01vng3b	m.01xr66
+people*profession	m.08p1gp	m.01kyvx
+influence*influence_node	m.0bk5r	m.04xjp
+people*profession	m.01gw8b	m.0np9r
+people*profession	m.016ntp	m.0d2b38
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.03mqj_
+people*profession	m.01r42_g	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.09kzxt
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.041xyk
+music*instrument	m.0d8lm	m.01vng3b	m.02k856
+people*profession	m.01gvr1	m.01xr66
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03cwqpm
+people*profession	m.02sh8y	m.0np9r
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.0kqbh
+people*profession	m.07q1v4	m.05vyk
+influence*influence_node	m.0453t	m.0hr3g
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.02b153
+people*profession	m.015196	m.01tkqy
+people*profession	m.05jcn8	m.064xm0
+influence*influence_node	m.0dzkq	m.03pm9
+people*profession	m.0fthdk	m.01kyvx
+people*profession	m.043js	m.01xr66
+influence*influence_node	m.01hb6v	m.03_87
+people*profession	m.04fzk	m.01xr66
+influence*influence_node	m.0739y	m.03f0324
+people*profession	m.02v2jy	m.0mbx4
+people*profession	m.01yznp	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.09rsr0w
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.0fm6m8
+influence*influence_node	m.04hcw	m.02ln1
+people*profession	m.08304	m.026sdt1
+people*profession	m.01fh0q	m.025sd_y
+people*profession	m.04wvhz	m.02n9jv
+music*instrument	m.0l14md	m.027dpx	m.011k_j
+music*instrument	m.0fx80y	m.01s1zk	m.02k856
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.0ly8z
+people*profession	m.09dv0sz	m.021wpb
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.02k9k9
+people*profession	m.05cgy8	m.0d8qb
+people*profession	m.02qhm3	m.0g7nc
+influence*influence_node	m.0q9t7	m.01s7qqw
+people*profession	m.01_x6d	m.0gbbt
+people*profession	m.016k62	m.021wpb
+people*profession	m.03dn9v	m.0np9r
+people*profession	m.01nz1q6	m.01xr66
+people*profession	m.02_fj	m.02t8yb
+influence*influence_node	m.05jm7	m.015n8
+people*profession	m.0hfml	m.02hv44_
+people*profession	m.0dt645q	m.0fnpj
+people*profession	m.016z2j	m.0147fv
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.01kckd
+influence*influence_node	m.05cv8	m.03hnd
+sports*sport	m.07y9k	m.02ck1	m.02sdk9v	m.04_cdd	m.02b1l_
+music*instrument	m.0fx80y	m.02cx90	m.01v8y9
+people*profession	m.02ktrs	m.03lgtv
+people*profession	m.01gf5h	m.0nbcg
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.02_cq0
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.09nzn6
+people*profession	m.02p5hf	m.01tkqy
+people*profession	m.020x5r	m.064xm0
+people*profession	m.052hl	m.0g7nc
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.02rjz5
+people*profession	m.01chc7	m.0gbbt
+people*profession	m.02gf_l	m.021wpb
+music*instrument	m.0d8lm	m.02jxkw	m.018vs
+influence*influence_node	m.01n4f8	m.0l99s
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0122wc
+influence*influence_node	m.0l99s	m.07ym0
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.048gd_
+people*profession	m.01304j	m.01nxfc
+people*profession	m.023kzp	m.02hv44_
+people*profession	m.02wcx8c	m.01xr66
+people*profession	m.01ynzf	m.025352
+people*profession	m.0151xv	m.025352
+people*profession	m.04g_wd	m.0np9r
+people*profession	m.0170s4	m.01tkqy
+people*profession	m.015882	m.01tkqy
+influence*influence_node	m.01h910	m.01gn36
+music*instrument	m.0d8lm	m.0lzkm	m.01v8y9
+people*profession	m.04l3_z	m.0np9r
+music*instrument	m.0fx80y	m.01s1zk	m.042v_gx
+music*instrument	m.0d8lm	m.01797x	m.018vs
+people*profession	m.04dyqk	m.0np9r
+people*profession	m.05cgy8	m.0dxtg
+people*profession	m.0c00lh	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.03mgbf
+influence*influence_node	m.0q9t7	m.06whf
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.037mp6
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.0kwv2
+people*profession	m.016dgz	m.025sd_y
+people*profession	m.0lpjn	m.025sd_y
+people*profession	m.014zn0	m.0np9r
+people*profession	m.0hsn_	m.01tkqy
+people*profession	m.01qr1_	m.01kyvx
+people*profession	m.0197tq	m.0np9r
+influence*influence_node	m.014z8v	m.01mxt_
+people*profession	m.082mw	m.0dxtg
+people*profession	m.02k4b2	m.0g7nc
+influence*influence_node	m.0yxl	m.0lrh
+people*profession	m.01d4cb	m.03lgtv
+people*profession	m.01cv3n	m.02t8yb
+people*profession	m.01yndb	m.02t8yb
+people*profession	m.06dv3	m.03lgtv
+influence*influence_node	m.01d494	m.015n8
+people*profession	m.0jsg0m	m.0np9r
+people*profession	m.04w1j9	m.0np9r
+people*profession	m.026dd2b	m.01xr66
+people*profession	m.046m59	m.0147fv
+people*profession	m.09hnb	m.04f2zj
+influence*influence_node	m.080r3	m.05qmj
+people*profession	m.07663r	m.01xr66
+people*profession	m.07d3x	m.028fjr
+influence*influence_node	m.082_p	m.042q3
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.07s8qm7
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03j70t
+music*instrument	m.0d8lm	m.01s7qqw	m.02sgy
+people*profession	m.01mxnvc	m.04f2zj
+people*profession	m.05b_7n	m.0mbx4
+music*instrument	m.0fx80y	m.01bpc9	m.01v8y9
+influence*influence_node	m.0683n	m.03f70xs
+influence*influence_node	m.0l5yl	m.081lh
+music*instrument	m.0fx80y	m.06x4l_	m.02sgy
+people*profession	m.01mwsnc	m.09jwl
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.03d8m4
+influence*influence_node	m.0399p	m.040db
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.01fwqn
+people*profession	m.01xg_w	m.0g7nc
+people*profession	m.02sb1w	m.0np9r
+people*profession	m.012gq6	m.05vyk
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0cxbth
+people*profession	m.01lz4tf	m.01tkqy
+people*profession	m.02nfjp	m.0147fv
+people*profession	m.0372kf	m.0np9r
+people*profession	m.0180w8	m.0nbcg
+music*instrument	m.085jw	m.017l4	m.03qlv7
+influence*influence_node	m.06whf	m.03pm9
+influence*influence_node	m.03_87	m.0m93
+music*instrument	m.0d8lm	m.03bxwtd	m.02sgy
+influence*influence_node	m.0tfc	m.05qmj
+music*instrument	m.0fx80y	m.08wq0g	m.01rhl
+people*profession	m.01r6jt2	m.0g7nc
+influence*influence_node	m.0bv7t	m.080r3
+people*profession	m.0cdf37	m.0mbx4
+music*instrument	m.0l14md	m.09g0h	m.01w4c9
+people*profession	m.048svj	m.0dxtg
+people*profession	m.023361	m.0g7nc
+people*profession	m.05qw5	m.0kyk
+people*profession	m.04gcd1	m.0dxtg
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0f6cl2
+people*profession	m.0bzyh	m.01xr66
+people*profession	m.02jg92	m.016z4k
+people*profession	m.01qvgl	m.016z4k
+people*profession	m.0fp_v1x	m.0np9r
+influence*influence_node	m.07lp1	m.0bk5r
+influence*influence_node	m.04107	m.0379s
+people*profession	m.01wdqrx	m.0nbcg
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.01nd2c
+people*profession	m.05f0r8	m.0147fv
+people*profession	m.03cs_z7	m.01c8w0
+influence*influence_node	m.01dzz7	m.080r3
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.02056s
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.02056s
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.03fhj1
+people*profession	m.01yzhn	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.05hyzx
+people*profession	m.01l87db	m.0mbx4
+people*profession	m.01w806h	m.016z4k
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.01kwhf
+people*profession	m.027l0b	m.01tkqy
+people*profession	m.0knjh	m.05z96
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.019m60
+influence*influence_node	m.0h336	m.07kb5
+people*profession	m.0qf3p	m.039v1
+people*profession	m.02wb6yq	m.016z4k
+people*profession	m.016qtt	m.039v1
+people*profession	m.02465	m.0147fv
+people*profession	m.02s58t	m.01tkqy
+people*profession	m.01kymm	m.02t8yb
+influence*influence_node	m.05jm7	m.04sd0
+music*instrument	m.0fx80y	m.01nn3m	m.042v_gx
+music*instrument	m.0d8lm	m.01yzl2	m.042v_gx
+people*profession	m.01vn35l	m.0gbbt
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0bqr7_
+people*profession	m.01nhkxp	m.025sd_y
+people*profession	m.034bgm	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.03ylxn
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.0d_q40
+influence*influence_node	m.0yxl	m.03f47xl
+people*profession	m.0d0mbj	m.0d8qb
+people*profession	m.02_j7t	m.01xr66
+music*instrument	m.0l14md	m.04f7c55	m.06rvn
+people*profession	m.0x3b7	m.0mbx4
+influence*influence_node	m.0yxl	m.04xjp
+influence*influence_node	m.0hcvy	m.04093
+people*profession	m.01vlj1g	m.02t8yb
+music*instrument	m.0d8lm	m.0pz91	m.018vs
+people*profession	m.044mz_	m.0g7nc
+influence*influence_node	m.01h1b	m.0131kb
+people*profession	m.02bf2s	m.01xr66
+people*profession	m.01pbxb	m.05vyk
+people*profession	m.04l3_z	m.0g7nc
+people*profession	m.0294fd	m.01tkqy
+people*profession	m.0121rx	m.0np9r
+people*profession	m.0dl567	m.01xr66
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.03mghh
+people*profession	m.02v49c	m.01xr66
+people*profession	m.01qgry	m.04f2zj
+people*profession	m.01d5vk	m.0g7nc
+people*profession	m.01n4f8	m.021wpb
+people*profession	m.01dkpb	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0y9j
+people*profession	m.02p5hf	m.01kyvx
+people*profession	m.01k5t_3	m.04f2zj
+people*profession	m.0gqrb	m.028fjr
+sports*sport	m.03zv9	m.02ck1	m.03f0fp	m.04_cdd	m.0lhp1
+people*profession	m.06ltr	m.0g7nc
+influence*influence_node	m.027y_	m.01bpn
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.0f1k__
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.07s5fz
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.048_lz
+people*profession	m.01vvybv	m.09l65
+people*profession	m.04myfb7	m.01tkqy
+people*profession	m.04zd4m	m.0kyk
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0175rc
+influence*influence_node	m.01v9724	m.043s3
+people*profession	m.027l0b	m.0mbx4
+people*profession	m.02r3cn	m.04f2zj
+people*profession	m.06cgy	m.0147fv
+people*profession	m.03q95r	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.08s3w_
+people*profession	m.08f3b1	m.025352
+people*profession	m.03pmty	m.039v1
+people*profession	m.03c5f7l	m.0g7nc
+people*profession	m.01syr4	m.01xr66
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.04n1hqz
+music*instrument	m.0d8lm	m.01rmnp	m.01rhl
+people*profession	m.05d7rk	m.03bx017
+music*instrument	m.0fx80y	m.09mq4m	m.01v8y9
+music*instrument	m.0l14md	m.02mx98	m.02dlh2
+sports*sport	m.0356lc	m.02ck1	m.02_j1w	m.04_cdd	m.02b1d0
+influence*influence_node	m.0484q	m.0g72r
+people*profession	m.0cjsxp	m.04f2zj
+people*profession	m.05mlqj	m.0mbx4
+people*profession	m.02m92h	m.0g7nc
+music*instrument	m.0l14md	m.03ds3	m.01vnt4
+music*instrument	m.0d8lm	m.04n65n	m.02k856
+people*profession	m.015mrk	m.0lgw7
+people*profession	m.02jtjz	m.0g7nc
+people*profession	m.01n7qlf	m.021wpb
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.090q8l
+people*profession	m.01j851	m.01c979
+people*profession	m.024dgj	m.0gbbt
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.03z8bw
+people*profession	m.03fw60	m.0g7nc
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.049n3s
+music*instrument	m.0fx80y	m.01y_rz	m.018vs
+people*profession	m.01swck	m.064xm0
+people*profession	m.03q3x5	m.021wpb
+people*profession	m.03vpf_	m.0mbx4
+people*profession	m.04qr6d	m.064xm0
+people*profession	m.03t8v3	m.0np9r
+people*profession	m.014zn0	m.01tkqy
+influence*influence_node	m.045bg	m.02lt8
+people*profession	m.017f4y	m.01c72t
+sports*sport	m.07y9k	m.02ck1	m.03f0fp	m.04_cdd	m.03mp1_
+people*profession	m.04511f	m.0g7nc
+people*profession	m.0pk41	m.021wpb
+influence*influence_node	m.0gd5z	m.0bwx3
+influence*influence_node	m.02mpb	m.03_dj
+people*profession	m.020jqv	m.064xm0
+people*profession	m.0ftqr	m.05vyk
+sports*sport	m.03zv9	m.02ck1	m.02nzb8	m.04_cdd	m.03ytj1
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.0d9qmn
+people*profession	m.054_mz	m.021wpb
+music*instrument	m.0d8lm	m.01nn6c	m.02k856
+influence*influence_node	m.07dnx	m.01v9724
+people*profession	m.0bdlj	m.09l65
+influence*influence_node	m.0c9c0	m.063_t
+people*profession	m.01vs4ff	m.0fnpj
+people*profession	m.06t8b	m.0mbx4
+music*instrument	m.0fx80y	m.01n8gr	m.01v8y9
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.05ns4g
+people*profession	m.03kpvp	m.0np9r
+people*profession	m.010xjr	m.021wpb
+people*profession	m.01n9d9	m.0np9r
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.0bg4f9
+sports*sport	m.03zv9	m.02ck1	m.02_j1w	m.04_cdd	m.03j70t
+people*profession	m.060j8b	m.01tkqy
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.06vv_6
+people*profession	m.03h_9lg	m.016z4k
+people*profession	m.09hnb	m.0nbcg
+people*profession	m.023l9y	m.06wkj0
+people*profession	m.0kjrx	m.0np9r
+influence*influence_node	m.0j0pf	m.09dt7
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.065zf3p
+people*profession	m.0bg539	m.09lbv
+people*profession	m.02tv80	m.0147fv
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.05ns4g
+influence*influence_node	m.06c44	m.026lj
+sports*sport	m.03zv9	m.02ck1	m.02sdk9v	m.04_cdd	m.046fz5
+influence*influence_node	m.045bg	m.015k7
+people*profession	m.02vqpx8	m.028fjr
+sports*sport	m.03zv9	m.02ck1	m.0dgrmp	m.04_cdd	m.05511w
+people*profession	m.01whg97	m.01c8w0
+people*profession	m.01x1cn2	m.01nxfc
+people*profession	m.03knl	m.0147fv
+people*profession	m.0bq2g	m.03bx017
+music*instrument	m.0fx80y	m.01k3qj	m.042v_gx
+sports*sport	m.0356lc	m.02ck1	m.0dgrmp	m.04_cdd	m.0356gk
+influence*influence_node	m.043tg	m.048cl
+people*profession	m.079vf	m.02hv44_
+people*profession	m.01wz01	m.0mbx4
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.09xb4h
+people*profession	m.0h3mrc	m.0147fv
+influence*influence_node	m.0m93	m.05qmj
+influence*influence_node	m.02465	m.0l99s
+people*profession	m.01wbsdz	m.0nbcg
+people*profession	m.03kwtb	m.03lgtv
+people*profession	m.022qw7	m.01tkqy
+people*profession	m.03d29b	m.021wpb
+people*profession	m.01vhrz	m.02n9jv
+people*profession	m.01m1dzc	m.0gbbt
+influence*influence_node	m.01h2_6	m.07ym0
+people*profession	m.02t0n9	m.01b30l
+people*profession	m.04d_mtq	m.0np9r
+people*profession	m.01d6jf	m.04f2zj
+influence*influence_node	m.06myp	m.0j3v
+people*profession	m.01j5ws	m.01kyvx
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.033kqb
+people*profession	m.026m0	m.0dxtg
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.07c404
+people*profession	m.028r4y	m.0mbx4
+influence*influence_node	m.02whj	m.01vvy
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.046br4
+people*profession	m.03n93	m.064xm0
+people*profession	m.0180w8	m.03lgtv
+people*profession	m.07r4c	m.0gbbt
+people*profession	m.012q4n	m.016z4k
+music*instrument	m.05148p4	m.0kzy0	m.01679d
+sports*sport	m.0356lc	m.02ck1	m.03f0fp	m.04_cdd	m.065zf3p
+people*profession	m.01lvzbl	m.0gbbt
+sports*sport	m.0356lc	m.02ck1	m.02sdk9v	m.04_cdd	m.01p_ng
+people*profession	m.0b455l	m.05z96
+sports*sport	m.07y9k	m.02ck1	m.02nzb8	m.04_cdd	m.05glrg
+sports*sport	m.07y9k	m.02ck1	m.02_j1w	m.04_cdd	m.0y9j
+people*profession	m.03xpsrx	m.0g7nc
+influence*influence_node	m.014z8v	m.0cj2w
+sports*sport	m.07y9k	m.02ck1	m.0dgrmp	m.04_cdd	m.02b1jf
+music*instrument	m.0d8lm	m.02l_7y	m.02k856
+influence*influence_node	m.053yx	m.06c44
+influence*influence_node	m.018fq	m.043tg
+sports*sport	m.0356lc	m.02ck1	m.02nzb8	m.04_cdd	m.01kkk4
+people*profession	m.0kbn5	m.0kyk
+people*profession	m.08vr94	m.0mbx4

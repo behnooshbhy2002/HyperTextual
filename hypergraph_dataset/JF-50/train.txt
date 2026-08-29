@@ -1,0 +1,3524 @@
+soccer.football_disciplinary_action	027dd2s	0c1q83k
+base.schemastaging.athlete_salary	06l22	02l6h	02q9pvv
+location.partial_containment_relationship	06bnz	06zpgq3
+soccer.football_player_match_participation	040pyq	04x3l1	0c1q89k
+basketball.basketball_player_stats	0802lk	07chj3	0jm3v
+base.schemastaging.phone_sandbox	02h40lc	0rymjp3	07ssc	0pl4nlv
+soccer.football_player_match_participation	01l3wr	06n0nr	0c1sttd
+american_football.game_rushing_statistics	03h308s	0792tp7
+baseball.baseball_team_stats	02h7sd3	01ypc
+travel.travel_destination_monthly_climate	02h6_6p	04w_7
+user.tsegaran.random.taxonomy_entry	0gyh	04n6k
+basketball.basketball_player_stats	08hplf	081chb	0jmcb
+basketball.basketball_player_stats	08rm43	04wf0f	0jmcv
+basketball.basketball_player_stats	08s093	04l1yc	0jm3v
+baseball.baseball_team_stats	0411101	01d5z
+american_football.game_passing_statistics	0cwhxj	07dlqh1
+music.recording_contribution	07r4c	0_sv_90	0jczf
+base.schemastaging.phone_sandbox	06nm1	0fxkpc	09c7w0	0pl4nm4
+basketball.basketball_player_stats	08mdhv	05jdrp	0jmm4
+tennis.tennis_tournament_championship	0mmmt	09nj1x
+american_football.player_receiving_statistics	04y6_qr	0cx7gx
+base.schemastaging.phone_sandbox	02h40lc	04wyr	0d6lp	0pl4nkj
+music.recording_contribution	05sny44	05148p4	05sny6t
+basketball.basketball_player_stats	08mdhv	05f596	0jm8l
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	02j71	0pl4nkj
+organization.organization_membership	016zwt	0841c
+american_football.game_rushing_statistics	03d2btm	07dltqm
+soccer.football_player_substitution	0867jz	0c1nbtv	0fmks6
+base.schemastaging.phone_sandbox	02h40lc	05rsv2	0ctw_b	0t4tr1y
+american_football.game_rushing_statistics	0cjp42	07dlq1c
+american_football.player_receiving_statistics	03gqdq7	09b252
+base.marchmadness.ncaa_tournament_seed	05h97_z	0b_72t
+american_football.game_rushing_statistics	07l8mg	07dlqsx
+film.film_cut	09c7w0	0jqn5
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5t3
+soccer.football_player_match_participation	03z8bw	02rrkkn	0c1fy14
+tennis.tennis_match	02qzkdv	012xcl	06148c
+basketball.basketball_player_stats	08030z	04vvpr	0jmm4
+soccer.football_player_match_participation	040pyq	07sq1s	0c1d2xp
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_71r
+base.schemastaging.phone_sandbox	083tk	01f37c	07ssc	0pl4nkj
+basketball.basketball_player_stats	09gnpl	0g1xgk	0jmk7
+military.military_service	0c1wycn	0130xz	0chtrwn	01ssgq
+soccer.football_player_match_participation	035qgm	0g3b2m	0c441bl
+travel.travel_destination_monthly_climate	0fhp9	0ll3
+base.marchmadness.ncaa_tournament_seed	02qn723	0b_6fv
+organization.organization_membership	02k1b	04k4l
+american_football.game_rushing_statistics	05v9rg	07dlmr6
+tennis.tennis_tournament_championship	0l6c9	05zf7w
+soccer.football_player_match_participation	0329r5	079j56	0c1fzw8
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_687
+base.marchmadness.ncaa_tournament_seed	05gnpfq	0b_5tt
+tennis.tennis_tournament_championship	062psk	04t92
+base.schemastaging.phone_sandbox	064_8sq	04yf8tq	0d060g	0pl4nkj
+tennis.tennis_tournament_championship	0p58j	032wxm
+music.recording_contribution	065jx5	026t6	085qvk
+base.schemastaging.phone_sandbox	04306rv	047m52	04g61	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0q52p9g	02j71	0pl4nkj
+american_football.game_rushing_statistics	02qwkw2	079232c
+base.marchmadness.ncaa_tournament_seed	02pzy52	0b_72t
+base.schemastaging.phone_sandbox	02h40lc	0pxmj5b	09c7w0	0pl4nkj
+travel.travel_destination_monthly_climate	04x5l8	05lf_
+american_football.player_receiving_statistics	04y6_qr	07_c_f
+basketball.basketball_player_stats	099bj0	013834	0jmdb
+travel.travel_destination_monthly_climate	05ywg	0lkm
+basketball.basketball_player_stats	09fwcb	0278_sc	0bwjj
+tennis.tennis_tournament_championship	085p0g	06tbzd
+base.schemastaging.phone_sandbox	02h40lc	0352k1	07ssc	0pl4nkj
+american_football.player_receiving_statistics	04y6_qr	08_nmx
+american_football.game_rushing_statistics	097yk7	0793b4v
+soccer.football_player_match_participation	040pyq	03qkv8f	0c1d2xp
+american_football.game_passing_statistics	021h8y	0792b2b
+american_football.game_rushing_statistics	04pwwd	07dlr5_
+base.marchmadness.ncaa_tournament_seed	02qvh2s	0b_6lb
+basketball.basketball_player_stats	080bhx	04vvpr	0jm9w
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6hl
+base.marchmadness.ncaa_tournament_seed	05gzwx4	0b_687
+basketball.basketball_player_stats	08rm43	08j_dc	0jmdb
+film.film_cut	0345h	0cqt8p
+soccer.football_player_match_participation	0329r5	04z74h	0cc33g2
+travel.travel_destination_monthly_climate	05l64	0ll3
+film.film_cut	07ssc	0274q34
+american_football.player_receiving_statistics	04y6_qr	05zxqgp
+basketball.basketball_player_stats	0994_r	08y560	0jmj7
+film.film_cut	0d060g	047bx4_
+basketball.basketball_player_stats	0993hq	02rl4t3	0bwjj
+american_football.player_passing_statistics	0bmps_	04y6_qr
+american_football.game_passing_statistics	04pwwd	0792p8p
+freebase.list_entry	06mzp	05dff5n
+american_football.game_rushing_statistics	09pf2l	0792sht
+soccer.football_player_match_participation	02w64f	0fmjtt	0cc33h6
+user.ungzd.default_domain.eurovision_vote	04v3q	04g61
+sports.sports_award	08mdhv	01l_v5	0jmfb	031mv0
+american_football.game_rushing_statistics	02qw8dk	0791ys4
+user.szaijan.fantasy_football.projection	02sj2gw	04pl48	02sjlml
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6zk
+american_football.game_passing_statistics	01xyt7	07dlm58
+basketball.basketball_player_stats	080kw1	02ypm4	0jmfb
+basketball.basketball_player_stats	09bjp8	05jlfq	0jmdb
+organization.organization_membership	0163v	07t65
+soccer.football_player_match_participation	01l3wr	0gccsb	0c0lq5j
+american_football.game_rushing_statistics	05dcr4	0791w6f
+location.partial_containment_relationship	081yw	06z1j
+american_football.game_rushing_statistics	0bnks5	07dlrb3
+base.marchmadness.ncaa_tournament_seed	03d9fwn	0b_6zk
+film.film_cut	0345h	09sgmx
+american_football.player_passing_statistics	08_6dw	03gqdq7
+travel.travel_destination_monthly_climate	0f04v	040fv
+american_football.game_rushing_statistics	04m4kj	07dlrhq
+soccer.football_player_match_participation	02bh_v	03_77y	0c1lvg1
+american_football.game_rushing_statistics	033t8w	07dlpvl
+american_football.game_rushing_statistics	093lw4	07dlt77
+base.marchmadness.ncaa_tournament_seed	02qcz16	0bz_k3
+american_football.game_rushing_statistics	03hgggd	07dln7n
+basketball.basketball_player_stats	08vg9r	02wcw58	0jm2v
+american_football.game_passing_statistics	097yk7	0793c38
+soccer.football_player_match_participation	01l3wr	0288mw0	0c0lq5j
+tennis.tennis_tournament_championship	012xcl	02vqxj2
+basketball.basketball_player_stats	0994_r	0260xzl	0jm7n
+organization.organization_membership	0154j	02t63
+tennis.tennis_match	06vbnj	012xcl	07k8t6
+sports.sports_award	07j1pw	02jyt3	0jm8l	031mv0
+tennis.tennis_tournament_championship	04hg0j	0hdr
+tennis.tennis_match	047pdkl	012xcl	0gvrwv9
+baseball.baseball_team_stats	025ygqm	0x2p
+basketball.basketball_player_stats	095_24	08gzjb	0jml5
+american_football.player_receiving_statistics	04y6_qr	0cx4kg
+american_football.game_rushing_statistics	0gnb8t	0791ns0
+travel.travel_destination_monthly_climate	0156q	02xx5
+soccer.football_player_match_participation	040whs	04n3f76	0c44h17
+tennis.tennis_match	0j26qjc	012xcl	065_6qg
+basketball.basketball_player_stats	08w956	0219kb	0bwjj
+base.petbreeds.dog_city_relationship	02kw9d	02cl1
+travel.travel_destination_monthly_climate	056_y	040fv
+base.petbreeds.dog_city_relationship	01llgk	01_d4
+base.schemastaging.phone_sandbox	02h40lc	010gk15m	035qy	0pl4nkj
+music.group_membership	0l14j_	05b4t66	01r0m_m
+soccer.football_player_match_participation	03d8m4	0d58wf	0c20gf3
+baseball.baseball_team_stats	04110rw	01d5z
+user.tsegaran.random.taxonomy_entry	02k1b	04n6k
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0b_6q5
+tennis.tennis_tournament_championship	0l6c9	06vfrq
+american_football.game_passing_statistics	05txyj	075rsc8
+basketball.basketball_player_stats	080kw1	03ld05	0jmjr
+base.marchmadness.ncaa_tournament_seed	0ll2vw3	0b_77q
+basketball.basketball_player_stats	09bjp8	0bm98m	0jm7n
+baseball.baseball_team_stats	02h7s3p	0x2p
+base.schemastaging.phone_sandbox	06nm1	0pyrhmg	0d060g	0pl4nkj
+basketball.basketball_player_stats	08hplf	08lcr5	0jm4v
+music.group_membership	02hnl	05b4t66	01r0m_m
+basketball.basketball_player_stats	09drlt	0457pz	0bwjj
+american_football.player_receiving_statistics	04y6_qr	04ljp5
+basketball.basketball_team_stats	096mjy	0jmk7
+soccer.football_player_match_participation	01352_	04dc7f	0c6qzxm
+soccer.football_player_match_participation	02w64f	06mmrh	09v2l34
+american_football.game_rushing_statistics	08_5y5	0793jjj
+american_football.game_passing_statistics	030bdd	07dlssm
+american_football.player_receiving_statistics	04y6_qr	0gnb8t
+american_football.game_passing_statistics	0cv72h	0791w6f
+tennis.tennis_match	015z4j	0mmmt	016cff
+organization.organization_membership	05r4w	018cqq
+american_football.game_rushing_statistics	04q2l4	0793sfm
+award.ranking	04p81wm	03tl01
+user.tsegaran.random.taxonomy_entry	01ls2	04n6k
+baseball.baseball_team_stats	041110t	01ypc
+american_football.game_rushing_statistics	02qdp4v	0793bd6
+basketball.basketball_player_stats	09jfdf	0d001w	0jmnl
+base.schemastaging.phone_sandbox	01jb8r	0d7pp	05v8c	0pl4nkj
+tennis.tennis_tournament_championship	0l6c9	09n70c
+american_football.game_rushing_statistics	026chnm	07dlr8k
+music.recording_contribution	015882	0l156k	05q65lz
+organization.organization_membership	03188	07t65
+sports.sports_team_coach_tenure	047vnfs	011v3
+american_football.player_receiving_statistics	04y6_qr	07v6mj
+travel.travel_destination_monthly_climate	0f2rq	06vkl
+american_football.game_rushing_statistics	0gnb8t	0791l5r
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_6x2
+american_football.player_passing_statistics	0cv72h	03gqdq7
+base.schemastaging.athlete_salary	01y49	09nqf	043jp1_
+american_football.game_rushing_statistics	0746cp	0791yhq
+base.schemastaging.phone_sandbox	02h40lc	06w58cc	0chghy	0pl4nkj
+basketball.basketball_player_stats	096mjy	05m4cz	0jm5b
+tennis.tennis_match	027q1_3	0mmmt	09n70c
+american_football.game_rushing_statistics	06m553	0793g9k
+organization.organization_membership	016zwt	086_f
+basketball.basketball_player_stats	08vg9r	04pq94	0jm8l
+soccer.football_player_match_participation	02w64f	04w6xn	0cc33h6
+base.schemastaging.athlete_salary	05g3v	09nqf	025_l20
+soccer.football_player_substitution	07tfzz	0cbx_tf	04w6xn
+base.bioventurist.bv_investment_round	02gwv73	028951g	04kywc0	09nqf
+american_football.game_rushing_statistics	043mhm7	07dlmy5
+user.tsegaran.random.taxonomy_entry	026mj	04n6k
+basketball.basketball_player_stats	09bjp8	0g927d	0jm64
+american_football.game_rushing_statistics	095x71	0793vcm
+base.schemastaging.phone_sandbox	02h40lc	049g92	07ssc	0pl4nm4
+baseball.baseball_team_stats	041108x	01d5z
+american_football.game_passing_statistics	097hft	0792v6q
+basketball.basketball_player_stats	09068d	08lnq6	0jml5
+music.recording_contribution	01tmnnv	0l14md	05q65lz
+basketball.basketball_player_stats	09ndwd	03n52x	02kbcrn
+award.hall_of_fame_induction	05nf30	02h664x	0k89p
+tennis.tennis_tournament_championship	04wbkq	0dwhy
+american_football.game_passing_statistics	04nprb	07dlqcz
+tennis.tennis_tournament_championship	012xcl	07k8t6
+basketball.basketball_team_stats	080kw1	0jmk7
+american_football.game_rushing_statistics	07yzk2	0793cl4
+military.military_service	0c1wycn	0130xz	0chtrwn	0c0kxqp
+base.schemastaging.phone_sandbox	02h40lc	0qs1q05	01_9dh	0pl4nkj
+user.szaijan.fantasy_football.projection	02sj2gw	0268hvl	02sjlml
+travel.travel_destination_monthly_climate	0k3p	05cw8
+soccer.football_player_match_participation	02ltg3	038ps1	0c22yrt
+base.schemastaging.phone_sandbox	02h40lc	021wy4	09c7w0	0pl4nm4
+tennis.tennis_match	08mjqg	062ptd	051q39
+user.tsegaran.random.taxonomy_entry	01b61	04n6k
+american_football.game_rushing_statistics	06m553	0793hh5
+film.film_cut	0345h	0g66kb
+basketball.basketball_player_stats	096z30	01ft64	0jm3v
+american_football.game_rushing_statistics	027dqmw	0793ggx
+soccer.football_player_match_participation	03yl2t	09g8q9c	0c20hwx
+american_football.game_rushing_statistics	0265q8d	07dlspd
+user.tsegaran.random.taxonomy_entry	06c0j	04n6k
+american_football.game_rushing_statistics	0cz6kk	0791ys4
+basketball.basketball_player_stats	08hplf	0bnttl	0jm2v
+travel.travel_destination_monthly_climate	0cv3w	040fv
+soccer.football_player_match_participation	02ltg3	073kk7	0cc33g2
+american_football.game_rushing_statistics	05txyj	0792fc1
+american_football.game_passing_statistics	03qjjff	0791pf0
+basketball.basketball_player_stats	08w956	084vjz	0jm4v
+tennis.tennis_tournament_championship	0p58j	0281b7_
+base.marchmadness.ncaa_tournament_seed	0h94g77	0b_6q5
+user.szaijan.fantasy_football.projection	02sj2gw	05y80m	02sjlml
+organization.organization_membership	0d060g	05yg8kx
+tennis.tennis_match	0gy0f1d	0mmmt	02plk76
+user.tsegaran.random.taxonomy_entry	087vz	04n6k
+baseball.baseball_team_stats	02h7r_y	05xvj
+soccer.football_disciplinary_action	0cz6n9	0c22yrt
+sports.sports_award	0dsb05	02lm0t	0bwjj	031mv0
+soccer.football_player_substitution	0288mw0	0c0lq5j	0g0_l4
+basketball.basketball_player_stats	09bjp8	08y5d0	0h1fsjh
+soccer.football_player_match_participation	02bh_v	05kwfs	0c1smtr
+baseball.baseball_team_stats	04110t8	01ypc
+music.recording_contribution	027dpx	026t6	01qdd4_
+tennis.tennis_tournament_championship	0p58j	05b0n6j
+base.schemastaging.phone_sandbox	064_8sq	0pyt3h5	0d060g	0pl4nkj
+tennis.tennis_match	0ds3tfq	012xcl	0czb0m0
+baseball.baseball_team_stats	02h7s28	061xq
+american_football.player_passing_statistics	04q06_	04y6_qr
+basketball.basketball_player_stats	08hn_f	02kwhq	0jm7n
+american_football.game_rushing_statistics	095c1c	0791x2l
+american_football.game_rushing_statistics	0gnb8t	07dlmc3
+base.schemastaging.phone_sandbox	02h40lc	0sg9r2q	03rt9	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6zk
+american_football.game_passing_statistics	04pwwd	07dlpxz
+base.schemastaging.phone_sandbox	02h40lc	0pv_lt2	09pmkv	0pl4nkj
+basketball.basketball_player_stats	080bhx	069ggg	0jmcb
+soccer.football_player_match_participation	03d8m4	0d58zz	0c22yr_
+base.marchmadness.ncaa_tournament_seed	02qsymk	0b_72t
+american_football.player_receiving_statistics	04y6_qr	02zb5gw
+tennis.tennis_tournament_championship	0l6c9	0dptk_
+american_football.game_rushing_statistics	02zb5gw	07dlmx7
+music.recording_contribution	05sny3q	026t6	05sny5k
+base.schemastaging.phone_sandbox	02h40lc	02pn52z	02j71	0pl4nlh
+tennis.tennis_tournament_championship	047cdjj	02pk7tf
+tennis.tennis_match	0g57r8l	012xcl	03c3sjz
+american_football.game_passing_statistics	074l06	07dlml9
+award.ranking	04p81wm	0jq9t
+tennis.tennis_tournament_championship	012xcl	06vfrq
+american_football.game_passing_statistics	097hft	07dlsjx
+organization.organization_membership	0d060g	018cqq
+organization.organization_membership	04ty8	0_2v
+base.marchmadness.ncaa_tournament_seed	02qvh2s	0bzrxn
+basketball.basketball_player_stats	08_vqd	0b71zw	0jm4v
+travel.travel_destination_monthly_climate	01f62	05lf_
+american_football.game_rushing_statistics	02q_kcw	0794ygq
+base.schemastaging.phone_sandbox	02h40lc	0bccy	0vmt	0pl4nlh
+soccer.football_player_match_participation	03z8bw	04mryd	0c1fy14
+user.tsegaran.random.taxonomy_entry	0169t	04n6k
+soccer.football_player_match_participation	033nzk	04dzypj	0c1q8nb
+olympics.olympic_athlete_affiliation	07ssc	01clcs	0jdk_
+base.marchmadness.ncaa_tournament_seed	0j65xwr	0b_6mr
+baseball.baseball_team_stats	02h7s78	01ypc
+american_football.game_passing_statistics	04mmw5	07dlm62
+base.schemastaging.phone_sandbox	02h40lc	0rqcg8w	07bcn	0pl4nkj
+baseball.baseball_team_stats	02h7s9g	01yhm
+tennis.tennis_tournament_championship	0l6c9	0d68f6
+soccer.football_player_substitution	06zwl_	0cbx_t6	04gr3y_
+baseball.baseball_team_stats	02h7s52	051vz
+base.schemastaging.phone_sandbox	02h40lc	0fxkpc	02j71	0pl4nkj
+soccer.football_player_match_participation	01l3wr	06zwl_	0c0mdpq
+basketball.basketball_player_stats	09bjp8	02r95zb	0jm64
+baseball.baseball_team_stats	02h7s23	05xvj
+baseball.baseball_team_stats	02h7s3j	01yhm
+basketball.basketball_player_stats	095wtg	08kzs9	0jm3v
+american_football.player_receiving_statistics	04y6_qr	05sjvf
+american_football.game_rushing_statistics	027fcy	0791p46
+soccer.football_player_match_participation	02pp1	06h83q	0c1m0g3
+sports.sports_team_coach_tenure	02md_2	0bwjj
+organization.organization_membership	06npd	01rz1
+user.tsegaran.random.taxonomy_entry	06mnr	04n6k
+base.marchmadness.ncaa_tournament_seed	05g1p9j	0bzrxn
+organization.organization_membership	06t2t	0_2v
+travel.travel_destination_monthly_climate	02_9n	040fb
+baseball.baseball_team_stats	041111k	01d5z
+baseball.baseball_team_stats	03d4p81	01ypc
+award.hall_of_fame_induction	05r5c4	0bjcgyv	0k89p
+base.marchmadness.ncaa_tournament_seed	03c7mcj	0b_6lb
+american_football.player_receiving_statistics	03gqdq7	08vn8p
+user.tsegaran.random.taxonomy_entry	027jk	04n6k
+basketball.basketball_player_stats	09nf59	05ndy1	0239hyt
+basketball.basketball_player_stats	09nbp4	02ryq1h	0jm8l
+user.tsegaran.random.taxonomy_entry	07dv8	04n6k
+travel.travel_destination_monthly_climate	030qb3t	040fv
+american_football.game_passing_statistics	02x6lw	07dls2m
+basketball.basketball_historical_coach_position	0jmj7	08lhhp
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_6fh
+base.schemastaging.athlete_salary	02896	09nqf	07vy9h
+american_football.player_passing_statistics	03k7k8	04y6_qr
+base.schemastaging.phone_sandbox	02h40lc	0bccy	0gyh	0pl4nm4
+base.schemastaging.phone_sandbox	064_8sq	04j9t_	052p7	0pl4nkj
+soccer.football_disciplinary_action	047pb4k	0c22yr_
+tennis.tennis_match	0b3027	012xcl	02pk7tf
+base.marchmadness.ncaa_tournament_seed	02qcz16	0b_6lb
+base.schemastaging.phone_sandbox	02bv9	0qj5wgd	02j71	0pl4nkj
+baseball.baseball_team_stats	02qmmv6	01ypc
+base.schemastaging.phone_sandbox	02h40lc	015p1m	07ssc	0pl4nlh
+american_football.game_rushing_statistics	07l8mg	07dlmcz
+american_football.game_rushing_statistics	04nt4c	07927r7
+freebase.list_entry	07mvp	05bvj4h
+soccer.football_player_match_participation	02s9vc	027nj5_	0c44msd
+tennis.tennis_tournament_championship	062pbc	03pf0c
+american_football.player_receiving_statistics	03gqdq7	0gznlq
+base.schemastaging.phone_sandbox	02h40lc	05k4k	0chgr2	0pl4nm4
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_77q
+location.location_symbol_relationship	07srw	04627gn
+organization.organization_membership	0jgd	07t65
+tennis.tennis_match	0dl46b	0p58j	02w8pmb
+travel.travel_destination_monthly_climate	080h2	04w_7
+baseball.baseball_team_stats	02h7sbd	05kmnv1
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_734
+american_football.player_passing_statistics	07bthc	04y6_qr
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_6v_
+american_football.game_rushing_statistics	0cfqy0	07dlm7n
+user.tsegaran.random.taxonomy_entry	0jdx	04n6k
+soccer.football_player_match_participation	0329r5	03g66x	0c0lq5j
+soccer.football_player_match_participation	03_qrp	025zgjt	0c1nbtv
+basketball.basketball_player_stats	08s093	08j_dc	0jm7n
+tennis.tennis_tournament_championship	062psk	022skn
+base.petbreeds.dog_city_relationship	016wfy	0d9jr
+film.film_cut	0jgd	02q88q8
+soccer.football_player_match_participation	03d8m4	083xpw	0c1q83k
+american_football.game_passing_statistics	027jv8	0792kl6
+american_football.player_receiving_statistics	03gqdq7	06_612
+soccer.football_player_match_participation	03_qj1	0krwpr	0c44msd
+american_football.player_receiving_statistics	04y6_qr	06599l
+basketball.basketball_player_stats	09nb8x	0bk85l	0jm8l
+music.group_membership	05148p4	0kp3dql	01np9cb
+soccer.football_disciplinary_action	02rwsr2	0cb4z8g
+olympics.olympic_athlete_affiliation	09c7w0	02_nkp	0kbvb
+baseball.baseball_team_stats	02h7sbd	061xq
+american_football.game_rushing_statistics	0272kym	07dlvgl
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_675
+tennis.tennis_match	0kt66z	012xcl	0ddcm56
+organization.organization_membership	07ssc	01rz1
+soccer.football_player_match_participation	02s9vc	025vh2	0c1stt5
+basketball.basketball_player_stats	08mdhv	01gcq3	0jm74
+american_football.game_rushing_statistics	03cy5lk	07dltl0
+tennis.tennis_tournament_championship	0l6c9	09gj98
+basketball.basketball_player_stats	0993hq	053v74	0jmj7
+american_football.game_rushing_statistics	0cv72h	0791w6f
+film.film_cut	015fr	02q88q8
+music.group_membership	018vs	0118qxkx	03pz1q
+base.marchmadness.ncaa_tournament_seed	026xxv_	0bzrsh
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_77q
+american_football.game_rushing_statistics	04mmw5	07929vd
+soccer.football_player_match_participation	03y_f8	086nc1	0c1m0c5
+soccer.football_player_match_participation	01l3wr	02vsll9	0cbx_t6
+soccer.football_player_match_participation	03xh50	026m8t9	0c1nbsz
+baseball.baseball_team_stats	04110rh	01ypc
+soccer.football_player_match_participation	032hmd	07qz1r	0c1q83k
+base.schemastaging.athlete_salary	05tg3	09nqf	07fgn7
+base.petbreeds.dog_city_relationship	02cj3	02_286
+base.schemastaging.phone_sandbox	02h40lc	0s81qk0	02j9z	0pl4nkj
+american_football.player_receiving_statistics	04y6_qr	06zbf_
+base.schemastaging.sports_league_season_ranking	0r4lcdl	0266bd5
+base.marchmadness.ncaa_tournament_seed	0gwxr6	0bqthy
+base.schemastaging.athlete_salary	03wnh	09nqf	026jqbb
+location.partial_containment_relationship	0345h	0b6mbw2
+american_football.player_receiving_statistics	04y6_qr	0855sw
+american_football.game_rushing_statistics	08gf9t	07dlppz
+soccer.football_player_match_participation	02s9vc	044mt0	0c0lv1g
+american_football.game_passing_statistics	03qjjff	0791x2l
+basketball.basketball_player_stats	09nb8x	01tp1l	0f8d1k
+baseball.baseball_team_stats	02h7s9g	01d5z
+american_football.game_passing_statistics	01xyt7	07dlmst
+film.film_cut	03rjj	0gf7x4c
+basketball.basketball_player_stats	08rm43	073_zn	0jmbv
+user.szaijan.fantasy_football.projection	02sj2gw	04d4zv	02sjlml
+soccer.football_disciplinary_action	0b__ct	0c0xqws
+basketball.basketball_player_stats	09nbp4	07y0nk	0bwjj
+soccer.football_player_substitution	027snb6	0c1m0g3	04y74d4
+basketball.basketball_player_stats	08hplf	08l3qw	0bwjj
+base.marchmadness.ncaa_tournament_seed	0hrfhrm	0bzrb9
+base.schemastaging.athlete_salary	02c_4	09nqf	0bmqgn
+tennis.tennis_tournament_championship	0p58j	01cgs0
+basketball.basketball_player_stats	09068d	08gzjb	0jml5
+tennis.tennis_match	02xjlj	062psk	01ym2x
+american_football.game_rushing_statistics	04ljjn	07951ds
+organization.organization_membership	03rj0	07xvv
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6mr
+soccer.football_player_match_participation	03_qj1	05l7zc	0c0mdph
+tennis.tennis_tournament_championship	047cdjj	05t18k
+american_football.game_rushing_statistics	05cb70	07dlssm
+basketball.basketball_player_stats	09068d	07_s1w	0jmbv
+travel.travel_destination_monthly_climate	0fhp9	05lf_
+soccer.football_player_match_participation	0329r5	026bk56	0c0lpm9
+basketball.basketball_player_stats	08hplf	08mx86	0jm2v
+music.group_membership	0342h	0280_vt	01rj_6
+american_football.game_rushing_statistics	04q06_	075rsnr
+tennis.tennis_tournament_championship	04hg0j	0dphmc
+soccer.football_player_substitution	03hnxxq	0cbx_tf	03yvsf
+travel.travel_destination_monthly_climate	01_d4	03_ly
+american_football.game_rushing_statistics	04d4zv	0792p8p
+base.schemastaging.athlete_salary	01ct6	09nqf	0d2m89
+american_football.game_rushing_statistics	09pf2l	0793zf8
+sports.sports_award	09cfcf	053tzp	0h1fsjh	02yqk8
+american_football.game_rushing_statistics	032lfz	07dltz2
+baseball.baseball_team_stats	02h7sd3	05xvj
+american_football.game_rushing_statistics	091qw1	07dlsry
+tennis.tennis_tournament_championship	012xcl	0dwhy
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6q5
+tennis.tennis_match	09gl097	012xcl	047s5q4
+base.marchmadness.ncaa_tournament_seed	05d041p	0b_6ds
+american_football.game_rushing_statistics	043kswt	079232c
+base.schemastaging.phone_sandbox	064_8sq	0cnz82z	0d060g	0pl4nm4
+basketball.basketball_player_stats	08p_89	04h7dw	0jm5b
+baseball.baseball_historical_managerial_position	01d5z	0804pk
+base.schemastaging.phone_sandbox	02h40lc	011chff0	04rrx	0pl4nkj
+american_football.player_receiving_statistics	04y6_qr	0c29nw
+travel.travel_destination_monthly_climate	0chgzm	04w_7
+travel.travel_destination_monthly_climate	030qb3t	05lf_
+american_football.player_passing_statistics	04t8z3	03gqdq7
+american_football.game_rushing_statistics	0cwmrj	079232c
+baseball.baseball_team_stats	02h7s0k	01ypc
+user.szaijan.fantasy_football.projection	02sj2gw	0gznlq	02sjlml
+basketball.basketball_player_stats	080kw1	04q4f4	0jmcb
+user.tsegaran.random.taxonomy_entry	06c97	04n6k
+base.schemastaging.phone_sandbox	01r2l	0pxkqqm	0d05w3	0pl4nkj
+music.recording_contribution	01tq77z	0l14md	0jczf
+soccer.football_player_match_participation	03_qj1	0ft1ft	0c44msd
+travel.travel_destination_monthly_climate	0f04v	03_ly
+sports.sports_team_roster	0jmk7	08jlrz
+basketball.basketball_player_stats	080kw1	08mxft	0bwjj
+base.schemastaging.athlete_salary	048xg8	02l6h	025zjfr
+american_football.player_receiving_statistics	04y6_qr	02pl7vn
+american_football.player_receiving_statistics	03gqdq7	0b8819
+basketball.basketball_player_stats	099bj0	07g5gp	0jm4b
+basketball.basketball_player_stats	0802lk	0bnttl	0jm7n
+music.recording_contribution	01w2xlq	02sgy	0dghc6f
+tennis.tennis_tournament_championship	012xcl	036vlc
+american_football.player_receiving_statistics	04y6_qr	027dqmw
+basketball.basketball_player_stats	08n6zb	0bvgm4	0jm5b
+soccer.football_player_match_participation	01l3wr	02rf301	0c0lq5j
+american_football.player_receiving_statistics	03gqdq7	0cx0zk
+location.location_symbol_relationship	026mj	04627gn
+baseball.baseball_team_stats	05lqwn5	061xq
+base.schemastaging.phone_sandbox	02h40lc	021wy4	07ssc	0pl4nmy
+baseball.baseball_team_stats	02h7s4s	05kmnv1
+film.film_cut	09c7w0	04cw9h
+american_football.game_rushing_statistics	03h5kf7	07dlt03
+soccer.football_player_match_participation	0329r5	07k63st	0cc33g2
+sports.sports_team_coach_tenure	02md_2	0j65xwr
+base.schemastaging.athlete_salary	06zpgb2	02l6h	03_y2f
+soccer.football_player_match_participation	032hmd	027gv5d	0c22yrt
+location.partial_containment_relationship	05fjf	0dtzd
+user.tsegaran.random.taxonomy_entry	0g_fl	04n6k
+soccer.football_player_match_participation	02w64f	07zp10	0c1fy1c
+american_football.game_rushing_statistics	03h5kf7	07dlt0y
+american_football.game_passing_statistics	02zh95	0791qhw
+american_football.game_rushing_statistics	0f6lqs	07dlml9
+american_football.game_rushing_statistics	097hft	0791nj3
+tennis.tennis_tournament_championship	012xcl	05rp3d
+american_football.game_rushing_statistics	02q_kcw	0793v2s
+travel.travel_destination_monthly_climate	052p7	03_ly
+base.marchmadness.ncaa_tournament_seed	02pyh9v	0b_6pv
+base.schemastaging.phone_sandbox	02h40lc	09zsgs	09c7w0	0pl4nkj
+olympics.olympic_athlete_affiliation	0d060g	0pwxr	0kbvv
+basketball.basketball_player_stats	09brkf	0d4dym	0jm9w
+basketball.basketball_player_stats	08hn_f	04wf0f	0jmcv
+american_football.game_rushing_statistics	0cwmrj	07dlqs2
+baseball.baseball_team_stats	05m2x6r	061xq
+base.schemastaging.phone_sandbox	02h40lc	0dw7n	018hr_	0pl4nkj
+tennis.tennis_tournament_championship	062pbc	07k8t6
+tennis.tennis_match	0dmyb1	012xcl	0crfybs
+travel.travel_destination_monthly_climate	052p7	02xx5
+american_football.game_passing_statistics	07hx6h	0793vrh
+music.recording_contribution	066tmc	0l14md	02q1xk9
+american_football.game_rushing_statistics	0cwhxj	07925lf
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_6h7
+baseball.baseball_team_stats	02h7s8p	0x2p
+tennis.tennis_match	02z39y1	012xcl	02z88kz
+soccer.football_player_match_participation	02rqxc	0f8qdm	0c1d2xp
+base.petbreeds.dog_city_relationship	02kfwr	02frhbc
+tennis.tennis_match	07nvr4	062pbc	07k8t6
+organization.organization_membership	03rjj	02t63
+soccer.football_disciplinary_action	0dclp1	0c1fy1c
+american_football.game_passing_statistics	05nb4t	07dlm6x
+sports.sports_team_coach_tenure	05l1ktd	03yfh3
+soccer.football_player_match_participation	02ltg3	0gf47m	0c1nbsz
+soccer.football_player_match_participation	02ltg3	08w78j	0cb4z8g
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_72t
+tennis.tennis_tournament_championship	0l6c9	08nl19
+base.schemastaging.phone_sandbox	02h40lc	01_h5j	0chgr2	0pl4nm4
+american_football.game_rushing_statistics	027dqmw	079254x
+tennis.tennis_tournament_championship	0p58j	0c7dg1
+olympics.olympic_medal_honor	0jdk_	09c7w0	04dz2gj	02r_dxn
+american_football.player_receiving_statistics	04y6_qr	0cmld3
+basketball.basketball_player_stats	09n4bz	08gz6c	0jmk7
+base.marchmadness.ncaa_tournament_seed	091tgz	0bzrb9
+base.schemastaging.phone_sandbox	02h40lc	02pn52z	0d060g	0pl4nm4
+american_football.game_passing_statistics	074l06	07dlm9d
+soccer.football_player_match_participation	0329r5	07k4dgf	0c43z58
+soccer.football_player_match_participation	02rqxc	0f7t5m	0c44h1j
+base.schemastaging.sports_league_season_ranking	0r4lcdl	0bg4f9
+soccer.football_player_match_participation	03_qrp	04t5ww	0c1nbtv
+soccer.football_player_match_participation	02w64f	026n047	0cbx_tf
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_5rc
+tennis.tennis_tournament_championship	0p58j	02x014z
+basketball.basketball_player_stats	09jfdf	08n1f1	0jm8l
+american_football.player_receiving_statistics	04y6_qr	06hh0x
+sports.sports_team_roster	0jmfv	02hf9k
+american_football.game_rushing_statistics	02z5l63	07dln7n
+basketball.basketball_player_stats	080b2d	04w3p_	02z8z6
+american_football.game_rushing_statistics	02qdp4v	07dlryw
+sports.sports_team_coach_tenure	02md_2	051q5
+music.group_membership	0290ngj	02qz4y_	01b29
+base.marchmadness.ncaa_tournament_seed	0579h0q	0b_6hl
+soccer.football_player_match_participation	03d8m4	084981	0c1q83k
+travel.travel_destination_monthly_climate	03902	028kb
+base.schemastaging.phone_sandbox	02h40lc	0qj8lr9	03zvnf	0pl4nkj
+user.tsegaran.random.taxonomy_entry	0qb7t	04n6k
+american_football.game_rushing_statistics	03hgggd	07dln6s
+soccer.football_player_substitution	04_0gkk	0cbx_t6	05zqzdf
+basketball.basketball_player_stats	08p_89	0dszjs	0jmbv
+baseball.baseball_team_stats	041111k	061xq
+american_football.game_passing_statistics	097hft	07dlt2j
+tennis.tennis_tournament_championship	0p58j	06dqw8
+soccer.football_player_match_participation	01352_	05fct1	0c44h1j
+american_football.player_receiving_statistics	03gqdq7	0443dj
+soccer.football_player_match_participation	02ltg3	02ppw24	0c22yrt
+tennis.tennis_match	047s5q4	012xcl	02w3812
+travel.travel_destination_monthly_climate	0g6xq	05lf_
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5rc
+location.partial_containment_relationship	0d060g	0dpk_
+soccer.football_player_match_participation	01l3wr	04gr3y_	0c1srnw
+american_football.game_passing_statistics	0cjcdj	0791ys4
+travel.travel_destination_monthly_climate	02h6_6p	05lf_
+american_football.game_rushing_statistics	07fgn7	07dlrnr
+base.schemastaging.phone_sandbox	02h40lc	0hsgc	0d060g	0pl4nkj
+base.schemastaging.athlete_salary	0hvgt	02l6h	06mmrh
+organization.organization_membership	035qy	03y48
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_77q
+american_football.game_rushing_statistics	0cv72h	0791td4
+soccer.football_player_substitution	0866z1	0c1srnw	025zgjt
+music.recording_contribution	09ghwvt	026t6	01jgmtb
+user.szaijan.fantasy_football.projection	02sj2gw	066r46	02sjlml
+american_football.player_passing_statistics	0cjcdj	04y6_qr
+basketball.basketball_player_stats	07_x8s	07cgyv	0jmk7
+soccer.football_goal	025zjfr	0c1smtr	02bh_v
+music.recording_contribution	09l39p	026t6	0czvp3
+american_football.player_receiving_statistics	03gqdq7	0cwmrj
+baseball.baseball_historical_managerial_position	01ypc	02_tp5
+music.group_membership	07brj	03bxwtd	02q3w3v
+base.schemastaging.phone_sandbox	02h40lc	05rsv2	07ssc	0t4tr1y
+american_football.game_rushing_statistics	021h8y	0793hpk
+american_football.game_rushing_statistics	04q2l4	07945t4
+organization.organization_membership	0d060g	03m6lb
+olympics.olympic_athlete_affiliation	06bnz	038ngr	0kbvv
+american_football.game_rushing_statistics	06m553	07dlm62
+basketball.basketball_historical_coach_position	01k8vh	05r68c
+user.tsegaran.random.taxonomy_entry	04hzj	04n6k
+american_football.game_rushing_statistics	06zbf_	07dlm62
+olympics.olympic_athlete_affiliation	0f8l9c	0dzs62	06sks6
+tennis.tennis_tournament_championship	0p58j	0b4nf0
+baseball.baseball_team_stats	04110lg	061xq
+soccer.football_player_substitution	05l_8j	0c20hwx	03hhcvk
+soccer.football_player_substitution	04zwrk3	0c44h17	04zy73m
+tennis.tennis_tournament_championship	04hg0j	01ckb6
+soccer.football_player_match_participation	02w64f	07j7dy	0c1q8n1
+american_football.player_receiving_statistics	04y6_qr	08j3hr
+film.film_cut	0jgd	03xfgb
+base.schemastaging.phone_sandbox	03_9r	03c3vj4	03_3d	0pl4nkj
+basketball.basketball_player_stats	09n15l	08mw_2	0jm8l
+basketball.basketball_player_stats	07j1pw	06j3_9	0jmj7
+soccer.football_player_match_participation	03ylxn	02k0qr	0c441bw
+soccer.football_player_substitution	0867jz	0c1srnw	04yjqf
+award.ranking	0bnqhdd	03glth
+basketball.basketball_player_stats	0dsb05	02jyt3	0jm7n
+tennis.tennis_match	03hh0w4	012xcl	07nvr4
+location.location_symbol_relationship	0156q	0462793
+aviation.airline_airport_presence	04llb	03jn4	01wyl2
+soccer.football_player_match_participation	02bh_v	027479p	0c1smtr
+user.ungzd.default_domain.eurovision_vote	04g61	04v3q
+base.schemastaging.phone_sandbox	064_8sq	0409wn	02kw88	0pl4nkj
+soccer.football_player_match_participation	0329r5	02vmxdk	0c1smtg
+basketball.basketball_player_stats	09cfcf	0gsw2f	0jml5
+soccer.football_player_match_participation	02ltg3	0gdxsz	0c22yrt
+base.schemastaging.phone_sandbox	02h40lc	0ccf7n	03h64	0pl4nkj
+tennis.tennis_match	02w7qc8	012xcl	03hh0w4
+music.group_membership	05148p4	07nw1d8	04jmmdn
+film.film_cut	09c7w0	0crzcsp
+music.recording_contribution	01wvw_w	026t6	0497nv
+basketball.basketball_player_stats	080kw1	03pfbs	0bwjj
+baseball.baseball_team_stats	041110t	01yjl
+american_football.player_receiving_statistics	03gqdq7	08_967
+sports.sports_team_roster	02s9vc	04kfrt
+american_football.game_passing_statistics	07k26_	0791vss
+baseball.baseball_team_stats	02h7sdl	01d5z
+basketball.basketball_player_stats	09068d	06smlc	0jmbv
+tennis.tennis_match	05q676f	012xcl	0j9lyr8
+american_football.game_rushing_statistics	026chnm	07dls5d
+american_football.game_passing_statistics	07k26_	07dlrb3
+soccer.football_player_match_participation	03zrhb	0ffyyw	0c0lsl1
+travel.travel_destination_monthly_climate	01lfy	05cw8
+base.marchmadness.ncaa_tournament_seed	05dxd50	0b_6q5
+basketball.basketball_player_stats	08s093	01gcq3	0jm7n
+soccer.football_player_match_participation	0cnk2q	027lbry	0c0mdpq
+music.recording_contribution	0f2zvb	03gvt	02rrtbp
+user.szaijan.fantasy_football.projection	02sj2gw	07vw51	02sjlml
+soccer.football_player_match_participation	02pp1	07k91_	0c1m0g3
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_72t
+music.recording_contribution	06j8_1	02dlh2	01hktv2
+american_football.game_rushing_statistics	05yj_0	07dlp_1
+film.film_cut	0jgd	07jpg0
+american_football.game_passing_statistics	074l06	0791yhq
+organization.organization_membership	01p8s	07t65
+travel.travel_destination_monthly_climate	0d9jr	06vkl
+location.location_symbol_relationship	0498y	04g8vjx
+base.schemastaging.phone_sandbox	06nm1	0d7pp	0jgd	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6lb
+base.schemastaging.phone_sandbox	02h40lc	0fxkpc	09c7w0	0pl4nm4
+american_football.game_rushing_statistics	027fcy	0791pf0
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6ds
+american_football.game_rushing_statistics	0cjp42	0792gq0
+soccer.football_player_match_participation	040pyq	0d761n	0c44h17
+user.szaijan.fantasy_football.projection	02sj2gw	04t8z3	02sjlml
+basketball.basketball_team_stats	09gnpl	0jmk7
+tennis.tennis_match	0835d1	012xcl	0dddzl1
+tennis.tennis_match	0c17cb	0mmmt	015z4j
+basketball.basketball_player_stats	08s093	07mmyz	0jmgb
+user.ungzd.default_domain.eurovision_vote	0154j	06mzp
+american_football.game_rushing_statistics	074l06	07924x2
+organization.organization_membership	02vk52z	06vxc9
+soccer.football_player_match_participation	0329r5	0gnsh8	0c1smtg
+film.film_cut	0jgd	0b_w5df
+user.tsegaran.random.taxonomy_entry	05rgl	04n6k
+american_football.game_rushing_statistics	04ljjn	0794ygq
+base.schemastaging.phone_sandbox	02h40lc	0313mp	07ssc	0pl4nlh
+user.szaijan.fantasy_football.projection	02sj2gw	03vxbj	02sjlml
+american_football.game_rushing_statistics	02x6lw	0793fq_
+american_football.game_passing_statistics	0cmld3	07929pq
+basketball.basketball_player_stats	080b2d	08g5p6	0jm4v
+american_football.player_receiving_statistics	03gqdq7	08ddzw
+soccer.football_player_match_participation	02ltg3	026f01y	0c20hwx
+soccer.football_player_match_participation	03zrhb	04ybt2	0c0lsl1
+music.group_membership	05148p4	03b77h	0285cy
+tennis.tennis_tournament_championship	0p58j	0svt5
+organization.organization_membership	027nb	02vk52z
+military.military_service	0c1wycn	0130xz	0chtrwn	0cl7sth
+travel.travel_destination_monthly_climate	0177z	04wzr
+soccer.football_player_match_participation	0329r5	03h5y00	0c43z58
+basketball.basketball_player_stats	09759j	08h1xg	0jmm4
+base.schemastaging.phone_sandbox	02h40lc	0sg85fj	07ssc	0pl4nkj
+organization.organization_membership	03_r3	03m6lb
+base.schemastaging.phone_sandbox	02h40lc	0352k1	07ssc	0pl4nlh
+soccer.football_player_match_participation	032hmd	06w5r1j	0c22yrt
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_6s7
+user.tsegaran.random.taxonomy_entry	083p7	04n6k
+tennis.tennis_tournament_championship	0mmmt	0j26hwg
+sports.sports_team_coach_tenure	040zjnd	0jmh7
+music.group_membership	05148p4	01vn35l	0197vy
+soccer.football_player_match_participation	02ltg3	073kk7	0cb4z8g
+american_football.game_rushing_statistics	09mmh4	07dln4p
+soccer.football_player_substitution	099vgz	0cbx_t6	027pnw2
+basketball.basketball_player_stats	095_24	0cln93	0jmjr
+organization.organization_membership	03rjj	0_6t_z8
+music.recording_contribution	05sny3q	026t6	05sny61
+soccer.football_disciplinary_action	03z2p0	0c0lv1g
+soccer.football_player_match_participation	01352_	04dc7f	0c44h1j
+olympics.olympic_athlete_affiliation	04j53	09_6p9	09n48
+american_football.game_rushing_statistics	03h4qf7	07dlsh1
+tennis.tennis_match	01qx13	0mmmt	06_247
+soccer.football_player_match_participation	035qgm	07x5y3	0c441bl
+soccer.football_player_match_participation	03d8m4	04y3d5	0cbx_tf
+american_football.player_receiving_statistics	03gqdq7	0b7t63
+freebase.list_entry	048v0j	05brldc
+soccer.football_disciplinary_action	059z7h	0c20hwx
+american_football.game_rushing_statistics	05w109	0791lwh
+film.film_cut	0jgd	03vj61
+basketball.basketball_player_stats	09bjp8	096d19	0jm9w
+tennis.tennis_tournament_championship	012xcl	0181j_
+base.marchmadness.ncaa_tournament_seed	02pr7gq	0b_6h7
+tennis.tennis_tournament_championship	0p58j	05rp3d
+base.schemastaging.phone_sandbox	02h40lc	03chr7	09c7w0	0pl4nkj
+travel.travel_destination_monthly_climate	04x5l8	0lkm
+american_football.game_rushing_statistics	0f9958	0793g1m
+tennis.tennis_match	021x9g	085p0g	01my95
+music.recording_contribution	0j1yf	0290ngj	0wdt4p0
+sports.sports_team_coach_tenure	047vnfs	02ltg3
+american_football.game_rushing_statistics	06m553	07939z8
+organization.organization_membership	0k6nt	05yg8kx
+base.marchmadness.ncaa_tournament_seed	02qvh2s	0b_77q
+basketball.basketball_player_stats	08p_89	05p26q	0jm5b
+american_football.player_receiving_statistics	03gqdq7	043m27w
+base.petbreeds.dog_city_relationship	016wkx	0d9jr
+freebase.list_entry	0bdr4z	05bv23n
+american_football.game_rushing_statistics	02w3v66	07dlswb
+american_football.game_rushing_statistics	043ljlz	07dlv3k
+tennis.tennis_match	03421p	085p0g	04d7qf
+american_football.game_rushing_statistics	03h5kf7	0793t29
+soccer.football_disciplinary_action	04fj3j	0c1lvg1
+tennis.tennis_tournament_championship	04wbkq	01kdh8
+tennis.tennis_match	03b7gw	062pyl	015z4j
+music.recording_contribution	05sny38	0290ngj	01rd6tq
+soccer.football_player_substitution	047mpth	0c1m0c5	0h2lkz
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_72t
+soccer.football_player_match_participation	03_qrp	0df3x4	0c1stt5
+american_football.game_rushing_statistics	06m553	07921tn
+american_football.game_rushing_statistics	06m553	0793g1m
+base.schemastaging.phone_sandbox	02h40lc	012t94	0chghy	0pl4nkj
+soccer.football_player_match_participation	01l3wr	08g46k	0c0lq5j
+soccer.football_player_match_participation	03_qj1	03m5rcl	0c1m0g3
+baseball.baseball_team_stats	02h7r_9	05xvj
+soccer.football_player_match_participation	03_qrp	05b5fkj	0cb4z87
+american_football.game_passing_statistics	097hft	0792ml7
+sports.sports_award	09nfx8	08gz6c	03bj3y	02yqnh
+basketball.basketball_player_stats	080sc7	07d71f	0gg69rf
+basketball.basketball_player_stats	08mdhv	020ntr	0jmm4
+freebase.list_entry	01_d4	059rl3x
+soccer.football_player_match_participation	02s9vc	02qv04_	0c44msd
+tennis.tennis_match	02q4_n8	012xcl	0g53p5j
+location.partial_containment_relationship	06mzp	02r930f
+tennis.tennis_tournament_championship	0mmmt	01ckb6
+travel.travel_destination_monthly_climate	0d6lp	02xx5
+american_football.player_receiving_statistics	04y6_qr	026vt_g
+travel.travel_destination_monthly_climate	03czqs	04wzr
+american_football.game_rushing_statistics	05yj_0	0792h4x
+american_football.game_rushing_statistics	07l8mg	0792lj_
+base.marchmadness.ncaa_tournament_seed	05gzwx4	0b_6fh
+basketball.basketball_player_stats	08w956	04pq94	0jm8l
+sports.sports_award	08s093	01dhkt	0jmh7	02yqnh
+base.represent.agent_celebrity_representation	04lgz0	06dk0p
+tennis.tennis_match	03b7gw	062pbc	09gj98
+soccer.football_player_match_participation	03_44z	0b5gqt	0c1q86p
+american_football.game_passing_statistics	033t8w	0792bwr
+basketball.basketball_player_stats	0dsb05	05_wp1	0jmbv
+american_football.game_rushing_statistics	05txyj	07dlq60
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_6h7
+music.recording_contribution	09l39p	026t6	02rrtbp
+baseball.baseball_team_stats	02h7s1z	01slc
+soccer.football_player_match_participation	033nzk	0fp7d_	0c1fy14
+american_football.game_passing_statistics	04nprb	07dlqm9
+soccer.football_player_match_participation	03y_f8	0283_6q	0c0mdp8
+american_football.player_receiving_statistics	03gqdq7	09pf2l
+user.tsegaran.random.taxonomy_entry	059_c	04n6k
+location.partial_containment_relationship	015jr	0346cy
+tennis.tennis_match	03d0lb_	012xcl	0dmy5f
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0b_72t
+baseball.baseball_team_stats	02h7s2f	05kmnv1
+music.group_membership	05148p4	0phx4	03fbc
+award.hall_of_fame_induction	04d8kz	02h664x	0k89p
+soccer.football_player_match_participation	02ltg3	026f01y	0c0xk9g
+soccer.football_player_match_participation	032hmd	0gqhz4	0c1q83k
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6x2
+base.marchmadness.ncaa_tournament_seed	0263cyj	0b_77q
+tennis.tennis_tournament_championship	062psk	0d68f6
+organization.organization_membership	04wlh	07t65
+basketball.basketball_player_stats	096z30	095nx	0jmk7
+sports.sports_award	080bhx	068vkc	0jml5	0380m_
+basketball.basketball_player_stats	09068d	01ck_1	0jm4v
+american_football.game_rushing_statistics	05zvv0f	07dlqm9
+travel.travel_destination_monthly_climate	06c62	040fb
+basketball.basketball_player_stats	08mdhv	0dqp3x	0jmmn
+tennis.tennis_match	02vqjcx	0mmmt	069d68
+music.recording_contribution	01wxg0j	0l14md	01l85zz
+american_football.game_passing_statistics	04q06_	075rsc8
+tennis.tennis_match	05zr8l9	012xcl	0cc8835
+soccer.football_player_match_participation	03d8m4	084183	0c0xkpl
+american_football.game_rushing_statistics	0268hvl	0791ms6
+american_football.game_rushing_statistics	0271d3w	07dlsry
+basketball.basketball_player_stats	08hn_f	0fkvdx	0jmcb
+tennis.tennis_match	07s76bs	012xcl	063ynts
+american_football.game_rushing_statistics	0cwhxj	0b3w6l2
+tennis.tennis_match	05b0n6j	0mmmt	02w8pmb
+basketball.basketball_player_stats	09nb8x	03n52x	025sf78
+base.schemastaging.phone_sandbox	02h40lc	08jvtd	07ssc	0pl4nmy
+american_football.game_rushing_statistics	02623bz	0793_7m
+american_football.game_rushing_statistics	067dtl	07924x2
+basketball.basketball_player_stats	09ncv9	065hl6	0f8d1k
+organization.organization_membership	059j2	02t63
+user.tsegaran.random.taxonomy_entry	04_13	04n6k
+tennis.tennis_tournament_championship	012xcl	06dqw8
+basketball.basketball_player_stats	09bjp8	08jqn8	0jm7n
+location.partial_containment_relationship	04ykg	02phsq_
+american_football.game_rushing_statistics	0cjp42	07dlmc3
+base.schemastaging.phone_sandbox	02bv9	07s921b	059j2	0pl4nkj
+tennis.tennis_tournament_championship	0mmmt	04zkmf
+american_football.player_receiving_statistics	04y6_qr	048v0j
+freebase.list_entry	0299hs	05c72w7
+american_football.game_passing_statistics	05dfhp	07dlqs2
+american_football.player_passing_statistics	0ctv7y	04y6_qr
+basketball.basketball_player_stats	095wtg	072ndz	0jmhr
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6q5
+location.partial_containment_relationship	09c7w0	0bt7c
+base.petbreeds.dog_city_relationship	02cyl6	030qb3t
+base.petbreeds.dog_city_relationship	02kfwr	0cv3w
+award.ranking	04p81wm	0fy66
+basketball.basketball_player_stats	080kw1	0dqp3x	0jm2v
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_6_l
+tennis.tennis_match	0czb0m0	012xcl	06h_fy
+soccer.football_player_match_participation	0175rc	071t_r	0h7ryrb
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_756
+american_football.game_rushing_statistics	04jj47d	07dlq6z
+basketball.basketball_player_stats	07_x8s	07chj3	0jm3v
+user.ungzd.default_domain.eurovision_vote	06mzp	03rj0
+freebase.list_entry	06c62	059rl3x
+american_football.game_rushing_statistics	091qw1	07dlshz
+american_football.game_rushing_statistics	08_967	0792vhk
+basketball.basketball_player_stats	08rm43	0d3652	0jm8l
+american_football.game_rushing_statistics	022s5y	075rs0n
+soccer.football_player_match_participation	03ylxn	02k0qr	0c0lsl8
+american_football.game_rushing_statistics	07ynx2	0793hh5
+soccer.football_player_match_participation	0329r5	0gnsh8	0c1fzw8
+music.group_membership	05148p4	072d65	02cchy
+american_football.game_passing_statistics	07k26_	07dlppz
+base.marchmadness.ncaa_tournament_seed	03d7_lc	0bzrxn
+base.marchmadness.ncaa_tournament_seed	02qg5nd	0b_77q
+freebase.list_entry	031gr8	05bv23n
+basketball.basketball_player_stats	09jxbg	01h3b9	0jm3v
+sports.sports_award	09b5jv	09r9my	0jml5	02yqnh
+soccer.football_player_match_participation	03zrhb	0ffyyw	0c441bw
+soccer.football_player_match_participation	033nzk	0ktdsl	0c1q8nb
+soccer.football_player_match_participation	03d8m4	07s3pv9	0c0xkpl
+organization.organization_membership	01xbgx	07t65
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6v_
+travel.travel_destination_monthly_climate	02cl1	06vkl
+american_football.player_receiving_statistics	03gqdq7	08vn79
+soccer.football_player_match_participation	0329r5	02py076	0c43z58
+base.schemastaging.phone_sandbox	02bv9	01rvgk	059j2	0pl4nkj
+tennis.tennis_tournament_championship	0p58j	0665mg
+american_football.game_rushing_statistics	02qxmd6	0792yg2
+american_football.player_receiving_statistics	04y6_qr	06m553
+basketball.basketball_player_stats	09b5jv	027b9l7	0jmk7
+soccer.football_player_match_participation	02ltg3	073kk7	0c1nbsz
+baseball.baseball_team_stats	0411101	01ypc
+film.film_cut	09c7w0	05z7c
+tennis.tennis_tournament_championship	085p0g	01qx13
+soccer.football_player_match_participation	02w64f	0dw60v	0c1fy1c
+travel.travel_destination_monthly_climate	05qtj	0ll3
+tennis.tennis_tournament_championship	0l6c9	03d18hl
+american_football.player_receiving_statistics	03gqdq7	09_19y
+soccer.football_player_match_participation	03dj48	04mrnq	0c1smtr
+american_football.game_rushing_statistics	02623bz	07947tb
+user.szaijan.fantasy_football.projection	02sj2gw	04njl2	02sjlml
+tennis.tennis_tournament_championship	012xcl	0281b7_
+soccer.football_player_match_participation	01_lhg	05msy4	0c20g6b
+american_football.game_rushing_statistics	03d753s	07dlqxx
+organization.organization_membership	0f8l9c	06rjgr
+soccer.football_player_match_participation	032hmd	027dd2s	0c22yrt
+american_football.game_rushing_statistics	07vw51	0791pf0
+soccer.football_player_match_participation	0329r5	03nsp2k	0c0lq5j
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_6h7
+tennis.tennis_tournament_championship	062psk	09gj98
+soccer.football_player_match_participation	03ys48	0gk1xj	0c1m0dj
+freebase.list_entry	012mrr	05c72w7
+american_football.game_rushing_statistics	05cb70	079481k
+basketball.basketball_player_stats	08p_89	08dkds	0jm8l
+basketball.basketball_player_stats	09cfcf	05r68c	0bwjj
+aviation.airline_airport_presence	035hm	03jn4	01wyl2
+music.group_membership	0342h	01whg76	01qlt70
+soccer.football_disciplinary_action	0268nlc	0c1q8nb
+soccer.football_player_match_participation	0cnk2q	0fkc_0	0c0mdpq
+soccer.football_player_match_participation	03y_f8	086nc1	0c0mdp8
+base.schemastaging.phone_sandbox	04306rv	0352k1	0345h	0pl4nkj
+american_football.player_receiving_statistics	03gqdq7	043qym_
+award.hall_of_fame_induction	084p_h	0bjcgzr	0k89p
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_77q
+basketball.basketball_player_stats	0dsb05	07d770	0jm5b
+base.marchmadness.ncaa_tournament_seed	026xxv_	0b_6s7
+baseball.baseball_team_stats	02h7s4s	061xq
+american_football.game_rushing_statistics	0ctxdn	07dlmh1
+soccer.football_goal	04gr3y_	0c0mdpq	01l3wr
+soccer.football_player_substitution	06qd79	0c1fy14	0f8ml9
+soccer.football_player_match_participation	0329r5	0dzx45	0c0lpm9
+user.tsegaran.random.taxonomy_entry	03j6c	04n6k
+soccer.football_goal	08zpzz	0c6r0k6	02w64f
+american_football.game_rushing_statistics	03d753s	07dlqqf
+american_football.game_rushing_statistics	0ct6xc	0791rzs
+tennis.tennis_tournament_championship	0p58j	06vjn0
+base.schemastaging.phone_sandbox	06nm1	06w58cc	09c7w0	0pl4nkj
+base.represent.agent_celebrity_representation	03vxbj	06dk0p
+baseball.baseball_team_stats	02h7s36	01d5z
+soccer.football_player_match_participation	03_qrp	04n477n	0c0mdp8
+soccer.football_player_match_participation	02ltg3	0cz6n9	0c20hwx
+basketball.basketball_player_stats	09nf59	05r6b2	0jm3v
+base.schemastaging.athlete_salary	05tfm	09nqf	065lzw
+basketball.basketball_player_stats	07z2hs	058yzq	0jm9w
+sports.sports_team_coach_tenure	02md_2	03j722
+base.schemastaging.athlete_salary	0jmk7	09nqf	02kx43
+sports.sports_team_coach_tenure	02md_2	0498yf
+american_football.game_rushing_statistics	0g0zkg	075rs0n
+music.group_membership	0l156k	0116lj9x	01hm8g2
+basketball.basketball_player_stats	09brkf	053tzp	0h1fsjh
+basketball.basketball_player_stats	09drlt	0dp__b	0jmm4
+base.schemastaging.phone_sandbox	05zjd	0s81pw1	09c7w0	0pl4nkj
+travel.travel_destination_monthly_climate	03hrz	040fv
+american_football.game_rushing_statistics	093lw4	0794ryp
+basketball.basketball_player_stats	09njzr	05lszn	0jm3v
+american_football.player_passing_statistics	05llk6	03gqdq7
+american_football.game_passing_statistics	05txyj	07dlq86
+american_football.player_receiving_statistics	04y6_qr	04mwy73
+soccer.football_player_match_participation	01l3wr	0g0_l4	0c0mdpq
+olympics.olympic_athlete_affiliation	09c7w0	051pvp	0jhn7
+baseball.baseball_team_stats	04111d9	01yjl
+american_football.game_rushing_statistics	021h8y	0793cl4
+olympics.olympic_athlete_affiliation	01nln	03d69b3	0kbws
+baseball.baseball_team_stats	041111k	01slc
+baseball.baseball_team_stats	02h7sdl	04pgss
+american_football.game_passing_statistics	04pwwd	0793sfm
+olympics.olympic_athlete_affiliation	0d060g	08_76l	03mfdg
+american_football.game_rushing_statistics	0443dj	0794fry
+base.schemastaging.athlete_salary	03lsq	09nqf	03d17x_
+base.schemastaging.phone_sandbox	064_8sq	02m96	0154j	0pl4nkj
+tennis.tennis_match	063ynts	0mmmt	063ynts
+tennis.tennis_tournament_championship	0l6c9	0575d1
+soccer.football_player_match_participation	03d8m4	09wwz2	0c22yr_
+base.marchmadness.ncaa_tournament_seed	041765s	0b_6q5
+american_football.game_passing_statistics	04d4zv	0792ktk
+basketball.basketball_player_stats	08rm43	0dvv92	02z8z6
+travel.travel_destination_monthly_climate	03902	04wzr
+travel.travel_destination_monthly_climate	05qtj	05lf_
+user.tsegaran.random.taxonomy_entry	0hqjh	04n6k
+basketball.basketball_player_stats	09ndwd	087fxb	025sf78
+soccer.football_player_substitution	021xgm	0c1fy1c	02v_30x
+soccer.football_player_match_participation	03xh50	04ymv9	0c22yr_
+film.film_cut	03rjj	04j2242
+organization.organization_membership	087vz	04k4l
+tennis.tennis_match	01kdh8	0p58j	0svt5
+base.schemastaging.phone_sandbox	02h40lc	0pyq4s8	0hzlz	0pl4nlh
+american_football.player_receiving_statistics	03gqdq7	02qwpss
+american_football.game_rushing_statistics	062qp9	09rl2hg
+american_football.game_rushing_statistics	02q7p5z	07dlnfz
+base.marchmadness.ncaa_tournament_seed	03d81w2	0b_5js
+soccer.football_player_substitution	05b2p6v	0c0lsl8	02zbj50
+basketball.basketball_historical_coach_position	0jm8l	0fkdp4
+basketball.basketball_player_stats	09068d	02n45z	0jm8l
+basketball.basketball_player_stats	09b5jv	08jqn8	0jm7n
+american_football.game_rushing_statistics	026chnm	0793g1m
+music.group_membership	0dwt5	01t8x6	016k_c
+music.group_membership	05148p4	03bxwtd	02q3w3v
+freebase.list_entry	02_286	059rl3x
+travel.travel_destination_monthly_climate	01914	040fb
+user.szaijan.fantasy_football.projection	02sj2gw	0cwmzd	02sjlml
+base.schemastaging.phone_sandbox	01gp_d	0352k1	02j71	0pl4nkj
+soccer.football_player_match_participation	02w64f	07cyt6	0cbx_tf
+tennis.tennis_tournament_championship	04hg0j	069d68
+basketball.basketball_player_stats	08vg9r	0fcxbg	0jmdb
+basketball.basketball_player_stats	09ncv9	02rh1yg	0jm3v
+baseball.baseball_team_stats	02h7r_9	01ypc
+american_football.game_rushing_statistics	0ctxdn	07dln6s
+organization.organization_membership	07ssc	07xvv
+location.location_symbol_relationship	07_f2	04g8vjx
+basketball.basketball_player_stats	080bhx	058yzq	0jm9w
+baseball.baseball_team_stats	02h7rz_	05g76
+american_football.game_rushing_statistics	05yj_0	0792wtq
+soccer.football_player_match_participation	03_44z	049cp1	0c0xqws
+basketball.basketball_player_stats	08w956	0dyw7q	0bwjj
+soccer.football_player_match_participation	03zrhb	02zbjwr	0c1smtg
+american_football.game_passing_statistics	097hft	07dlt1p
+music.recording_contribution	0ksfstg	01vj9c	0krsyrs
+american_football.game_rushing_statistics	0cjp42	0791pvc
+base.schemastaging.phone_sandbox	02h40lc	0pyq4s8	09c7w0	0pl4nlh
+base.schemastaging.athlete_salary	06rny	09nqf	0h6yhd
+baseball.baseball_team_stats	02h7s7r	061xq
+baseball.historical_coaching_tenure	0804pk	01d5z	04_75jz
+basketball.basketball_player_stats	0802lk	03lh3v	0jmbv
+soccer.football_player_substitution	076xs4c	0c20g6b	027gv73
+basketball.basketball_player_stats	080b2d	02wr0_	0jm64
+user.szaijan.fantasy_football.projection	02sj2gw	03tlmz	02sjlml
+soccer.football_player_match_participation	02ltg3	0gf0_v	0c20hwx
+tennis.tennis_match	07gz8m	012xcl	02rqp7v
+basketball.basketball_player_stats	09hqyn	02vrrv3	0bwjj
+basketball.basketball_player_stats	080bhx	0510ht	0jmj7
+freebase.list_entry	0cv3w	059rl3x
+base.marchmadness.ncaa_tournament_seed	03d7_lc	0bzrsh
+user.tsegaran.random.taxonomy_entry	07tp2	04n6k
+american_football.game_rushing_statistics	05dcr4	07dlmst
+organization.organization_membership	0jhd	01rz1
+american_football.player_passing_statistics	05vls2	03gqdq7
+soccer.football_disciplinary_action	04yjdf	0cb4z87
+base.schemastaging.phone_sandbox	064_8sq	04wyr	02kw88	0pl4nkj
+american_football.game_rushing_statistics	0b2kft	079259z
+tennis.tennis_match	0270f6s	012xcl	02rw96r
+user.tsegaran.random.taxonomy_entry	028rk	04n6k
+american_football.game_rushing_statistics	074l06	07dlmh1
+soccer.football_player_match_participation	02w64f	06mmrh	0cc33h6
+american_football.game_rushing_statistics	0h70ys	0792210
+american_football.player_receiving_statistics	03gqdq7	0fsl8f
+music.recording_contribution	02r_cc	0c0n9v9	05q65lz
+music.recording_contribution	02mx98	0l14md	038dlf
+film.film_cut	0jgd	04j2qgx
+american_football.game_rushing_statistics	05llk6	0793hpk
+basketball.basketball_player_stats	09759j	06h03t	0jm64
+base.marchmadness.ncaa_tournament_seed	026xxv_	0b_6fh
+soccer.football_player_match_participation	03_qrp	04n477n	0c1srnw
+basketball.basketball_player_stats	080b2d	07d6x6	0jm8l
+basketball.basketball_player_stats	09jfdf	02vrrv3	0bwjj
+location.partial_containment_relationship	01rxwl	02r930f
+basketball.basketball_player_stats	09gnpl	08bybh	0jm4v
+base.schemastaging.phone_sandbox	02h40lc	0qj5wgd	05l64	0pl4nkj
+american_football.player_passing_statistics	0262x0d	03gqdq7
+base.schemastaging.athlete_salary	05g3b	09nqf	043mmbx
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_734
+soccer.football_player_match_participation	02ltg3	0gf0_v	0cb4z8g
+music.recording_contribution	08hg7g	0l14md	0d4f00
+basketball.basketball_player_stats	096mjy	053pct	0jmk7
+american_football.game_passing_statistics	032lfz	07dltqm
+soccer.football_player_match_participation	03d8m4	027b7h6	0c1q83k
+music.group_membership	0342h	0krx6jb	0dm9mxr
+location.location_symbol_relationship	06yxd	04627gn
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6zk
+basketball.basketball_player_stats	09fwcb	02vvzqc	03bj3y
+base.marchmadness.ncaa_tournament_seed	03wctwm	0b_6x2
+tennis.tennis_match	02w8pmb	012xcl	03b7gw
+basketball.basketball_player_stats	07z2hs	0739r4	0jmfb
+film.film_cut	02vzc	0299hs
+base.schemastaging.phone_sandbox	06nm1	0pm6v78	0jgd	0pl4nkj
+american_football.game_rushing_statistics	025j0c	07dlv3k
+base.marchmadness.ncaa_tournament_seed	0j65xwr	0bzrsh
+soccer.football_player_match_participation	0329r5	079j56	0c43z58
+sports.sports_award	080sc7	01j_8l	0jm64	031mv0
+american_football.game_passing_statistics	03tt0m	0793svm
+american_football.game_rushing_statistics	025j0c	079397c
+location.location_symbol_relationship	05fhy	04627gn
+travel.travel_destination_monthly_climate	02_286	04w_7
+soccer.football_player_match_participation	03yl2t	0dtb5n	0c20hwx
+travel.travel_destination_monthly_climate	02cft	040fb
+soccer.football_player_match_participation	02ltg3	08gwzt	0c1nbsz
+organization.organization_membership	07ssc	0gbf6
+american_football.game_passing_statistics	025j0c	07dlsyj
+base.schemastaging.phone_sandbox	02h40lc	0qgv8f1	04pnx	0pl4nkj
+base.schemastaging.phone_sandbox	03k50	0s91j5w	0j1z8	0pl4nkj
+american_football.game_rushing_statistics	05k0kp	0791w6f
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_5tt
+travel.travel_destination_monthly_climate	0156q	05cw8
+travel.travel_destination_monthly_climate	01_d4	05lf_
+user.tsegaran.random.taxonomy_entry	05r4w	04n6k
+base.schemastaging.athlete_salary	04vn5	09nqf	0cwls4
+american_football.game_rushing_statistics	05y80m	07dlsry
+american_football.game_rushing_statistics	025_l20	07dlt_2
+soccer.football_player_match_participation	035qgm	0272qcn	0c0lsl1
+organization.organization_membership	06mkj	06vxc9
+american_football.game_rushing_statistics	04nt4c	0793g9k
+soccer.football_player_substitution	04n1wvc	0c0xkpl	02wxzm
+basketball.basketball_player_stats	095wtg	0bl9zh	0jm7n
+base.schemastaging.athlete_salary	05tg3	09nqf	08z_pz
+baseball.baseball_historical_managerial_position	01ypc	02rdld
+sports.sports_award	09fwcb	051j1r	0jm3v	046s7m
+tennis.tennis_tournament_championship	062ptd	051q39
+tennis.tennis_match	0c3w33t	012xcl	0dmy5f
+base.schemastaging.athlete_salary	0jm3v	09nqf	05qbmm
+american_football.game_rushing_statistics	05mztpl	07dlqqf
+travel.travel_destination_monthly_climate	07dfk	0lkm
+tennis.tennis_tournament_championship	0mmmt	016cff
+american_football.game_rushing_statistics	09k147	07dlrsz
+travel.travel_destination_monthly_climate	06c62	02xx5
+tennis.tennis_match	047sc8k	012xcl	03hnrgz
+sports.sports_team_coach_tenure	02md_2	03wctwm
+location.partial_containment_relationship	09c7w0	01n86
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_6q5
+american_football.game_rushing_statistics	0cwnvk	07945k0
+american_football.game_rushing_statistics	043nvfh	07dlt9x
+user.szaijan.fantasy_football.projection	02sj2gw	07ynx2	02sjlml
+american_football.game_rushing_statistics	02623bz	07dlsr3
+american_football.game_rushing_statistics	06m553	0793ggx
+soccer.football_player_match_participation	040pyq	0b0pdf	0c1q89k
+base.schemastaging.phone_sandbox	02h40lc	0bys4z	09c7w0	0pl4nkj
+basketball.basketball_player_stats	080sc7	07gqh4	0jmm4
+american_football.game_rushing_statistics	062qp9	07dlnf4
+music.group_membership	05r5c	01t8x6	016k_c
+award.ranking	04p81wm	02dwj
+tennis.tennis_match	031mcp	0p58j	069d71
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_6hl
+base.schemastaging.phone_sandbox	02h40lc	02h5d	02j71	0pl4nkj
+base.schemastaging.athlete_salary	045xx	01nv4h	09s029
+american_football.player_receiving_statistics	04y6_qr	0cwqt9
+music.recording_contribution	05sny38	0290ngj	05sny6t
+organization.organization_membership	027jk	085h1
+music.recording_contribution	052_ns	026t6	02pqbrm
+american_football.game_rushing_statistics	0cz6kk	0791wxm
+american_football.game_rushing_statistics	02z5l63	09tmfvr
+soccer.football_player_match_participation	03zrhb	079q9x	0c441bw
+soccer.football_player_match_participation	03_qj1	0gbts2	0c1m0g3
+location.partial_containment_relationship	0d060g	02phsq_
+basketball.basketball_player_stats	096z30	05x7bt	0jm8l
+award.hall_of_fame_induction	01r6lw	02h664x	0k89p
+basketball.basketball_historical_coach_position	0jmj7	051r7g
+american_football.player_receiving_statistics	04y6_qr	03qdzfh
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_6hl
+sports.sports_team_coach_tenure	02md_2	01y3c
+american_football.game_passing_statistics	097hft	0792vpw
+soccer.football_player_substitution	0bckz9	0c0lsl1	025zjfr
+sports.sports_award	08s093	01ztgm	0jm8l	031mv0
+basketball.basketball_player_stats	09jxbg	05s7mx	0jm3v
+baseball.baseball_team_stats	0411101	01yhm
+baseball.baseball_team_stats	041112p	01slc
+american_football.game_rushing_statistics	04nprb	0791p46
+soccer.football_player_match_participation	01352_	026mbph	0c1d32j
+basketball.basketball_player_stats	09bjp8	05s7sl	0jm3v
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_6q5
+organization.organization_membership	027jk	0841c
+music.group_membership	04rzd	01lvzbl	060692
+basketball.basketball_player_stats	09jzdm	04dddn	0jm3v
+baseball.baseball_team_stats	04110rh	01slc
+organization.organization_membership	03rjj	03m6lb
+base.schemastaging.phone_sandbox	02bjrlw	0ryrb_t	03rjj	0pl4nkj
+baseball.baseball_team_stats	041112p	01yhm
+base.schemastaging.sports_league_season_ranking	0r4lcdl	024_ql
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_71r
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_67j
+base.marchmadness.ncaa_tournament_seed	04088s0	0bz_jf
+music.group_membership	04rzd	0116lj9x	01hm8g2
+location.partial_containment_relationship	01rxwl	0fcgd
+base.schemastaging.athlete_salary	0ckf6	01nv4h	0633x2
+soccer.football_player_match_participation	03d8m4	02rp7ft	0cbx_tf
+american_football.game_rushing_statistics	051xvxm	07dlp2g
+basketball.basketball_player_stats	0993hq	02qfpqd	0jm9w
+aviation.airline_airport_presence	0fhp9	043wty	097_hd
+travel.travel_destination_monthly_climate	06wjf	04w_7
+baseball.baseball_team_stats	02h7s4s	05xvj
+music.recording_contribution	07r4c	0l14qv	0jczf
+base.schemastaging.athlete_salary	02_lt	01nv4h	038ps1
+location.location_symbol_relationship	04tgp	04627gn
+american_football.game_rushing_statistics	04d4zv	07dlmx7
+american_football.game_passing_statistics	01xyt7	07dlmwf
+american_football.game_passing_statistics	0ctv7y	07dlmtn
+tennis.tennis_tournament_championship	0mmmt	03bjrp
+olympics.olympic_athlete_affiliation	09c7w0	02mw71	0kbws
+base.marchmadness.ncaa_tournament_seed	05gjbx5	0b_6fv
+american_football.game_rushing_statistics	0bmps_	07dlmwf
+soccer.football_player_match_participation	03zrhb	04ybm1	0c1smtg
+user.tsegaran.random.taxonomy_entry	0db86	04n6k
+sports.sports_award	0jkzz71	09b01n	0jmfv	031mv0
+american_football.game_rushing_statistics	026t25h	07dlnmk
+user.tsegaran.random.taxonomy_entry	04rlf	04n6k
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_6ds
+basketball.basketball_player_stats	09gnpl	0fcpk9	0jmk7
+basketball.basketball_player_stats	080bhx	07lg5v	0jmj7
+base.marchmadness.ncaa_tournament_seed	05gmn29	0b_5wy
+user.ungzd.default_domain.eurovision_vote	0345h	0f8l9c
+soccer.football_player_match_participation	01l3wr	08g46k	0c1sttd
+tennis.tennis_tournament_championship	0p58j	016cff
+basketball.basketball_player_stats	09b5jv	08m11p	0jm8l
+tennis.tennis_tournament_championship	0p58j	01my95
+travel.travel_destination_monthly_climate	0947l	05lf_
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0b_6lb
+film.film_cut	09c7w0	07shqf9
+basketball.basketball_player_stats	09n15l	05n0tg	025sf78
+sports.sports_award	080b2d	02j8fb	0jm4b	027sy7x
+american_football.game_passing_statistics	0cjcdj	07dlq2y
+soccer.football_player_match_participation	0329r5	02y_kzs	0c1smtg
+american_football.player_receiving_statistics	03gqdq7	09l0sv
+soccer.football_player_match_participation	01l3wr	04gr3y_	0c1sttd
+american_football.game_passing_statistics	033t8w	07dlpwc
+basketball.basketball_player_stats	09b5jv	01ym3s	0jmm4
+soccer.football_player_substitution	02qwbb	0c44msd	0d3bbm
+basketball.basketball_player_stats	080kw1	06fnn3	02z8z6
+american_football.game_passing_statistics	07bthc	07dlpyw
+american_football.player_passing_statistics	032lfz	04y6_qr
+basketball.basketball_player_stats	08mdhv	053v74	0bwjj
+travel.travel_destination_monthly_climate	0d6lp	040fb
+basketball.basketball_player_stats	08lw15	0dvv92	0jmnl
+american_football.game_rushing_statistics	027ft1l	09rl2jd
+base.schemastaging.athlete_salary	06l22	01nv4h	08p1qm
+american_football.game_passing_statistics	04d4zv	07dlq86
+tennis.tennis_tournament_championship	012xcl	0dl46b
+music.recording_contribution	02r_cc	0_sv_90	01jgmtb
+soccer.football_player_match_participation	033nzk	0kst5k	0c6qzxm
+tennis.tennis_tournament_championship	012xcl	076mkt
+tennis.tennis_tournament_championship	0p58j	04zkmf
+travel.travel_destination_monthly_climate	04jpl	040fb
+basketball.basketball_player_stats	09drlt	08mpdy	0jmfb
+base.schemastaging.athlete_salary	05tg3	09nqf	03c_qxc
+user.ungzd.default_domain.eurovision_vote	035qy	0h7x
+american_football.game_rushing_statistics	06m553	0793d38
+basketball.basketball_player_stats	08rm43	0788sh	0jmjr
+base.schemastaging.phone_sandbox	02h40lc	01mw2x	0d060g	0pl4nkj
+basketball.basketball_player_stats	07_x8s	06fnn3	0bwjj
+base.schemastaging.athlete_salary	06l22	02l6h	03yvsf
+american_football.game_rushing_statistics	02qdp4v	0793c38
+film.film_cut	0chghy	05zhtt2
+basketball.basketball_player_stats	080sc7	06crrs	0jm3v
+basketball.basketball_player_stats	09nf59	073w_l	0bwjj
+tennis.tennis_tournament_championship	012xcl	01vdpl
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_6fh
+travel.travel_destination_monthly_climate	01cx_	04wzr
+film.film_cut	06mkj	0b_w5df
+user.szaijan.fantasy_football.projection	02sj2gw	0443b8	02sjlml
+soccer.football_player_match_participation	01352_	0c2rpf	0c1d32j
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6fh
+american_football.player_receiving_statistics	04y6_qr	065lzw
+music.recording_contribution	03c644	026t6	01mvv40
+soccer.football_player_match_participation	03_qj1	0gbts2	0c44msd
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_6lb
+travel.travel_destination_monthly_climate	02_286	05lf_
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_71r
+american_football.game_rushing_statistics	02812tp	0791lwh
+tennis.tennis_tournament_championship	0l6c9	06q3tw
+tennis.tennis_match	0bbv546	062psk	051q39
+base.represent.agent_celebrity_representation	03tt9p	06dk0p
+travel.travel_destination_monthly_climate	08966	028kb
+soccer.football_player_match_participation	01_lhg	0274_cp	0c1q86p
+travel.travel_destination_monthly_climate	06wjf	0ll3
+baseball.baseball_team_stats	027pwzc	05g76
+american_football.game_rushing_statistics	03gwshw	0793w89
+baseball.baseball_team_stats	02h7r_9	061xq
+soccer.football_player_match_participation	032hmd	04ygky_	0c0xqws
+award.ranking	0bnqhdd	0jsf6
+american_football.game_passing_statistics	04mmw5	07dls2m
+olympics.olympic_athlete_affiliation	03rjj	0bfsbb	09n48
+soccer.football_player_match_participation	0329r5	02py076	0c1smtg
+base.schemastaging.athlete_salary	03b3j	09nqf	07l8mg
+base.marchmadness.ncaa_tournament_seed	0ll2vw3	0b_6x2
+american_football.game_rushing_statistics	03h5kf7	07dlszc
+film.film_cut	09c7w0	03g90h
+travel.travel_destination_monthly_climate	0k3p	04wzr
+american_football.game_passing_statistics	04d4zv	079232c
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_6hl
+base.schemastaging.phone_sandbox	064_8sq	07_wvg	09c7w0	0pl4nkj
+user.tsegaran.random.taxonomy_entry	081yw	04n6k
+basketball.basketball_player_stats	09b5jv	08y5d0	0jm3b
+soccer.football_player_match_participation	03zrhb	02zbj50	0c1lvg1
+american_football.game_rushing_statistics	07v6r9	079232c
+american_football.player_receiving_statistics	04y6_qr	05p17lm
+organization.organization_membership	01nqj	03y48
+sports.sports_team_coach_tenure	02md_2	0jmk7
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_770
+travel.travel_destination_monthly_climate	06c62	0lkm
+soccer.football_player_match_participation	033nzk	027f26b	0c1q8nb
+soccer.football_disciplinary_action	02pzx20	09v2l34
+american_football.game_passing_statistics	04pwwd	0793s5z
+american_football.game_rushing_statistics	07ynx2	0793fq_
+base.schemastaging.phone_sandbox	02h40lc	0pxmj5b	09c7w0	0pl4nm4
+baseball.baseball_historical_managerial_position	061xq	033nn_
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6lb
+travel.travel_destination_monthly_climate	04x5l8	04wzr
+baseball.baseball_team_stats	02h7sc5	01yhm
+base.marchmadness.ncaa_tournament_seed	05g16k0	0b_6lb
+base.schemastaging.phone_sandbox	02h40lc	09zsgs	04rrx	0pl4nm4
+american_football.game_rushing_statistics	0bnks5	0791t3y
+base.schemastaging.athlete_salary	0ckf6	01nv4h	02q041
+soccer.football_player_match_participation	035qgm	026twx5	0c441bl
+soccer.football_player_substitution	0ftfjf	0c1m0dj	0281k5n
+american_football.game_rushing_statistics	08_5y5	0793km8
+soccer.football_player_match_participation	0329r5	04z74h	0c43z58
+location.location_symbol_relationship	081mh	04g8vjx
+user.ungzd.default_domain.eurovision_vote	03rjj	0f8l9c
+soccer.football_player_match_participation	01_lhg	04n1wvc	0c20g6b
+travel.travel_destination_monthly_climate	0h3tv	05cw8
+basketball.basketball_player_stats	09b5jv	08bst7	0jml5
+american_football.game_rushing_statistics	033t8w	079259z
+soccer.football_player_match_participation	03dj48	0262ggl	0c1smtr
+american_football.game_passing_statistics	05txyj	0792fc1
+user.szaijan.fantasy_football.projection	02sj2gw	05cw4l	02sjlml
+american_football.game_rushing_statistics	091qw1	0793pgl
+music.recording_contribution	01tq77z	0l14md	014qzc
+base.schemastaging.phone_sandbox	06nm1	0pyt3h5	0d060g	0pl4nkj
+american_football.game_passing_statistics	033t8w	07dlpns
+location.location_symbol_relationship	059f4	04g8vjx
+american_football.player_passing_statistics	04mmw5	03gqdq7
+soccer.football_player_match_participation	01352_	08tws7	0c1d32j
+organization.organization_membership	05r4w	03y48
+tennis.tennis_tournament_championship	0p58j	05zf7w
+user.tsegaran.random.taxonomy_entry	0k4j	04n6k
+tennis.tennis_tournament_championship	0mmmt	036vlc
+american_football.game_rushing_statistics	04ljjn	0794699
+base.marchmadness.ncaa_tournament_seed	027yf83	0bqthy
+american_football.player_receiving_statistics	03gqdq7	0cx3f1
+travel.travel_destination_monthly_climate	03czqs	02xx5
+olympics.olympic_city_bid	0k3p	0sxrz
+american_football.player_receiving_statistics	03gqdq7	05yj_0
+soccer.football_player_match_participation	032hmd	0gqhz4	0c0xqws
+freebase.list_entry	0394y	05bvj4h
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_63p
+base.marchmadness.ncaa_tournament_seed	03d2vbw	0b_6zk
+base.schemastaging.athlete_salary	0ljbg	01nv4h	04zjwv
+tennis.tennis_tournament_championship	04hg0j	03cp_nq
+basketball.basketball_player_stats	0994_r	0684s7	0jmjr
+american_football.game_passing_statistics	025j0c	07dlv6_
+sports.sports_award	080bhx	03d2bw	0jm74	02yqnh
+soccer.football_player_match_participation	01l3wr	06nxfp	0c0lq5j
+base.marchmadness.ncaa_tournament_seed	02pq5pn	0b_6zk
+soccer.football_player_match_participation	03zrhb	02zbj50	0c1smtg
+base.bioventurist.bv_investment_round	02gwv6z	028951g	05gq7n5	09nqf
+basketball.basketball_player_stats	09nky6	05s7c0	0jm3v
+american_football.player_receiving_statistics	04y6_qr	0ghp1x
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_77q
+tennis.tennis_tournament_championship	0p58j	069d71
+basketball.basketball_player_stats	09cfcf	026q1w7	0jm4v
+baseball.baseball_team_stats	025ygws	0x0d
+american_football.game_rushing_statistics	08xbfn	0791tw4
+freebase.list_entry	09c7w0	05dbcqn
+american_football.player_receiving_statistics	03gqdq7	0cx7gx
+sports.sports_team_roster	06rpd	026t25h
+soccer.football_player_match_participation	01l3wr	06n0nr	0c1srnw
+location.partial_containment_relationship	09c7w0	0346cy
+basketball.basketball_player_stats	09n15l	08m13r	02kbcqj
+tennis.tennis_tournament_championship	062ptd	01ryfl
+soccer.football_player_match_participation	02s9vc	053qc6	0c44msd
+base.schemastaging.phone_sandbox	02h40lc	019sc6	09c7w0	0pl4nmy
+basketball.basketball_player_stats	080sc7	08j6yx	0jm8l
+american_football.game_rushing_statistics	05txyj	07dlq2y
+soccer.football_player_substitution	01yj16	0c1sttd	04sl06
+user.tsegaran.random.taxonomy_entry	02yy8	04n6k
+basketball.basketball_player_stats	09lprx	01tp9_	0jm3v
+american_football.game_rushing_statistics	05dcr4	0791whn
+baseball.baseball_team_stats	025ygqm	01d5z
+travel.travel_destination_monthly_climate	0fhp9	04wzr
+basketball.basketball_player_stats	08lw15	07q38w	0jmm4
+tennis.tennis_tournament_championship	0p58j	03w5_w
+organization.organization_membership	05r4w	0_6t_z8
+base.marchmadness.ncaa_tournament_seed	02qn723	0bqthy
+base.marchmadness.ncaa_tournament_seed	02pyh9v	0bz_7c
+american_football.game_rushing_statistics	0b8819	0792c72
+music.recording_contribution	03_vrm	0l14md	02756k5
+base.schemastaging.phone_sandbox	09bnf	0d7pp	03rk0	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	080c4qv	09c7w0	0pl4nmy
+base.schemastaging.phone_sandbox	03_9r	0352k1	03_3d	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	0chghy	0pl4nlh
+tennis.tennis_tournament_championship	012xcl	069cw2
+music.recording_contribution	01wxvqd	0c0n9v9	01r1wqm
+award.ranking	035gpl	0_92w
+music.recording_contribution	02r_cc	0_sv_90	01jgn8d
+basketball.basketball_player_stats	08n6zb	07mmyz	0jm9w
+american_football.player_receiving_statistics	03gqdq7	08zzrh
+tennis.tennis_tournament_championship	04wbkq	015z4j
+basketball.basketball_player_stats	08lw15	09hrdn	0jm3b
+tennis.tennis_tournament_championship	012xcl	09gj98
+baseball.baseball_team_stats	02h7s1t	06wpc
+tennis.tennis_tournament_championship	04hg0j	01gpr
+tennis.tennis_tournament_championship	062pbc	08nl19
+music.recording_contribution	015pt7	026t6	026d2xk
+base.marchmadness.ncaa_tournament_seed	05gnpfq	0b_6q5
+base.schemastaging.phone_sandbox	02h40lc	0sg7p_p	09c7w0	0pl4nkj
+american_football.player_receiving_statistics	03gqdq7	0g0zkg
+american_football.game_rushing_statistics	05yj_q	07dlszc
+base.schemastaging.athlete_salary	06zpgb2	02l6h	03dvdx
+organization.organization_membership	05qkp	0_2v
+american_football.game_rushing_statistics	027jv8	07dlqky
+base.schemastaging.phone_sandbox	02h40lc	0py4bkz	0d060g	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	03d8h63	0b_653
+basketball.basketball_player_stats	09mbww	0b_vls	0bwjj
+soccer.football_player_match_participation	02s9vc	049zll	0c1stt5
+basketball.basketball_player_stats	08hn_f	0301wn	0jm8l
+soccer.football_disciplinary_action	04qv66	0c1q89k
+american_football.game_passing_statistics	03k7k8	07dlt9x
+soccer.football_player_match_participation	0329r5	04z74h	0c1fzw8
+music.recording_contribution	0bcyht	0290ngj	0j6wnsp
+organization.organization_membership	0jdx	01rz1
+base.schemastaging.phone_sandbox	02h40lc	0bys4z	0154j	0pl4nkj
+tennis.tennis_tournament_championship	062pyl	051q39
+music.recording_contribution	01wkvt3	03gvt	01qvpsz
+soccer.football_player_substitution	0ffwqv	0c20g6b	0fdb72
+baseball.baseball_team_stats	04111bt	01ypc
+american_football.game_passing_statistics	05txyj	07dlq4k
+american_football.game_passing_statistics	08gf9t	07dlppz
+baseball.baseball_team_stats	02h7s0k	05xvj
+base.schemastaging.athlete_salary	02896	09nqf	027ft1l
+american_football.player_passing_statistics	04nh_c	03gqdq7
+user.tsegaran.random.taxonomy_entry	03xks	04n6k
+soccer.football_player_match_participation	0329r5	03nsp2k	0cc33g2
+travel.travel_destination_monthly_climate	01lfy	05lf_
+american_football.player_receiving_statistics	04y6_qr	04qq1f
+base.schemastaging.phone_sandbox	03k50	0fxkpc	03rk0	0pl4nkj
+base.schemastaging.athlete_salary	04vn5	09nqf	05yn1m
+basketball.basketball_player_stats	08s093	01jjx5	0jm3v
+soccer.football_player_match_participation	01352_	026_y13	0c1q89k
+organization.organization_membership	04g61	04k4l
+soccer.football_player_match_participation	02s9vc	02qwbb	0c1m0dj
+base.schemastaging.athlete_salary	03wnh	09nqf	051018
+basketball.basketball_player_stats	07z2hs	07clv8	0jmnl
+basketball.basketball_player_stats	08hplf	07kz79	0jm2v
+user.ungzd.default_domain.eurovision_vote	0345h	03spz
+american_football.game_passing_statistics	04d4zv	07dlngv
+american_football.player_receiving_statistics	03gqdq7	0c1pk3
+base.schemastaging.phone_sandbox	02h40lc	085n4	05bcl	0pl4nkj
+baseball.baseball_team_stats	02h7s3p	01yhm
+travel.travel_destination_monthly_climate	01_d4	040fv
+soccer.football_player_match_participation	0329r5	027tl2v	0cb4z87
+base.schemastaging.athlete_salary	01y3v	09nqf	0bkv90
+american_football.game_passing_statistics	02qxmd6	0792_wh
+tennis.tennis_tournament_championship	0l6c9	04t92
+base.schemastaging.athlete_salary	01k2yr	09nqf	0b5xst
+soccer.football_player_match_participation	03zrhb	04289k	0c1lvg1
+base.marchmadness.ncaa_tournament_seed	026w398	0bzrsh
+american_football.game_rushing_statistics	05dcr4	0791wxm
+soccer.football_player_match_participation	040pyq	03_y2f	0c44h17
+soccer.football_player_match_participation	032hmd	026dmmd	0c22yrt
+american_football.game_rushing_statistics	05cb70	0b3w6l2
+film.film_cut	0345h	0415d5m
+organization.organization_membership	059j2	06vxc9
+location.location_symbol_relationship	01n7q	04627gn
+travel.travel_destination_monthly_climate	0rh6k	05cw8
+base.schemastaging.coach_athlete_relationship	03wc52	05y08t
+basketball.basketball_player_stats	0dsb05	02cg2v	0jmcv
+american_football.game_passing_statistics	04mmw5	07924rd
+tennis.tennis_match	0dl46b	012xcl	04jf3zv
+base.schemastaging.phone_sandbox	02h40lc	02xqq	018hr_	0pl4nkj
+american_football.game_passing_statistics	04d4zv	0792p8p
+baseball.baseball_team_stats	02h7s15	01yhm
+music.group_membership	0342h	02qv_9g	014_lq
+soccer.football_player_match_participation	02ltg3	04j7c7	0c20hwx
+american_football.game_passing_statistics	027jv8	07dlqcz
+tennis.tennis_tournament_championship	062pbc	02frlr
+baseball.baseball_team_stats	02qmmv6	061xq
+base.marchmadness.ncaa_tournament_seed	05h97_z	0b_6lb
+american_football.game_passing_statistics	0cjcdj	0792_wh
+user.tsegaran.random.taxonomy_entry	09r3f	04n6k
+american_football.player_passing_statistics	033t8w	04y6_qr
+american_football.game_rushing_statistics	0cx2qq	0791ys4
+base.marchmadness.ncaa_tournament_seed	02pq5pn	0bzrsh
+soccer.football_player_match_participation	0329r5	07k4dgf	0cc33g2
+location.partial_containment_relationship	06mzp	053fq4
+location.partial_containment_relationship	09c7w0	03473v
+user.tsegaran.random.taxonomy_entry	05sb1	04n6k
+sports.sports_team_coach_tenure	02md_2	0jm64
+american_football.game_passing_statistics	019g65	0792vpw
+american_football.game_rushing_statistics	04lgz0	07dlnsq
+music.group_membership	0342h	05fkqt	0y4_d
+american_football.game_rushing_statistics	051018	07dlqcz
+user.tsegaran.random.taxonomy_entry	086m1	04n6k
+soccer.football_player_match_participation	033nzk	03cc6r0	0c6qzxm
+american_football.player_receiving_statistics	04y6_qr	093lw4
+base.schemastaging.athlete_salary	01k8vh	09nqf	07d770
+american_football.game_rushing_statistics	04q06_	07dlp3q
+soccer.football_player_match_participation	02w64f	08vt89	0c1fy1c
+base.marchmadness.ncaa_tournament_seed	05gjbx5	0b_72t
+baseball.baseball_team_stats	02h7s78	05g76
+base.schemastaging.athlete_salary	06rpd	09nqf	07fgn7
+base.schemastaging.phone_sandbox	05zjd	0rq6_dj	015fr	0pl4nkj
+base.schemastaging.phone_sandbox	05qqm	0qj5wgd	02j71	0pl4nkj
+base.schemastaging.phone_sandbox	06nm1	015p1m	09c7w0	0pl4nlv
+baseball.baseball_team_stats	02h7s1b	01ypc
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_75k
+american_football.game_rushing_statistics	0271d3w	07942z7
+base.marchmadness.ncaa_tournament_seed	03d9fwn	0b_6lb
+american_football.game_passing_statistics	05txyj	07929vd
+basketball.basketball_historical_coach_position	0jml5	0219kb
+soccer.football_player_match_participation	03_44z	03d7x9n	0c0xqws
+tennis.tennis_tournament_championship	012xcl	03bjrp
+organization.organization_membership	05rznz	07t65
+tennis.tennis_match	0270f6s	012xcl	03cp_nq
+tennis.tennis_tournament_championship	0mmmt	02frlr
+soccer.football_player_match_participation	01_lhg	04n1wvc	0c1q86p
+basketball.basketball_player_stats	0802lk	03lh3v	0jmnl
+business.competitive_space_mediator	01hlwv	02wydsr	0d7pp
+basketball.basketball_player_stats	09n0r4	08mw_2	0jm3v
+soccer.football_player_match_participation	02pp1	034njw	0c1sttd
+american_football.player_receiving_statistics	03gqdq7	02pqk_2
+travel.travel_destination_monthly_climate	01lfy	028kb
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	09c7w0	0pl4nm4
+tennis.tennis_tournament_championship	0l6c9	01ckb6
+basketball.basketball_player_stats	08hn_f	07nvhb	0jmm4
+sports.sports_award	09fwcb	053tzp	0h1fsjh	02yqnh
+tennis.tennis_match	02w9mk4	062pbc	051q39
+basketball.basketball_player_stats	09ncv9	088bb7	0239hyt
+american_football.player_receiving_statistics	03gqdq7	0cwl37
+base.marchmadness.ncaa_tournament_seed	03qk194	05g_nr
+basketball.basketball_player_stats	09nb8x	02m7wj	0bwjj
+tennis.tennis_tournament_championship	085p0g	076g6d
+american_football.player_receiving_statistics	03gqdq7	02qwz2h
+music.recording_contribution	06xrff	0l1589	036tl9
+american_football.game_rushing_statistics	05k0kp	07dlnmk
+baseball.baseball_team_stats	02h7sbq	051vz
+base.schemastaging.phone_sandbox	03_9r	0h94y36	02j71	0pl4nkj
+basketball.basketball_player_stats	08lw15	07cl5_	0jmbv
+music.group_membership	05148p4	01v_pj6	022c__
+american_football.game_rushing_statistics	0ct6xc	0793k3_
+aviation.airline_airport_presence	05l64	03jn4	01wyl2
+base.schemastaging.phone_sandbox	02h40lc	080c4qv	09c7w0	0pl4nkj
+travel.travel_destination_monthly_climate	07dfk	040fv
+base.schemastaging.athlete_salary	0hvjr	01nv4h	051g1t
+tennis.tennis_tournament_championship	062pbc	0knq
+tennis.tennis_tournament_championship	012xcl	01c4by
+basketball.basketball_player_stats	08hn_f	05n2c1	0jmnl
+travel.travel_destination_monthly_climate	03khn	04wzr
+music.recording_contribution	01wwxbr	0l14md	01hvn39
+user.tsegaran.random.taxonomy_entry	02j9z	04n6k
+soccer.football_player_match_participation	032hmd	0b8qtw	0c20g6b
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6hl
+user.szaijan.fantasy_football.projection	02sj2gw	0krrql	02sjlml
+soccer.football_player_match_participation	03_44z	08cywd	0c1q86p
+base.petbreeds.dog_city_relationship	01s7fj	0f2tj
+basketball.basketball_player_stats	095wtg	0fhfzb	0jmm4
+base.petbreeds.dog_city_relationship	01llgk	0rh6k
+american_football.game_rushing_statistics	05znmyb	07dlr5_
+soccer.football_player_match_participation	032hmd	027gv73	0c0xqws
+travel.travel_destination_monthly_climate	07dfk	04w_7
+organization.organization_membership	01ppq	01rz1
+base.marchmadness.ncaa_tournament_seed	03wctwm	06n7qg
+base.schemastaging.athlete_salary	01y3v	09nqf	07s9104
+basketball.basketball_player_stats	0dsb05	0730b4	0jmcb
+basketball.basketball_player_stats	09759j	05m4cz	0jmj7
+award.hall_of_fame_induction	02m7wj	02h664x	0k89p
+baseball.baseball_team_stats	02h7s2f	061xq
+base.schemastaging.phone_sandbox	02h40lc	0sg9r2q	059j2	0pl4nkj
+location.partial_containment_relationship	01rxwl	01p8j1
+tennis.tennis_match	070yz_	062pbc	0706_1
+american_football.game_rushing_statistics	0cx4kg	07dlpns
+american_football.game_rushing_statistics	0746cp	07dlp83
+soccer.football_player_match_participation	03_44z	0b5xz_	0c20gf3
+soccer.football_player_match_participation	02bh_v	04fj3j	0c441bl
+olympics.olympic_athlete_affiliation	0d060g	0bhw6w	018ctl
+soccer.football_player_match_participation	01k9cc	06zwl_	0j66twk
+music.group_membership	07brj	0dw3l	0_h1jzc
+tennis.tennis_match	0cm922p	012xcl	07kcpkl
+baseball.baseball_team_stats	041105l	061xq
+soccer.football_player_match_participation	03_qrp	03hnt63	0c1srnw
+music.recording_contribution	020xnm	026t6	01j2dt1
+base.schemastaging.phone_sandbox	02h40lc	02gqxg	0vmt	0pl4nkj
+basketball.basketball_player_stats	08w956	02c2g6	0jmhr
+tennis.tennis_tournament_championship	062psk	01gggl
+user.ungzd.default_domain.eurovision_vote	07ssc	03spz
+basketball.basketball_player_stats	08lw15	0fkvdx	0jmj7
+base.schemastaging.phone_sandbox	064_8sq	0qsc2_s	02j71	0pl4nkj
+music.recording_contribution	09l39p	026t6	055l2q
+soccer.football_player_match_participation	03_qrp	04yjqf	0c1nbtv
+american_football.game_rushing_statistics	08xbfn	07dln7n
+tennis.tennis_tournament_championship	012xcl	07db26
+baseball.baseball_team_stats	02h7s0q	01d5z
+american_football.player_receiving_statistics	03gqdq7	05llk6
+basketball.basketball_player_stats	096z30	02r1p2l	0jm9w
+music.recording_contribution	0pk41	0_sv_90	04b_t6
+freebase.list_entry	05t18k	05bv23n
+american_football.game_passing_statistics	025j0c	0793g1m
+organization.organization_membership	0ctw_b	07xvv
+base.marchmadness.ncaa_tournament_seed	0b__fx	0b_5t3
+base.schemastaging.phone_sandbox	02bjrlw	0qsc2_s	02j71	0pl4nlh
+soccer.football_player_match_participation	03_qrp	080cmb0	0c1stt5
+tennis.tennis_match	09n70c	0l6c9	051q39
+soccer.football_player_match_participation	01l3wr	08g46k	0cbx_t6
+american_football.game_rushing_statistics	03h5kf7	075rrwh
+travel.travel_destination_monthly_climate	02_286	0ll3
+baseball.baseball_team_stats	02h7s3p	01yjl
+soccer.football_player_match_participation	03_qrp	0df425	0cb4z87
+american_football.player_receiving_statistics	04y6_qr	0bkv90
+basketball.basketball_player_stats	09n0r4	051r7g	0jmk7
+film.film_cut	0jgd	04j2242
+base.marchmadness.ncaa_tournament_seed	02pzy52	0b_6hl
+soccer.football_goal	0h6h8w	0c0lsl1	03zrhb
+base.marchmadness.ncaa_tournament_seed	02qctn5	0bzrxn
+base.schemastaging.phone_sandbox	02h40lc	02qvly	09c7w0	0pl4nkj
+basketball.basketball_player_stats	08mdhv	08x976	0jm4b
+soccer.football_player_match_participation	03_qj1	05c32f7	0c44msd
+award.ranking	0bnqhdd	04v8x9
+soccer.football_player_substitution	08w78j	0c1nbsz	03dvdx
+basketball.basketball_player_stats	08p_89	0fcybh	0jm4b
+soccer.football_player_match_participation	032hmd	03hn6yv	0c0xqws
+sports.sports_award	09n0r4	01tg2m	02kbcqj	02yqnh
+base.schemastaging.phone_sandbox	02h40lc	0dw7n	09c7w0	0pl4nkj
+american_football.game_rushing_statistics	03th34	0793d38
+american_football.game_passing_statistics	08gf9t	07928c1
+soccer.football_goal	026n047	0hznjsv	02w64f
+basketball.basketball_player_stats	080bhx	01l_v5	0jmfb
+travel.travel_destination_monthly_climate	04jpl	028kb
+base.marchmadness.ncaa_tournament_seed	05c_bv1	0b_71r
+american_football.player_receiving_statistics	04y6_qr	066d76
+base.marchmadness.ncaa_tournament_seed	091tgz	0f9rw9
+basketball.basketball_player_stats	080bhx	067t0p	0jmj7
+soccer.football_player_match_participation	01l3wr	071t_r	0cc33h6
+soccer.football_player_match_participation	03zrhb	04ybt2	0c1smtg
+baseball.baseball_team_stats	04110r3	01ypc
+american_football.game_rushing_statistics	04hlp3	07dlq60
+award.ranking	035gpl	0k4d7
+baseball.baseball_team_stats	02h7s78	01yjl
+base.schemastaging.phone_sandbox	02h40lc	0fxkpc	0f8l9c	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	05c_x34	0b_62n
+baseball.baseball_team_stats	02h7s6z	061xq
+soccer.football_player_match_participation	01352_	05fct1	0c6qzxm
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6q5
+soccer.football_player_match_participation	032jlh	0d90x5	0c1fy1c
+base.schemastaging.phone_sandbox	02h40lc	03xks	0gyh	0pl4nkj
+basketball.basketball_team_stats	095wtg	0jmk7
+soccer.football_player_substitution	02vkwf_	0c1fy14	03z5zh
+basketball.basketball_player_stats	080bhx	04phv9	0jmm4
+tennis.tennis_tournament_championship	012xcl	0b4nf0
+location.location_symbol_relationship	0gyh	0j749
+tennis.tennis_tournament_championship	012xcl	05y08t
+tennis.tennis_tournament_championship	0g6_lr	023q7x
+soccer.football_disciplinary_action	06mmrh	09v2l34
+basketball.basketball_player_stats	09lprx	026rx1p	0bwjj
+basketball.basketball_player_stats	07z2hs	07f33c	0jm4b
+user.tsegaran.random.taxonomy_entry	01699	04n6k
+soccer.football_goal	026f4lr	0c1smtg	0329r5
+music.recording_contribution	05b02f5	026t6	05b1xhr
+american_football.game_passing_statistics	033t8w	07923nq
+baseball.baseball_team_stats	025ygws	01ypc
+sports.sports_award	09brkf	0824rq	0bwjj	046s7m
+base.schemastaging.athlete_salary	06rny	09nqf	0cqjl6
+soccer.football_player_match_participation	035qgm	074cmq	0c0lsl1
+baseball.baseball_team_stats	041109n	01d5z
+baseball.baseball_team_stats	02h7s0k	01slc
+basketball.basketball_player_stats	0dsb05	04g9sq	0jmj7
+travel.travel_destination_monthly_climate	03hrz	05lf_
+user.ungzd.default_domain.eurovision_vote	0k6nt	0d0vqn
+baseball.baseball_team_stats	0411101	05xvj
+american_football.game_passing_statistics	097yk7	07dlrsz
+freebase.list_entry	0134s5	05bvj4h
+american_football.player_receiving_statistics	04y6_qr	02x2764
+basketball.basketball_player_stats	09bjp8	0260xzl	0jm7n
+tennis.tennis_match	047s5q4	062pbc	069d71
+base.schemastaging.athlete_salary	05l71	09nqf	043rf2b
+sports.sports_team_coach_tenure	02md_2	026wlnm
+sports.sports_award	0802lk	01gct2	0jmh7	02yqk8
+basketball.basketball_player_stats	07_x8s	059tyq	0jmj7
+baseball.baseball_team_stats	02h7s23	061xq
+tennis.tennis_tournament_championship	062pbc	0dl46b
+sports.sports_team_coach_tenure	02md_2	02kl_5
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0b_6q5
+base.schemastaging.phone_sandbox	02h40lc	0313mp	09c7w0	0pl4nkj
+american_football.game_rushing_statistics	074l06	07dlm9d
+basketball.basketball_player_stats	08rm43	072ndz	0jmbv
+soccer.football_player_match_participation	03dj48	02q0lh0	0c1smtr
+base.schemastaging.phone_sandbox	04306rv	0qsc2_s	02j71	0pl4nkj
+american_football.game_rushing_statistics	04q06_	07dlstj
+soccer.football_player_match_participation	01_lhg	02wxzm	0c0xkpl
+base.schemastaging.phone_sandbox	064_8sq	0pyrg_5	09c7w0	0pl4nkj
+baseball.baseball_team_stats	02h7s07	061xq
+soccer.football_player_match_participation	02w64f	07cyt6	0cc33h6
+base.marchmadness.ncaa_tournament_seed	0b__fx	0b_6fv
+basketball.basketball_player_stats	08vg9r	02n45z	0jm8l
+american_football.player_receiving_statistics	04y6_qr	02bfq5
+soccer.football_player_match_participation	035qgm	0g3b2z	0c1lz_v
+sports.sports_team_roster	03bj3y	08gz6c
+basketball.basketball_historical_coach_position	0jm9w	0fbbl
+base.marchmadness.ncaa_tournament_seed	026w398	0b_77q
+soccer.football_player_match_participation	02bh_v	05zqzdf	0c0lsl8
+american_football.game_rushing_statistics	04d4zv	0792nt4
+tennis.tennis_match	0267yjw	012xcl	02vxz41
+basketball.basketball_player_stats	09jxbg	02x19wj	0jml5
+tennis.tennis_tournament_championship	0l6c9	0f492v
+american_football.game_rushing_statistics	091qw1	07dlr_t
+basketball.basketball_player_stats	08s093	064t7s	0jm2v
+travel.travel_destination_monthly_climate	02frhbc	040fv
+american_football.player_receiving_statistics	03gqdq7	026chnm
+baseball.baseball_team_stats	0285r5d	01yhm
+soccer.football_player_match_participation	0329r5	04zwjmx	0c1smtg
+american_football.game_rushing_statistics	08j3hr	07dlsh1
+baseball.baseball_team_stats	03wfgdh	01slc
+music.group_membership	0342h	0g4r96	02qrpdq
+american_football.game_rushing_statistics	04d4zv	07dlqs2
+basketball.basketball_player_stats	096z30	06smlc	0jm7n
+soccer.football_player_match_participation	02bh_v	04ybjjq	0c1lvg1
+basketball.basketball_player_stats	09brkf	0bm9mc	0jml5
+tennis.tennis_match	027km_z	012xcl	0bmh4z2
+tennis.tennis_tournament_championship	012xcl	05qr52
+soccer.football_player_match_participation	032hmd	027tfpn	0c1q83k
+business.competitive_space_mediator	01kqjn	02wydsr	0d7pp
+film.film_cut	0jgd	0qmfk
+soccer.football_player_match_participation	03d8m4	04y3k1	0c0xkpl
+base.marchmadness.ncaa_tournament_seed	0579h0q	06n7qg
+tennis.tennis_tournament_championship	0l6c9	03k5q3
+freebase.list_entry	03rjj	05dff5n
+basketball.basketball_player_stats	080kw1	07dqvd	0bwjj
+tennis.tennis_tournament_championship	062psk	01ym2x
+travel.transportation	080h2	083khj	07jdr	0dn_w
+baseball.baseball_team_stats	02h7r_9	0x2p
+basketball.basketball_player_stats	08030z	0dsj73	0jmcv
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	06t2t	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	05cf3l7	0b_6fv
+basketball.basketball_player_stats	07j1pw	05r52b	0jmk7
+music.recording_contribution	07gph1	026t6	027n4xs
+film.film_cut	09c7w0	0274q34
+music.recording_contribution	0pk41	0_sv_90	04c029
+basketball.basketball_player_stats	095_24	08y76b	0jm4v
+american_football.game_rushing_statistics	03c87rb	0793wqg
+soccer.football_player_match_participation	03z8bw	04mryd	0c1q8n1
+music.recording_contribution	05902g7	0l14md	02rnv1c
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_77q
+base.schemastaging.phone_sandbox	02h40lc	0vtthm2	07ssc	0pl4nm4
+sports.sports_team_coach_tenure	02md_2	0jm4v
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6x2
+music.group_membership	0342h	03gnkg	0p8h0
+organization.organization_membership	0ctw_b	07t65
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_687
+soccer.football_player_match_participation	03d8m4	0d58wf	0c0xkpl
+american_football.game_rushing_statistics	05yj_q	0794c1z
+basketball.basketball_player_stats	080kw1	07dqrx	0jm9w
+organization.organization_membership	016zwt	085h1
+travel.travel_destination_monthly_climate	06t2t	05cw8
+american_football.game_rushing_statistics	095c1c	0791w6f
+music.recording_contribution	01wzbxy	0l14md	02rj4gh
+american_football.game_rushing_statistics	02qwkw2	0792181
+freebase.list_entry	0cv3w	05pv80c
+tennis.tennis_match	02z3df4	012xcl	08nl19
+american_football.game_passing_statistics	04d4zv	07dlq21
+tennis.tennis_match	08nl19	0p58j	015z4j
+music.recording_contribution	0455yy	02dlh2	09g83yz
+basketball.basketball_player_stats	08lw15	04qmdn	0jmk7
+olympics.olympic_city_bid	0dqyw	0kbws
+sports.sports_award	08_vqd	07_s1w	0jmbv	0380m_
+business.market_share	0k8z	0169zh	09c7w0
+music.recording_contribution	01w9mnm	0_sv_90	06501k
+soccer.football_disciplinary_action	0281k5n	0c1m0dj
+american_football.player_receiving_statistics	04y6_qr	03cy5lk
+film.film_cut	09c7w0	0cc8smv
+organization.organization_membership	016zwt	02zwc
+music.group_membership	05148p4	07fhbv	07zjl1
+base.schemastaging.phone_sandbox	064_8sq	0sg7p_p	0d060g	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	03h64	0pl4nkj
+base.bioventurist.bv_investment_round	02gwv6z	04y72md	09x9yj5	09nqf
+basketball.basketball_player_stats	080bhx	027lhj	0gg69rf
+base.schemastaging.phone_sandbox	02h40lc	04yf8tq	09c7w0	0pl4nkj
+basketball.basketball_player_stats	0dsb05	0739r4	0jmcv
+travel.travel_destination_monthly_climate	030qb3t	0ll3
+base.schemastaging.phone_sandbox	02h40lc	05fjl2	0jhwd	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0409wn	02kw88	0pl4nkj
+american_football.game_rushing_statistics	06m553	07dlsh1
+baseball.baseball_team_stats	02h7r_9	05g76
+basketball.basketball_player_stats	07j1pw	02wr0_	0jml5
+base.schemastaging.athlete_salary	03j7cf	02l6h	08z6yq
+base.schemastaging.phone_sandbox	02h40lc	02h400t	01n7q	0pl4nm4
+base.marchmadness.ncaa_tournament_seed	05cf3l7	0b_6mr
+american_football.game_rushing_statistics	02623bz	07dlrsz
+location.location_symbol_relationship	03v1s	0j749
+base.schemastaging.phone_sandbox	06nm1	0pyrg_5	0d060g	0pl4nkj
+american_football.game_passing_statistics	019g65	07939r0
+tennis.tennis_tournament_championship	012xcl	01ryfl
+tennis.tennis_match	04jmzqm	012xcl	0ds9hhq
+music.recording_contribution	02x5j5x	026t6	0cs6rr
+basketball.basketball_player_stats	07j1pw	02hdjz	0jm8l
+soccer.football_player_match_participation	0329r5	02rpqdv	0c0lq5j
+american_football.game_passing_statistics	02x6lw	07dlsd7
+baseball.baseball_team_stats	025ygqm	01yhm
+tennis.tennis_match	02vs996	012xcl	06zn7gy
+soccer.football_player_match_participation	02w64f	0cn0qg	0c6r0k6
+baseball.baseball_team_stats	027pwzc	06wpc
+base.marchmadness.ncaa_tournament_seed	0c25fh	0bqthy
+baseball.baseball_team_stats	0dx84s	01d5z
+base.marchmadness.ncaa_tournament_seed	0263cyj	0bqthy
+american_football.game_rushing_statistics	08txt4	079481k
+soccer.football_player_match_participation	03_qrp	05b5fkj	0c1srnw
+american_football.player_receiving_statistics	04y6_qr	03c_qxc
+tennis.tennis_tournament_championship	012xcl	032wxm
+american_football.game_rushing_statistics	07y_ft	07929pq
+basketball.basketball_player_stats	080kw1	04jx5p	02z8z6
+basketball.basketball_player_stats	07_x8s	07cl3j	0jmcb
+baseball.baseball_team_stats	02h7s2l	05kmnv1
+basketball.basketball_player_stats	08mdhv	07yqwb	0jm2v
+baseball.baseball_team_stats	02h7s1t	05xvj
+soccer.football_player_match_participation	03d8m4	09wwz2	0c0xkpl
+soccer.football_player_match_participation	01352_	07zqvv	0c1q89k
+soccer.football_player_match_participation	01l3wr	02z3k3g	0c1m0c5
+film.film_cut	09c7w0	0bmhvpr
+basketball.basketball_player_stats	09brkf	07m5nm	0jm7n
+base.marchmadness.ncaa_tournament_seed	0h94g77	0b_6_l
+baseball.baseball_team_stats	02h7s3j	061xq
+base.schemastaging.athlete_salary	0hvjr	01nv4h	03d71tj
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_6fh
+american_football.game_rushing_statistics	04yc_pf	07dlnmk
+sports.sports_team_coach_tenure	02md_2	05dkbr
+soccer.football_player_match_participation	0329r5	0dzx45	0cb4z87
+base.schemastaging.phone_sandbox	06nm1	0bpbq5z	05r7t	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	03h64	0pl4nkj
+base.schemastaging.athlete_salary	06rpd	09nqf	02x2764
+american_football.player_receiving_statistics	04y6_qr	026rskm
+base.schemastaging.athlete_salary	05g3v	09nqf	02qxlsm
+location.partial_containment_relationship	0j3b	05r4w
+american_football.game_rushing_statistics	019g65	0793yjf
+soccer.football_player_substitution	05s_c38	0c1q86p	07zr66
+tennis.tennis_tournament_championship	0mmmt	03wc52
+olympics.olympic_athlete_affiliation	09c7w0	0bh709h	06sks6
+base.marchmadness.ncaa_tournament_seed	02qk2d5	0bzrsh
+music.recording_contribution	05sny38	0290ngj	05sny5k
+olympics.olympic_athlete_affiliation	0345h	0ksx29	03mfdg
+base.schemastaging.phone_sandbox	064_8sq	015p1m	02j71	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0109_flk	0f8l9c	0pl4nkj
+sports.sports_team_coach_tenure	02md_2	01lwg3
+music.recording_contribution	01vn35l	026t6	0277__4
+sports.sports_award	08hplf	03794k	0jmnl	031mv0
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_6mr
+freebase.list_entry	0d060g	05ch7yf
+soccer.football_player_match_participation	03yl2t	03d69b3	0c20hwx
+american_football.game_passing_statistics	0cjcdj	0792181
+american_football.game_rushing_statistics	025wtny	0793sfm
+american_football.game_rushing_statistics	033t8w	0791whn
+basketball.basketball_player_stats	09nkcp	0bnkh4	025sf78
+soccer.football_player_match_participation	035qgm	026twx5	0c0lsl1
+soccer.football_player_match_participation	03_44z	09l9tq	0c1q86p
+american_football.player_receiving_statistics	03gqdq7	0cqpk0
+user.robert.mobile_phones.regional_submodel	04zs9dl	0chghy	02_3y83
+american_football.game_rushing_statistics	0271d3w	0794699
+base.marchmadness.ncaa_tournament_seed	03d81w2	0b_6fv
+american_football.game_rushing_statistics	0cwmrj	0792gq0
+soccer.football_player_match_participation	02w64f	03tb61	0cc33h6
+base.marchmadness.ncaa_tournament_seed	05cf3l7	0bqthy
+tennis.tennis_tournament_championship	012xcl	08nl19
+base.schemastaging.athlete_salary	0bg4f9	02l6h	08g46k
+soccer.football_player_match_participation	02ltg3	090ny_	0c1nbsz
+film.film_cut	09c7w0	0h3s79g
+base.schemastaging.phone_sandbox	02h40lc	011chff0	05fjf	0pl4nkj
+organization.organization_membership	04g61	02vk52z
+american_football.game_rushing_statistics	027dqmw	0793lm6
+tennis.tennis_tournament_championship	0p58j	08vwl9
+basketball.basketball_player_stats	09068d	0fq96g	0jmcv
+travel.travel_destination_monthly_climate	02frhbc	05lf_
+soccer.football_player_match_participation	02pp1	06h83q	0c1sttd
+user.robert.mobile_phones.regional_submodel	04656d6	09c7w0	02_3y7x
+american_football.game_rushing_statistics	05p17lm	07dlpqs
+american_football.game_passing_statistics	097hft	0792wnm
+tennis.tennis_tournament_championship	012xcl	08vw4j
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_6_l
+basketball.basketball_player_stats	09bjp8	08y560	0jmj7
+tennis.tennis_match	03w6g1	0l6c9	0hdr
+travel.travel_destination_monthly_climate	071vr	02xx5
+american_football.game_passing_statistics	04d4zv	0792gq0
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_69m
+tennis.tennis_match	0cc8b9v	012xcl	05rp3d
+baseball.baseball_historical_managerial_position	01d5z	04kc8x
+basketball.basketball_player_stats	096mjy	026xhtw	0jm3v
+basketball.basketball_player_stats	08030z	07d6x6	0jm8l
+basketball.basketball_player_stats	09cfcf	02vrrv3	0bwjj
+basketball.basketball_historical_coach_position	0jm3b	0dsj73
+tennis.tennis_match	069d71	062pyl	03xyp_
+american_football.game_rushing_statistics	04hlp3	07dlq1c
+baseball.baseball_team_stats	02h7s6z	01slc
+baseball.baseball_team_stats	02h7sdf	01yhm
+travel.travel_destination_monthly_climate	03h64	05lf_
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	07bcn	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	026wlnm	0f9rw9
+tennis.tennis_match	02vzhtg	012xcl	0dwtlf
+base.marchmadness.ncaa_tournament_seed	02qn723	0b_6h7
+travel.travel_destination_monthly_climate	071vr	040fb
+soccer.football_player_substitution	07tfzz	0cc33h6	03yvsf
+base.schemastaging.phone_sandbox	02h40lc	0pyrhmg	0d060g	0pl4nkj
+basketball.basketball_player_stats	09b5jv	09xxv7	0jmm4
+basketball.basketball_player_stats	09hqyn	0476cv	0jmfb
+soccer.football_player_substitution	04y3d5	0c1q83k	084183
+baseball.baseball_team_stats	04111d9	01ypc
+american_football.game_passing_statistics	025j0c	07dlq3r
+american_football.game_rushing_statistics	02z5l63	0793zf8
+organization.organization_membership	0k6nt	01rz1
+soccer.football_player_match_participation	035qgm	0g3b2m	0c0lsl1
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6lb
+soccer.football_player_match_participation	03_qrp	03hnt63	0cb4z87
+music.recording_contribution	01wxwc6	026t6	040jzs
+tennis.tennis_match	026zdkf	012xcl	06jf_z
+music.recording_contribution	0h14hf0	04rzd	0h14gll
+baseball.baseball_team_stats	02h7s8p	01d5z
+tennis.tennis_tournament_championship	0l6c9	06vjn0
+user.tsegaran.random.taxonomy_entry	0f7fy	04n6k
+sports.sports_award	080kw1	0390wr	0jm4b	0380m_
+american_football.game_rushing_statistics	04q06_	075rqy4
+baseball.baseball_team_stats	027pwzc	01yhm
+organization.organization_membership	016zwt	06rjgr
+tennis.tennis_match	02rgcf4	012xcl	027q1_3
+base.schemastaging.phone_sandbox	02h40lc	0352k1	0chghy	0pl4nlh
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_75k
+american_football.game_rushing_statistics	05txyj	07929vd
+music.group_membership	0l14md	01wmjkb	0134pk
+basketball.basketball_player_stats	08w956	0dm4t7	0jml5
+american_football.player_receiving_statistics	04y6_qr	03hgctf
+base.schemastaging.phone_sandbox	02h40lc	043rhmg	07ssc	0pl4nmy
+soccer.football_player_match_participation	032jlh	027b1h6	0c1fy1c
+american_football.player_receiving_statistics	03gqdq7	04zly_
+basketball.basketball_player_stats	08s093	0fq96g	0jm4v
+soccer.football_player_match_participation	01l3wr	08g46k	0cc33h6
+basketball.basketball_player_stats	09jxbg	08mw_2	0jmk7
+location.partial_containment_relationship	06bnz	05_5_1l
+american_football.game_rushing_statistics	05w109	07dlmtn
+travel.travel_destination_monthly_climate	02z0j	0ll3
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0bqthy
+american_football.game_rushing_statistics	0cw15s	07931qv
+travel.travel_destination_monthly_climate	02frhbc	0lkm
+tennis.tennis_match	02gq2g	0p58j	0hdr
+baseball.baseball_team_stats	02h7s0k	01yhm
+music.recording_contribution	02r_cc	0_sv_90	01jgmpp
+soccer.football_player_match_participation	02s9vc	044mt0	0c1stt5
+base.schemastaging.phone_sandbox	02h40lc	0qj5wgd	02j71	0pl4nkj
+american_football.game_rushing_statistics	09k147	07dltnw
+basketball.basketball_player_stats	08rm43	02qv2d	0jmj7
+base.marchmadness.ncaa_tournament_seed	05d041p	0b_6fv
+soccer.football_player_match_participation	02s9vc	0281k5n	0c44msd
+base.schemastaging.phone_sandbox	02h40lc	0598zp	07ssc	0pl4nlh
+american_football.game_rushing_statistics	026chnm	07dlsd7
+award.hall_of_fame_induction	05f4b0	02h664x	0k89p
+music.recording_contribution	020xnm	026t6	0f1pjd9
+basketball.basketball_player_stats	09brkf	096d19	0jm3b
+basketball.basketball_player_stats	09bjp8	08m11p	0jm8l
+american_football.game_passing_statistics	02812tp	0791ns0
+soccer.football_player_match_participation	03_qrp	0by1s6x	0c1stt5
+soccer.football_disciplinary_action	04zvq9	0c0xqws
+soccer.football_player_match_participation	03d8m4	0d58zz	0c0xkpl
+base.petbreeds.dog_city_relationship	02cj3	02cl1
+base.schemastaging.phone_sandbox	02h40lc	0273t5w	07ssc	0pl4nmy
+american_football.game_rushing_statistics	027ddp	07dlm62
+tennis.tennis_match	023q7x	062pbc	02plk76
+baseball.baseball_team_stats	02h7s9g	05g76
+soccer.football_disciplinary_action	06nxfp	0c1sttd
+soccer.football_player_match_participation	03yl2t	05l_8j	0c20hwx
+american_football.game_rushing_statistics	07k26_	0791whn
+location.partial_containment_relationship	06mzp	05z202
+tennis.tennis_match	023q7x	0p58j	03xyp_
+tennis.tennis_tournament_championship	047cdjj	02vqjcx
+base.schemastaging.phone_sandbox	02h40lc	027bh4q	07ssc	0pl4nkj
+interests.collection	05r5c	04szw	0_ykllm
+american_football.player_receiving_statistics	03gqdq7	0c28q8
+user.ungzd.default_domain.eurovision_vote	07ssc	06mzp
+american_football.game_rushing_statistics	074l06	0792263
+travel.travel_destination_monthly_climate	05l64	028kb
+soccer.football_player_match_participation	03y_f8	02vrdqv	0c1m0c5
+soccer.football_player_substitution	026mbph	0c44h1j	02rwsr2
+basketball.basketball_player_stats	09n4bz	0b_vls	0jm3v
+soccer.football_player_match_participation	03_44z	07zr66	0c1q86p
+base.marchmadness.ncaa_tournament_seed	03qk194	0bz_jf
+basketball.basketball_player_stats	08p_89	08x976	0jm4b
+award.ranking	0bnqhdd	05z7c
+basketball.basketball_player_stats	09068d	0bm9df	0jm9w
+film.film_cut	07ssc	04v8x9
+freebase.list_entry	06ks_z	05bv23n
+base.marchmadness.ncaa_tournament_seed	0gwxr6	0b_6fv
+basketball.basketball_player_stats	08hplf	02c5ls	0jm9w
+base.schemastaging.phone_sandbox	02h40lc	02k8h3	0d060g	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	09f43b	0d060g	0pl4nkj
+soccer.football_player_match_participation	03d8m4	04y3k1	0c1q83k
+base.marchmadness.ncaa_tournament_seed	02plv57	0bzrsh
+tennis.tennis_tournament_championship	0p58j	0650gk
+location.partial_containment_relationship	03rjj	01p8j1
+tennis.tennis_tournament_championship	04hg0j	03xyp_
+base.schemastaging.phone_sandbox	02h40lc	0vtt7vq	07ssc	0pl4nmy
+basketball.basketball_player_stats	09drlt	05p81s	0h1fsjh
+american_football.game_rushing_statistics	021h8y	07dlrhq
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5tt
+user.tsegaran.random.taxonomy_entry	07bfd	04n6k
+base.schemastaging.athlete_salary	0jmk7	09nqf	05r6n_
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_6v_
+travel.travel_destination_monthly_climate	06wjf	06vkl
+american_football.game_rushing_statistics	03b8gw	0791lp1
+tennis.tennis_match	02vzhtg	0l6c9	02pmq18
+soccer.football_player_match_participation	02bh_v	03_77y	0c441bl
+baseball.baseball_team_stats	02h7r_9	05kmnv1
+basketball.basketball_historical_coach_position	0jmm4	05n2c1
+base.schemastaging.sports_league_season_ranking	0r4lcdl	03jb2n
+award.ranking	04p81wm	0k4d7
+organization.organization_membership	01rxw	07t65
+soccer.football_player_match_participation	02w64f	026n047	0c44ckb
+tennis.tennis_match	01ckb6	0mmmt	03w6g1
+soccer.football_player_match_participation	02bh_v	026tft7	0c1smtr
+soccer.football_player_match_participation	02ltg3	090ny_	0cc33g2
+travel.travel_destination_monthly_climate	0k3p	06vkl
+american_football.player_receiving_statistics	03gqdq7	02h6xh
+music.group_membership	01vj9c	01f2n_	017_hq
+american_football.game_rushing_statistics	0cwhxj	0792fh5
+basketball.basketball_player_stats	08mdhv	08j72f	0jm5b
+basketball.basketball_player_stats	07z2hs	07dqrx	0jm3b
+award.hall_of_fame_induction	02wl3v	02h664x	0k89p
+baseball.baseball_historical_managerial_position	01ypc	07svzt
+basketball.basketball_player_stats	080b2d	04pj46	0jmcb
+soccer.football_disciplinary_action	0gq6_0	0c1fy14
+base.schemastaging.phone_sandbox	02h40lc	032t7j	07ssc	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	028b8s6	0b_653
+sports.sports_team_roster	02c_4	0kt13j
+organization.organization_membership	0chghy	01027r
+basketball.basketball_player_stats	07j1pw	07ch5x	0jmm4
+soccer.football_disciplinary_action	02qwbb	0c44msd
+soccer.football_player_match_participation	0329r5	0dzx45	0c0lq5j
+tennis.tennis_tournament_championship	0p58j	059nrl
+tennis.tennis_match	016cff	012xcl	0jwyq2x
+basketball.basketball_player_stats	08n6zb	03lp0g	0jmj7
+basketball.basketball_player_stats	08w956	0fcxbg	0jmdb
+baseball.baseball_team_stats	03d4p81	061xq
+sports.sports_award	080b2d	02j8fb	0jm4b	06js8m
+basketball.basketball_player_stats	09drlt	0d0_4m	02kbcr2
+soccer.football_player_match_participation	03_qj1	0ft1ft	0c0mdph
+travel.travel_destination_monthly_climate	0g6xq	0ll3
+soccer.football_player_substitution	044mw7	0c1smtr	03_77y
+basketball.basketball_player_stats	08hplf	08lnq6	0jm74
+base.marchmadness.ncaa_tournament_seed	026c51k	0bzrxn
+american_football.game_rushing_statistics	08txt4	07947tb
+tennis.tennis_match	07kd3v1	012xcl	02z6jyk
+basketball.basketball_player_stats	09nl65	02hg53	0bwjj
+music.recording_contribution	02s6sh	026t6	055l2q
+base.represent.agent_celebrity_representation	027prw0	06dk0p
+user.szaijan.fantasy_football.projection	02sj2gw	08cyj8	02sjlml
+american_football.game_rushing_statistics	065lzw	07dlpyw
+soccer.football_player_match_participation	0329r5	02rzd6w	0c1fzw8
+american_football.game_rushing_statistics	02x6lw	07dlrs4
+basketball.basketball_player_stats	095_24	020ntr	0jmm4
+soccer.football_player_match_participation	03zrhb	05b2p6v	0c0lsl1
+travel.transportation	0h7h6	08qwht	01bjv	05hsjx
+baseball.baseball_team_stats	02h7s1b	01yhm
+award.ranking	04p81wm	08nvyr
+base.schemastaging.phone_sandbox	02h40lc	04j9t_	02_286	0pl4nkj
+basketball.basketball_player_stats	08mdhv	04n0s9	0jm9w
+american_football.game_rushing_statistics	0cwlgg	07dlnmk
+music.recording_contribution	065jx5	0l14md	04b__2
+american_football.game_rushing_statistics	04njl2	0794ryp
+soccer.football_goal	0dcphf	0c0xqws	032hmd
+soccer.football_player_match_participation	02w64f	0gjkqn	0c44ckb
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_6mr
+tennis.tennis_tournament_championship	062pbc	08l6n5
+user.szaijan.fantasy_football.projection	02sj2gw	027jv8	02sjlml
+american_football.game_rushing_statistics	03c87rb	0792kl6
+soccer.football_player_match_participation	0cnk2q	0bmj_9	0c0mdpq
+american_football.player_receiving_statistics	04y6_qr	025wtny
+soccer.football_player_match_participation	02bh_v	03_77y	0c0lsl8
+basketball.basketball_player_stats	099bj0	07cm3h	0jmj7
+tennis.tennis_match	07sbgrw	012xcl	0ds9hhq
+music.recording_contribution	0g4yvzj	018vs	0g4yv4b
+film.film_cut	0345h	09gkx35
+tennis.tennis_tournament_championship	0l6c9	02frs6
+american_football.game_rushing_statistics	03d753s	07dlpst
+american_football.game_rushing_statistics	04nt4c	0793cwp
+base.schemastaging.athlete_salary	01dwyd	02l6h	02w8_8r
+location.partial_containment_relationship	0j0k	06bnz
+soccer.football_player_match_participation	02s9vc	047534	0c44msd
+tennis.tennis_tournament_championship	0p58j	01kfjb
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_6fh
+base.schemastaging.phone_sandbox	02h40lc	01rvgk	02j71	0pl4nkj
+tennis.tennis_tournament_championship	062psk	076gb_
+american_football.game_rushing_statistics	0bnks5	0791mk4
+tennis.tennis_match	0b3027	012xcl	09rs3v7
+american_football.game_rushing_statistics	08_5y5	0793fq_
+american_football.game_rushing_statistics	065lzw	07923nq
+soccer.football_player_match_participation	02w64f	07j7dy	0c1fy1c
+american_football.game_rushing_statistics	02z5l63	0793vrh
+soccer.football_player_match_participation	02w64f	08vt89	0c1q8n1
+music.group_membership	0290ngj	0167v4	07tvk6
+american_football.game_rushing_statistics	0cjp42	075rsc8
+base.schemastaging.phone_sandbox	0gfh2x1	0r5ctz_	03spz	0pl4nkj
+american_football.game_passing_statistics	04q06_	07dlnyq
+base.schemastaging.athlete_salary	03wnh	09nqf	03h5w4z
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6_l
+tennis.tennis_tournament_championship	0l6c9	06ql2d
+basketball.basketball_player_stats	0dsb05	06r88x	0jmnl
+soccer.football_goal	03dvdx	0cc33g2	02ltg3
+soccer.football_player_match_participation	02ltg3	059z7h	0c1nbsz
+travel.travel_destination_monthly_climate	05qtj	06vkl
+american_football.player_passing_statistics	019g65	03gqdq7
+soccer.football_player_match_participation	0329r5	07k4dgf	0c1fzw8
+baseball.baseball_team_stats	02h7rz_	061xq
+award.ranking	0bnqhdd	06cm5
+award.ranking	04p81wm	08s3q5
+basketball.basketball_player_stats	08lw15	01ps4k	0jmj7
+olympics.olympic_athlete_affiliation	03rk0	027f158	06sks6
+american_football.game_passing_statistics	0gnb8t	07dlmcz
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6xf
+soccer.football_player_match_participation	033nzk	03cc6r0	0c44ckb
+base.petbreeds.dog_city_relationship	02cj3	02frhbc
+tennis.tennis_tournament_championship	062psk	01653g
+tennis.tennis_match	06m8mb	012xcl	04gp1mg
+american_football.player_passing_statistics	05w109	04y6_qr
+base.schemastaging.phone_sandbox	04306rv	015p1m	06mzp	0pl4nkj
+soccer.football_player_match_participation	02bh_v	027479p	0c441bl
+american_football.game_passing_statistics	097hft	07928c1
+american_football.game_rushing_statistics	04nprb	07dlqtx
+tennis.tennis_tournament_championship	085p0g	0bdr4z
+base.schemastaging.phone_sandbox	02h40lc	049g92	07ssc	0pl4nmy
+travel.travel_destination_monthly_climate	0fhp9	02xx5
+american_football.player_receiving_statistics	04y6_qr	02z6f8p
+tennis.tennis_match	05q93_w	012xcl	0263_qs
+basketball.basketball_player_stats	08rm43	0cjl62	0jmbv
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	07ssc	0pl4nkj
+american_football.game_rushing_statistics	093lw4	07dlt2j
+soccer.football_player_match_participation	035qgm	036h81	0c0lsl1
+american_football.player_receiving_statistics	04y6_qr	0ks7d3
+base.petbreeds.dog_city_relationship	0km3f	0cv3w
+travel.travel_destination_monthly_climate	0vzm	05lf_
+tennis.tennis_tournament_championship	04wbkq	07nvr4
+basketball.basketball_player_stats	09jzdm	02x19wj	02kbcqj
+soccer.football_player_match_participation	040pyq	03_99l	0c44h17
+basketball.basketball_player_stats	0994_r	0260xzl	0jm8l
+award.hall_of_fame_induction	05ndy1	02h664x	0k89p
+american_football.game_rushing_statistics	05v9rg	07dlssm
+basketball.basketball_player_stats	09n15l	01h3b9	0jm8l
+base.schemastaging.phone_sandbox	02h40lc	02pn52z	034cm	0pl4nm4
+tennis.tennis_tournament_championship	0l6c9	09nj1x
+travel.travel_destination_monthly_climate	0156q	040fb
+basketball.basketball_player_stats	07_x8s	04dzk8	0jm6n
+tennis.tennis_tournament_championship	062pbc	05sy8
+american_football.game_rushing_statistics	02z3szs	07dlr2v
+travel.travel_destination_monthly_climate	0k3p	0ll3
+soccer.football_player_substitution	0866z1	0c1nbtv	03hnt63
+soccer.football_player_match_participation	03_qj1	05l831	0c44msd
+tennis.tennis_match	0dlzwk	012xcl	0gthj5
+basketball.basketball_player_stats	08hplf	08lk30	0jm3b
+american_football.game_rushing_statistics	03tt0m	075rqry
+basketball.basketball_player_stats	09jfdf	0457pz	0bwjj
+user.tsegaran.random.taxonomy_entry	0j5g9	04n6k
+baseball.baseball_team_stats	02h7sd3	061xq
+soccer.football_player_match_participation	03d8m4	026vpsl	0c20gf3
+base.schemastaging.phone_sandbox	03k50	0jgf9	03rk0	0pl4nlh
+american_football.game_rushing_statistics	04m4kj	0793n3c
+baseball.baseball_team_stats	02h7s36	0x2p
+sports.sports_team_roster	01ct6	027h94x
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_67j
+soccer.football_player_match_participation	01l3wr	0g0_l4	0c1srnw
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_72t
+american_football.game_rushing_statistics	0cwnvk	07945t4
+american_football.game_rushing_statistics	0270lwc	07dlvgl
+american_football.player_receiving_statistics	04y6_qr	0270lwc
+base.schemastaging.phone_sandbox	02h40lc	02h400t	09c7w0	0pl4nmy
+soccer.football_player_match_participation	033nzk	0f8ml9	0c44ckb
+user.szaijan.fantasy_football.projection	02sj2gw	0h70ys	02sjlml
+american_football.game_passing_statistics	04q06_	075rsv7
+user.szaijan.fantasy_football.projection	02sj2gw	05dfhp	02sjlml
+tennis.tennis_tournament_championship	062pbc	0825c4
+soccer.football_player_match_participation	032jlh	0dclp1	0c1q8nb
+american_football.game_rushing_statistics	058r_sf	07dls2m
+baseball.baseball_team_stats	02h7s52	061xq
+american_football.game_rushing_statistics	05cb70	07dlt_2
+base.schemastaging.phone_sandbox	05zjd	0fxkpc	05r4w	0pl4nkj
+american_football.game_passing_statistics	025j0c	0794pv0
+music.group_membership	02hnl	0phx4	03fbc
+american_football.game_rushing_statistics	0265q8d	07dlpbs
+baseball.baseball_team_stats	041110t	01yhm
+basketball.basketball_player_stats	080sc7	02ypm4	0jmfb
+soccer.football_player_match_participation	03_qrp	0by1s6x	0cb4z87
+baseball.baseball_team_stats	04110lg	01d5z
+american_football.game_passing_statistics	019g65	0794fry
+baseball.historical_coaching_tenure	02ssmv	01d5z	04_75jz
+base.schemastaging.phone_sandbox	02h40lc	0273t5w	0d060g	0pl4nkj
+travel.travel_destination_monthly_climate	05ywg	028kb
+american_football.game_passing_statistics	0bmps_	07dlmst
+organization.organization_membership	04g61	07t65
+soccer.football_player_substitution	0c012t4	0c20hwx	03nnpwf
+award.hall_of_fame_induction	01h3b9	02h664x	0k89p
+soccer.football_player_match_participation	02w64f	08vt89	0cbx_tf
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_71r
+american_football.game_rushing_statistics	05w12d	07dlmtn
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_77q
+tennis.tennis_tournament_championship	012xcl	06qlhx
+american_football.player_receiving_statistics	03gqdq7	0d6nyb
+user.szaijan.fantasy_football.projection	02sj2gw	01z8wp	02sjlml
+soccer.football_player_match_participation	03zrhb	04q1vlw	0c0lsl1
+base.schemastaging.phone_sandbox	02h40lc	03mcr3	09c7w0	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	05g1b71	0b_6x2
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_687
+tennis.tennis_match	07db26	012xcl	05y19_
+american_football.player_receiving_statistics	03gqdq7	0cwqt9
+american_football.player_receiving_statistics	04y6_qr	08hlkm
+travel.travel_destination_monthly_climate	03khn	02xx5
+travel.travel_destination_monthly_climate	05l64	02xx5
+sports.sports_team_coach_tenure	02md_2	05jz9
+american_football.game_passing_statistics	030bdd	0793zf8
+american_football.game_passing_statistics	033t8w	07929vd
+soccer.football_player_match_participation	032hmd	027gvdm	0c1q83k
+award.hall_of_fame_induction	01l_v5	02h664x	0k89p
+travel.travel_destination_monthly_climate	05ywg	03_ly
+music.recording_contribution	01vs_1_	026t6	09ctdd
+freebase.list_entry	035qy	05dff5n
+olympics.olympic_athlete_affiliation	0d060g	0bjffj	03mfdg
+base.schemastaging.phone_sandbox	06mp7	01b2lp	0d0vqn	0pl4nkj
+basketball.basketball_player_stats	09n15l	0bk85l	0jm8l
+baseball.baseball_team_stats	04110t8	05xvj
+american_football.game_rushing_statistics	0cwnvk	0792wnm
+baseball.baseball_team_stats	02h7sbq	01slc
+sports.sports_team_roster	03d0d7	02ppw24
+american_football.game_rushing_statistics	0d6nyb	07927zd
+user.tsegaran.random.taxonomy_entry	062z7	04n6k
+basketball.basketball_player_stats	08n6zb	08j6yx	0jm2v
+american_football.game_rushing_statistics	026chnm	07939z8
+basketball.basketball_player_stats	099bj0	0301wn	0jm4b
+travel.travel_destination_monthly_climate	01f62	0lkm
+user.tsegaran.random.taxonomy_entry	03ytc	04n6k
+american_football.game_passing_statistics	05krlm	0792sht
+soccer.football_player_match_participation	02bh_v	03_77y	0c1smtr
+soccer.football_player_match_participation	02ltg3	038pvw	0cb4z8g
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_5wy
+basketball.basketball_player_stats	080b2d	07dqvd	0bwjj
+basketball.basketball_player_stats	08vg9r	04s92t	0jml5
+user.tsegaran.random.taxonomy_entry	042kg	04n6k
+organization.organization_membership	027jk	07t65
+basketball.basketball_player_stats	08rm43	02wk15	0jm74
+american_football.game_rushing_statistics	065lzw	07dlp83
+user.tsegaran.random.taxonomy_entry	088q4	04n6k
+user.szaijan.fantasy_football.projection	02sj2gw	0cwhxj	02sjlml
+baseball.baseball_team_stats	041110t	01d5z
+american_football.game_rushing_statistics	093lw4	0794qf4
+soccer.football_player_match_participation	0cnk2q	09qk86	0c1nbtv
+travel.travel_destination_monthly_climate	02_9n	04wzr
+american_football.game_rushing_statistics	027ddp	079397c
+freebase.list_entry	07dv8	05dff5n
+basketball.basketball_player_stats	0dsb05	04jx5p	0jmcv
+baseball.baseball_team_stats	02h7s1z	01d5z
+base.popstra.arrest	030qb3t	0q4c	03h8_g
+soccer.football_player_match_participation	03y_f8	09jwl0	0c1m0c5
+base.schemastaging.phone_sandbox	02h40lc	09xbqh	09c7w0	0pl4nlh
+soccer.football_player_substitution	04p44g	0c0xkpl	084183
+basketball.basketball_player_stats	0dsb05	078dxj	0jm4b
+soccer.football_player_match_participation	03_qrp	05mxyym	0c0mdp8
+tennis.tennis_tournament_championship	0mmmt	02x014z
+american_football.game_passing_statistics	03th34	0793v2s
+base.bioventurist.bv_investment_round	02_rdb9	03gmlck	05dbn6r	09nqf
+tennis.tennis_tournament_championship	0p58j	08nl6j
+travel.travel_destination_monthly_climate	02frhbc	028kb
+base.schemastaging.athlete_salary	05gg4	09nqf	07vxjh
+basketball.basketball_player_stats	07j1pw	07ch5x	0jmdb
+base.schemastaging.phone_sandbox	02h40lc	0fkl45	09c7w0	0pl4nkj
+baseball.baseball_team_stats	03wfgdh	061xq
+sports.sports_award	08n6zb	07nvhb	0jmm4	0380m_
+american_football.game_rushing_statistics	0br8m3	0791rzs
+american_football.game_rushing_statistics	0kt13j	07dlt2j
+base.schemastaging.phone_sandbox	02h40lc	01rvgk	0chghy	0pl4nkj
+tennis.tennis_tournament_championship	062pyl	01my95
+base.schemastaging.phone_sandbox	05zjd	0s81qjv	04llb	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_675
+award.hall_of_fame_induction	04b87b	02h664x	0k89p
+american_football.game_rushing_statistics	04wmq8	07dlsng
+tennis.tennis_match	02w7qlh	012xcl	0ds58nt
+american_football.game_passing_statistics	07k26_	07dlr7l
+tennis.tennis_match	0j26qjc	012xcl	069d68
+american_football.game_rushing_statistics	02z5l63	07dlm6x
+tennis.tennis_match	05h2799	062ptd	069d71
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_6s7
+aviation.airline_airport_presence	01lfy	03jn4	01wyl2
+american_football.game_rushing_statistics	097hft	0792y1k
+american_football.game_passing_statistics	021h8y	0793mqw
+tennis.tennis_match	09gl097	0mmmt	051q39
+music.recording_contribution	02pbrn	05r5c	01j2dt1
+american_football.game_rushing_statistics	04pl48	0792dmr
+basketball.basketball_player_stats	096z30	0fg2zx	0jm4v
+tennis.tennis_tournament_championship	062pbc	0hdr
+tennis.tennis_match	0cxjrp	012xcl	05t18k
+user.szaijan.fantasy_football.projection	02sj2gw	07rh_m	02sjlml
+organization.organization_membership	03ryn	07t65
+soccer.football_player_match_participation	03_qj1	0ktbjy	0c44msd
+baseball.baseball_team_stats	05lqx_t	061xq
+sports.sports_team_coach_tenure	02md_2	0n1dx
+music.group_membership	018vs	04vrxh	026f_x
+soccer.football_player_match_participation	02s9vc	072j74	0c1stt5
+music.group_membership	01vj9c	0gj8ym6	01np2sb
+american_football.game_rushing_statistics	0f6lqs	07dlqjy
+american_football.game_rushing_statistics	05w0_k	07dlsng
+basketball.basketball_player_stats	09gnpl	02x09hg	0jml5
+base.schemastaging.athlete_salary	0jmfb	09nqf	013834
+user.tsegaran.random.taxonomy_entry	01hnp	04n6k
+american_football.game_rushing_statistics	07y_ft	07dlp4m
+american_football.player_receiving_statistics	03gqdq7	02g9nt
+soccer.football_player_match_participation	032jlh	04qypj	0c1fy1c
+american_football.game_rushing_statistics	04njl2	0791p46
+sports.sports_team_roster	02w64f	080kwj9
+freebase.list_entry	033s6	05spzm2
+american_football.game_rushing_statistics	02z0mt0	07929pq
+sports.sports_team_coach_tenure	02md_2	0jnpv
+tennis.tennis_tournament_championship	083rfs	069d71
+base.schemastaging.phone_sandbox	02h40lc	015p1m	0h7h6	0pl4nkj
+american_football.game_rushing_statistics	04d4zv	0792fc1
+soccer.football_player_match_participation	01352_	08tn3g	0c1d32j
+american_football.game_rushing_statistics	0c28q8	07dlqcz
+american_football.game_rushing_statistics	025wtny	075rrwh
+base.bioventurist.bv_investment_round	0515tjs	02hh10	02h5j_f	09nqf
+basketball.basketball_player_stats	080bhx	07f3k4	0jmk7
+basketball.basketball_player_stats	08lw15	050t_l	0jmhr
+american_football.game_rushing_statistics	05w109	07dlmn1
+american_football.game_passing_statistics	05w109	07dlmst
+american_football.player_receiving_statistics	03gqdq7	05t3qv
+base.petbreeds.dog_city_relationship	016wkx	030qb3t
+baseball.baseball_team_stats	02h7sd3	01d5z
+base.schemastaging.phone_sandbox	07qv_	0qs1q05	02gps2	0pl4nkj
+tennis.tennis_match	03cnk74	012xcl	06tc62
+music.recording_contribution	09vtcmj	018vs	01p_zfg
+sports.sports_award	08_vqd	06lrxd	0jmnl	06js8m
+tennis.tennis_match	0c7dg1	012xcl	02vxz41
+soccer.football_disciplinary_action	02vmxdk	0cc33g2
+basketball.basketball_player_stats	08hplf	04pj46	0jm3v
+tennis.tennis_tournament_championship	0p58j	02q7lnf
+user.szaijan.fantasy_football.projection	02sj2gw	04hlp3	02sjlml
+american_football.game_rushing_statistics	04jj47d	07dlqgd
+basketball.basketball_player_stats	0993hq	0260xzl	0jmm4
+user.tsegaran.random.taxonomy_entry	05kr_	04n6k
+basketball.basketball_player_stats	07j1pw	07cl5_	0jmcb
+location.location_symbol_relationship	081mh	04627gn
+olympics.olympic_athlete_affiliation	07ssc	06p707	0jdk_
+soccer.football_player_substitution	09hc0c	0c1q89k	08tn3g
+american_football.game_rushing_statistics	05zvv0f	07dlv6_
+base.marchmadness.ncaa_tournament_seed	026xxv_	0b_6_l
+music.group_membership	05148p4	01jfnvd	0mjn2
+music.recording_contribution	01r0t_j	0_sv_90	0bmz9p0
+american_football.player_receiving_statistics	04y6_qr	04q88vd
+american_football.game_rushing_statistics	06m553	0793h53
+basketball.basketball_player_stats	09068d	073_zn	0jmnl
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6xf
+base.schemastaging.athlete_salary	03qx63	02l6h	02rncf5
+soccer.football_player_match_participation	02pp1	07frn7	0c0lv1g
+american_football.game_rushing_statistics	07_c_f	07dlnmk
+basketball.basketball_player_stats	09jfdf	0d9fzg	0jmfb
+american_football.game_rushing_statistics	0ct6xc	0794wyy
+baseball.baseball_team_stats	041112p	01ypc
+tennis.tennis_tournament_championship	062pbc	015y3w
+organization.organization_membership	0jgd	0gbf6
+basketball.basketball_player_stats	095wtg	08bst7	0jml5
+american_football.game_passing_statistics	0cw15s	0791wxm
+american_football.game_rushing_statistics	03h5kf7	0793s5z
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_5lv
+music.recording_contribution	01mxsd	026t6	05fkwl
+organization.organization_membership	03h2c	07xvv
+american_football.player_receiving_statistics	03gqdq7	02qwy_0
+soccer.football_player_match_participation	01l3wr	06nxfp	0c1sttd
+soccer.football_player_match_participation	01_lhg	0c4hn_	0c20g6b
+location.partial_containment_relationship	03v9w	05r4w
+music.group_membership	0l14md	0fz3j39	05_rv0
+organization.organization_membership	01ls2	02vk52z
+user.szaijan.fantasy_football.projection	02sj2gw	0f_ptc	02sjlml
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6fh
+tennis.tennis_match	0gy0f1d	012xcl	05zf7w
+music.recording_contribution	01wxg0j	026t6	01l8610
+american_football.game_rushing_statistics	04q2l4	07947tb
+base.schemastaging.phone_sandbox	02h40lc	02lts	03rt9	0pl4nlh
+base.schemastaging.athlete_salary	0ws7	09nqf	05zvv0f
+user.tsegaran.random.taxonomy_entry	03ryn	04n6k
+travel.travel_destination_monthly_climate	0f2rq	028kb
+base.schemastaging.phone_sandbox	02h40lc	0109_flk	0154j	0pl4nkj
+soccer.football_player_match_participation	02w64f	047kk6	0c6r0k6
+tennis.tennis_tournament_championship	0mmmt	06_247
+tennis.tennis_match	0b3027	012xcl	059nrl
+organization.organization_membership	0ctw_b	0_2v
+base.schemastaging.phone_sandbox	02h40lc	0sg85fj	052bw	0pl4nkj
+basketball.basketball_player_stats	08s093	050t_l	0jmhr
+freebase.list_entry	0f67f	059rl3x
+olympics.olympic_athlete_affiliation	06bnz	07vqbj	0kbws
+sports.sports_team_coach_tenure	040zjnd	0b__fx
+base.schemastaging.phone_sandbox	02h40lc	0g6nm	09c7w0	0pl4nlh
+basketball.basketball_player_stats	08030z	0739r4	0jm5b
+basketball.basketball_player_stats	0dsb05	06j3_9	0jm9w
+tennis.tennis_match	02pmq18	0mmmt	09n70c
+tennis.tennis_match	0cmcpdd	012xcl	02rw96r
+baseball.baseball_team_stats	02h7sdl	025wmp4
+american_football.game_rushing_statistics	07y_ft	07dlpns
+user.tsegaran.random.taxonomy_entry	01nyl	04n6k
+base.schemastaging.phone_sandbox	02h40lc	02qvly	07ssc	0pl4nlh
+tennis.tennis_match	07kd3v1	012xcl	0dm9j4
+base.schemastaging.phone_sandbox	02h40lc	0q52p0k	09c7w0	0pl4nkj
+award.hall_of_fame_induction	01yrrh	02h664x	0k89p
+basketball.basketball_player_stats	09068d	04wf0f	0jmcv
+base.marchmadness.ncaa_tournament_seed	02qcz16	0b_653
+sports.sports_team_coach_tenure	040zjnd	02mplj
+tennis.tennis_tournament_championship	0mmmt	01qx13
+american_football.game_rushing_statistics	08wgbh	07dlqpl
+base.marchmadness.ncaa_tournament_seed	0ds9r80	0b_6zk
+american_football.game_rushing_statistics	0272kym	075rqry
+base.marchmadness.ncaa_tournament_seed	091tgz	05g_nr
+american_football.game_rushing_statistics	019g65	0792vpw
+soccer.football_player_match_participation	0cnk2q	03c18b	0c0mdpq
+tennis.tennis_tournament_championship	0p58j	0860dv
+american_football.player_receiving_statistics	04y6_qr	026_r3y
+base.schemastaging.phone_sandbox	02h40lc	0by51	07ssc	0pl4nlh
+american_football.game_rushing_statistics	0cjcdj	0792yg2
+soccer.football_player_match_participation	01l3wr	071t_r	0c1srnw
+base.marchmadness.ncaa_tournament_seed	03gqs0v	0b_77q
+soccer.football_player_match_participation	02bh_v	04_0gkk	0c1lvg1
+american_football.game_rushing_statistics	030bdd	07dlsg3
+sports.sports_award	09759j	05tscl	0bwjj	046s7m
+base.schemastaging.athlete_salary	01yhm	09nqf	0h3x47v
+american_football.game_rushing_statistics	062qp9	0791_52
+american_football.game_rushing_statistics	02_jvp	0794pv0
+organization.organization_membership	09c7w0	06rjgr
+music.recording_contribution	0bpvtz	026t6	09g83yz
+tennis.tennis_match	03hnrfl	012xcl	03hgwyy
+freebase.list_entry	02j9_2	05c72w7
+american_football.player_passing_statistics	02zh95	04y6_qr
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_6q5
+soccer.football_player_match_participation	032hmd	0gj8c8	0c0xqws
+user.tsegaran.random.taxonomy_entry	0163v	04n6k
+american_football.game_rushing_statistics	05cb70	0794c1z
+base.schemastaging.phone_sandbox	0295r	01b2lp	0k6nt	0pl4nkj
+american_football.game_rushing_statistics	033t8w	07dlpyw
+soccer.football_player_match_participation	032hmd	0dcphf	0c22yrt
+tennis.tennis_tournament_championship	0l6c9	03xyp_
+basketball.basketball_player_stats	080sc7	0455pq	0jmm4
+soccer.football_player_match_participation	01l3wr	0ksh74	0cbx_t6
+location.location_symbol_relationship	081yw	0j749
+basketball.basketball_player_stats	096mjy	0cln93	0jmj7
+olympics.olympic_athlete_affiliation	0d060g	04wrjn	0kbws
+soccer.football_player_match_participation	01352_	04zjwv	0cb4z8g
+american_football.game_rushing_statistics	0cjcdj	0792wtq
+tennis.tennis_match	02vzhtg	062pyl	051q39
+aviation.airline_airport_presence	0177z	03jn4	01wyl2
+baseball.baseball_historical_managerial_position	01ypc	0dxg6
+american_football.game_passing_statistics	027jv8	07dlmn1
+base.schemastaging.phone_sandbox	02h40lc	0qsc2_s	02j71	0pl4nlh
+tennis.tennis_match	06jt3x	012xcl	0g53p5j
+base.marchmadness.ncaa_tournament_seed	05dbgc8	0b_6hl
+music.group_membership	01vj9c	01vn35l	0197vy
+american_football.game_rushing_statistics	04nt4c	0793pxw
+sports.sports_team_coach_tenure	02md_2	02sc5
+freebase.list_entry	033s6	05bthpn
+soccer.football_player_match_participation	01l3wr	09b3p1	0c1srnw
+base.marchmadness.ncaa_tournament_seed	0gwxr6	0f9rw9
+base.schemastaging.phone_sandbox	02h40lc	04yq3bv	09c7w0	0pl4nmy
+film.film_cut	0jgd	02x6ds1
+travel.travel_destination_monthly_climate	036g_r	03_ly
+sports.sports_team_roster	0jmcv	03nf3q
+tennis.tennis_tournament_championship	0l6c9	06q1kw
+american_football.game_rushing_statistics	07y_ft	0792d8g
+tennis.tennis_tournament_championship	012xcl	06pljw
+soccer.football_disciplinary_action	080cmb0	0c1nbtv
+music.recording_contribution	01vszv9	0l14md	01knf48
+american_football.game_rushing_statistics	0ghp1x	07dlr_t
+tennis.tennis_tournament_championship	0l6c9	06ql7b
+american_football.game_rushing_statistics	03tt9p	07dlrrl
+user.szaijan.fantasy_football.projection	02sj2gw	05dcr4	02sjlml
+base.schemastaging.phone_sandbox	05zjd	0s81qjv	0d060g	0pl4nkj
+music.group_membership	05148p4	02jslp	0178_w
+award.ranking	0bnqhdd	025twgf
+soccer.football_player_match_participation	032hmd	0gqhz4	0c22yrt
+tennis.tennis_tournament_championship	0p58j	0955h7
+freebase.list_entry	01c_d	05bl47b
+base.marchmadness.ncaa_tournament_seed	05c_x34	0b_5wy
+basketball.basketball_player_stats	0dsb05	07dl86	0jmfb
+music.group_membership	02hnl	01v_pj6	022c__
+base.schemastaging.phone_sandbox	0459q4	010fn9qs	09c7w0	0pl4nkj
+soccer.football_player_match_participation	03d8m4	0d58rm	0c1q83k
+american_football.game_rushing_statistics	022s5y	07945k0
+freebase.list_entry	0frsw	05bvj4h
+american_football.player_passing_statistics	04nt9g	03gqdq7
+soccer.football_player_match_participation	0329r5	02y_kzs	0c0lpm9
+base.marchmadness.ncaa_tournament_seed	0263cyj	05g_nr
+american_football.player_receiving_statistics	04y6_qr	07v6r9
+base.marchmadness.ncaa_tournament_seed	05gmn29	0b_65t
+base.marchmadness.ncaa_tournament_seed	03wctwm	0b_6v_
+base.petbreeds.dog_city_relationship	01k3tq	02_286
+american_football.game_rushing_statistics	05101_	0792kl6
+sports.sports_team_coach_tenure	02md_2	02plv57
+travel.travel_destination_monthly_climate	0177z	06vkl
+american_football.game_passing_statistics	0271d3w	07dlsry
+basketball.basketball_player_stats	080b2d	0fkrd4	0jmnl
+soccer.football_player_substitution	0f8ml9	0c6qzxm	0kst5k
+tennis.tennis_match	02vxz5s	0mmmt	069d71
+soccer.football_player_match_participation	02w64f	02jp6_	0c6r0k6
+american_football.game_rushing_statistics	095x71	0792p8p
+base.schemastaging.phone_sandbox	02h40lc	011chff0	03v1s	0pl4nkj
+soccer.football_player_match_participation	01352_	04kh37	0c6qzxm
+music.group_membership	02hnl	026zy39	03hmh_
+soccer.football_player_match_participation	02rqxc	0f8qdm	0c6r0k6
+base.marchmadness.ncaa_tournament_seed	02qsymk	0b_6s7
+american_football.player_receiving_statistics	04y6_qr	08wgbh
+soccer.football_player_match_participation	0329r5	0gnsh8	0cb4z87
+music.group_membership	02sgy	010v_k5t	0wtc_n4
+basketball.basketball_player_stats	08lw15	07clxs	0jmjr
+american_football.game_passing_statistics	09z4fb	07dlp_1
+american_football.player_receiving_statistics	04y6_qr	0f6lqs
+american_football.player_passing_statistics	07hx6h	04y6_qr
+tennis.tennis_match	02z76bx	012xcl	02w8pmb
+american_football.player_receiving_statistics	04y6_qr	03hj702
+american_football.player_receiving_statistics	03gqdq7	0261fv6
+baseball.baseball_team_stats	04110lg	01yjl
+american_football.game_passing_statistics	07k26_	0791vbq
+tennis.tennis_match	0bbv546	012xcl	09n70c
+american_football.game_rushing_statistics	08_5y5	07dlnsq
+american_football.game_rushing_statistics	05w0_k	0793b4v
+american_football.game_passing_statistics	04nprb	07dlv4k
+american_football.player_receiving_statistics	03gqdq7	08_ncl
+base.marchmadness.ncaa_tournament_seed	03by7wc	0bqthy
+basketball.basketball_player_stats	080sc7	0bw44d	0jmj7
+tennis.tennis_tournament_championship	0mmmt	06q1kw
+base.popstra.support	0jmk7	0dvmd
+american_football.player_passing_statistics	0272kym	03gqdq7
+soccer.football_player_match_participation	03zrhb	04289k	0c1smtg
+base.schemastaging.phone_sandbox	02h40lc	032t7j	0j5g9	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_653
+base.marchmadness.ncaa_tournament_seed	02qctn5	0b_6mr
+soccer.football_player_substitution	0ktbjy	0c1m0g3	05l831
+basketball.basketball_player_stats	08hn_f	07dl5b	0jmbv
+music.recording_contribution	01tq77z	02dlh2	04b__2
+american_football.game_passing_statistics	08z15k	07939z8
+soccer.football_player_match_participation	01l3wr	06n5bv	0c1sttd
+american_football.game_rushing_statistics	02qxmd6	0791mk4
+american_football.game_passing_statistics	07l8mg	07dlmy5
+baseball.baseball_historical_managerial_position	061xq	06j5bg
+american_football.game_rushing_statistics	04ljjn	07dlqgd
+base.bioventurist.bv_investment_round	02_rdb9	028951g	02sjwyg	09nqf
+basketball.basketball_player_stats	09drlt	01tg2m	0jm3v
+base.petbreeds.dog_city_relationship	01s7fj	0f04v
+soccer.football_player_match_participation	02bh_v	027479p	0cbx_t6
+american_football.game_rushing_statistics	09k147	0793_7m
+user.tsegaran.random.taxonomy_entry	05qdh	04n6k
+american_football.game_rushing_statistics	0cwmrj	07dlmx7
+american_football.game_passing_statistics	025j0c	07dlv4k
+music.recording_contribution	01wxwhx	02dlh2	040j79
+basketball.basketball_player_stats	09gnpl	02qfl3h	0jm8l
+american_football.game_rushing_statistics	01xyt7	07dln6s
+soccer.football_player_match_participation	02bh_v	04pcs3	0c441bl
+basketball.basketball_historical_coach_position	02pzy52	01jwf
+basketball.basketball_player_stats	080bhx	07zwkx	0jm5b
+olympics.olympic_medal_honor	0jdk_	09c7w0	0dr6f	02wcznq
+tennis.tennis_match	0d68f6	012xcl	02wx7qk
+base.schemastaging.phone_sandbox	02h40lc	01mf0	0d060g	0pl4nkj
+user.tsegaran.random.taxonomy_entry	0bzvqx	04n6k
+music.recording_contribution	01vs_1_	0l14md	02pxf6m
+american_football.game_rushing_statistics	09dw5j	07945t4
+soccer.football_player_substitution	0gf43t	09v2l34	053sw3
+soccer.football_player_match_participation	03d8m4	04p44g	0c20gf3
+american_football.game_rushing_statistics	065lzw	07dlpxz
+tennis.tennis_tournament_championship	062psk	0650gk
+basketball.basketball_player_stats	080kw1	08j72f	0jm7n
+soccer.football_goal	0dp6kj	0c1d32j	01352_
+soccer.football_player_match_participation	03zrhb	02y9kd	0c1lvg1
+tennis.tennis_match	047s537	012xcl	02vxz5s
+music.recording_contribution	01tmnnv	026t6	0czvp3
+basketball.basketball_historical_coach_position	0jm4b	040x5b
+base.schemastaging.phone_sandbox	064_8sq	0sg9r2q	0f8l9c	0pl4nkj
+music.recording_contribution	08hg7g	02dlh2	0d4f00
+soccer.football_player_match_participation	02bh_v	0cp9s2	0c1lvg1
+american_football.game_passing_statistics	027jv8	0792jk9
+travel.travel_destination_monthly_climate	04x5l8	05cw8
+base.schemastaging.athlete_salary	025rpyx	02l6h	04t5ww
+american_football.game_rushing_statistics	02qxmd6	0792_9t
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6s7
+sports.sports_team_coach_tenure	047vnfs	0cnk2q
+american_football.player_passing_statistics	097yk7	04y6_qr
+soccer.football_disciplinary_action	038pvw	09v2l34
+soccer.football_player_match_participation	03_44z	07dwsv	0c0xqws
+olympics.olympic_athlete_affiliation	09c7w0	03dq25	03mfdg
+soccer.football_player_match_participation	032hmd	027gvdm	0c22yrt
+american_football.game_rushing_statistics	03m5wq3	07dlrb3
+soccer.football_goal	0277ylh	0c1lz_v	035qgm
+tennis.tennis_tournament_championship	0mmmt	0860dv
+american_football.game_rushing_statistics	05yj_q	07dlqh1
+american_football.game_passing_statistics	033t8w	07dlp_y
+american_football.game_rushing_statistics	04yc_pf	07dlmh1
+organization.organization_membership	06bnz	07t65
+american_football.game_rushing_statistics	04yc_pf	09rl2hg
+american_football.game_rushing_statistics	05w109	0791sht
+baseball.baseball_team_stats	027mvrc	01slc
+american_football.game_passing_statistics	0cw15s	0792wtq
+american_football.player_passing_statistics	09z4fb	04y6_qr
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_734
+base.marchmadness.ncaa_tournament_seed	0286f0w	0b_6hl
+soccer.football_player_match_participation	032hmd	03hn6yv	0c20g6b
+base.schemastaging.athlete_salary	01c_d	09nqf	06zbf_
+travel.travel_destination_monthly_climate	02cft	06vkl
+film.film_cut	0f8l9c	0c066wb
+base.schemastaging.phone_sandbox	02h40lc	0swhq5s	0d060g	0pl4nkj
+music.recording_contribution	0632z7	0l14md	05rm45
+american_football.game_rushing_statistics	02z5l63	07dltz2
+music.group_membership	05148p4	0kymnrx	0dmwddv
+soccer.football_player_substitution	0bmj_9	0c0mdpq	07nvmx
+tennis.tennis_tournament_championship	0g3h5x	02wx7qk
+basketball.basketball_player_stats	08rm43	0clh71	0jmgb
+soccer.football_player_match_participation	03_qrp	04yjdf	0c0mdp8
+soccer.football_player_match_participation	035qgm	036h81	0c441bl
+soccer.football_player_match_participation	02pp1	01yj16	0c0lv1g
+music.recording_contribution	01wxl2s	026t6	01l869z
+base.marchmadness.ncaa_tournament_seed	02qctn5	0b_770
+tennis.tennis_match	02rqp7v	012xcl	059_ys6
+base.represent.agent_celebrity_representation	027ddp	06dk0p
+basketball.basketball_player_stats	080bhx	012xdf	0jmk7
+basketball.basketball_player_stats	08hplf	0fb6cs	0jmcv
+american_football.game_passing_statistics	04q06_	07dlv9x
+soccer.football_player_match_participation	040pyq	03_y2f	0c1q89k
+baseball.baseball_team_stats	02h7r_y	061xq
+american_football.game_rushing_statistics	074l06	079254x
+tennis.tennis_match	063_797	012xcl	06w9723
+baseball.baseball_team_stats	02h7sbq	05g76
+basketball.basketball_player_stats	08rm43	0dqsqd	0jm5b
+base.petbreeds.dog_city_relationship	0km3f	0f2tj
+american_football.game_rushing_statistics	027jv8	0792ktk
+user.szaijan.fantasy_football.projection	02sj2gw	07y_ft	02sjlml
+olympics.olympic_medal_honor	0l6mp	09c7w0	04s92t	0987km4
+location.partial_containment_relationship	03rjj	02q4964
+soccer.football_player_match_participation	02ltg3	02ppw24	0cc33g2
+organization.organization_membership	03188	0_2v
+music.recording_contribution	0ch9nsy	0l14j_	0ch9lds
+user.tsegaran.random.taxonomy_entry	03shp	04n6k
+travel.travel_destination_monthly_climate	056_y	06vkl
+base.schemastaging.phone_sandbox	02h40lc	0bpbq5z	0chghy	0pl4nkj
+soccer.football_player_match_participation	02ltg3	0gf47m	0cb4z8g
+travel.travel_destination_monthly_climate	02z0j	05cw8
+soccer.football_player_substitution	04zc91	0c0lsl1	0bv7_5
+business.market_share	05b5c	0169zh	02j71
+soccer.football_player_match_participation	03d8m4	04q7xgk	0cbx_tf
+basketball.basketball_player_stats	0994_r	0287x41	0jm5b
+baseball.baseball_team_stats	02h7s2l	061xq
+american_football.game_rushing_statistics	065lzw	07dlp_1
+travel.travel_destination_monthly_climate	02dvp4	06vkl
+soccer.football_player_match_participation	032hmd	076xs4c	0c0xqws
+base.marchmadness.ncaa_tournament_seed	02pyyld	0bz_7c
+base.schemastaging.phone_sandbox	02h40lc	02xqq	0kr8v	0pl4nkj
+american_football.game_rushing_statistics	043nvfh	07dlspd
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0bzrxn
+sports.sports_award	08_vqd	095nx	0jmk7	02yqk8
+base.schemastaging.phone_sandbox	02h40lc	0109_flk	0d0vqn	0pl4nkj
+soccer.football_player_match_participation	01l3wr	03ckywx	0c1m0c5
+music.group_membership	0l14md	02p8wxp	027kwc
+american_football.game_rushing_statistics	0cwnvk	07932dv
+tennis.tennis_match	02q7lnf	012xcl	03hh0w4
+soccer.football_disciplinary_action	02w8_8r	0c1q8nb
+soccer.football_disciplinary_action	02rqnmx	0c1q83k
+music.recording_contribution	0dnxdt	02dlh2	04101k
+film.film_cut	09c7w0	02wgk1
+baseball.baseball_team_stats	02h7sfv	01d5z
+music.recording_contribution	0g4yv37	0290ngj	0g4yv3x
+soccer.football_player_match_participation	01352_	04qv66	0c44h1j
+american_football.game_rushing_statistics	065lzw	0792dmr
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_756
+american_football.player_passing_statistics	0cmld3	04y6_qr
+user.szaijan.fantasy_football.projection	02sj2gw	0bh_vy	02sjlml
+american_football.game_passing_statistics	05cw4l	0791l5r
+film.film_cut	06qd3	0gwndqr
+american_football.game_rushing_statistics	0cjcdj	07932dv
+music.group_membership	0l14md	010v_k5t	0wtc_n4
+base.schemastaging.phone_sandbox	02h40lc	0s91j5w	0j1z8	0pl4nkj
+american_football.game_rushing_statistics	05txyj	0792h4x
+base.marchmadness.ncaa_tournament_seed	03by7wc	06n7qg
+basketball.basketball_player_stats	09hqyn	05m273	0bwjj
+basketball.basketball_player_stats	080kw1	059wb0	0jmmn
+base.schemastaging.phone_sandbox	02h40lc	0gyss3x	0yyh	0pl4nkj
+basketball.basketball_player_stats	09cfcf	04dddn	0jm3v
+soccer.football_player_match_participation	03xh50	026m8t9	0c22yr_
+location.partial_containment_relationship	0d060g	02l_25
+american_football.player_receiving_statistics	04y6_qr	095745
+soccer.football_goal	026nlzs	0c1m0c5	03y_f8
+soccer.football_player_match_participation	0329r5	026bk56	0c0lq5j
+soccer.football_player_match_participation	01352_	08tn3g	0c1q89k
+base.schemastaging.phone_sandbox	02h40lc	040y3g	0chghy	0pl4nkj
+american_football.game_rushing_statistics	0cmld3	07dlps3
+american_football.game_rushing_statistics	04hlp3	07dlq86
+american_football.game_passing_statistics	03h4qf7	07dlsq8
+music.group_membership	01vj9c	011jgy4g	01qzvjy
+user.szaijan.fantasy_football.projection	02sj2gw	07v6r9	02sjlml
+baseball.baseball_team_stats	02h7r_9	01yjl
+soccer.football_player_substitution	02vm85z	0c0lq5j	026yvt1
+freebase.list_entry	05g3v	05bl47b
+basketball.basketball_player_stats	09ln47	0257dq	0bwjj
+american_football.game_rushing_statistics	04pwwd	0793sfm
+soccer.football_player_match_participation	02bh_v	06qjgc	0c441bl
+soccer.football_player_match_participation	02pp1	0514dk	0c1m0g3
+american_football.game_passing_statistics	04d4zv	07dlqm9
+american_football.game_passing_statistics	027jv8	07925lf
+baseball.baseball_team_stats	05lqwcn	01ypc
+base.schemastaging.athlete_salary	0kz4w	02l6h	026yvt1
+organization.organization_membership	07f5x	07t65
+american_football.game_passing_statistics	07l8mg	07dlqqf
+location.location_symbol_relationship	03v1s	04627gn
+base.marchmadness.ncaa_tournament_seed	0hrfhrm	0b_6zk
+base.schemastaging.phone_sandbox	02h40lc	0109_flk	02j71	0pl4nkj
+soccer.football_player_match_participation	032hmd	0g8lg9	0c0xqws
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	0d7k1z	0pl4nm4
+sports.sports_team_coach_tenure	047vnfs	02pp1
+soccer.football_player_match_participation	03_qrp	05b4cc_	0c1stt5
+american_football.player_receiving_statistics	04y6_qr	0cwl37
+american_football.game_rushing_statistics	0cwmrj	0792fc1
+american_football.game_rushing_statistics	0cwhxj	0792l01
+american_football.game_rushing_statistics	04d4zv	0792nn7
+base.schemastaging.phone_sandbox	02h40lc	0169zh	02j71	0pl4nm4
+olympics.olympic_athlete_affiliation	0d060g	0bhw6w	0kbvv
+organization.organization_membership	05v10	07t65
+tennis.tennis_tournament_championship	062psk	01m_gh
+american_football.game_rushing_statistics	027jv8	07dlqc2
+freebase.list_entry	0154j	05dbcqn
+basketball.basketball_player_stats	096mjy	06by8l	0jmfb
+american_football.game_rushing_statistics	0bhvrn	07dlv6_
+american_football.game_rushing_statistics	09cyqn	07dlmr6
+music.group_membership	02hnl	0140t7	0dtd6
+soccer.football_player_match_participation	032hmd	047c8t7	0c20g6b
+american_football.game_passing_statistics	07l8mg	07dlq60
+american_football.game_passing_statistics	097yk7	079397c
+tennis.tennis_tournament_championship	04hg0j	031gr8
+tennis.tennis_match	02wx7qk	025_2gr	0gpsg4
+base.marchmadness.ncaa_tournament_seed	0nbnw7y	0b_77q
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6zk
+music.group_membership	0_sv_90	01rl1dk	0fcsd
+soccer.football_disciplinary_action	07cyt6	09v2l34
+american_football.game_rushing_statistics	0cwmrj	07dlq21
+american_football.game_rushing_statistics	04qbx7	0791tw4
+soccer.football_player_substitution	05vk88	0c44h17	0d76zk
+baseball.baseball_team_stats	027mvrc	01ypc
+music.recording_contribution	0m67s	0342h	0m683
+basketball.basketball_historical_coach_position	0jmm4	06wk01
+baseball.baseball_team_stats	02h7s6b	01slc
+soccer.football_player_match_participation	02pp1	0384sz	0c1sttd
+sports.sports_team_coach_tenure	05l1ktd	02mplj
+base.schemastaging.sports_league_season_ranking	0r4lcdl	0371rb
+american_football.game_rushing_statistics	09mmh4	0791td4
+tennis.tennis_match	0bmh4z2	012xcl	02bs4c
+base.schemastaging.athlete_salary	0jm7n	09nqf	04ck52
+tennis.tennis_tournament_championship	062pyl	05zf7w
+american_football.game_rushing_statistics	030bdd	07931qv
+music.group_membership	018vs	01tp5bj	0fsyx
+american_football.game_passing_statistics	0ctxdn	07dlmh1
+american_football.game_rushing_statistics	03tt0m	0793w89
+american_football.game_rushing_statistics	05101_	0792k6r
+basketball.basketball_player_stats	08s093	073_zn	0jmbv
+base.marchmadness.ncaa_tournament_seed	027yf83	0b_6s7
+american_football.game_rushing_statistics	027ddp	07938sl
+olympics.olympic_athlete_affiliation	03_3d	02vzhtg	06sks6
+base.schemastaging.phone_sandbox	02h40lc	04wyr	018hr_	0pl4nkj
+tennis.tennis_match	03d18hl	012xcl	05rp3d
+film.film_cut	03rjj	0c2lp76
+american_football.player_receiving_statistics	03gqdq7	0274k36
+american_football.game_rushing_statistics	025_l20	07dltqm
+travel.travel_destination_monthly_climate	0f2rq	04w_7
+organization.organization_membership	04g61	0_6t_z8
+soccer.football_player_substitution	04q7xgk	0c20gf3	084183
+tennis.tennis_tournament_championship	012xcl	01vzqp
+tennis.tennis_tournament_championship	0l6c9	06vjq4
+baseball.baseball_team_stats	02h7s15	01yjl
+base.schemastaging.athlete_salary	01ct6	09nqf	0cwl_t
+american_football.game_rushing_statistics	026chnm	07dls1p
+american_football.player_passing_statistics	07ckdf	04y6_qr
+base.schemastaging.phone_sandbox	02h40lc	0sgb7q5	0d060g	0pl4nkj
+basketball.basketball_player_stats	095_24	06smlc	0jmbv
+tennis.tennis_tournament_championship	012xcl	0svt5
+basketball.basketball_player_stats	08hplf	08485b	0jm5b
+basketball.basketball_player_stats	09drlt	08jqn8	0jm7n
+soccer.football_disciplinary_action	07x5y3	0c441bl
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0bqthy
+base.marchmadness.ncaa_tournament_seed	027yf83	0bzrxn
+american_football.game_rushing_statistics	0cw15s	0792wtq
+base.represent.agent_celebrity_representation	076ltd	06dk0p
+soccer.football_player_match_participation	03_qrp	05b4cc_	0c1srnw
+american_football.player_receiving_statistics	04y6_qr	04wmq8
+tennis.tennis_tournament_championship	0p58j	02z3df4
+tennis.tennis_match	064ph14	012xcl	03wc52
+basketball.basketball_player_stats	09b5jv	0d001w	0jm7n
+american_football.player_passing_statistics	07l8mg	04y6_qr
+american_football.game_rushing_statistics	04d4zv	0792lj_
+basketball.basketball_player_stats	09n4bz	05s7c0	0jm3v
+soccer.football_player_match_participation	03_44z	0b5y3x	0c1q86p
+american_football.game_rushing_statistics	097hft	0792x8p
+base.marchmadness.ncaa_tournament_seed	026w398	0b_6s7
+soccer.football_player_match_participation	035qgm	026twx5	0c1lz_v
+american_football.game_rushing_statistics	0cx2qq	07dln0d
+soccer.football_player_match_participation	02w64f	06s7dm	09v2l34
+american_football.game_rushing_statistics	027ddp	0793b4v
+base.schemastaging.phone_sandbox	03k50	0273t5w	04vmp	0pl4nkj
+location.partial_containment_relationship	09c7w0	0dpk_
+location.location_symbol_relationship	05kj_	04g8vjx
+tennis.tennis_tournament_championship	012xcl	01snlx
+base.marchmadness.ncaa_tournament_seed	026w398	0b_675
+american_football.player_passing_statistics	027jv8	03gqdq7
+baseball.baseball_team_stats	02h7sfp	01yjl
+base.marchmadness.ncaa_tournament_seed	05g16k0	0bzrb9
+basketball.basketball_player_stats	08w956	02c5ls	0jm9w
+user.tsegaran.random.taxonomy_entry	01vbl	04n6k
+basketball.basketball_player_stats	08rm43	064t7s	0jm2v
+film.film_cut	09c7w0	02q88q8
+american_football.player_receiving_statistics	04y6_qr	0ksdj8
+music.recording_contribution	02rn_bj	0342h	09rfl4d
+basketball.basketball_player_stats	080bhx	07dndk	0jm9w
+travel.travel_destination_monthly_climate	0cv3w	0lkm
+soccer.football_disciplinary_action	0df3x4	0cb4z87
+user.tsegaran.random.taxonomy_entry	04xn_	04n6k
+base.schemastaging.phone_sandbox	02h40lc	0273t5w	04vmp	0pl4nkj
+american_football.game_rushing_statistics	09k147	0793s5z
+film.film_cut	0jgd	0crgs8
+american_football.game_rushing_statistics	04nt4c	07dlsry
+american_football.player_receiving_statistics	04y6_qr	0949jb
+american_football.player_receiving_statistics	03gqdq7	0421k8y
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_6pv
+american_football.game_rushing_statistics	026chnm	0793h53
+organization.organization_membership	019rg5	07t65
+music.group_membership	02hnl	0bn424	016qbb
+american_football.game_rushing_statistics	07s9104	07dlt03
+tennis.tennis_match	02vxz5s	0p58j	05b0n6j
+base.schemastaging.phone_sandbox	02h40lc	029g_vk	09c7w0	0pl4nkj
+soccer.football_player_match_participation	01_lhg	0c4hn_	0c0xkpl
+american_football.game_passing_statistics	033t8w	07929pq
+basketball.basketball_player_stats	0dsb05	05pptr	0jm6n
+basketball.basketball_player_stats	09fwcb	08y5d0	0jmfb
+american_football.game_rushing_statistics	095xk6	07dltj6
+soccer.football_disciplinary_action	02zbj50	0c1lvg1
+soccer.football_player_match_participation	01352_	07ddt3	0c1q89k
+organization.organization_membership	01pj7	07t65
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6v_
+american_football.game_rushing_statistics	03h308s	07dlqjy
+american_football.player_receiving_statistics	04y6_qr	02r0fdq
+freebase.list_entry	011xhx	05bvj4h
+base.schemastaging.athlete_salary	06zpgb2	02l6h	02z4dfr
+soccer.football_player_match_participation	03_qrp	02w4dxc	0c1stt5
+american_football.game_rushing_statistics	02z0mt0	0792bkj
+travel.travel_destination_monthly_climate	03h64	06vkl
+base.petbreeds.dog_city_relationship	01s7fj	07bcn
+organization.organization_membership	0bq0p9	07xvv
+american_football.game_passing_statistics	097hft	0792y1k
+organization.organization_membership	06nnj	02vk52z
+basketball.basketball_player_stats	099bj0	046y_2	0jml5
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6v_
+award.hall_of_fame_induction	05n2mj	0bjcgyv	0k89p
+user.ungzd.default_domain.eurovision_vote	03rt9	01ppq
+user.ungzd.default_domain.eurovision_vote	0d0vqn	035qy
+travel.transportation	030qb3t	035x2n	01bjv	02959z
+american_football.player_receiving_statistics	03gqdq7	027ft1l
+soccer.football_player_match_participation	03zrhb	02vm5d5	0c1smtg
+soccer.football_disciplinary_action	05mt0s	0c0mdpq
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_734
+tennis.tennis_tournament_championship	0mmmt	015z4j
+tennis.tennis_tournament_championship	0p58j	0b9y3d
+user.ungzd.default_domain.eurovision_vote	05b4w	0f8l9c
+baseball.baseball_team_stats	02h7s4g	061xq
+tennis.tennis_match	0gpsg4	012xcl	04gp1mg
+base.schemastaging.phone_sandbox	02h40lc	0pmgsxt	09c7w0	0pl4nkj
+american_football.game_rushing_statistics	0bkv90	07dlt03
+film.film_cut	09c7w0	02pp8_d
+travel.travel_destination_monthly_climate	0f2rq	040fb
+american_football.game_passing_statistics	025j0c	0791p46
+basketball.basketball_player_stats	08hn_f	024vtg	0jm2v
+american_football.game_rushing_statistics	03hgggd	07dlmst
+american_football.game_rushing_statistics	0cwmzd	0793mqw
+base.schemastaging.phone_sandbox	02h40lc	0352k1	0chghy	0pl4nkj
+tennis.tennis_tournament_championship	062psk	09n70c
+tennis.tennis_tournament_championship	0g6_lr	03hh0w4
+basketball.basketball_player_stats	08p_89	02wk15	0jm74
+organization.organization_membership	01nqj	02vk52z
+tennis.tennis_tournament_championship	0p58j	0j26hwg
+music.recording_contribution	01x2vtc	0l14md	05h18l
+american_football.game_rushing_statistics	04ljjn	07dltf7
+american_football.game_rushing_statistics	05dcr4	0791vss
+base.marchmadness.ncaa_tournament_seed	02py8_w	0bzrsh
+user.ungzd.default_domain.eurovision_vote	03rt9	0f8l9c
+soccer.football_disciplinary_action	063rt3	09v2l34
+tennis.tennis_match	02w9mk4	062pbc	03cp_nq
+soccer.football_player_match_participation	03z8bw	03z5zh	0c1q8n1
+user.szaijan.fantasy_football.projection	02sj2gw	09ryyx	02sjlml
+location.partial_containment_relationship	09c7w0	056tz1
+basketball.basketball_player_stats	08hplf	064t7s	0jmj7
+basketball.basketball_player_stats	07z2hs	08stqz	0jmbv
+user.szaijan.fantasy_football.projection	02sj2gw	07ckdf	02sjlml
+baseball.baseball_team_stats	04110y2	01yjl
+basketball.basketball_player_stats	08hplf	02hdjz	0jm5b
+award.ranking	04p81wm	08xvpn
+american_football.game_rushing_statistics	08vwtr	07dlqqf
+user.tsegaran.random.taxonomy_entry	02k8k	04n6k
+base.represent.agent_celebrity_representation	05k0kp	06dk0p
+basketball.basketball_historical_coach_position	0jmcv	051r7g
+american_football.game_rushing_statistics	04nt9g	0792k6r
+soccer.football_player_match_participation	01352_	03by_sd	0c1q89k
+american_football.game_rushing_statistics	05yj_q	07dlq4k
+american_football.game_rushing_statistics	09mmh4	07dlm58
+base.schemastaging.athlete_salary	0bg4f9	02l6h	090ny_
+soccer.football_player_match_participation	02bh_v	04fj3j	0c1smtr
+user.ungzd.default_domain.eurovision_vote	06mkj	0f8l9c
+american_football.game_rushing_statistics	027fcy	0791rzs
+american_football.game_rushing_statistics	095x71	0793v2s
+award.hall_of_fame_induction	01jwf	0bjcgyv	0k89p
+base.schemastaging.phone_sandbox	03_9r	04951x	02j71	0pl4nkj
+american_football.game_rushing_statistics	04ljjn	07939h0
+user.ungzd.default_domain.eurovision_vote	0k6nt	03spz
+film.film_cut	09c7w0	01f8hf
+american_football.game_passing_statistics	0ctv7y	07dlmst
+olympics.olympic_city_bid	030qb3t	0lgxj
+film.film_cut	07ssc	0bjgwq
+tennis.tennis_match	09gj98	012xcl	02vs996
+tennis.tennis_match	06148c	012xcl	023q7x
+basketball.basketball_player_stats	096mjy	08m40h	0jmj7
+baseball.baseball_team_stats	02h7s7r	01d5z
+american_football.player_receiving_statistics	04y6_qr	0558f9
+organization.organization_membership	02k1b	07t65
+soccer.football_disciplinary_action	0gqhz4	0c22yrt
+base.marchmadness.ncaa_tournament_seed	02pq5pn	0b_6q5
+award.ranking	0bnqhdd	0glqs
+base.schemastaging.phone_sandbox	02h40lc	0bys4z	03spz	0pl4nkj
+base.schemastaging.athlete_salary	0289q	09nqf	09wck4
+travel.travel_destination_monthly_climate	04jpl	06vkl
+base.marchmadness.ncaa_tournament_seed	05gp8yz	0bz_8d
+soccer.football_player_match_participation	040whs	02vp3y2	0c44h17
+basketball.basketball_player_stats	08hplf	094xbr	0jm4b
+base.schemastaging.phone_sandbox	02h40lc	02lts	09c7w0	0pl4nlh
+sports.sports_award	09ln47	04r3y_	0jm8l	02yqnh
+american_football.game_rushing_statistics	097yk7	07938sl
+base.petbreeds.dog_city_relationship	02kfwr	071vr
+soccer.football_player_match_participation	03_qrp	04yjb_	0cb4z87
+soccer.football_disciplinary_action	01w22z	0c1nbtv
+american_football.game_rushing_statistics	07kfrl	0791ms6
+tennis.tennis_tournament_championship	0p58j	015y3w
+soccer.football_goal	0g5t7d	0c1m0dj	03ys48
+american_football.game_passing_statistics	05w0_k	07dlssm
+base.schemastaging.phone_sandbox	06nm1	0rq6xdc	02j71	0pl4nkj
+soccer.football_player_match_participation	01_lhg	062gr5	0c1q86p
+travel.travel_destination_monthly_climate	07dfk	05cw8
+organization.organization_membership	027nb	03m6lb
+base.schemastaging.phone_sandbox	02h40lc	01dnzs	07ssc	0pl4nkj
+base.petbreeds.dog_city_relationship	01xtxb	0rh6k
+basketball.basketball_player_stats	099bj0	04ck52	0jmjr
+base.schemastaging.phone_sandbox	03_9r	0l14qv	03_3d	0pl4nkj
+american_football.game_passing_statistics	030bdd	07dlnf4
+organization.organization_membership	06mzp	0_2v
+basketball.basketball_player_stats	09gnpl	08h_gh	0jm8l
+american_football.player_receiving_statistics	03gqdq7	0cjp42
+base.petbreeds.dog_city_relationship	02cyl6	0f2v0
+soccer.football_goal	04q4d0	0c1sttd	02pp1
+olympics.olympic_medal_honor	0l6mp	09c7w0	01dhkt	0987km4
+base.marchmadness.ncaa_tournament_seed	027yf83	0b_6zk
+basketball.basketball_player_stats	08w956	06cpj9	0jmm4
+organization.organization_membership	027nb	07t65
+american_football.game_rushing_statistics	07yzk2	07dlrnr
+sports.sports_team_coach_tenure	02md_2	03b04g
+base.schemastaging.phone_sandbox	02h40lc	02py351	07ssc	0pl4nkj
+soccer.football_player_match_participation	03_44z	08cywd	0c0xqws
+soccer.football_player_match_participation	03d8m4	083xpw	0c20gf3
+baseball.baseball_team_stats	04110yg	01d5z
+american_football.game_passing_statistics	0271d3w	0793kcz
+base.marchmadness.ncaa_tournament_seed	02qk2d5	0b_72t
+basketball.basketball_player_stats	08hplf	01jjx5	0jm3v
+american_football.game_rushing_statistics	0855sw	07dlnmk
+music.recording_contribution	065rsx4	07brj	065rs71
+base.schemastaging.phone_sandbox	02h40lc	034qg	09c7w0	0pl4nkj
+basketball.basketball_player_stats	08mdhv	02c5ls	0jm9w
+soccer.football_player_match_participation	02w64f	06mmrh	0cbx_tf
+base.schemastaging.phone_sandbox	02h40lc	0b2t42	02j71	0pl4nkj
+travel.travel_destination_monthly_climate	0cv3w	028kb
+american_football.player_receiving_statistics	03gqdq7	02qwx7z
+sports.sports_award	08vg9r	05h22h	0jmj7	02yqnh
+travel.travel_destination_monthly_climate	02cl1	05cw8
+organization.organization_membership	03shp	02vk52z
+american_football.game_rushing_statistics	04nt4c	07dlsq8
+tennis.tennis_tournament_championship	062psk	04zkmf
+music.group_membership	0342h	0h4669v	0l8g0
+base.schemastaging.phone_sandbox	06nm1	0q52p9g	09c7w0	0pl4nkj
+american_football.player_receiving_statistics	04y6_qr	095x71
+basketball.basketball_player_stats	099bj0	050d0q	0jmj7
+organization.organization_membership	06bnz	01rz1
+soccer.football_player_match_participation	01l3wr	09cgbz	0c1m0c5
+freebase.list_entry	0dtd6	05bthpn
+soccer.football_disciplinary_action	048nnl	0c1smtr
+american_football.game_rushing_statistics	03h5kf7	0792p8p
+american_football.game_rushing_statistics	0c28q8	07dltj6
+soccer.football_player_match_participation	03_qrp	0866z1	0c0mdp8
+basketball.basketball_player_stats	096z30	0684s7	0jmj7
+base.schemastaging.phone_sandbox	03_9r	01vdm0	03_3d	0pl4nkj
+american_football.player_receiving_statistics	04y6_qr	08_5y5
+american_football.game_rushing_statistics	0746cp	07dlpbs
+american_football.player_passing_statistics	0cw15s	03gqdq7
+american_football.game_rushing_statistics	0cw15s	07dlq2y
+american_football.player_receiving_statistics	04y6_qr	02g9nt
+basketball.basketball_player_stats	09jxbg	0257dq	0bwjj
+soccer.football_player_match_participation	01_lhg	02rncf5	0c0xkpl
+basketball.basketball_player_stats	080sc7	06yp3h	0jm7n
+american_football.game_rushing_statistics	05mztpl	07dlq21
+base.schemastaging.phone_sandbox	02h40lc	06bz3	02j71	0pl4nkj
+finance.exchange_rate	01j9nc	02l6h
+sports.sports_team_coach_tenure	047vnfs	035qgm
+basketball.basketball_player_stats	09mbww	05pt2s	0bwjj
+soccer.football_player_match_participation	02s9vc	02z6lsp	0c0lv1g
+base.schemastaging.phone_sandbox	02h40lc	0vzkr0b	09c7w0	0pl4nlh
+soccer.football_player_match_participation	02ltg3	0gf47m	0c22yrt
+american_football.game_passing_statistics	07l8mg	07dlqxx
+base.marchmadness.ncaa_tournament_seed	04088s0	0b_72t
+soccer.football_player_match_participation	02bh_v	044mw7	0c0lsl8
+basketball.basketball_player_stats	095_24	01ft64	0jml5
+american_football.player_receiving_statistics	03gqdq7	02q5dkc
+soccer.football_player_match_participation	01_lhg	05msy4	0c0xkpl
+base.marchmadness.ncaa_tournament_seed	02pzy52	0bzrsh
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_6zk
+basketball.basketball_player_stats	095wtg	02wcw58	0jm3v
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0bzrb9
+user.tsegaran.random.taxonomy_entry	06mz5	04n6k
+baseball.baseball_team_stats	05kcgsf	061xq
+travel.travel_destination_monthly_climate	02dvp4	028kb
+american_football.game_rushing_statistics	04yc_pf	07dlnfz
+music.group_membership	0_sv_90	03bxwtd	02q3w3v
+soccer.football_player_match_participation	03xh50	04yn2f	0c22yr_
+basketball.basketball_player_stats	08vg9r	05jdq7	0jmfb
+american_football.player_receiving_statistics	04y6_qr	03m5kt5
+travel.travel_destination_monthly_climate	02_9n	040fv
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	0ctw_b	0pl4nm4
+basketball.basketball_player_stats	09bjp8	0bl1hp	0jmbv
+american_football.player_receiving_statistics	04y6_qr	04njl2
+travel.travel_destination_monthly_climate	02dvp4	05cw8
+tennis.tennis_match	03hh_d_	012xcl	07nvr4
+american_football.game_rushing_statistics	03h308s	07dlp2g
+base.schemastaging.athlete_salary	06_y140	01nv4h	03qz3b
+music.group_membership	018vs	011jgmtz	01lr01m
+baseball.baseball_team_stats	02h7s7l	01yhm
+base.schemastaging.phone_sandbox	02h40lc	04yq3bv	09c7w0	0pl4nkj
+sports.sports_team_coach_tenure	0fht58	04913k
+american_football.game_rushing_statistics	095c1c	0791t3y
+base.schemastaging.phone_sandbox	02h40lc	02k8h3	09c7w0	0pl4nkj
+soccer.football_player_match_participation	03y_f8	04y2y5	0c1m0c5
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_734
+sports.sports_award	09hqyn	05m273	0bwjj	02yqnh
+film.film_cut	0d0vqn	07q78
+basketball.basketball_player_stats	09hqyn	08fnjd	0jm7n
+soccer.football_player_match_participation	02ltg3	038pvw	0cc33g2
+soccer.football_player_match_participation	040pyq	05c1c5	0c44h17
+american_football.player_receiving_statistics	03gqdq7	043nvfh
+baseball.baseball_historical_managerial_position	061xq	01xdwv
+base.marchmadness.ncaa_tournament_seed	0j65xwr	0b_6pv
+base.schemastaging.phone_sandbox	064_8sq	01rvgk	0f8l9c	0pl4nm4
+american_football.game_passing_statistics	025j0c	0794871
+american_football.game_rushing_statistics	07kfrl	07dlm7n
+base.schemastaging.phone_sandbox	02hxcvy	0s91j5w	0j1z8	0pl4nkj
+music.recording_contribution	07gph1	0l14md	01h7h6c
+american_football.game_rushing_statistics	04m4kj	0793km8
+base.schemastaging.athlete_salary	03lsq	09nqf	0b7t63
+american_football.game_rushing_statistics	05yj_q	0794wyy
+american_football.game_rushing_statistics	04d4zv	07927zd
+music.recording_contribution	01wxw7w	026t6	040h9q
+user.szaijan.fantasy_football.projection	02sj2gw	04q06_	02sjlml
+tennis.tennis_tournament_championship	0l6c9	01_r34
+music.group_membership	0290ngj	0phx4	03fbc
+american_football.player_receiving_statistics	04y6_qr	043l2wf
+soccer.football_player_match_participation	033nzk	02rh2qx	0c1fy14
+soccer.football_player_match_participation	02bh_v	07cgm1	0c1lvg1
+american_football.game_rushing_statistics	05dcr4	0791r6k
+american_football.player_passing_statistics	05txyj	03gqdq7
+baseball.baseball_team_stats	02h7s0d	061xq
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0bz_8d
+soccer.football_player_match_participation	03zrhb	02zbjwr	0c0lsl1
+american_football.game_rushing_statistics	0cwmrj	07927zd
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_5rc
+soccer.football_player_match_participation	03d8m4	03c_6zs	0c1q83k
+organization.organization_membership	0169t	07t65
+baseball.baseball_team_stats	04110b0	01d5z
+base.schemastaging.phone_sandbox	02h40lc	021wy4	0chghy	0pl4nmy
+soccer.football_goal	074cmq	0k061pq	035qgm
+american_football.game_rushing_statistics	03d753s	07dlnd6
+tennis.tennis_tournament_championship	012xcl	02plk76
+american_football.game_rushing_statistics	07k26_	0791td4
+olympics.olympic_city_bid	0k3p	0lgxj
+basketball.basketball_player_stats	08hplf	0301wn	0jm8l
+tennis.tennis_tournament_championship	062pbc	04_x29
+american_football.game_rushing_statistics	05w109	07dlmst
+baseball.baseball_team_stats	02h7r_9	01slc
+american_football.player_passing_statistics	0gnb8t	04y6_qr
+tennis.tennis_match	0263_qs	0p58j	05rp3d
+base.marchmadness.ncaa_tournament_seed	05c_bv1	0b_6v_
+tennis.tennis_tournament_championship	012xcl	05zf7w
+american_football.player_receiving_statistics	04y6_qr	02qwx7z
+tennis.tennis_tournament_championship	0l6c9	01jyjs
+tennis.tennis_match	0c7dg1	012xcl	027q1_3
+american_football.game_rushing_statistics	0cx3f1	07dlqyt
+tennis.tennis_match	07gz8m	012xcl	0jwyq2x
+american_football.player_receiving_statistics	04y6_qr	04zwqm6
+basketball.basketball_player_stats	08lw15	08lk30	0jm9w
+basketball.basketball_player_stats	0dsb05	07g5gp	0jmk7
+basketball.basketball_player_stats	099bj0	072qyn	0jm7n
+american_football.game_rushing_statistics	02qdp4v	07dlrnr
+soccer.football_player_match_participation	01l3vx	051g1t	0c0lpm9
+basketball.basketball_player_stats	0994_r	05r6dn	0jmnl
+sports.sports_team_coach_tenure	02md_2	04913k
+american_football.game_rushing_statistics	05v9rg	0792_9t
+soccer.football_player_match_participation	03_qj1	0gyjd3	0c44msd
+travel.travel_destination_monthly_climate	0f2rq	040fv
+tennis.tennis_tournament_championship	062pbc	015z4j
+soccer.football_player_substitution	0ksh74	0c0mdpq	0g0_l4
+american_football.game_rushing_statistics	05dcr4	0791td4
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_770
+travel.travel_destination_monthly_climate	056_y	040fb
+baseball.baseball_team_stats	02h7s52	06wpc
+soccer.football_player_substitution	076xs4c	0c22yrt	0g8lg9
+basketball.basketball_player_stats	0802lk	050d0q	0jmj7
+base.schemastaging.phone_sandbox	02h40lc	0rp0jvy	0n4mk	0pl4nkj
+base.marchmadness.ncaa_tournament_seed	04088s0	0b_6s7
+base.marchmadness.ncaa_tournament_seed	05c_bv1	0bzrxn
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_77q
+american_football.player_receiving_statistics	04y6_qr	03d2btm
+basketball.basketball_player_stats	08n6zb	0ds41m	0jm2v
+american_football.game_rushing_statistics	022s5y	0793zf8
+american_football.game_passing_statistics	07l8mg	0792sht
+basketball.basketball_player_stats	09759j	089_5t	0jm3b
+travel.travel_destination_monthly_climate	01f62	0ll3
+user.szaijan.fantasy_football.projection	02sj2gw	05_6mt	02sjlml
+soccer.football_player_match_participation	01l3wr	02rf301	0cbx_t6
+baseball.baseball_team_stats	02h7s28	05g76
+freebase.list_entry	0dtfn	05c72w7
+basketball.basketball_team_stats	09hqyn	0jmk7
+american_football.game_rushing_statistics	095c1c	0791vbq
+baseball.baseball_team_stats	02h7s36	01yhm
+soccer.football_player_match_participation	033nzk	026d3zp	0c44ckb
+basketball.basketball_player_stats	07j1pw	03d2bw	0jmjr
+american_football.game_rushing_statistics	0gnb8t	07dlmht
+tennis.tennis_match	069d71	012xcl	03cp_nq
+music.recording_contribution	01wyp27	0l14md	04c029
+tennis.tennis_tournament_championship	0p58j	051q39
+baseball.baseball_team_stats	0411115	061xq
+user.szaijan.fantasy_football.projection	02sj2gw	03b8gw	02sjlml
+american_football.game_rushing_statistics	0b2v1q	0792vhk
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_5js
+basketball.basketball_player_stats	0802lk	058yzq	0jm9w
+soccer.football_player_match_participation	03d8m4	03c_6zs	0c0xkpl
+user.tsegaran.random.taxonomy_entry	03qb78c	04n6k
+base.marchmadness.ncaa_tournament_seed	05q92yq	0b_653
+american_football.game_rushing_statistics	04m4kj	0793hpk
+user.szaijan.fantasy_football.projection	02sj2gw	0cwnqd	02sjlml
+american_football.game_passing_statistics	07l8mg	07dlqtx
+award.hall_of_fame_induction	030w9m	0bjcgyv	0k89p
+american_football.game_rushing_statistics	0gnb8t	07dlmg7
+base.schemastaging.phone_sandbox	04306rv	047m52	0345h	0pl4nkj
+freebase.list_entry	01vrqtm	05spzm2
+tennis.tennis_tournament_championship	062pbc	01b510
+basketball.basketball_historical_coach_position	0jm3b	02cg2v
+music.group_membership	0342h	03xpg8h	06yl8w
+american_football.game_passing_statistics	019g65	0794b6k
+base.schemastaging.phone_sandbox	02h40lc	05k4k	0chghy	0pl4nm4
+tennis.tennis_tournament_championship	012xcl	026zdkf
+american_football.game_rushing_statistics	025j0c	07949_q
+american_football.game_rushing_statistics	05yj_q	07dlv9x
+base.schemastaging.phone_sandbox	02h40lc	0rdx5mq	09c7w0	0pl4nkj
+american_football.game_rushing_statistics	08vwtr	07927zd
+baseball.baseball_team_stats	04110r3	01d5z
+basketball.basketball_player_stats	09nbp4	087fxb	0jm8l
+tennis.tennis_tournament_championship	062psk	066k52
+basketball.basketball_player_stats	096z30	08y5d0	0jm9w
+sports.sports_award	09nbp4	05ndy1	0239hyt	02yqk8
+tennis.tennis_match	0bbv546	0mmmt	01my95
+location.partial_containment_relationship	05tbn	0dtzd
+base.schemastaging.phone_sandbox	06nm1	0rq6xdc	09c7w0	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0py6t7j	09c7w0	0pl4nkj
+tennis.tennis_match	06h_fy	012xcl	09g8zpt
+american_football.game_rushing_statistics	06m553	07dlmtn
+soccer.football_player_match_participation	0329r5	03nsp2k	0c0lpm9
+music.group_membership	05148p4	0lbj1	0frsw
+base.schemastaging.phone_sandbox	02h40lc	01mf0	09c7w0	0pl4nkj
+music.group_membership	02sgy	011nn2ym	0fzmlr9
+organization.organization_membership	0f8l9c	05yg8kx
+user.szaijan.fantasy_football.projection	02sj2gw	07l8mg	02sjlml
+baseball.historical_coaching_tenure	03kzrh	01d5z	0fht58
+user.szaijan.fantasy_football.projection	02sj2gw	02_jvp	02sjlml
+soccer.football_goal	02rqnmx	0c1q83k	03d8m4
+location.location_symbol_relationship	06yxd	04g8vjx
+travel.travel_destination_monthly_climate	0f2rq	0ll3
+sports.sports_award	08rm43	05r99g	0jm4b	06js8m
+base.schemastaging.phone_sandbox	064_8sq	015p1m	06mzp	0pl4nkj
+soccer.football_player_match_participation	01352_	02rwsr2	0c1d32j
+american_football.game_rushing_statistics	097hft	07dlswb
+basketball.basketball_player_stats	08lw15	012xdf	0jm4b
+award.hall_of_fame_induction	0c0kdk	02h664x	0k89p
+american_football.game_passing_statistics	01xyt7	07dln4p
+american_football.game_rushing_statistics	04njl2	0793n3c
+soccer.football_player_match_participation	02bh_v	025zjfr	0c441bl
+location.location_symbol_relationship	0vmt	04627gn
+american_football.game_rushing_statistics	0cjcdj	07dlrgx
+base.schemastaging.phone_sandbox	02h40lc	05k4k	05fly	0pl4nm4
+basketball.basketball_player_stats	08mdhv	08g5p6	0jmk7
+award.hall_of_fame_induction	01ck_1	02h664x	0k89p
+american_football.player_receiving_statistics	04y6_qr	0cwp91
+film.film_cut	09c7w0	0f24wq
+soccer.football_player_match_participation	03_44z	04zvq9	0c0xqws
+base.petbreeds.dog_city_relationship	01xtxb	0f2rq
+basketball.basketball_player_stats	09drlt	01h3b9	0jm3v
+american_football.player_receiving_statistics	04y6_qr	0d6nyb
+american_football.game_rushing_statistics	05w0_k	07dlshz
+tennis.tennis_match	047r1wh	012xcl	05zf7w
+american_football.game_rushing_statistics	09dw5j	07dltnw
+american_football.player_receiving_statistics	03gqdq7	07y_ft
+base.schemastaging.athlete_salary	05tfm	09nqf	07bthc
+soccer.football_player_match_participation	03d8m4	084981	0cbx_tf
+music.recording_contribution	05sny38	0290ngj	05sny61
+basketball.basketball_player_stats	08030z	07dl5b	0jmnl
+travel.travel_destination_monthly_climate	01_d4	040fb
+travel.travel_destination_monthly_climate	0vzm	06vkl
+travel.travel_destination_monthly_climate	0f04v	0ll3
+base.marchmadness.ncaa_tournament_seed	05g1b71	0b_6zk
+music.recording_contribution	0313_3	0l14md	02pxf6m
+american_football.game_rushing_statistics	03gwshw	07945t4
+tennis.tennis_tournament_championship	062pbc	06_247
+music.recording_contribution	07h3cc	0l14md	01jgmqq
+baseball.baseball_team_stats	02h7s1z	05g76
+basketball.basketball_player_stats	08p_89	07f33c	0jm64
+tennis.tennis_match	063ynts	0mmmt	0ds58nt
+american_football.game_passing_statistics	02812tp	0791l5r
+basketball.basketball_player_stats	08p_89	026ym1z	0jmcv
+base.marchmadness.ncaa_tournament_seed	0289jr_	0b_6zk
+tennis.tennis_match	02vqjcx	012xcl	0gpsg4
+base.schemastaging.phone_sandbox	02h40lc	0qs2_qq	07ssc	0pl4nkj
+baseball.baseball_team_stats	02h7s0q	01slc
+american_football.player_passing_statistics	0265q8d	04y6_qr
+basketball.basketball_player_stats	09brkf	05p81s	0h1fsjh
+soccer.football_player_substitution	03tb61	0c44ckb	047kk6
+travel.travel_destination_monthly_climate	0947l	06vkl
+soccer.football_player_match_participation	03d8m4	02714sd	0c22yr_
+film.film_cut	03rjj	09s4bqb
+tennis.tennis_tournament_championship	062psk	0575d1
+basketball.basketball_player_stats	096mjy	0983mg	0jmj7
+american_football.game_rushing_statistics	05zxqgp	07dlr5_
+tennis.tennis_tournament_championship	062pbc	03cp_nq
+organization.organization_membership	0chghy	01x21l
+travel.travel_destination_monthly_climate	0h7h6	04w_7
+soccer.football_player_match_participation	0329r5	02vm85z	0c43z58
+base.schemastaging.phone_sandbox	02h40lc	0q4h1r0	0dlv0	0pl4nkj
+baseball.baseball_team_stats	02h7sbq	01ypc
+base.schemastaging.phone_sandbox	02h40lc	0r9n8gs	0d060g	0pl4nm4
+baseball.baseball_team_stats	02h7s2l	0x2p
+base.schemastaging.athlete_salary	0hvgt	02l6h	055kq6
+tennis.tennis_match	02pmq18	012xcl	09n70c
+baseball.baseball_team_stats	02h7sfp	01d5z
+travel.travel_destination_monthly_climate	02frhbc	02xx5
+basketball.basketball_player_stats	08030z	03794k	0jmnl
+tennis.tennis_tournament_championship	0l6c9	06tdk1
+tennis.tennis_tournament_championship	0l6c9	065t_w
+tennis.tennis_match	02vqjcx	012xcl	03hgwyy
+american_football.player_receiving_statistics	04y6_qr	05w109
+base.schemastaging.phone_sandbox	02h40lc	03xks	0d060g	0pl4nkj
+tennis.tennis_match	05h2799	0mmmt	069d68
+base.schemastaging.athlete_salary	03wnh	09nqf	0gznlq
+american_football.player_receiving_statistics	04y6_qr	051018
+baseball.baseball_team_stats	02h7s7r	05xvj
+base.schemastaging.athlete_salary	05g3b	09nqf	03hgggd
+american_football.game_rushing_statistics	025_l20	07dls3j
+tennis.tennis_match	06r28j	0p58j	07gzdm
+american_football.game_passing_statistics	033t8w	079259z
+music.recording_contribution	0g4yvzj	018vs	0g4yv3p
+travel.travel_destination_monthly_climate	02frhbc	03_ly
+organization.organization_membership	03rk0	06vxc9
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0bzrpd
+award.ranking	0bnqhdd	0bdjd
+american_football.game_rushing_statistics	04wmq8	0793g9k
+american_football.game_rushing_statistics	07kfrl	0791n16
+user.tsegaran.random.taxonomy_entry	0130xz	04n6k
+soccer.football_player_match_participation	03_qrp	05b5fkj	0c1stt5
+soccer.football_player_match_participation	03d8m4	04msvg	0c20gf3
+base.marchmadness.ncaa_tournament_seed	0280kbv	0bzrpd
+american_football.player_receiving_statistics	03gqdq7	053k66
+soccer.football_player_match_participation	040pyq	05vk88	0c1d2xp
+tennis.tennis_tournament_championship	0p58j	03k5n6
+american_football.player_receiving_statistics	04y6_qr	071b1t
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5wy
+sports.sports_award	08hn_f	01sg7_	0jm4v	02yqnh
+music.recording_contribution	0ch9nsy	0dwt5	0ch9lds
+tennis.tennis_match	01my95	0mmmt	051q39
+basketball.basketball_player_stats	096mjy	08h1xg	0jmj7
+base.marchmadness.ncaa_tournament_seed	03qk194	0bzrxn
+award.ranking	04p81wm	0glqs
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_6q5
+american_football.player_receiving_statistics	03gqdq7	02x6t1x
+american_football.game_rushing_statistics	08_5y5	07dlqzm
+user.tsegaran.random.taxonomy_entry	0598zp	04n6k
+soccer.football_player_match_participation	035qgm	0272qcn	0c441bl
+basketball.basketball_player_stats	0994_r	06h03t	0jm64
+soccer.football_player_match_participation	02w64f	03yvsf	0c1fy1c
+award.hall_of_fame_induction	08m13r	02h664x	0k89p
+travel.travel_destination_monthly_climate	0rh6k	03_ly
+soccer.football_player_match_participation	01352_	09hc0c	0c1q89k
+base.schemastaging.phone_sandbox	07qv_	0qs1pk2	01_9dh	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	0hht9s1	09c7w0	0pl4nkj
+base.schemastaging.phone_sandbox	02h40lc	02gqxg	07ssc	0pl4nkj
+basketball.basketball_player_stats	0dsb05	078dtb	0jml5
+american_football.game_rushing_statistics	06zbf_	07dlmdq
+freebase.list_entry	0d9jr	05m2cpk
+baseball.baseball_team_stats	02h7s36	06wpc
+base.schemastaging.phone_sandbox	064_8sq	0rdx5mq	0d060g	0pl4nm4
+soccer.football_player_match_participation	02s9vc	047534	0c0lv1g
+sports.sports_team_roster	0jmjr	05r6n_
+base.marchmadness.ncaa_tournament_seed	02qn723	0b_6q5
+base.schemastaging.phone_sandbox	02h40lc	03xks	0gyh	0pl4nm4
+soccer.football_player_match_participation	03_44z	09l8z_	0c1q86p
+sports.sports_award	0jkzz71	05qbmm	0jm3v	0380m_
+travel.travel_destination_monthly_climate	0h7h6	06vkl
+soccer.football_player_match_participation	032hmd	02rx4ck	0c22yrt
+organization.organization_membership	05v8c	06rjgr
+soccer.football_player_substitution	0dw60v	09v2l34	03hnxxq
+american_football.game_rushing_statistics	095xk6	07dlt1p
+american_football.game_rushing_statistics	07yzk2	079397c
+award.hall_of_fame_induction	053v74	02h664x	0k89p
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6_l
+sports.sports_award	0dsb05	02j8fb	0jm4b	027sy7x
+music.group_membership	0290ngj	011nm5vr	0drz_t3
+music.recording_contribution	01wxvqd	011cs_nk	05q65lz
+basketball.basketball_player_stats	080b2d	07d71f	0jmgb
+user.tsegaran.random.taxonomy_entry	034m8	04n6k
+american_football.game_rushing_statistics	02q4qzf	07dlp_y
+american_football.game_rushing_statistics	05k0kp	09rl2hg
+travel.travel_destination_monthly_climate	01914	04w_7
+organization.organization_membership	0d060g	086915
+soccer.football_player_substitution	07grfp	0c1m0dj	072j74
+american_football.game_passing_statistics	04q06_	07dlt5g
+base.schemastaging.phone_sandbox	02bv9	0bys4z	059j2	0pl4nkj
+travel.travel_destination_monthly_climate	0f2v0	028kb
+base.schemastaging.phone_sandbox	06nm1	02hq_z	09c7w0	0pl4nkj
+soccer.football_player_match_participation	02bh_v	04fj3j	0c1lvg1
+soccer.football_player_match_participation	033nzk	0ktdsl	0c6qzxm
+base.schemastaging.athlete_salary	0jm2v	09nqf	05sf0f
+sports.sports_team_coach_tenure	047vnfs	02rqxc
+award.ranking	0bnqhdd	04zl8
+tennis.tennis_tournament_championship	0l6c9	05rlqw
+american_football.game_rushing_statistics	026chnm	0793d38
+american_football.player_receiving_statistics	03gqdq7	0cczmn
+user.szaijan.fantasy_football.projection	02sj2gw	04llqf	02sjlml
+soccer.football_player_match_participation	01l3wr	068sc9	0cbx_t6
+baseball.baseball_team_stats	0dx84s	05xvj
+american_football.game_rushing_statistics	02qdp4v	0792c_g
+olympics.olympic_athlete_affiliation	0d060g	08_76l	018ctl
+freebase.list_entry	033s6	06083w1
+tennis.tennis_tournament_championship	012xcl	016cff
+soccer.football_player_match_participation	03_44z	09ntbc	0c1q86p
+base.marchmadness.ncaa_tournament_seed	02pzy52	0bqthy
+basketball.basketball_player_stats	09ln47	08mpdy	03bj3y
+baseball.baseball_team_stats	0285r5d	061xq
+base.marchmadness.ncaa_tournament_seed	026w398	0b_6ds
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0bzrxn
+user.szaijan.fantasy_football.projection	02sj2gw	05txy5	02sjlml
+organization.organization_membership	0f8l9c	01rz1
+tennis.tennis_match	07d8rt	012xcl	07k8t6
+american_football.game_passing_statistics	03h4qf7	07dlsh1
+american_football.game_rushing_statistics	097hft	0792wnm
+american_football.game_passing_statistics	02qxmd6	0792_9t
+base.schemastaging.athlete_salary	0jm7n	09nqf	02kwhq
+american_football.game_passing_statistics	04q06_	075rqry
+tennis.tennis_match	04jmzqm	012xcl	0c17cb
+basketball.basketball_player_stats	07j1pw	06cfvr	0jm6n
+tennis.tennis_match	0c4247t	012xcl	07k8t6
+basketball.basketball_team_stats	07j1pw	0jmk7
+travel.travel_destination_monthly_climate	01f62	06vkl
+basketball.basketball_player_stats	09bjp8	06by8l	0jm5b
+soccer.football_player_match_participation	02ltg3	053sw3	09v2l34
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6lb
+travel.travel_destination_monthly_climate	02cl1	04w_7
+tennis.tennis_tournament_championship	0l6c9	0825b1
+american_football.game_passing_statistics	0c8slf	07dlsry
+american_football.player_receiving_statistics	03gqdq7	025_l20
+american_football.game_rushing_statistics	097hft	07dlsvf
+american_football.game_rushing_statistics	04ljjn	07dlt03
+award.ranking	0bnqhdd	02q52q
+tennis.tennis_tournament_championship	062pyl	09gj98
+basketball.basketball_player_stats	08rm43	07yqwb	0jm4b
+american_football.game_passing_statistics	074l06	07924rd
+organization.organization_membership	02vzc	02t63
+soccer.football_disciplinary_action	0f7t5m	0c44h1j
+base.schemastaging.phone_sandbox	02h40lc	02qvly	0chghy	0pl4nkj
+basketball.basketball_player_stats	08_vqd	06cpj9	0jmm4
+basketball.basketball_player_stats	09mbww	05m32c	0jm4v
+soccer.football_player_match_participation	03_qj1	0krwpr	0c0mdph
+base.schemastaging.phone_sandbox	02h40lc	0475mb	0d060g	0pl4nlh
+basketball.basketball_player_stats	08n6zb	01vfqy	0jm8l
+base.schemastaging.phone_sandbox	04306rv	01b2lp	0345h	0pl4nkj
+american_football.player_receiving_statistics	03gqdq7	069wv2
+american_football.game_rushing_statistics	0271d3w	07dltlv
+american_football.game_rushing_statistics	0ctv7y	07dlmst
+film.film_cut	0f8l9c	04j1pfb
+basketball.basketball_player_stats	08vg9r	03461q	0jm9w
+base.marchmadness.ncaa_tournament_seed	026xxv_	0bzrb9
+american_football.player_receiving_statistics	03gqdq7	0ct6xc
+basketball.basketball_player_stats	08_vqd	04wf0f	0jmcv
+basketball.basketball_player_stats	0993hq	0bm9df	0jmbv
+soccer.football_player_match_participation	02ltg3	04wy63	0c1nbsz
+music.recording_contribution	01vq5px	02sgy	098cqc1
+soccer.football_player_substitution	0gj8c8	0c22yrt	02rx4ck
+soccer.football_goal	0h6h8w	0c441bw	03zrhb
+base.schemastaging.phone_sandbox	02h40lc	027lls7	09c7w0	0pl4nm4
+tennis.tennis_match	0b7_hf	012xcl	05rp3d
+american_football.game_rushing_statistics	033t8w	07dlptq
+base.marchmadness.ncaa_tournament_seed	05n_6jp	0b_6lb
+baseball.baseball_team_stats	02h7sdf	061xq
+soccer.football_player_match_participation	0329r5	03h5y00	0c1smtg
+american_football.game_rushing_statistics	05yj_q	07dlvc3
+music.recording_contribution	057vbx	0l14j_	0bh74z
+basketball.basketball_player_stats	08hn_f	0b1944	0jmfb
+basketball.basketball_player_stats	08hplf	0266p25	0jmcv
+music.recording_contribution	04zb3d	0290ngj	01r6glb
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6_l
+organization.organization_membership	06qd3	07t65
+soccer.football_player_match_participation	032jlh	05nr4p	0c1fy1c
+american_football.game_rushing_statistics	07kfrl	0791lwh
+base.popstra.support	0jmk7	02r3cn
+american_football.game_passing_statistics	0bmps_	07dlm7n
+organization.organization_membership	04j53	07t65
+soccer.football_player_match_participation	032hmd	04ygky_	0c1q83k
+american_football.game_rushing_statistics	0bnks5	07dlr2v
+soccer.football_player_match_participation	035qgm	07x5y3	0c0lsl1
+base.schemastaging.athlete_salary	05l71	09nqf	027rvyc
+award.ranking	0bnqhdd	02h4658
+music.group_membership	0l14md	011m98mw	0dn3z6k
+tennis.tennis_tournament_championship	04hg0j	0g2s0k
+soccer.football_player_match_participation	02rqxc	0f7t5m	0c1d2xp
+base.petbreeds.dog_city_relationship	06pq2r	0f2v0
+basketball.basketball_player_stats	09jzdm	0fcpk9	02kbcqj
+american_football.game_rushing_statistics	0cv72h	07dlsd7
+american_football.game_rushing_statistics	07k26_	0791m74
+soccer.football_player_match_participation	02s9vc	0281k5n	0c1m0dj
+sports.sports_team_coach_tenure	047vnfs	045xx
+tennis.tennis_match	0czb0m0	062psk	069d68
+american_football.game_rushing_statistics	03k7k8	0793yjf
+tennis.tennis_match	07d8rt	012xcl	07db26
+base.schemastaging.phone_sandbox	02h40lc	02qvly	09c7w0	0pl4nmy
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6lb
+american_football.game_rushing_statistics	04pwwd	0793thl
+american_football.game_passing_statistics	07k26_	0791whn
+base.marchmadness.ncaa_tournament_seed	0nbnw7y	0b_72t
+organization.organization_membership	03rj0	02vk52z
+organization.organization_membership	015fr	05yg8kx
+base.schemastaging.phone_sandbox	02h40lc	05r_j	0d060g	0pl4nkj
+american_football.game_rushing_statistics	07k26_	0791pf0
+award.ranking	0bnqhdd	0jdr0
+american_football.game_passing_statistics	0cjcdj	07dlnfz
+user.szaijan.fantasy_football.projection	02sj2gw	09w8fq	02sjlml
+soccer.football_player_match_participation	02s9vc	0ftfjf	0c0lv1g
+organization.organization_membership	03rt9	0gbf6
+base.petbreeds.dog_city_relationship	01llgk	02cl1
+tennis.tennis_match	0g53p5j	012xcl	0bbwvqy
+award.ranking	04p81wm	0jz71
+american_football.player_passing_statistics	05krlm	03gqdq7
+tennis.tennis_tournament_championship	0p58j	01m_gh
+tennis.tennis_match	08mjqg	012xcl	03wc52
+soccer.football_player_match_participation	040pyq	07lskv	0c44h17
+american_football.game_rushing_statistics	06m553	07dls2m
+freebase.list_entry	07n3s	05bvj4h
+soccer.football_goal	038pvw	0c22yrt	02ltg3
+american_football.game_rushing_statistics	04nt4c	0793jw9
+american_football.game_rushing_statistics	095xk6	09tmfvr
+aviation.airline_airport_presence	0n2z	03jn4	01wyl2
+music.recording_contribution	07gph1	0l14qv	027n4xs
+music.recording_contribution	06xrff	03gvt	04y_qf
+american_football.game_passing_statistics	030bdd	07949wt
+basketball.basketball_team_stats	08_vqd	0jmk7
+american_football.game_rushing_statistics	07k26_	0791ns0
+music.recording_contribution	05b02f5	026t6	05b5bqm
+soccer.football_player_match_participation	03dj48	02w6hw1	0c1smtr
+base.schemastaging.phone_sandbox	02h40lc	0d7pp	02j71	0pl4nm4
+sports.sports_award	08w956	054c1	0jm74	02yqk8
+baseball.baseball_team_stats	02h7s3j	01yjl
+tennis.tennis_match	02vkxq8	012xcl	07n9cx
+tennis.tennis_match	06jt3x	012xcl	02z76bx
+travel.travel_destination_monthly_climate	036g_r	04w_7
+travel.travel_destination_monthly_climate	02_9n	028kb
+american_football.game_passing_statistics	02812tp	0791mk4
+tennis.tennis_match	03hgwyy	012xcl	04gp1mg
+american_football.player_passing_statistics	04nprb	04y6_qr
+american_football.game_rushing_statistics	0bnks5	0792_5w
+soccer.football_player_match_participation	0cnk2q	07_4sd	0c1nbtv
+soccer.football_player_match_participation	01352_	04kh37	0c44h1j
+organization.organization_membership	03rk0	07t65
+soccer.football_player_match_participation	01l3wr	09cgbz	0c0lq5j
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0b_734
+award.hall_of_fame_induction	01tp1l	02h664x	0k89p
+tennis.tennis_match	0dzs62	012xcl	0bbv546
+user.tsegaran.random.taxonomy_entry	06nnj	04n6k
+film.film_cut	03rjj	03xfgb
+soccer.football_player_match_participation	03xh50	04yn2f	0c1nbsz
+basketball.basketball_player_stats	09brkf	08jlrz	0jmbv
+user.tsegaran.random.taxonomy_entry	021wy4	04n6k
+american_football.game_rushing_statistics	09p693	07dlv9x
+organization.organization_membership	0154j	07t65
+organization.organization_membership	0jdx	04k4l
+baseball.baseball_team_stats	04110y2	01ypc
+american_football.player_receiving_statistics	04y6_qr	03h5kf7
+soccer.football_player_substitution	02z3k3g	0c1m0c5	04gr3y_
+basketball.basketball_player_stats	0802lk	0fkdp4	0jm8l
+base.schemastaging.phone_sandbox	02h40lc	0sgk729	02j71	0pl4nlv
+basketball.basketball_player_stats	080b2d	05r52b	0jm4v
+basketball.basketball_player_stats	08hn_f	04jx5p	0jmk7
+american_football.game_passing_statistics	097hft	07dlstj
+american_football.player_receiving_statistics	03gqdq7	02qxcts
+base.marchmadness.ncaa_tournament_seed	05gp8yz	0bz_7c
+basketball.basketball_player_stats	07j1pw	03lghn	0jmbv
+user.tsegaran.random.taxonomy_entry	06x4c	04n6k
+location.partial_containment_relationship	081yw	01n86
+base.marchmadness.ncaa_tournament_seed	03d81w2	05g_nr
+travel.travel_destination_monthly_climate	06t2t	03_ly
+american_football.player_receiving_statistics	04y6_qr	06_612
+american_football.game_rushing_statistics	03cy5lk	07dlmkf
+organization.organization_membership	06mkj	018cqq
+base.marchmadness.ncaa_tournament_seed	02pksbb	0b_6zk
+american_football.game_rushing_statistics	05znmyb	07dlr2v
+music.recording_contribution	05sny44	05148p4	05sny59
+american_football.player_receiving_statistics	03gqdq7	09cbmj
+basketball.basketball_player_stats	09drlt	06by8l	03bj3y
+sports.sports_team_roster	03d8m4	04y38k
+baseball.baseball_team_stats	02h7r_9	051vz
+music.group_membership	0290ngj	0dw3l	0_h1jzc
+soccer.football_player_match_participation	02ltg3	090ny_	0c0xk9g
+base.schemastaging.athlete_salary	03wnh	09nqf	026chnm
+american_football.player_receiving_statistics	03gqdq7	04wb7w
+american_football.game_rushing_statistics	0bhy1_	07945k0
+american_football.game_rushing_statistics	0bnks5	0792_wh
+basketball.basketball_player_stats	0993hq	08y5d0	0jmdb
+user.tsegaran.random.taxonomy_entry	03rj0	04n6k
+film.film_cut	09c7w0	0k5k1
+user.szaijan.fantasy_football.projection	02sj2gw	05xpnh	02sjlml
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_71r
+travel.travel_destination_monthly_climate	0d9jr	0lkm
+baseball.baseball_team_stats	02h7sbd	01d5z
+travel.travel_destination_monthly_climate	01914	03_ly
+basketball.basketball_player_stats	09bjp8	02791cy	0jm5b
+american_football.game_rushing_statistics	02zh95	0791qhw
+music.group_membership	07brj	011nw897	06htv8
+music.group_membership	0342h	01v2vz_	01l_fq5
+tennis.tennis_match	0bmh4z2	012xcl	064j9_
+location.partial_containment_relationship	06bnz	05b7r2_
+film.film_cut	09c7w0	0kvdzd
+baseball.baseball_team_stats	02h7s7l	01ypc
+basketball.basketball_player_stats	09068d	04q4f4	0jm64
+american_football.game_rushing_statistics	02812tp	0791ms6
+soccer.football_player_match_participation	02bh_v	02x0m1w	0c1smtr
+base.marchmadness.ncaa_tournament_seed	05d041p	0b_75k
+basketball.basketball_player_stats	08w956	0bwnjp	0jmm4
+basketball.basketball_player_stats	095wtg	0b71zw	0jm5b
+american_football.game_rushing_statistics	0462zw6	07dlm6x
+tennis.tennis_tournament_championship	04hg0j	069d71
+base.bioventurist.bv_investment_round	02_rdb9	04y72md	02_716n	09nqf
+base.petbreeds.dog_city_relationship	01xtxb	0d9jr
+base.schemastaging.phone_sandbox	02h40lc	09xbqh	0d060g	0pl4nm4
+tennis.tennis_match	02qzkdv	012xcl	0b7_hf
+soccer.football_player_match_participation	02ltg3	02pzx20	0c22yrt
+soccer.football_player_match_participation	0cnk2q	0943bq	0c0mdpq
+american_football.game_rushing_statistics	03d74x4	0792_5w
+music.group_membership	018vs	01v_pj6	022c__
+base.schemastaging.phone_sandbox	02h40lc	09bdh1	07ssc	0pl4nm4
+baseball.baseball_team_stats	02h7sc5	01ypc
+tennis.tennis_match	0g53p5j	012xcl	063ynts
+base.marchmadness.ncaa_tournament_seed	05g1p9j	0b_6v_
+soccer.football_player_match_participation	03ylxn	02ppjn8	0c1lz_v
+base.schemastaging.phone_sandbox	0349s	0pmc_sq	01ppq	0pl4nkj
+soccer.football_player_match_participation	0329r5	07k63st	0c0lpm9
+soccer.football_player_match_participation	03_qrp	04yjb_	0c0mdp8
+travel.travel_destination_monthly_climate	0d9jr	0ll3
+basketball.basketball_player_stats	09n15l	05m32c	025sf78
+basketball.basketball_player_stats	08n6zb	02c5ls	0jm9w
+basketball.basketball_player_stats	096z30	05f4b0	0jmdb
+soccer.football_player_match_participation	02w64f	055kq6	0c1fy1c
+user.ungzd.default_domain.eurovision_vote	0f8l9c	0154j
+tennis.tennis_tournament_championship	04hg0j	047sc8k
+base.bioventurist.bv_investment_round	02gwv6z	02h670g	03dzvhq	09nqf
+user.tsegaran.random.taxonomy_entry	06npd	04n6k
+american_football.player_receiving_statistics	04y6_qr	0949_l
+music.recording_contribution	05sny38	0342h	01rd6tq
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_675
+baseball.baseball_team_stats	02h7s78	051vz
+soccer.football_player_substitution	026hvjz	0c1fy14	027f26b
+soccer.football_player_match_participation	03y_f8	026nlzs	0c0mdp8
+basketball.basketball_player_stats	07j1pw	05m4cz	0jmfb
+basketball.basketball_player_stats	09ln47	08mw_2	03bj3y
+base.schemastaging.phone_sandbox	02h40lc	0s81qjv	02j9z	0pl4nkj
+location.location_symbol_relationship	04tgp	04g8vjx

@@ -1,0 +1,58 @@
+output_dir: ~/HYPER/output
+
+dataset:
+  class: {{ dataset }}
+  root: ~/HYPER/kg-datasets/
+  version: {{ version }}
+
+# ---- new: where to find / cache the raw-id -> text mappings and the
+# semantic encoder used to embed them. See hyper_text/text_datasets.py
+text:
+  ent_raw2text_path: {{ ent_text_json }}   # json: {"m.02mjmr": "Barack Obama, ...", ...} or null
+  rel_raw2text_path: {{ rel_text_json }}   # same, for relations, or null
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+  cache_dir: ~/HYPER/text_cache
+  text_dim: 384   # must match the sentence-transformers model's output dim
+
+model:
+  class: TextHYPER
+  relation_model:
+    class: TextRelHCNet
+    input_dim: 64
+    hidden_dims: [64, 64, 64, 64, 64, 64]
+    aggregate_func: sum
+    short_cut: yes
+    use_triton: yes
+    text_dim: 384
+    fusion_type: gated     # additive | concat_mlp | gated | film
+    text_dropout: 0.1
+  entity_model:
+    class: TextEntityHCNet
+    input_dim: 64
+    hidden_dims: [64, 64, 64, 64, 64, 64]
+    aggregate_func: sum
+    short_cut: yes
+    use_triton: yes
+    text_dim: 384
+    fusion_type: gated
+    text_dropout: 0.1
+
+optimizer:
+  class: AdamW
+  lr: 5.0e-4
+
+task:
+  name: InductiveInference
+  num_negative: 256
+  strict_negative: yes
+  adversarial_temperature: 1
+  metric: [mr, mrr, hits@1, hits@3, hits@10]
+
+train:
+  gpus: {{ gpus }}
+  batch_size: 32
+  num_epoch: {{ epochs }}
+  log_interval: 100
+  batch_per_epoch: {{ bpe }}
+
+checkpoint: {{ ckpt }}

@@ -1,0 +1,131 @@
+cvg.musical_game_song_relationship	0np_c7	067gh	0fq74z3
+user.tsegaran.random.taxonomy_entry	04hzj	04n6k
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6zk
+cvg.musical_game_song_relationship	0h4_93	026kds	06ztwyd
+base.marchmadness.ncaa_tournament_seed	02qvh2s	0bzrxn
+base.marchmadness.ncaa_tournament_seed	05d02t2	0b_6jz
+tennis.tennis_match	0gy0f1d	012xcl	05zf7w
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_675
+base.marchmadness.ncaa_tournament_seed	03yfq3l	0bzrmb
+cvg.musical_game_song_relationship	07n685w	066kp	0464gkc
+tennis.tennis_match	05h2799	0mmmt	069d68
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_75k
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_5tt
+basketball.basketball_player_stats	0994_r	0260xzl	0jm8l
+cvg.musical_game_song_relationship	0djhxs	026kds	0464gkc
+tennis.tennis_match	0b7_hf	012xcl	05rp3d
+base.marchmadness.ncaa_tournament_seed	02q1nr9	0bzrpd
+tennis.tennis_match	02vqjcx	0mmmt	069d68
+base.marchmadness.ncaa_tournament_seed	05ghyj4	06n7qg
+base.marchmadness.ncaa_tournament_seed	0b__fx	0br1x_
+base.marchmadness.ncaa_tournament_seed	026xxv_	0b_6_l
+base.marchmadness.ncaa_tournament_seed	0289k0y	0b_62n
+base.marchmadness.ncaa_tournament_seed	02q8r_1	0b_734
+tennis.tennis_tournament_championship	012xcl	026zdkf
+freebase.list_entry	0bdr4z	05bv23n
+tennis.tennis_match	02z76bx	012xcl	02w8pmb
+base.marchmadness.ncaa_tournament_seed	0769_r	0b_675
+basketball.basketball_historical_coach_position	0jm3b	0dsj73
+tennis.tennis_match	02vqjcx	012xcl	03hgwyy
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_6fh
+basketball.basketball_player_stats	09nbp4	087fxb	0jm8l
+tennis.tennis_match	08mjqg	062ptd	051q39
+base.marchmadness.ncaa_tournament_seed	0hrfhrm	0bzrb9
+basketball.basketball_player_stats	0993hq	08y5d0	0jmdb
+base.marchmadness.ncaa_tournament_seed	03d555l	0cc8q3
+cvg.musical_game_song_relationship	07n689d	02plp2	06ztwyd
+basketball.basketball_player_stats	095_24	06smlc	0jmbv
+basketball.basketball_player_stats	09ndwd	03n52x	02kbcrn
+base.marchmadness.ncaa_tournament_seed	02pl_lj	0b_6mr
+base.marchmadness.ncaa_tournament_seed	03d555l	0br1x_
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0b_734
+cvg.musical_game_song_relationship	0ntxvd	026kds	0464gkc
+base.marchmadness.ncaa_tournament_seed	02pzy52	0bzrsh
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_72t
+tennis.tennis_match	07gz8m	012xcl	0jwyq2x
+basketball.basketball_player_stats	07z2hs	040_4g	0jmmn
+basketball.basketball_player_stats	09cfcf	02vrrv3	0bwjj
+tennis.tennis_match	023q7x	062pbc	02plk76
+base.marchmadness.ncaa_tournament_seed	05gjbx5	0b_72t
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_6q5
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_734
+base.marchmadness.ncaa_tournament_seed	03qk194	0bzrxn
+sports.sports_team_coach_tenure	02md_2	0jm4v
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_77q
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_67j
+tennis.tennis_match	01my95	0mmmt	051q39
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_756
+cvg.musical_game_song_relationship	07ql41	067gh	04kbkd1
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	04xf57
+base.marchmadness.ncaa_tournament_seed	03yfq3l	0b_6pv
+tennis.tennis_match	0dl46b	0p58j	02w8pmb
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_698
+base.marchmadness.ncaa_tournament_seed	02q8r_1	0b_6v_
+base.marchmadness.ncaa_tournament_seed	05d041p	0b_6fv
+tennis.tennis_match	063ynts	0mmmt	0ds58nt
+basketball.basketball_player_stats	08lw15	07cl5_	0jmbv
+base.marchmadness.ncaa_tournament_seed	03d5my5	0b_67j
+base.marchmadness.ncaa_tournament_seed	05h97_z	0b_6lb
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_69m
+tennis.tennis_match	05rp1k	062pxq	015z4j
+basketball.basketball_player_stats	09b5jv	08m11p	0jm8l
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_71r
+basketball.basketball_player_stats	08mdhv	020ntr	0jmm4
+base.ontologies.ontology_instance_mapping	04dm2p_	05qdh
+cvg.musical_game_song_relationship	0gy913	067gh	03x_n7k
+basketball.basketball_player_stats	09068d	08gzjb	0jml5
+base.marchmadness.ncaa_tournament_seed	04162gj	0b_6pv
+tennis.tennis_match	03b7gw	062pyl	015z4j
+basketball.basketball_player_stats	09brkf	05p81s	0h1fsjh
+base.marchmadness.ncaa_tournament_seed	02q1_xm	0br1x_
+cvg.musical_game_song_relationship	05h9dh	026kds	0642v9q
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6qj
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_6mr
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_734
+tennis.tennis_match	0gpsg4	012xcl	04gp1mg
+base.marchmadness.ncaa_tournament_seed	04088s0	0b_6s7
+base.marchmadness.ncaa_tournament_seed	026w398	0bzrsh
+base.marchmadness.ncaa_tournament_seed	026w398	0b_675
+tv.tv_regular_personal_appearance	06hwzy	0zgbfr6	02vwjsl
+basketball.basketball_player_stats	08s093	050t_l	0jmhr
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_6fh
+basketball.basketball_player_stats	080bhx	058yzq	0jm9w
+cvg.musical_game_song_relationship	0lf9mw	026kds	04kbkd1
+base.marchmadness.ncaa_tournament_seed	02pqcfz	0b_71r
+basketball.basketball_player_stats	09bjp8	08y5d0	0h1fsjh
+base.marchmadness.ncaa_tournament_seed	02pqcfz	05g_nr
+base.marchmadness.ncaa_tournament_seed	05gzwx4	0b_687
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_6v_
+cvg.musical_game_song_relationship	0lg1cq	066kp	027pg4k
+basketball.basketball_player_stats	09jfdf	0457pz	0bwjj
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6d2
+basketball.basketball_historical_coach_position	0jmm4	05n2c1
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_6x2
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6s7
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6fh
+tv.tv_regular_personal_appearance	06hwzy	0g55lpv	0bj1kt
+cvg.musical_game_song_relationship	0ngh1y	067gh	0fq74z3
+cvg.musical_game_song_relationship	075w_z1	067gh	04kbkd1
+tennis.tennis_match	027q1_3	0mmmt	09n70c
+basketball.basketball_player_stats	08p_89	06q8ry	02z8z6
+tennis.tennis_match	02vxz5s	0mmmt	069d71
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_6hl
+tennis.tennis_match	069d71	062pyl	03xyp_
+basketball.basketball_player_stats	08rm43	073_zn	0jmbv
+base.marchmadness.ncaa_tournament_seed	027yf83	0b_6s7
+base.marchmadness.ncaa_tournament_seed	03gqs0v	0b_77q
+base.marchmadness.ncaa_tournament_seed	0gwxr6	0f9rw9
+base.marchmadness.ncaa_tournament_seed	03d7fzg	0b_734
+basketball.basketball_player_stats	08rm43	02wk15	0jm74
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_5wy
+cvg.musical_game_song_relationship	01f7cqs	026kds	04kbkd1
+base.marchmadness.ncaa_tournament_seed	05g1r6s	0b_6rk
+base.marchmadness.ncaa_tournament_seed	02qn723	0bqthy
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6jz
+basketball.basketball_player_stats	09bjp8	06by8l	0jm5b
+basketball.basketball_player_stats	09068d	0bm9df	0jm9w
+tennis.tennis_tournament_championship	04hg0j	069d68
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6_l
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_6v_
+cvg.musical_game_song_relationship	0xt2sn	067gh	04kbkd1
+base.marchmadness.ncaa_tournament_seed	05cf6__	0bzrmb

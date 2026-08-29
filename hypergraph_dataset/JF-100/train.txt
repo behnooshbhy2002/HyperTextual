@@ -1,0 +1,2449 @@
+base.conservationaction.documented_priority_species	020b6f	04svj_g	05lvpg6	05mcc0c
+location.location_symbol_relationship	02xry	04st6_k
+location.location_symbol_relationship	02xry	04627dk
+soccer.football_player_match_participation	03_44z	09l9tq	0c1q86p
+base.conservationaction.documented_priority_species	0561gn6	04svk00	05lvpg6	05mcc04
+organization.organization_membership	07f5x	07t65
+soccer.football_player_match_participation	03dj48	0dg1rw	0c1l_x_
+american_football.player_game_statistics	04nh_c	04y6_qr
+soccer.football_player_match_participation	03_qrp	04yjb_	0c0mdp8
+soccer.football_player_match_participation	02rqxc	03b9qr	0c6r0k6
+base.popstra.vacation_choice	0cv3w	0127s7
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_6q5
+american_football.player_game_statistics	04j_jy	04y6_qr
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_6s7
+soccer.football_player_match_participation	02s2lg	053xll	0c20hwp
+base.conservationaction.documented_priority_species	01l2bl	04svjzj	063gzw7	063g_29
+american_football.player_receiving_statistics	04y6_qr	0cwl37
+soccer.football_disciplinary_action	07x5y3	0c441bl
+people.marriage	0h6ks2h	0f2v0
+base.conservationaction.documented_priority_species	02s231	09c7w0	05lvpg6	04mw5b5
+tv.tv_regular_personal_appearance	06hwzy	0zgbfr6	02vwjsl
+base.ontologies.ontology_instance_mapping	04dm2p_	05r4w
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	044brr	045xx	01_lhg
+base.popstra.vacation_choice	05qtj	0by7kz
+soccer.football_player_match_participation	01l3wr	06zwl_	0c0mdpq
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0bfmst	0j46b	035qgm
+soccer.football_player_match_participation	01l3wr	02vsll9	0cbx_t6
+base.conservationaction.documented_priority_species	0561gn6	04svjzx	05lvpg6	05mcc04
+base.ontologies.ontology_instance_mapping	04dm2p_	01v1v
+base.conservationaction.documented_priority_species	01hjj1	04svj_g	063gzw7	063g_29
+film.film_cut	09c7w0	03g90h
+award.hall_of_fame_induction	025yvhc	03k3r	027jbr
+soccer.football_player_match_participation	03d8m4	04p44g	0c20gf3
+base.ontologies.ontology_instance_mapping	04dm2p_	02qwg
+base.conservationaction.documented_priority_species	03d55b	06yxd	059bjdj	059dbbg
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6qj
+award.hall_of_fame_induction	01yrrh	02h664x	0k89p
+american_football.game_passing_statistics	05wc_w	07dlt77
+base.marchmadness.ncaa_tournament_seed	05g16k0	0b_6lb
+film.film_cut	09c7w0	0kvdzd
+soccer.football_player_match_participation	03d8m4	0d58wf	0c20gf3
+base.conservationaction.documented_priority_species	02cdsj	0498y	0590q2w	0590xzf
+soccer.football_player_match_participation	02w64f	07j7dy	0c1q8n1
+soccer.football_player_match_participation	03_qrp	0df425	0cb4z87
+american_football.player_game_statistics	02rh1jd	03gqdq7
+film.film_cut	03rjj	0gf7x4c
+soccer.football_player_match_participation	02bh_v	02x0m1w	0c1smtr
+american_football.game_passing_statistics	04q06_	075rsc8
+american_football.game_passing_statistics	04nprb	07dlqm9
+soccer.football_player_match_participation	02s2lg	053xq5	0c1nbvf
+american_football.player_game_statistics	07_c_f	04y6_qr
+base.marchmadness.ncaa_tournament_seed	026xxv_	0b_6fh
+tv.tv_regular_personal_appearance	06hwzy	0vsfdh6	09nhvw
+base.ontologies.ontology_instance_mapping	04dm2p_	054c1
+base.marchmadness.ncaa_tournament_seed	05d_lvy	0b_6mr
+tv.tv_regular_personal_appearance	06hwzy	04kcvf7	0bnppn
+base.marchmadness.ncaa_tournament_seed	02qctn5	0bzrxn
+award.hall_of_fame_induction	0fvpwf	03b3nf	027jbr
+soccer.football_player_match_participation	03ys48	07kfbn5	0c44msp
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6hl
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_6h7
+american_football.player_receiving_statistics	04y6_qr	066d76
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6xf
+people.human_measurement	031974	0dgdwz_
+soccer.football_player_match_participation	03z8bw	02x3vx4	0c1q8n1
+base.popstra.public_insult	015f7	0161c2
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_734
+location.partial_containment_relationship	0j3b	05r4w
+soccer.football_team_manager_match_participation	0c0mdp8	03y_f8	07gh0x
+base.ontologies.ontology_instance_mapping	04dm2p_	04vmp
+base.ontologies.ontology_instance_mapping	04dm2p_	082pc
+base.marchmadness.ncaa_tournament_seed	0286f0w	0b_6hl
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	01cp87	0175rc	01l3wr
+base.conservationaction.documented_priority_species	01q6zv	06yxd	059bjdj	052w684
+american_football.player_game_statistics	027h94x	04y6_qr
+american_football.game_passing_statistics	027jv8	0792jk9
+location.partial_containment_relationship	09c7w0	0bt7c
+base.marchmadness.ncaa_tournament_seed	05cf3l7	0bqthy
+base.conservationaction.documented_priority_species	025zc9	04svj_2	052t0zs	052qsgw
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6zk
+tv.tv_regular_personal_appearance	06hwzy	011kt3zk	0bj1kt
+base.ontologies.ontology_instance_mapping	04dm2p_	0j749
+american_football.player_game_statistics	095x71	03gqdq7
+location.partial_containment_relationship	05fhy	04ykz
+soccer.football_player_match_participation	02rqxc	03b90s	0c1q8d7
+base.marchmadness.ncaa_tournament_seed	026w398	0bzrsh
+american_football.player_receiving_statistics	04y6_qr	0d6nyb
+american_football.game_passing_statistics	05txyj	07dlq4k
+soccer.football_player_match_participation	040pyq	07sq1s	0c1d2xp
+base.ontologies.ontology_instance_mapping	04dm2p_	0hkq4
+american_football.player_game_statistics	02qyc57	04y6_qr
+soccer.football_player_match_participation	03ys48	026x4gt	0c0mdph
+soccer.football_disciplinary_action	053xpd	0c20hwp
+soccer.football_team_manager_match_participation	0cbx_t6	01l3wr	0d_hf2
+base.conservationaction.documented_priority_species	01np14	06yxd	059bjdj	059c_4t
+base.conservationaction.documented_priority_species	04y7z3	04svjzm	05lvpg6	05mcc04
+american_football.player_game_statistics	09dw5j	04y6_qr
+soccer.football_player_match_participation	03_44z	04zvq9	0c0xqws
+base.marchmadness.ncaa_tournament_seed	02pzy52	0bz_6b
+location.location_symbol_relationship	0498y	04g8vjx
+soccer.football_player_match_participation	02ltg3	090ny_	0cc33g2
+film.film_regional_release_date	06mzp	09tcg4
+location.partial_containment_relationship	0169t	0c2ty
+base.conservationaction.documented_priority_species	01f709	04svjz_	05lvpg6	05mcc0l
+organization.organization_membership	027nb	03m6lb
+soccer.football_player_match_participation	02s2lg	053xqm	0c0xk9g
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_6qj
+base.conservationaction.documented_priority_species	01v1ck	04svjzf	05lvpg6	05mcc0l
+soccer.football_player_match_participation	03d8m4	09wwz2	0c22yr_
+sports.sports_award	080b2d	02j8fb	0jm4b	06js8m
+base.marchmadness.ncaa_tournament_seed	02qk2d5	0bzrsh
+base.ontologies.ontology_instance_mapping	04dm2p_	03h2c
+american_football.player_receiving_statistics	04y6_qr	0cwqt9
+soccer.football_player_match_participation	02w64f	08vt89	0cbx_tf
+base.marchmadness.ncaa_tournament_seed	03d4rzf	0br1xn
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6_l
+american_football.player_receiving_statistics	03gqdq7	04wb7w
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_77q
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_734
+base.marchmadness.ncaa_tournament_seed	03d9d5m	0b_71r
+sports.sports_team_coach_tenure	047vnfs	019lvv
+american_football.player_receiving_statistics	03gqdq7	0c1pk3
+base.ontologies.ontology_instance_mapping	04dm2p_	040cf
+soccer.football_player_match_participation	03_qrp	0866z1	0c0mdp8
+soccer.football_player_match_participation	040pyq	03qkv8f	0c1d2xp
+base.marchmadness.ncaa_tournament_seed	05c8dy1	0b_734
+award.hall_of_fame_induction	084p_h	0bjcgzr	0k89p
+sports.sports_team_coach_tenure	047vnfs	0cnk2q
+base.conservationaction.documented_priority_species	01n_5n	06yxd	059bjdj	059czz_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	03cjr54	02l01d	02s2lg
+organization.organization_membership	0ctw_b	0_2v
+base.conservationaction.documented_priority_species	021g5j	04svj_g	05lvpg6	05mcc0l
+american_football.game_passing_statistics	074l06	07dlm9d
+soccer.football_player_match_participation	02rqxc	03y0cmw	0c1d2xp
+american_football.player_game_statistics	0cwmzd	04y6_qr
+base.conservationaction.documented_priority_species	022zkk	04svk06	063gzw7	063g_29
+base.marchmadness.ncaa_tournament_seed	02pk80n	0br1x_
+soccer.football_player_match_participation	0329r5	07k63st	0c0lpm9
+film.film_regional_release_date	0d060g	0kmz6ms
+base.marchmadness.ncaa_tournament_seed	03d7_lc	0bzrxn
+location.location_symbol_relationship	04tgp	04627hh
+base.conservationaction.documented_priority_species	01dx8	04svjxy	052t0zs	052qsgw
+american_football.game_passing_statistics	05txyj	075rsc8
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6_l
+base.popstra.vacation_choice	09pkq0	013_vh
+soccer.football_player_match_participation	02bh_v	027479p	0c441bl
+american_football.player_game_statistics	03c22y2	04y6_qr
+base.ontologies.ontology_instance_mapping	04dm2p_	063_t
+base.popstra.vacation_choice	0d1qn	04xrx
+base.conservationaction.documented_priority_species	028mmm	04svj_c	052t0zs	052qsfk
+tv.tv_regular_personal_appearance	06hwzy	0g55lpv	0883rm
+tv.regular_tv_appearance	08m4c8	0268x3g	04mypjl	05lfwd
+base.marchmadness.ncaa_tournament_seed	0263cyj	0bqthy
+american_football.game_passing_statistics	05w109	07dlmst
+base.conservationaction.documented_priority_species	01cyb2	0498y	0590q2w	0590_0c
+soccer.football_player_match_participation	02rqxc	06037m	0c44h1j
+base.conservationaction.documented_priority_species	014r18	04svj_c	05lvpg6	05mcc10
+soccer.football_player_match_participation	03_qrp	05b4cc_	0c1srnw
+soccer.football_player_match_participation	02w64f	0gjkqn	0c44ckb
+base.marchmadness.ncaa_tournament_seed	03wbx5_	0cc8q3
+soccer.football_player_match_participation	03d8m4	03c_6zs	0c0xkpl
+base.popstra.vacation_choice	0f2v0	06tp4h
+soccer.football_player_match_participation	03zrhb	02zbjwr	0c1smtg
+base.conservationaction.documented_priority_species	02ptfj8	06yxd	059bjdj	059czz_
+tv.regular_tv_appearance	06j2h8	04t5nlf	04s_8sx	030cx
+tv.regular_tv_appearance	0309hj	06gjjm	0279lrf	0180mw
+base.conservationaction.documented_priority_species	01_3m9	02j71	052t0zs	03gbzsr
+american_football.player_receiving_statistics	03gqdq7	053k66
+soccer.football_team_manager_match_participation	0c1d32j	01352_	0556fn
+base.theosbornboysaregrowing.trip	0lhn5	01h_1n	03qb78c	04d1j3z	04f9pnt
+soccer.football_player_match_participation	03_qj1	0krwpr	0c0mdph
+base.marchmadness.ncaa_tournament_seed	026w398	0br1xn
+soccer.football_player_match_participation	02bh_v	044mw7	0c0lsl8
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_6h7
+base.marchmadness.ncaa_tournament_seed	02pkdf2	0b_6jz
+base.marchmadness.ncaa_tournament_seed	03gqs0v	0b_77q
+location.location_symbol_relationship	05fhy	04627gn
+people.marriage	02vr7	07ssc
+base.ontologies.ontology_instance_mapping	04dm2p_	052bw
+base.handball.handball_player_match_participation	0b_w593	076qnly	075zhk3
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_6mr
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_6qj
+base.ontologies.ontology_instance_mapping	04dm2p_	0j8js
+base.conservationaction.documented_priority_species	0264qm	0498y	0590q2w	0590xzf
+american_football.player_receiving_statistics	03gqdq7	08ddzw
+soccer.football_player_match_participation	01l3wr	068sc9	0cbx_t6
+base.marchmadness.ncaa_tournament_seed	05d_99z	06n7qg
+base.conservationaction.documented_priority_species	04y7z3	04svjzf	05lvpg6	05mcc0l
+american_football.player_game_statistics	0gnb8t	04y6_qr
+tv.tv_regular_personal_appearance	06hwzy	04zznlk	02z63xv
+base.conservationaction.documented_priority_species	025zc9	04svjz4	052t0zs	052qsgw
+soccer.football_player_match_participation	02s9vc	025vh2	0c1stt5
+tv.regular_tv_appearance	01rr9f	03fbn4	04s_8tg	030cx
+soccer.football_player_match_participation	032hmd	027dd2s	0c22yrt
+american_football.player_receiving_statistics	03gqdq7	05llk6
+base.conservationaction.documented_priority_species	0bd5fk	04svj_g	05lvpg6	05mcc0c
+american_football.game_passing_statistics	02x6lw	07dls2m
+american_football.player_game_statistics	0ks7d3	03gqdq7
+base.ontologies.ontology_instance_mapping	04dm2p_	058b6
+organization.organization_membership	04j53	07t65
+award.hall_of_fame_induction	0c0kdk	02h664x	0k89p
+base.conservationaction.documented_priority_species	06p_1_	04svjys	052t0zs	052sdr1
+soccer.football_player_match_participation	02pp1	04xkpd	0c44msp
+base.marchmadness.ncaa_tournament_seed	02q8r_1	0b_6jz
+american_football.player_game_statistics	04q88vd	04y6_qr
+base.marchmadness.ncaa_tournament_seed	05gjbx5	0b_72t
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	04lfdsm	0kq9l	03ys48
+base.marchmadness.ncaa_tournament_seed	05c_bv1	0b_71r
+tv.regular_tv_appearance	03lr4n	0v4lrq6	04s_8t8	030cx
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0cc8q3
+base.conservationaction.documented_priority_species	01v857	04svjy6	05lvpg6	05mcc0l
+organization.organization_membership	0jgd	07t65
+soccer.football_player_match_participation	03z8bw	02ql446	0c44ck1
+base.marchmadness.ncaa_tournament_seed	05mrh10	0b_756
+soccer.football_player_match_participation	03d8m4	0d58zz	0c22yr_
+base.marchmadness.ncaa_tournament_seed	05c_9hf	0b_75k
+soccer.football_player_match_participation	03yl2t	0dtb5n	0c20hwx
+base.popstra.vacation_choice	03gh4	09yrh
+base.conservationaction.documented_priority_species	01twys	04svjzx	05lvpg6	05mcc04
+american_football.player_receiving_statistics	04y6_qr	05wc_w
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	04655x	02gys2	02bh_v
+award.hall_of_fame_induction	030w9m	0bjcgyv	0k89p
+american_football.player_game_statistics	02w3v66	04y6_qr
+base.marchmadness.ncaa_basketball_final_four_broadcaster	05pcgb	0b_734
+base.ontologies.ontology_instance_mapping	04dm2p_	0h0xm
+soccer.football_player_match_participation	01l3wr	02rf301	0c0lq5j
+base.marchmadness.ncaa_tournament_seed	03wfxkl	0br1x_
+base.marchmadness.ncaa_tournament_seed	0hrfhrm	0bzrb9
+base.conservationaction.documented_priority_species	01tdf2	06yxd	059bjdj	059czz_
+base.marchmadness.ncaa_tournament_seed	05gnpfq	0b_5tt
+soccer.football_player_match_participation	03ys48	047p9g9	0c44msp
+soccer.football_player_match_participation	01l3wr	08g46k	0c0lq5j
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0d4bh2	02mplj	02ltg3
+american_football.player_game_statistics	0bfs_x	04y6_qr
+base.ontologies.ontology_instance_mapping	04dm2p_	06dv3
+base.conservationaction.documented_priority_species	025t18	02j71	052t0zs	03gbynb
+base.marchmadness.ncaa_basketball_final_four_broadcaster	05pcgb	0b_72t
+soccer.football_player_match_participation	02ltg3	0gdxsz	0c22yrt
+base.conservationaction.documented_priority_species	01v6kn	04svj_n	05lvpg6	05mcc04
+base.marchmadness.ncaa_basketball_final_four_broadcaster	04zbq8	0b_6rk
+american_football.player_game_statistics	0g0zkg	04y6_qr
+location.partial_containment_relationship	04pnx	0261m
+soccer.football_player_match_participation	03d8m4	03c_6zs	0c1q83k
+organization.organization_membership	03188	07t65
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6v_
+base.handball.handball_player_match_participation	07m16ry	076qnk7	075zhk3
+soccer.football_player_match_participation	03xh50	04ym_v	0c1nbsz
+base.conservationaction.documented_priority_species	01jsmq	04svjyz	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	03ymq1q	0b_5lv
+base.marchmadness.ncaa_tournament_seed	02qvh2s	0bzrxn
+base.conservationaction.documented_priority_species	027mlj	02j71	052s_zk	052w4tx
+people.marriage	06vsbt	01n7q
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6_l
+soccer.football_player_match_participation	02ltg3	053sw3	09v2l34
+american_football.game_passing_statistics	01xyt7	07dlmwf
+base.marchmadness.ncaa_tournament_seed	0579h0q	0b_5vw
+base.conservationaction.documented_priority_species	01tkh8	04svj_5	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01hjj1	04svjy3	063gzw7	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	06l8d
+american_football.game_passing_statistics	033t8w	07929vd
+american_football.player_receiving_statistics	04y6_qr	0cmld3
+base.marchmadness.ncaa_tournament_seed	026c51k	0bzrxn
+base.conservationaction.documented_priority_species	022c98	04svjys	052t0zs	052sdr9
+base.marchmadness.ncaa_tournament_seed	02ql3lb	0b_75k
+soccer.football_player_match_participation	03_qrp	0by1s6x	0cb4z87
+american_football.game_passing_statistics	025j0c	07dlsyj
+base.ontologies.ontology_instance_mapping	04dm2p_	0c_y8
+sports.sports_team_coach_tenure	047vnfs	035qgm
+soccer.football_player_match_participation	01l3wr	09cgbz	0c0lq5j
+base.marchmadness.ncaa_tournament_seed	04162gj	0bzrsh
+american_football.player_game_statistics	0cwpvd	04y6_qr
+organization.organization_membership	05v10	07t65
+tv.regular_tv_appearance	016tbr	03fl2r	03btzxd	030cx
+base.conservationaction.documented_priority_species	02cdsj	04svjyw	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	0579h0q	06n7qg
+soccer.football_player_match_participation	03dj48	02w6hw1	0c1smtr
+soccer.football_disciplinary_action	0f7t5m	0c44h1j
+american_football.player_receiving_statistics	03gqdq7	027ft1l
+base.conservationaction.documented_priority_species	021g5j	04svjz4	05lvpg6	05mcc0l
+sports.sports_award	09b5jv	09r9my	0jml5	02yqnh
+organization.organization_membership	03rjj	03m6lb
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6q5
+soccer.football_disciplinary_action	06nxfp	0c1sttd
+base.ontologies.ontology_instance_mapping	04dm2p_	0859_
+soccer.football_player_match_participation	03d8m4	0d58zz	0c0xkpl
+base.conservationaction.documented_priority_species	028mmm	04svj_8	052t0zs	052qsh1
+base.conservationaction.documented_priority_species	0k5w2	04svjxy	052t0zs	052qsgw
+base.marchmadness.ncaa_tournament_seed	03nxg_h	0bqthy
+american_football.player_game_statistics	09pt_k	04y6_qr
+soccer.football_player_match_participation	03_qj1	05c32f7	0c44msd
+tv.tv_regular_personal_appearance	09g6___	0k6jczt	0gfhjqb
+base.popstra.vacation_choice	0cv3w	05qnmt
+american_football.player_receiving_statistics	04y6_qr	04mwy73
+soccer.football_player_match_participation	02ltg3	04wy63	0c1nbsz
+soccer.football_player_match_participation	02s2lg	036vnk	0c1nbvf
+soccer.football_player_match_participation	03d8m4	083xpw	0c1q83k
+soccer.football_player_match_participation	02rqxc	0f8qdm	0c6r0k6
+american_football.player_game_statistics	09pf2l	03gqdq7
+sports.sports_team_coach_tenure	02md_2	01y3c
+base.marchmadness.ncaa_basketball_final_four_broadcaster	05pcgb	0b_6mr
+base.conservationaction.documented_priority_species	025xd5	059g4	052t0zs	052qsgd
+people.marriage	0f4vbz	0cv3w
+base.popstra.vacation_choice	0d1qn	01n9zn
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	05nr4p	021mkg	032jlh
+base.popstra.vacation_choice	0156q	05q_b
+baseball.lifetime_batting_statistics	02rdnh	025ygqm	025ygqm	02h7s2l
+american_football.player_receiving_statistics	04y6_qr	0ghp1x
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_5tt
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_6v_
+olympics.olympic_city_bid	0k3p	0lgxj
+base.conservationaction.documented_priority_species	07db8q	04svjy9	05lvpg6	05mcc0l
+sports.sports_award	09cfcf	053tzp	0h1fsjh	02yqk8
+people.human_measurement	031974	0b0xxs
+sports.sports_team_coach_tenure	047vnfs	02pp1
+basketball.basketball_team_stats	080kw1	0jmk7
+base.conservationaction.documented_priority_species	021g5j	0498y	0590q2w	0590xzf
+base.marchmadness.ncaa_tournament_seed	02qvh2s	0b_6lb
+american_football.player_game_statistics	04qbx7	04y6_qr
+basketball.basketball_team_stats	08_vqd	0jmk7
+base.conservationaction.documented_priority_species	07swp8	04svj_r	05lvpg6	05mcc0l
+soccer.football_player_match_participation	03ys48	0gk1xj	0c1m0dj
+base.conservationaction.documented_priority_species	028mmm	04svjyz	052t0zs	052qsfr
+organization.organization_membership	05br2	041288
+tv.tv_regular_personal_appearance	06hwzy	0cv2rzx	0bnppn
+base.marchmadness.ncaa_tournament_seed	03y9p40	0bz_59
+organization.organization_membership	035dk	0gkjy
+film.film_cut	0345h	0cqt8p
+soccer.football_player_match_participation	032jlh	027b1h6	0c1fy1c
+organization.organization_membership	04ty8	0_2v
+base.theosbornboysaregrowing.trip	0r2hn	034v_	03qb78c	04dsscx	04j14gs
+film.film_regional_release_date	03rt9	08lkvt
+film.film_regional_release_date	03rt9	0296vv
+american_football.player_game_statistics	0h6yhd	04y6_qr
+american_football.player_receiving_statistics	03gqdq7	0cx0zk
+soccer.football_player_match_participation	0329r5	07k4dgf	0c43z58
+base.ontologies.ontology_instance_mapping	04dm2p_	04hzj
+american_football.player_receiving_statistics	03gqdq7	0cwmrj
+base.marchmadness.ncaa_tournament_seed	05g1r6s	0b_6s7
+location.partial_containment_relationship	059rby	0cg4t
+organization.organization_membership	05r4w	0_6t_z8
+base.ontologies.ontology_instance_mapping	04dm2p_	0gyh
+tv.tv_regular_personal_appearance	06hwzy	0vsfdh6	0b72k93
+soccer.football_player_match_participation	02s9vc	02z6lsp	0c0lv1g
+base.theosbornboysaregrowing.trip	0f67f	01kcnl	03qb78c	04d1j3z	04j6583
+soccer.football_player_match_participation	02s9vc	02qwbb	0c1m0dj
+soccer.football_player_match_participation	02ltg3	059z7h	0c1nbsz
+base.marchmadness.ncaa_tournament_seed	03yfq3l	0b_71r
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6v_
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_6s7
+base.conservationaction.documented_priority_species	019299	04svj_g	05lvpg6	05mcc04
+american_football.player_game_statistics	0d6nyb	04y6_qr
+base.popstra.vacation_choice	04ty8	05q_b
+soccer.football_team_manager_match_participation	0cc33g2	0329r5	027zq5r
+base.conservationaction.documented_priority_species	01qh4z	04svj_g	05lvpg6	05mcc04
+american_football.game_passing_statistics	074l06	07dlml9
+base.conservationaction.documented_priority_species	01hjj1	04svj_8	063gzw7	063g_29
+tv.regular_tv_appearance	02k4t4	088shl	043nzbg	0180mw
+fictional_universe.fictional_employment_tenure	02y_93f	05h2wql	0bvd1b
+user.robert.mobile_phones.regional_submodel	04n5m5z	02j9z	02_3y8b
+base.conservationaction.documented_priority_species	021g5j	04svj_c	05lvpg6	05mcc0l
+base.theosbornboysaregrowing.trip	0vg8j	01kcnl	03qb78c	04d1j3z	04j6583
+base.marchmadness.ncaa_tournament_seed	02qvh2s	0b_77q
+american_football.player_game_statistics	043mhm7	04y6_qr
+base.conservationaction.documented_priority_species	01ldpz	04svjz4	063gzw7	063g_29
+american_football.player_game_statistics	043nvfh	04y6_qr
+american_football.player_receiving_statistics	04y6_qr	02qwx7z
+location.location_symbol_relationship	05fhy	04st6_k
+film.film_cut	0jgd	04j2qgx
+base.conservationaction.documented_priority_species	014r18	04svjy3	05lvpg6	05mcc10
+basketball.basketball_team_stats	096mjy	0jmk7
+soccer.football_player_match_participation	03_qrp	0df3x4	0c1stt5
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0bzrxn
+base.conservationaction.documented_priority_species	01fzdb	04svj_k	063gzw7	063g_29
+tv.tv_regular_personal_appearance	06hwzy	0pcv3d7	073plk
+base.theosbornboysaregrowing.trip	0l1pj	04_c1q0	03qb78c	04dssd2	04j14pr
+soccer.football_player_match_participation	03_qrp	02w4dxc	0c1stt5
+base.handball.handball_player_match_participation	0773bdz	076qnk_	075zhk3
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0df3x4	02hzx8	03_qrp
+american_football.game_passing_statistics	025j0c	0794pv0
+soccer.football_player_match_participation	03d8m4	027b7h6	0c1q83k
+american_football.player_game_statistics	04zxr2	03gqdq7
+user.robert.mobile_phones.regional_submodel	05v74db	09c7w0	02_3y8k
+soccer.football_player_match_participation	02ltg3	0gf0_v	0cb4z8g
+base.marchmadness.ncaa_tournament_seed	04q6rqw	0b_6jz
+location.location_symbol_relationship	06yxd	04g8vjx
+soccer.football_player_match_participation	0329r5	079j56	0c43z58
+soccer.football_player_match_participation	03ylxn	0bc1ln	0c0lsl8
+base.popstra.public_insult	0lk90	0161c2
+base.marchmadness.ncaa_tournament_seed	04162gj	0b_5rc
+soccer.football_player_match_participation	03d8m4	04y3d5	0cbx_tf
+american_football.player_receiving_statistics	03gqdq7	09cbmj
+film.film_regional_release_date	0154j	047gn4y
+film.film_cut	06mkj	0b_w5df
+base.theosbornboysaregrowing.trip	0f67f	01kcnl	03qb78c	04dsscx	04f97th
+base.conservationaction.documented_priority_species	028mmm	04s8p0q	052t0zs	052sf3n
+people.human_measurement	031974	0d6ysbs
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0943bq	047fwlg	0cnk2q
+base.conservationaction.documented_priority_species	052n64	04svjys	052t0zs	052sdr1
+base.marchmadness.ncaa_tournament_seed	0h94g77	0b_6_l
+film.film_cut	09c7w0	0274q34
+base.marchmadness.ncaa_tournament_seed	03nxg_h	0b_6v_
+soccer.football_player_match_participation	01l3vx	041x65	0c1l_x_
+american_football.player_receiving_statistics	03gqdq7	08_967
+base.ontologies.ontology_instance_mapping	04dm2p_	0277g
+american_football.player_game_statistics	01xyt7	04y6_qr
+base.conservationaction.documented_priority_species	027mlj	05fkf	052s_zk	052sr46
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5rc
+base.ontologies.ontology_instance_mapping	04dm2p_	0bwdn
+base.conservationaction.documented_priority_species	014r18	04svj_n	05lvpg6	05mcc10
+american_football.player_game_statistics	0bh_vy	04y6_qr
+american_football.player_receiving_statistics	04y6_qr	071b1t
+soccer.football_player_match_participation	02s2lg	053xqm	0c1nbvf
+organization.organization_membership	01pj7	07t65
+base.marchmadness.ncaa_tournament_seed	02pq5pn	0b_6q5
+soccer.football_player_match_participation	02ltg3	02ppw24	0c22yrt
+organization.organization_membership	07ssc	0gbf6
+sports.sports_team_coach_tenure	047vnfs	0j2pg
+soccer.football_player_match_participation	02rqxc	02xt6q	0c1q8d7
+american_football.game_passing_statistics	033t8w	07929pq
+soccer.football_player_match_participation	01l3wr	0g0_l4	0c1srnw
+american_football.player_receiving_statistics	04y6_qr	093lw4
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	072j74	011v3	02s9vc
+soccer.football_player_match_participation	032jlh	04qypj	0c1fy1c
+soccer.football_player_match_participation	033nzk	0fp7d_	0c1fy14
+base.ontologies.ontology_instance_mapping	04dm2p_	0198z
+soccer.football_player_match_participation	0329r5	02py076	0c43z58
+base.conservationaction.documented_priority_species	01g47h	05fkf	052s_zk	052sr43
+base.popstra.product_choice	018c_r	02r3cn
+base.conservationaction.documented_priority_species	01qh4z	04svjzm	05lvpg6	05mcc04
+film.film_regional_release_date	030qb3t	0kgxf
+base.marchmadness.ncaa_tournament_seed	027yf83	0br1xn
+soccer.football_player_match_participation	02s9vc	044mt0	0c1stt5
+base.marchmadness.ncaa_tournament_seed	0278rkd	0b_6xf
+base.conservationaction.documented_priority_species	02ddh1	04svjzb	05lvpg6	05mcc0l
+american_football.player_game_statistics	0gsz9s	03gqdq7
+base.ontologies.ontology_instance_mapping	04dm2p_	07t65
+soccer.football_team_manager_match_participation	0c0xqws	032hmd	0f93s1
+soccer.football_player_match_participation	03_qrp	0by1s6x	0c1stt5
+base.conservationaction.documented_priority_species	01jsmq	0498y	0590q2w	0590_08
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_6hl
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_6mr
+soccer.football_player_match_participation	03ylxn	02ppjn8	0c1lz_v
+base.conservationaction.documented_priority_species	027mlj	06yxd	059bjdj	059czz_
+organization.organization_membership	06s6l	0j7v_
+base.marchmadness.ncaa_tournament_seed	0b__fx	0bz_6b
+base.marchmadness.ncaa_tournament_seed	02q1_xm	0br1x_
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_71r
+location.partial_containment_relationship	05fjf	0dtzd
+sports.sports_award	09nbp4	05ndy1	0239hyt	02yqk8
+soccer.football_player_match_participation	0329r5	026bk56	0c0lq5j
+award.hall_of_fame_induction	03gs0xv	03k3r	027jbr
+soccer.football_player_match_participation	01l3vx	08vg98	0c1l_x_
+base.marchmadness.ncaa_tournament_seed	0263cyj	0b_6jz
+base.conservationaction.documented_priority_species	02t0jc	04svjzm	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	01gc7
+base.marchmadness.ncaa_tournament_seed	027yf83	0bqthy
+american_football.game_passing_statistics	025j0c	07dlv4k
+american_football.player_receiving_statistics	04y6_qr	0c29nw
+american_football.player_game_statistics	04nt9g	04y6_qr
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_77q
+base.conservationaction.documented_priority_species	0261d0	059g4	052t0zs	03gc1fj
+base.conservationaction.documented_priority_species	01ysq_	04svjys	052t0zs	052qsfc
+american_football.player_game_statistics	0b7t63	03gqdq7
+location.location_symbol_relationship	04ykg	04627hh
+base.conservationaction.documented_priority_species	01dfry	04s8p0q	05lvpg6	05mcc0l
+soccer.football_player_match_participation	03_qrp	04yjqf	0c1nbtv
+soccer.football_player_match_participation	0cnk2q	08lx4f	0c1srnl
+soccer.football_disciplinary_action	0gjyhc	0c44msp
+base.conservationaction.documented_priority_species	01hjj1	04svj_v	063gzw7	063g_29
+tv.regular_tv_appearance	05np4c	0268x2f	0fv4s0	05lfwd
+base.marchmadness.ncaa_tournament_seed	0579h0q	0b_6hl
+soccer.football_player_match_participation	03ys48	043qdrd	0c0mdph
+base.conservationaction.documented_priority_species	025zc9	04svj_2	052t0zs	052sfnc
+soccer.football_player_match_participation	03_qrp	04yjb_	0cb4z87
+tv.tv_regular_personal_appearance	06hwzy	0cv2rzx	025j0c
+base.conservationaction.documented_priority_species	01p17h	06yxd	059bjdj	059dbbq
+base.marchmadness.ncaa_tournament_seed	027yf83	0bzrxn
+base.conservationaction.documented_priority_species	01cj38	0498y	0590q2w	0590_02
+base.conservationaction.documented_priority_species	014r18	04svjys	052t0zs	052qscy
+american_football.player_game_statistics	07ckdf	03gqdq7
+american_football.game_passing_statistics	0ctv7y	07dlmtn
+soccer.football_player_match_participation	03_qrp	05b4cc_	0c1stt5
+soccer.football_player_match_participation	03ys48	043qdrd	0c44msp
+soccer.football_player_match_participation	01l3wr	04gr3y_	0c1srnw
+base.popstra.vacation_choice	05qtj	05r5w
+base.popstra.operation	075f_2	015f7
+american_football.player_receiving_statistics	04y6_qr	0949jb
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0bqthy
+american_football.player_game_statistics	03hgggd	03gqdq7
+location.location_symbol_relationship	059_c	04627dk
+base.conservationaction.documented_priority_species	01np14	04svjy0	063gzw7	063g_29
+base.popstra.vacation_choice	0f2v0	01z0rcq
+soccer.football_team_manager_match_participation	0c1smtr	03dj48	07lf9y
+organization.organization_membership	02k1b	07t65
+base.ontologies.ontology_instance_mapping	04dm2p_	07_kq
+soccer.football_player_match_participation	02bh_v	05kwfs	0c1smtr
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	055kq6	0hvgt	02w64f
+base.marchmadness.ncaa_tournament_seed	03d555l	0br1x_
+award.hall_of_fame_induction	04b87b	02h664x	0k89p
+base.ontologies.ontology_instance_mapping	04dm2p_	01lfy
+american_football.game_passing_statistics	03zy1_	0794qf4
+soccer.football_player_match_participation	03_qj1	0ktbjy	0c44msd
+award.hall_of_fame_induction	02qlhpv	03k3r	027jbr
+soccer.football_player_match_participation	040pyq	0b0pdf	0c1q89k
+base.marchmadness.ncaa_tournament_seed	03by7wc	0bqthy
+base.ontologies.ontology_instance_mapping	04dm2p_	07wjk
+soccer.football_player_match_participation	02ltg3	0gf0_v	0c20hwx
+award.hall_of_fame_induction	05r5c4	0bjcgyv	0k89p
+location.location_symbol_relationship	04rrx	04627dk
+soccer.football_team_management_tenure	0cnk2q	026p1jg
+base.popstra.vacation_choice	0f8l9c	01cwhp
+people.marriage	05xy0_1	02xry
+soccer.football_player_match_participation	03y_f8	026nlzs	0c1srnl
+soccer.football_disciplinary_action	0h33cq	0c1srnl
+soccer.football_disciplinary_action	04zvq9	0c0xqws
+location.location_symbol_relationship	026mj	04627gn
+film.film_cut	09c7w0	0f24wq
+sports.pro_sports_played	0jm_	02x6lw
+base.ontologies.ontology_instance_mapping	04dm2p_	05x_5
+american_football.player_game_statistics	095x71	04y6_qr
+base.marchmadness.ncaa_tournament_seed	0ds9r80	0b_6zk
+soccer.football_player_match_participation	03yl2t	08mfyy	0c0xk97
+american_football.player_game_statistics	0c8sqz	04y6_qr
+location.partial_containment_relationship	06mzp	02r930f
+soccer.football_player_match_participation	02s9vc	0281k5n	0c44msd
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6lb
+film.film_regional_release_date	03rjj	04_75gs
+soccer.football_player_match_participation	02s2lg	0d930p	0c0xk9g
+base.marchmadness.ncaa_tournament_seed	026jxvv	0b_6_l
+location.partial_containment_relationship	05v10	03_zrm
+base.marchmadness.ncaa_tournament_seed	026w398	0b_77q
+base.marchmadness.ncaa_tournament_seed	05c3nl3	05g_nr
+american_football.player_game_statistics	02zh95	04y6_qr
+film.film_regional_release_date	035qy	0ngfc2h
+base.schemastaging.sports_league_season_ranking	0rfh262	048xg8
+soccer.football_player_match_participation	02s9vc	049zll	0c1stt5
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	05l91f	025txtg	03yl2t
+base.conservationaction.documented_priority_species	01qh4z	02j71	05bq8tr	059034s
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	038ps1	0mmd6	02ltg3
+base.conservationaction.documented_priority_species	01dfry	04svjyp	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	01blnh	059g4	052t0zs	03gc0km
+base.marchmadness.ncaa_tournament_seed	026xxv_	0bzrsh
+american_football.player_game_statistics	03hgzdc	04y6_qr
+base.conservationaction.documented_priority_species	01jqht	04svjz4	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6jz
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0bqthy
+soccer.football_player_match_participation	02rqxc	02vr2w0	0c6r0k6
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	068sc9	02hm0m	01l3wr
+organization.organization_membership	0f8l9c	01rz1
+base.marchmadness.ncaa_basketball_final_four_broadcaster	0444wb	0b_72t
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0f_sw_	01rlz4	03ylxn
+tv.tv_regular_personal_appearance	06hwzy	07kw248	026dj0k
+base.popstra.vacation_choice	05qtj	03qpbs
+tv.regular_tv_appearance	016tbr	03fl2r	04s_8sq	030cx
+film.film_cut	0345h	0g66kb
+film.film_cut	09c7w0	0cc8smv
+base.conservationaction.documented_priority_species	07brn4	059g4	052t0zs	052r47m
+organization.organization_membership	0d060g	018cqq
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	04yjqf	03yfh3	03_qrp
+location.partial_containment_relationship	09c7w0	0dpk_
+sports.sports_team_coach_tenure	047vnfs	02ltg3
+film.film_regional_release_date	0154j	0pd64
+base.marchmadness.ncaa_tournament_seed	05g1r6s	0b_6rk
+american_football.player_game_statistics	08vn79	04y6_qr
+location.location_symbol_relationship	05fkf	04627f7
+soccer.football_player_match_participation	02bh_v	03_77y	0c1lvg1
+base.marchmadness.ncaa_tournament_seed	02r2qt7	0cc8q3
+award.hall_of_fame_induction	08m13r	02h664x	0k89p
+award.hall_of_fame_induction	026lfnz	03k3r	027jbr
+american_football.player_game_statistics	0746cp	04y6_qr
+sports.sports_award	0jkzz71	09b01n	0jmfv	031mv0
+people.marriage	02jq1	0cv3w
+soccer.football_player_match_participation	02pp1	03y5_6	0c44msp
+base.ontologies.ontology_instance_mapping	04dm2p_	0b2h3
+sports.sports_award	08n6zb	07nvhb	0jmm4	0380m_
+base.handball.handball_player_match_participation	0773bdz	04jj12b	075zhk3
+location.location_symbol_relationship	04tgp	04627hw
+base.conservationaction.documented_priority_species	026zk4	04svjz4	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	01pbzc	05fkf	052s_zk	052tntd
+american_football.game_passing_statistics	05w0_k	07dlssm
+american_football.player_receiving_statistics	03gqdq7	026chnm
+american_football.player_receiving_statistics	03gqdq7	025_l20
+organization.organization_membership	0154j	07t65
+tv.regular_tv_appearance	08m4c8	0268x3g	06gt8vr	05lfwd
+base.marchmadness.ncaa_tournament_seed	02pksbb	0b_6zk
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_675
+american_football.game_passing_statistics	04nt9g	0791v2r
+american_football.player_receiving_statistics	03gqdq7	02qxcts
+soccer.football_player_match_participation	0329r5	04z74h	0c1fzw8
+american_football.player_receiving_statistics	03gqdq7	0274k36
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	03884d	023fb	02pp1
+base.ontologies.ontology_instance_mapping	04dm2p_	0hhqw
+american_football.player_game_statistics	0466fpt	04y6_qr
+base.popstra.vacation_choice	0ply0	04xrx
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	0285v0j
+base.conservationaction.documented_priority_species	025zc9	04svjzx	052t0zs	052sf3n
+film.film_cut	0d0vqn	07q78
+tv.regular_tv_appearance	0jbp0	0crvw	02hqqnv	06qv_
+sports.sports_award	080b2d	02j8fb	0jm4b	027sy7x
+soccer.football_player_match_participation	01l3vx	026bhjl	0c43z5k
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03bny4	025rpyx	035qgm
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	04xf57
+film.film_regional_release_date	03rjj	0b1n1y
+american_football.player_game_statistics	04y8jp4	04y6_qr
+base.marchmadness.ncaa_basketball_final_four_broadcaster	04zbq8	0bzrsh
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_6jz
+base.marchmadness.ncaa_tournament_seed	027yf83	0b_6zk
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_71r
+base.handball.handball_player_match_participation	0773bdz	076qnjp	075zhk3
+music.track_contribution	0290ngj	015882
+soccer.football_disciplinary_action	0268nlc	0c1q8nb
+sports.sports_award	080bhx	068vkc	0jml5	0380m_
+location.partial_containment_relationship	0d060g	02phsq_
+base.marchmadness.ncaa_tournament_seed	02pkdf2	0b_5nk
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	02qny_	01k2yr	02s9vc
+sports.sports_team_coach_tenure	02md_2	0bwjj
+film.film_cut	09c7w0	0h3s79g
+film.film_regional_release_date	0d0vqn	026390q
+american_football.player_receiving_statistics	04y6_qr	06zbf_
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_5rc
+film.film_regional_release_date	09c7w0	0bmjjh7
+base.marchmadness.ncaa_basketball_final_four_broadcaster	0444wb	0b_734
+soccer.football_player_match_participation	03ylxn	02qb7_n	0c0lsl8
+base.ontologies.ontology_instance_mapping	04dm2p_	05ksh
+base.ontologies.ontology_instance_mapping	04dm2p_	01mk6
+sports.sports_team_coach_tenure	02md_2	02plv57
+base.marchmadness.ncaa_tournament_seed	02ql3lb	0b_756
+soccer.football_player_match_participation	01l3wr	06n5bv	0c1sttd
+base.ontologies.ontology_instance_mapping	04dm2p_	0kbq
+soccer.football_player_match_participation	02bh_v	04ybjjq	0c1lvg1
+soccer.football_team_management_tenure	0cj_v7	014n_k
+base.conservationaction.documented_priority_species	022zkk	04svk03	063gzw7	063g_29
+base.marchmadness.ncaa_tournament_seed	02qqzmn	0b_6_l
+people.human_measurement	031974	0dfxrm6
+base.conservationaction.documented_priority_species	028mmm	04svj_5	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_77q
+tv.tv_regular_personal_appearance	06hwzy	07kw248	0p3r8
+base.marchmadness.ncaa_tournament_seed	02r2qt7	0b_6rk
+soccer.football_player_match_participation	03y_f8	086nc1	0c1m0c5
+soccer.football_player_match_participation	02w64f	026n047	0cbx_tf
+soccer.football_disciplinary_action	02w8_8r	0c1q8nb
+base.marchmadness.ncaa_tournament_seed	0ds9r80	0b_5nk
+base.conservationaction.documented_priority_species	025zc9	04svj_c	052t0zs	052qsf8
+base.ontologies.ontology_instance_mapping	04dm2p_	01l8p
+film.film_cut	0jgd	0b_w5df
+base.marchmadness.ncaa_tournament_seed	02rw6h4	0b_6_l
+people.human_measurement	031974	0dgbflh
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	026hvjz	085v7	033nzk
+base.marchmadness.ncaa_tournament_seed	02pl_lj	0b_6mr
+base.marchmadness.ncaa_tournament_seed	02py8_w	0bzrsh
+sports.sports_team_coach_tenure	047vnfs	045xx
+soccer.football_player_match_participation	035qgm	026twx5	0c1lz_v
+sports.sports_award	08mdhv	01l_v5	0jmfb	031mv0
+soccer.football_player_match_participation	03y_f8	071ns8	0c0mdp8
+base.ontologies.ontology_instance_mapping	04dm2p_	04swx
+soccer.football_player_match_participation	02rqxc	0d8gvv	0c1q8d7
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	025yhpl
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_71r
+soccer.football_disciplinary_action	027dd2s	0c1q83k
+tv.regular_tv_appearance	09yrh	01xh3_	03btzxd	030cx
+user.robert.mobile_phones.regional_submodel	05v74db	02j9z	043wcwj
+base.ontologies.ontology_instance_mapping	04dm2p_	055z7
+base.conservationaction.documented_priority_species	028mmm	04svj_g	052t0zs	052sf3n
+base.conservationaction.documented_priority_species	01pbzc	04svjzj	05lvpg6	04mw5bd
+american_football.player_receiving_statistics	03gqdq7	0ct6xc
+tv.regular_tv_appearance	016tbr	03fl2r	03bt_9k	030cx
+base.conservationaction.documented_priority_species	07rk94	02j71	052s_zk	052w4v3
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5tt
+american_football.player_receiving_statistics	04y6_qr	0270lwc
+base.marchmadness.ncaa_tournament_seed	05cf8h2	05g_nr
+location.partial_containment_relationship	04ykg	02phsq_
+base.marchmadness.ncaa_tournament_seed	02qn723	0b_6qj
+soccer.football_disciplinary_action	0h33cq	0c0mdp8
+soccer.football_player_match_participation	01l3wr	071t_r	0cc33h6
+soccer.football_player_match_participation	03yl2t	03d69b3	0c20hwx
+soccer.football_player_match_participation	01352_	026_y13	0c1q89k
+base.marchmadness.ncaa_tournament_seed	03d8h63	0br1x_
+soccer.football_player_match_participation	03zrhb	04ybt2	0c1smtg
+base.ontologies.ontology_instance_mapping	04dm2p_	05dbf
+soccer.football_team_management_tenure	0y9j	0dmv5
+american_football.game_passing_statistics	04q06_	07dlv9x
+base.conservationaction.documented_priority_species	02cdsj	0498y	0590q2w	0590_08
+people.human_measurement	031974	0dgh75q
+base.conservationaction.documented_priority_species	026zmk	04svj_g	05lvpg6	05mcc04
+film.film_cut	0345h	0415d5m
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	027snb6	049912	03_qj1
+base.marchmadness.ncaa_tournament_seed	02pl_lj	0br1xn
+award.hall_of_fame_induction	06f6jf	0b67nhs	027jbr
+american_football.player_receiving_statistics	03gqdq7	0c28q8
+base.conservationaction.documented_priority_species	01f709	0498y	0590q2w	0590_02
+sports.sports_award	08w956	054c1	0jm74	02yqk8
+base.ontologies.ontology_instance_mapping	04dm2p_	0jbp0
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_756
+base.popstra.vacation_choice	0rcrt	043ttm7
+music.track_contribution	0290ngj	02qwg
+soccer.football_player_match_participation	02bh_v	06qjgc	0c441bl
+base.conservationaction.documented_priority_species	01_pj5	04svk00	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	07bwr
+base.marchmadness.ncaa_tournament_seed	026jxvv	0b_6d2
+soccer.football_player_match_participation	01352_	03by_sd	0c1q89k
+soccer.football_team_manager_match_participation	0c1fy1c	02w64f	072gh0
+soccer.football_player_match_participation	03d8m4	084981	0c1q83k
+american_football.player_receiving_statistics	04y6_qr	03hj702
+base.conservationaction.documented_priority_species	09y3n7	04svjzb	05lvpg6	05mcc0l
+film.film_cut	03rjj	03xfgb
+soccer.football_team_manager_match_participation	0c6r0k6	02rqxc	03bqh7
+location.location_symbol_relationship	0694j	0j749
+soccer.football_player_match_participation	02bh_v	07cgm1	0c1lvg1
+american_football.player_game_statistics	043m27w	04y6_qr
+american_football.player_game_statistics	03h5w4z	04y6_qr
+people.human_measurement	031974	0gv1_v
+base.marchmadness.ncaa_tournament_seed	02qn723	0b_6h7
+base.ontologies.ontology_instance_mapping	04dm2p_	04v6v
+film.film_cut	09c7w0	0crzcsp
+soccer.football_player_match_participation	03zrhb	04ybm1	0c1smtg
+tv.regular_tv_appearance	055tnj	088slc	043qszm	0180mw
+base.popstra.vacation_choice	015jr	01pctb
+american_football.player_game_statistics	09b1ms	03gqdq7
+base.marchmadness.ncaa_basketball_final_four_broadcaster	05pcgb	0bzrsh
+base.popstra.operation	075f_2	05dbf
+american_football.player_receiving_statistics	04y6_qr	04wmq8
+american_football.player_game_statistics	01z8wp	03gqdq7
+base.conservationaction.documented_priority_species	025_dsr	059g4	052t0zs	052qsh_
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0b_72t
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0b_6lb
+soccer.football_player_match_participation	02rqxc	0387xr	0c44h1j
+location.partial_containment_relationship	02j9z	0976b9
+soccer.football_player_match_participation	03ys48	04lfdsm	0c0mdph
+film.film_cut	0chghy	05zhtt2
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_72t
+soccer.football_player_match_participation	02bh_v	0cp9s2	0c1lvg1
+base.conservationaction.documented_priority_species	025xpf	04svjyp	05lvpg6	05mcc0c
+base.ontologies.ontology_instance_mapping	04dm2p_	068cn
+soccer.football_player_match_participation	03xh50	026m8t9	0c22yr_
+location.partial_containment_relationship	059s8	0lm0n
+american_football.player_receiving_statistics	03gqdq7	0b8819
+american_football.player_game_statistics	026g7gw	04y6_qr
+base.marchmadness.ncaa_tournament_seed	0289k0y	05g_nr
+user.skud.embassies_and_consulates.ambassadorial_tenure	03shp	080mycf	09c7w0
+base.popstra.religion_choice	0c8wxp	01cwhp
+american_football.player_receiving_statistics	04y6_qr	026rskm
+american_football.player_game_statistics	043kswt	03gqdq7
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6lb
+base.marchmadness.ncaa_tournament_seed	05c_bv1	0bzrxn
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	03wdy1j	05glrg	040whs
+base.marchmadness.ncaa_tournament_seed	02pzy52	0bqthy
+soccer.football_player_match_participation	03xh50	02vmv5b	0c20hwp
+organization.organization_membership	0d060g	086915
+base.theosbornboysaregrowing.trip	0f67f	06z6r	03qb78c	04d1j3z	04j6583
+american_football.player_game_statistics	08d_d8	04y6_qr
+base.conservationaction.documented_priority_species	0bd5fk	04svk00	05lvpg6	05mcc0c
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_770
+organization.organization_membership	015fr	05yg8kx
+base.marchmadness.ncaa_tournament_seed	05ghxnd	0b_6v_
+base.conservationaction.documented_priority_species	025zc9	04svjzx	052t0zs	052qsfv
+base.ontologies.ontology_instance_mapping	04dm2p_	04pm6
+american_football.player_receiving_statistics	04y6_qr	0558f9
+base.conservationaction.documented_priority_species	04njb7	04svj_k	05lvpg6	05mcc04
+soccer.football_player_match_participation	03_44z	049cp1	0c0xqws
+base.ontologies.ontology_instance_mapping	04dm2p_	06z1j
+american_football.player_game_statistics	04llf8	04y6_qr
+base.conservationaction.documented_priority_species	01tdf2	06yxd	059bjdj	059dbbq
+organization.organization_membership	0f8l9c	06rjgr
+base.conservationaction.documented_priority_species	0hscv	04svjys	052t0zs	052qsf8
+soccer.football_player_match_participation	03z8bw	03z5zh	0c1q8n1
+soccer.football_team_manager_match_participation	0c1d2xp	02rqxc	03bqh7
+organization.organization_membership	0f8l9c	05yg8kx
+film.film_cut	0jgd	02q88q8
+base.ontologies.ontology_instance_mapping	04dm2p_	0fcgd
+location.partial_containment_relationship	05fkf	02pgw0z
+soccer.football_player_match_participation	02s9vc	0281k5n	0c1m0dj
+american_football.player_game_statistics	09dxww	03gqdq7
+soccer.football_disciplinary_action	0281k5n	0c1m0dj
+tv.tv_regular_personal_appearance	06hwzy	0cv2rzx	0ftmv7
+base.schemastaging.sports_league_season_ranking	0rfh262	011v3
+soccer.football_player_match_participation	03_qrp	04n477n	0c0mdp8
+soccer.football_player_match_participation	01l3wr	06nxfp	0c0lq5j
+soccer.football_player_match_participation	0329r5	04z74h	0c43z58
+base.conservationaction.documented_priority_species	028mmm	04svj_5	052t0zs	052sf3n
+people.marriage	0c1j_	059rby
+base.conservationaction.documented_priority_species	07fglh	04svj_c	05lvpg6	05mcc0l
+music.track_contribution	0290ngj	01wlcr3
+soccer.football_team_manager_match_participation	0c6qzxm	01352_	0556fn
+base.conservationaction.documented_priority_species	07fglh	06yxd	059bjdj	059czz_
+location.location_symbol_relationship	04tgp	04g8vjx
+film.film_regional_release_date	09c7w0	02fj8n
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6s7
+soccer.football_player_match_participation	02s2lg	0d930p	0c20hwp
+base.conservationaction.documented_priority_species	01l28z	04s8p0q	063gzw7	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	03q5t
+soccer.football_player_match_participation	03yl2t	09g8q9c	0c0xk97
+soccer.football_player_match_participation	01l3vx	0ksbmv	0c43z5k
+award.hall_of_fame_induction	05f4b0	02h664x	0k89p
+base.conservationaction.documented_priority_species	0598kgg	04svjyp	05lvpg6	05mcc0t
+base.conservationaction.documented_priority_species	026b0d	05fkf	052s_zk	0549l5z
+american_football.player_receiving_statistics	03gqdq7	04zly_
+base.marchmadness.ncaa_tournament_seed	02pzy52	0b_6hl
+base.conservationaction.documented_priority_species	0b46c	04svjys	052t0zs	052qsfc
+american_football.player_receiving_statistics	03gqdq7	0fg_wy
+american_football.player_receiving_statistics	03gqdq7	08vn8p
+base.marchmadness.ncaa_tournament_seed	02q1_xm	0b_5rc
+base.ontologies.ontology_instance_mapping	04dm2p_	0h2c3
+soccer.football_player_match_participation	02s2lg	08vbsl	0c20hwp
+base.conservationaction.documented_priority_species	028mmm	04svj_5	052t0zs	052qsh1
+base.marchmadness.ncaa_tournament_seed	0b__fx	0br1x_
+soccer.football_player_match_participation	03zrhb	02vm5d5	0c1smtg
+american_football.player_receiving_statistics	04y6_qr	0bkv90
+sports.sports_team_coach_tenure	047vnfs	0409n0
+soccer.football_player_match_participation	03xh50	04yn2f	0c22yr_
+base.marchmadness.ncaa_tournament_seed	03d555l	0b_734
+organization.organization_membership	06bnz	01rz1
+sports.sports_award	09fwcb	051j1r	0jm3v	046s7m
+american_football.player_receiving_statistics	04y6_qr	06599l
+american_football.game_passing_statistics	03zy1_	0793dn5
+location.partial_containment_relationship	03rjj	01p8j1
+soccer.football_disciplinary_action	048nnl	0c1smtr
+soccer.football_player_match_participation	040pyq	0d761n	0c44h17
+base.marchmadness.ncaa_tournament_seed	02qsymk	0b_5vw
+base.marchmadness.ncaa_tournament_seed	03d555l	0cc8q3
+people.human_measurement	031974	02p_rs4
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	0d79m8	051hhz	040pyq
+film.film_cut	0f8l9c	0c066wb
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0b_6q5
+organization.organization_membership	088xp	041288
+base.conservationaction.documented_priority_species	01v_3l	04svjzx	05lvpg6	05mcc04
+american_football.player_receiving_statistics	03gqdq7	02qwpss
+soccer.football_player_match_participation	02bh_v	04fj3j	0c1smtr
+tv.tv_regular_personal_appearance	06hwzy	0zgbfr6	0h699ms
+american_football.game_passing_statistics	033t8w	07dlpwc
+organization.organization_membership	01nqj	03y48
+base.popstra.vacation_choice	0f2v0	08wv1j
+american_football.player_game_statistics	071b1t	04y6_qr
+location.partial_containment_relationship	06dfg	01ccyn
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0fp7d_	03b04g	033nzk
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6v_
+base.conservationaction.documented_priority_species	059t_s	05fkf	052s_zk	052tnx0
+organization.organization_membership	019rg5	07t65
+american_football.player_receiving_statistics	04y6_qr	04njl2
+soccer.football_player_match_participation	03_44z	0b5y3x	0c1q86p
+base.conservationaction.documented_priority_species	01y5hf	059g4	052t0zs	052r47m
+film.film_cut	0jgd	07jpg0
+soccer.football_player_match_participation	03ylxn	027q2j_	0c1lz_v
+american_football.player_receiving_statistics	03gqdq7	09pf2l
+soccer.football_player_match_participation	02rqxc	0f7t5m	0c44h1j
+film.film_regional_release_date	052p7	0k2sk
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6lb
+base.conservationaction.documented_priority_species	01ggn5	04svjys	052t0zs	052sdr9
+base.conservationaction.documented_priority_species	05ty0s	04svj_v	05lvpg6	05mcc0l
+organization.organization_membership	0jgd	0gbf6
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	07frn7	050fh	02pp1
+soccer.football_player_match_participation	03_44z	07zr66	0c1q86p
+soccer.football_player_match_participation	02ltg3	0gf47m	0c22yrt
+base.ontologies.ontology_instance_mapping	04dm2p_	0ddnl
+american_football.game_passing_statistics	0gnb8t	07dlmcz
+base.ontologies.ontology_instance_mapping	04dm2p_	03sc8
+american_football.game_passing_statistics	033t8w	07923nq
+organization.organization_membership	06qd3	0b6css
+base.marchmadness.ncaa_tournament_seed	05d_bnt	0bz_8d
+base.marchmadness.ncaa_tournament_seed	03d9d5m	0b_6_l
+soccer.football_player_match_participation	0cnk2q	0bmj_9	0c0mdpq
+soccer.football_player_match_participation	0329r5	0dzx45	0c0lpm9
+film.film_regional_release_date	09c7w0	01cycq
+american_football.player_game_statistics	0443dj	03gqdq7
+american_football.player_receiving_statistics	04y6_qr	025wtny
+base.ontologies.ontology_instance_mapping	04dm2p_	0fkw3
+film.film_cut	07ssc	043kfcp
+base.conservationaction.documented_priority_species	028mmm	04svj_5	052t0zs	052qsfk
+location.partial_containment_relationship	02j9z	09c_bw
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_6lb
+base.conservationaction.documented_priority_species	01twys	06yxd	059bjdj	059czz_
+american_football.player_game_statistics	02bdkk	04y6_qr
+base.marchmadness.ncaa_tournament_seed	05dbgc8	0b_6hl
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0b_5tt
+soccer.football_player_match_participation	03_qrp	05b5fkj	0c1stt5
+soccer.football_player_match_participation	02ltg3	090ny_	0c1nbsz
+organization.organization_membership	0d060g	05yg8kx
+film.film_regional_release_date	030qb3t	0m_tj
+soccer.football_disciplinary_action	08n8hf	0c20hwp
+sports.sports_team_coach_tenure	02md_2	026wlnm
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_687
+base.conservationaction.documented_priority_species	07rk94	04svj_g	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	05qdh
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	02qwpdp	0y9j	02bh_v
+base.conservationaction.documented_priority_species	01fzdb	04svjyz	05lvpg6	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	0fd_f
+film.film_regional_release_date	0345h	0jz2p
+base.popstra.religion_choice	0c8wxp	04gycf
+base.marchmadness.ncaa_tournament_seed	05dxd50	0b_6q5
+base.marchmadness.ncaa_tournament_seed	0j65xwr	0bzrsh
+sports.sports_team_coach_tenure	02md_2	0j65xwr
+tv.tv_regular_personal_appearance	06hwzy	0vsfdh6	08xrm0
+soccer.football_player_match_participation	03ys48	0d_03z	0c0mdph
+film.film_regional_release_date	0345h	0btpm6
+organization.organization_membership	0jdx	01rz1
+base.marchmadness.ncaa_tournament_seed	05gp8yz	0bz_7c
+american_football.player_game_statistics	04mwy73	04y6_qr
+location.location_symbol_relationship	03v1s	01yrt2
+base.theosbornboysaregrowing.trip	0lhn5	04_c1nw	03qb78c	04d1j3z	04f97t9
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6zk
+base.conservationaction.documented_priority_species	01np2h	04svj_y	063gzw7	063g_29
+sports.sports_award	0jkzz71	05qbmm	0jm3v	0380m_
+base.marchmadness.ncaa_tournament_seed	05c_syq	0b_6v_
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_675
+base.conservationaction.documented_priority_species	025zc9	06yxd	059bjdj	059cz_7
+soccer.football_player_match_participation	03_qj1	0gbts2	0c44msd
+baseball.batting_statistics	06wpc	02h7s8p	02rdnh
+soccer.football_player_match_participation	01l3wr	06nxfp	0c1sttd
+base.marchmadness.ncaa_tournament_seed	03d0l76	0br1xn
+base.conservationaction.documented_priority_species	01v_3l	04svjxy	052t0zs	052qsfc
+tv.tv_regular_personal_appearance	06hwzy	02qh21x	014xn7
+soccer.football_player_match_participation	03xh50	0df7r1	0c20hwp
+organization.organization_membership	06mkj	018cqq
+soccer.football_player_match_participation	02rqxc	0gdljk	0c1d2xp
+base.conservationaction.documented_priority_species	022zkk	04svj_c	063gzw7	063g_29
+american_football.game_passing_statistics	04q06_	07dlnyq
+base.marchmadness.ncaa_tournament_seed	02plv57	0bzrsh
+film.film_cut	09c7w0	02pp8_d
+tv.regular_tv_appearance	014zcr	03dkhl	0279lll	0180mw
+film.film_cut	07ssc	07hc8f
+film.film_cut	09c7w0	01f8hf
+music.track_contribution	0290ngj	04gycf
+location.partial_containment_relationship	03rjj	02q4964
+base.ontologies.ontology_instance_mapping	04dm2p_	0jzw
+base.marchmadness.ncaa_tournament_seed	05ghyj4	06n7qg
+film.film_regional_release_date	0f8l9c	05q7yr2
+base.ontologies.ontology_instance_mapping	04dm2p_	0834r
+soccer.football_team_management_tenure	0j2pg	014n_k
+american_football.player_receiving_statistics	03gqdq7	09l0sv
+base.marchmadness.ncaa_tournament_seed	05g_l3q	0b_6jz
+people.human_measurement	031974	03xbcx
+base.partnersinflight.population_estimate	04svjyp	01jdhl	04xh1nb
+soccer.football_player_match_participation	02w64f	03yvsf	0c1fy1c
+base.conservationaction.documented_priority_species	01qh4z	04svjyz	05lvpg6	05mcc04
+base.ontologies.ontology_instance_mapping	04dm2p_	05qkp
+american_football.player_receiving_statistics	04y6_qr	0cwp91
+tv.tv_regular_personal_appearance	06hwzy	09kl55k	0bnppn
+base.conservationaction.documented_priority_species	01l6fs	0498y	0590q2w	0590xzf
+base.conservationaction.documented_priority_species	07rk94	04svk00	05lvpg6	05mcc0l
+sports.sports_team_coach_tenure	02md_2	0498yf
+american_football.game_passing_statistics	04q06_	075rsv7
+american_football.player_receiving_statistics	03gqdq7	0b7t63
+american_football.game_passing_statistics	027jv8	07dlqcz
+american_football.game_passing_statistics	04q06_	075rqry
+film.film_cut	0jgd	03xfgb
+base.ontologies.ontology_instance_mapping	04dm2p_	03k3r
+location.partial_containment_relationship	059t8	0lm0n
+film.film_cut	015fr	02q88q8
+american_football.player_receiving_statistics	03gqdq7	08_ncl
+soccer.football_player_match_participation	03ys48	02qz__w	0c0mdph
+base.conservationaction.documented_priority_species	022_tm	04svj_2	05lvpg6	05mcc04
+soccer.football_player_match_participation	03y_f8	026nlzs	0c0mdp8
+soccer.football_player_match_participation	03ylxn	09y78j	0c0lsl8
+base.conservationaction.documented_priority_species	01g47h	04svj_g	05lvpg6	05mcc04
+base.marchmadness.ncaa_tournament_seed	05n_6jp	0b_6lb
+base.popstra.vacation_choice	0f2tj	043ttm7
+people.human_measurement	031974	01pk8v
+american_football.player_game_statistics	0br8m3	04y6_qr
+american_football.player_game_statistics	05f79fz	04y6_qr
+soccer.football_player_match_participation	01352_	026mbph	0c1d32j
+base.marchmadness.ncaa_tournament_seed	05gmn29	0b_65t
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6hl
+tv.tv_regular_personal_appearance	06hwzy	04kcvf7	02vwjsl
+base.conservationaction.documented_priority_species	01hjj1	04svjz7	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01c713	04svj_r	063gzw7	063g_29
+american_football.game_passing_statistics	027jv8	07925lf
+american_football.player_receiving_statistics	04y6_qr	08wgbh
+soccer.football_player_match_participation	03_qrp	03hnt63	0cb4z87
+base.conservationaction.documented_priority_species	02wd36	06yxd	059bjdj	052sr51
+base.conservationaction.documented_priority_species	01ldpz	06yxd	059bjdj	059dbbg
+soccer.football_player_match_participation	0cnk2q	0bmj_9	0c1srnl
+organization.organization_membership	06bnz	07t65
+american_football.game_passing_statistics	0cwmzd	07dlt83
+soccer.football_player_match_participation	03ylxn	02k0qr	0c441bw
+base.popstra.vacation_choice	01p8s	03qpbs
+soccer.football_disciplinary_action	02vmxdk	0cc33g2
+award.hall_of_fame_induction	01ck_1	02h664x	0k89p
+american_football.game_passing_statistics	027jv8	07dlqhz
+base.marchmadness.ncaa_tournament_seed	02qsymk	0br1xn
+american_football.player_game_statistics	04sl8c	03gqdq7
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	03m5rcl	03x726	03_qj1
+base.popstra.vacation_choice	0f2v0	058s57
+base.ontologies.ontology_instance_mapping	04dm2p_	081yw
+tv.tv_regular_personal_appearance	06hwzy	0pcv3d7	0284b3
+sports.pro_sports_played	0jm_	050_yq
+american_football.player_game_statistics	05zhkxw	04y6_qr
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6fh
+base.conservationaction.documented_priority_species	01jsmq	05fkf	052s_zk	052sr49
+base.conservationaction.documented_priority_species	026b0d	04svjz_	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	0406fy0	0b_698
+base.popstra.religion_choice	01lp8	02r3cn
+american_football.player_game_statistics	03cd4k1	04y6_qr
+soccer.football_player_match_participation	02ltg3	073kk7	0cc33g2
+sports.sports_award	09hqyn	05m273	0bwjj	02yqnh
+film.film_regional_release_date	0ctw_b	01c22t
+soccer.football_player_match_participation	03zrhb	02zbj50	0c1lvg1
+base.marchmadness.ncaa_tournament_seed	03wctwm	0b_6v_
+soccer.football_player_match_participation	03d8m4	04y3k1	0c1q83k
+soccer.football_team_management_tenure	014nzp	014n_k
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	04_z5m	04ltf	035qgm
+american_football.game_passing_statistics	074l06	0791yhq
+base.marchmadness.ncaa_tournament_seed	02qk2d5	0b_72t
+soccer.football_disciplinary_action	03wdy1j	0c1q8d7
+base.popstra.product_choice	0cy27	016tbr
+base.conservationaction.documented_priority_species	01dx8	04svj_2	05lvpg6	05mcc10
+base.conservationaction.documented_priority_species	01fzdb	04svjzq	063gzw7	063g_29
+base.marchmadness.ncaa_tournament_seed	03gqs0v	0b_6jz
+base.conservationaction.documented_priority_species	027mlj	06yxd	059bjdj	059cz80
+soccer.football_player_match_participation	03d8m4	084981	0cbx_tf
+base.conservationaction.documented_priority_species	01rss2	06yxd	059bjdj	052w68f
+organization.organization_membership	05r4w	03y48
+base.handball.handball_player_match_participation	07c6mpr	076qnl5	075zhk3
+base.conservationaction.documented_priority_species	027f0md	059g4	052t0zs	03gc1f4
+base.marchmadness.ncaa_tournament_seed	0gvvvg9	0b_6v_
+soccer.football_player_match_participation	03_44z	0b5gqt	0c1q86p
+film.film_cut	07ssc	0bjgwq
+soccer.football_player_match_participation	03z8bw	0d9_fb	0c1q8n1
+film.film_regional_release_date	05qtj	0cxqk4
+base.ontologies.ontology_instance_mapping	04dm2p_	059ts
+soccer.football_player_match_participation	035qgm	0272qcn	0c441bl
+base.conservationaction.documented_priority_species	01np2h	04svjzb	063gzw7	063g_29
+tv.tv_regular_personal_appearance	06hwzy	0g55lpv	0bj1kt
+organization.organization_membership	03rk0	07t65
+people.human_measurement	031974	04zz22
+base.marchmadness.ncaa_tournament_seed	0263cyj	0b_77q
+base.marchmadness.ncaa_tournament_seed	05ghmrn	0bzrsh
+american_football.player_receiving_statistics	04y6_qr	05w109
+film.film_cut	09c7w0	02wgk1
+soccer.football_player_match_participation	02w64f	026n047	0c44ckb
+base.marchmadness.ncaa_tournament_seed	0260q0x	0b_6mr
+location.location_symbol_relationship	0gyh	04st6h7
+organization.organization_membership	03188	0_2v
+people.human_measurement	031974	0dgcpjd
+base.popstra.vacation_choice	0345h	062dn7
+film.film_regional_release_date	0345h	057jdv
+american_football.game_passing_statistics	027jv8	075rrg0
+base.marchmadness.ncaa_tournament_seed	03by7wc	06n7qg
+soccer.football_player_match_participation	03zrhb	02zbj50	0c1smtg
+base.conservationaction.documented_priority_species	047nky	04svj_c	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	06rpd
+base.popstra.restaurant_choice	0261x8t	018c_r
+award.hall_of_fame_induction	05nf30	02h664x	0k89p
+soccer.football_disciplinary_action	02vrhq2	0c441bl
+soccer.football_player_match_participation	035qgm	036h81	0c441bl
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6mr
+base.conservationaction.documented_priority_species	07brn4	059g4	052t0zs	052qsj2
+american_football.player_receiving_statistics	03gqdq7	02h6xh
+base.popstra.vacation_choice	0ply0	01d1st
+base.conservationaction.documented_priority_species	025fnn	05fkf	052s_zk	052tnx7
+american_football.player_game_statistics	0cfqy0	03gqdq7
+base.marchmadness.ncaa_tournament_seed	02pkdf2	0b_5tt
+american_football.game_passing_statistics	01xyt7	07dln4p
+base.ontologies.ontology_instance_mapping	04dm2p_	0j210
+soccer.football_player_match_participation	02rqxc	0f7t5m	0c1d2xp
+american_football.player_game_statistics	02q7_g1	04y6_qr
+base.marchmadness.ncaa_tournament_seed	0h94g77	0b_6q5
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	05z1yg	045xx	01_lhg
+people.marriage	037tyq	05qtj
+base.conservationaction.documented_priority_species	03fzm4	04svj_5	05lvpg6	05mcc04
+organization.organization_membership	035qy	03y48
+soccer.football_player_match_participation	02ltg3	038ps1	0c22yrt
+soccer.football_player_match_participation	01352_	04dc7f	0c6qzxm
+base.conservationaction.documented_priority_species	025zc9	04svjz_	052t0zs	052qsfv
+soccer.football_player_match_participation	01l3wr	06n0nr	0c1sttd
+organization.organization_membership	03rk0	06vxc9
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0fmnry	049n2l	03xh50
+sports.pro_sports_played	0jm_	04hlp3
+base.marchmadness.ncaa_tournament_seed	02r2qt7	0b_6_l
+base.ontologies.ontology_instance_mapping	04dm2p_	03j6c
+american_football.player_receiving_statistics	04y6_qr	02g9nt
+soccer.football_team_manager_match_participation	0c20hwx	02ltg3	06_8m8
+american_football.player_game_statistics	0gsz9s	04y6_qr
+award.hall_of_fame_induction	05ndy1	02h664x	0k89p
+base.popstra.vacation_choice	02xry	046pqq
+base.conservationaction.documented_priority_species	025zc9	04svj_8	052t0zs	052qsfc
+american_football.player_receiving_statistics	03gqdq7	09_19y
+soccer.football_player_match_participation	0329r5	02vmxdk	0c1smtg
+base.conservationaction.documented_priority_species	01p17h	05fkf	052s_zk	052sr49
+base.ontologies.ontology_instance_mapping	04dm2p_	0424m
+american_football.game_passing_statistics	02x6lw	07dlrm1
+base.marchmadness.ncaa_tournament_seed	026xxv_	0b_6s7
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0d90x5	02hzx8	032jlh
+base.ontologies.ontology_instance_mapping	04dm2p_	05yg8kx
+base.conservationaction.documented_priority_species	01jqht	04svjy3	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	0277y_	06yxd	059bjdj	059dbbg
+base.ontologies.ontology_instance_mapping	04dm2p_	02_fj
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_734
+american_football.player_game_statistics	07vy9h	04y6_qr
+american_football.player_receiving_statistics	04y6_qr	06m553
+base.conservationaction.documented_priority_species	063f94j	04svjz4	05lvpg6	05mcc04
+american_football.game_passing_statistics	0cmld3	07929pq
+soccer.football_player_match_participation	02bh_v	04fj3j	0c441bl
+soccer.football_disciplinary_action	02pzx20	09v2l34
+base.conservationaction.documented_priority_species	04y7z3	04svjzb	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	01tkh8	0498y	0590q2w	0590_0c
+organization.organization_membership	05rznz	07t65
+base.conservationaction.documented_priority_species	090pl3	04svj_y	052t0zs	052qsgw
+soccer.football_player_match_participation	03yl2t	09g8q9c	0c20hwx
+american_football.player_receiving_statistics	03gqdq7	02x6t1x
+film.film_regional_release_date	06qd3	04m1bm
+american_football.player_game_statistics	0cc_cl	03gqdq7
+soccer.football_player_match_participation	0329r5	03nsp2k	0c0lpm9
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_6v_
+base.conservationaction.documented_priority_species	01hsb3	059g4	052t0zs	052qsgd
+base.conservationaction.documented_priority_species	01ldpz	04svjz_	063gzw7	063g_29
+soccer.football_player_match_participation	03z8bw	03m4jrj	0c1q8n1
+sports.sports_award	0dsb05	02lm0t	0bwjj	031mv0
+american_football.player_receiving_statistics	04y6_qr	04qq1f
+base.marchmadness.ncaa_tournament_seed	04088s0	0b_72t
+base.marchmadness.ncaa_tournament_seed	03d068s	0br1x_
+american_football.player_game_statistics	03cpr8_	04y6_qr
+user.robert.mobile_phones.regional_submodel	05v74db	09c7w0	043wcwr
+base.conservationaction.documented_priority_species	02ptsck	059g4	052t0zs	052t29l
+base.ontologies.ontology_instance_mapping	04dm2p_	0342h
+people.marriage	0p_47	030qb3t
+base.marchmadness.ncaa_tournament_seed	0c25fh	0bqthy
+soccer.football_player_match_participation	03_qrp	05b5fkj	0cb4z87
+base.conservationaction.documented_priority_species	07fh0h	04svjzx	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0b_756
+base.conservationaction.documented_priority_species	025zc9	04svj_2	052t0zs	052qsfc
+sports.sports_award	09brkf	0824rq	0bwjj	046s7m
+american_football.player_receiving_statistics	04y6_qr	03d2btm
+soccer.football_player_match_participation	02ltg3	073kk7	0cb4z8g
+american_football.player_game_statistics	0c8ld9	04y6_qr
+american_football.player_game_statistics	070wn4	03gqdq7
+base.conservationaction.documented_priority_species	01pbzc	04svjzf	05lvpg6	04mw5bd
+base.marchmadness.ncaa_tournament_seed	03d81w2	05g_nr
+soccer.football_player_match_participation	02ltg3	0gf47m	0c1nbsz
+base.marchmadness.ncaa_tournament_seed	03d9d5m	0b_770
+base.conservationaction.documented_priority_species	026zk4	02j71	052s_zk	052w4tx
+base.popstra.vacation_choice	0d1qn	01pctb
+soccer.football_disciplinary_action	02qwbb	0c44msd
+base.conservationaction.documented_priority_species	01fzdb	04svk06	063gzw7	063g_29
+soccer.football_player_match_participation	02rqxc	02vr2w0	0c1q8d7
+base.conservationaction.documented_priority_species	01g47h	06yxd	059bjdj	052sr51
+soccer.football_disciplinary_action	01w22z	0c1nbtv
+soccer.football_player_match_participation	03yl2t	03m7_ll	0c1nbvf
+soccer.football_player_match_participation	02bh_v	03_77y	0c1smtr
+base.conservationaction.documented_priority_species	02t0jc	05fkf	052s_zk	052tnwt
+base.marchmadness.ncaa_tournament_seed	02q1nr9	0b_6mr
+location.location_symbol_relationship	03gh4	04627hh
+location.location_symbol_relationship	0gyh	0j749
+base.ontologies.ontology_instance_mapping	04dm2p_	04g8d
+soccer.football_player_match_participation	02ltg3	08w78j	0cb4z8g
+base.conservationaction.documented_priority_species	01h2df	04svj_r	063gzw7	063g_29
+base.conservationaction.documented_priority_species	02pywql	02j71	052t0zs	03gbyn5
+base.conservationaction.documented_priority_species	01y5hf	02j71	052t0zs	03gbzrv
+american_football.game_passing_statistics	074l06	07924rd
+base.conservationaction.documented_priority_species	0375z0	04svjys	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	041765s	0b_6q5
+location.location_symbol_relationship	04tgp	04627gn
+sports.sports_award	08s093	01ztgm	0jm8l	031mv0
+base.conservationaction.documented_priority_species	019299	04svjy0	05lvpg6	05mcc0l
+soccer.football_player_match_participation	03_qj1	0gyjd3	0c44msd
+soccer.football_player_match_participation	03zrc_	03hkk8j	0c0lpm2
+base.marchmadness.ncaa_tournament_seed	02pl_lj	05g_nr
+american_football.player_receiving_statistics	03gqdq7	0cwqt9
+base.popstra.vacation_choice	04w58	0261x8t
+soccer.football_player_match_participation	03_qrp	03hnt63	0c1srnw
+soccer.football_player_match_participation	03d8m4	04q7xgk	0cbx_tf
+basketball.basketball_team_stats	09hqyn	0jmk7
+base.popstra.vacation_choice	0f2v0	01pfkw
+american_football.player_game_statistics	02qwrm3	03gqdq7
+soccer.football_player_match_participation	0cnk2q	0fkc_0	0c0mdpq
+people.human_measurement	031974	0dgg8cq
+american_football.player_receiving_statistics	04y6_qr	03m5kt5
+base.conservationaction.documented_priority_species	0561gn6	04svj_k	05lvpg6	05mcc04
+people.marriage	0347db	03rjj
+american_football.player_game_statistics	066d76	04y6_qr
+base.ontologies.ontology_instance_mapping	04dm2p_	0f6fz
+base.conservationaction.documented_priority_species	01c80k	04svj_r	063gzw7	063g_29
+olympics.olympic_city_bid	030qb3t	0lgxj
+soccer.football_player_match_participation	03d8m4	07s3pv9	0c0xkpl
+soccer.football_player_match_participation	03_44z	09ntbc	0c1q86p
+american_football.player_receiving_statistics	04y6_qr	06_612
+base.marchmadness.ncaa_tournament_seed	02qctn5	0b_770
+base.schemastaging.sports_league_season_ranking	0rfh262	0gxkm
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_6zk
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0d52hx	0y54	03y_f8
+base.popstra.vacation_choice	0d060g	0lx2l
+soccer.football_player_match_participation	01352_	09hc0c	0c1q89k
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_6hl
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0bzrsh
+soccer.football_player_match_participation	02bh_v	025zjfr	0c441bl
+soccer.football_player_match_participation	03yl2t	08mfyy	0c1nbvf
+base.conservationaction.documented_priority_species	01l28z	04svj_y	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01zd3q	04svj_2	05lvpg6	05mcc0l
+organization.organization_membership	01p8s	07t65
+base.theosbornboysaregrowing.trip	0lhn5	04_c1nw	03qb78c	04dssd2	04f97t9
+american_football.player_game_statistics	0cwzrh	03gqdq7
+soccer.football_player_match_participation	03dj48	0287ywd	0c43z58
+base.conservationaction.documented_priority_species	01ysq_	04svjz1	05lvpg6	05mcc0l
+soccer.football_player_match_participation	03dj48	048nnl	0c0lpm2
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	0ft4g9	03j79x	032jlh
+base.conservationaction.documented_priority_species	01pbzc	04svjzm	05lvpg6	04mw5bd
+location.location_symbol_relationship	026mj	01yrt2
+base.conservationaction.documented_priority_species	01c80k	04svj_v	063gzw7	063g_29
+base.marchmadness.ncaa_tournament_seed	02wvtc5	05g_nr
+base.conservationaction.documented_priority_species	05fjzl	04svjy6	05lvpg6	05mcc0l
+base.popstra.vacation_choice	0645vz_	05dbf
+tv.regular_tv_appearance	01z_g6	0b2jtb	0279lrf	0180mw
+film.film_regional_release_date	0chghy	023g6w
+american_football.player_game_statistics	0cdh3k	04y6_qr
+base.marchmadness.ncaa_tournament_seed	04088s0	0bz_jf
+base.conservationaction.documented_priority_species	01hsb3	059g4	052t0zs	052qsh_
+base.conservationaction.documented_priority_species	01_xq2	02j71	052t0zs	03gbzrv
+base.ontologies.ontology_instance_mapping	04dm2p_	0jd05
+tv.tv_regular_personal_appearance	06hwzy	047d7p5	03qv8j
+american_football.player_game_statistics	04ljdd	04y6_qr
+base.conservationaction.documented_priority_species	01l3sx	04svjz1	063gzw7	063g_29
+base.marchmadness.ncaa_tournament_seed	05gp8yz	0bz_8d
+base.marchmadness.ncaa_tournament_seed	0769_r	05g_nr
+american_football.player_receiving_statistics	04y6_qr	0855sw
+film.film_regional_release_date	06mzp	06dq4r
+soccer.football_player_match_participation	0329r5	07k4dgf	0cc33g2
+location.mailing_address	09c7w0	0824r	03dz880	0fw2y
+soccer.football_player_match_participation	03yl2t	05l_8j	0c20hwx
+soccer.football_player_match_participation	03dj48	083qy7	0c43z58
+american_football.player_game_statistics	04jj47d	04y6_qr
+base.conservationaction.documented_priority_species	0hscv	059g4	052t0zs	052qshk
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	03hkk8j	0d2psv	03zrc_
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	03kb_z
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6fh
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0283_6q	01fwqn	03y_f8
+base.marchmadness.ncaa_tournament_seed	026xxv_	0bzrb9
+base.conservationaction.documented_priority_species	01q4m6	06yxd	059bjdj	059dbbq
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_770
+film.film_cut	03rjj	0c2lp76
+soccer.football_player_match_participation	0329r5	07k63st	0cc33g2
+people.marriage	043zg	030qb3t
+film.film_regional_release_date	0d0vqn	075wx89
+american_football.player_game_statistics	0grdw7	03gqdq7
+american_football.game_passing_statistics	05wc_w	0793dn5
+base.theosbornboysaregrowing.trip	0f67f	01kcnl	03qb78c	04d1j3z	04f97tq
+soccer.football_team_manager_match_participation	0c1smtr	02bh_v	02c7q
+base.marchmadness.ncaa_tournament_seed	0278rkd	0b_6v_
+base.marchmadness.ncaa_tournament_seed	05g1b71	0b_6x2
+american_football.game_passing_statistics	0cwmzd	075rqmr
+american_football.player_receiving_statistics	04y6_qr	0ks7d3
+soccer.football_player_match_participation	03xh50	04ymv9	0c0xk97
+base.ontologies.ontology_instance_mapping	04dm2p_	01s81
+base.ontologies.ontology_instance_mapping	04dm2p_	0k2_0
+base.conservationaction.documented_priority_species	07h64p	04svjzm	05lvpg6	05mcc0l
+soccer.football_player_match_participation	01l3vx	051g1t	0c0lpm9
+film.film_cut	0345h	09sgmx
+soccer.football_player_match_participation	01352_	04kh37	0c44h1j
+sports.sports_award	09nfx8	08gz6c	03bj3y	02yqnh
+base.ontologies.ontology_instance_mapping	04dm2p_	04cx5
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0fbl13	04991x	01l3vx
+film.film_cut	09c7w0	04cw9h
+soccer.football_player_match_participation	0329r5	079j56	0c1fzw8
+base.marchmadness.ncaa_tournament_seed	03d7fzg	0br1xn
+base.popstra.product_choice	0jgf9	0lk90
+base.ontologies.ontology_instance_mapping	04dm2p_	0c4f4
+base.conservationaction.documented_priority_species	01p17h	06yxd	059bjdj	059dbbg
+fictional_universe.fictional_employment_tenure	02y_93f	02r8893	0bvd1b
+american_football.player_receiving_statistics	03gqdq7	043m27w
+american_football.player_receiving_statistics	03gqdq7	0443dj
+soccer.football_player_match_participation	03_qj1	0krwpr	0c44msd
+location.location_symbol_relationship	081yw	0j749
+base.popstra.restaurant_choice	0261x8t	064hn6s
+american_football.player_receiving_statistics	04y6_qr	0ksdj8
+location.location_symbol_relationship	03v1s	04627gn
+base.ontologies.ontology_instance_mapping	04dm2p_	06vbd
+soccer.football_team_manager_match_participation	0c1q8d7	02rqxc	03bqh7
+organization.organization_membership	059j2	02t63
+soccer.football_player_match_participation	0329r5	02vm85z	0c43z58
+base.conservationaction.documented_priority_species	01l6fs	06yxd	059bjdj	059dbbq
+base.conservationaction.documented_priority_species	02t8jv	06yxd	059bjdj	059czz_
+base.schemastaging.sports_league_season_ranking	0rfh262	01dwyd
+soccer.football_player_match_participation	03_44z	08cywd	0c0xqws
+soccer.football_player_match_participation	02rqxc	026ck_m	0c1d2xp
+american_football.player_game_statistics	02pl7vn	04y6_qr
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_75k
+base.conservationaction.documented_priority_species	01dx8	04svjyp	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	0cr3d
+film.film_regional_release_date	059j2	0jz2p
+organization.organization_membership	0163v	07t65
+organization.organization_membership	03rj0	07xvv
+base.conservationaction.documented_priority_species	07fh0h	06yxd	059bjdj	059dfl5
+base.conservationaction.documented_priority_species	07db8q	02j71	052t0zs	052qscn
+base.popstra.vacation_choice	0chghy	01w5xbs
+base.popstra.product_choice	0cy27	0261x8t
+film.film_cut	0345h	09gkx35
+soccer.football_player_match_participation	02ltg3	038pvw	0cb4z8g
+base.conservationaction.documented_priority_species	0k5w2	04svjys	052t0zs	052sdr9
+base.conservationaction.documented_priority_species	033jqt	04svjyw	05lvpg6	063g_29
+soccer.football_player_match_participation	03xh50	0df79w	0c20hwp
+base.handball.handball_player_match_participation	0b_w593	076qnjp	075zhk3
+american_football.player_game_statistics	0d81yf	04y6_qr
+base.marchmadness.ncaa_tournament_seed	05gj9gx	0bzrb9
+base.marchmadness.ncaa_tournament_seed	02pzy52	0bzrsh
+organization.organization_membership	0ctw_b	07t65
+base.marchmadness.ncaa_basketball_final_four_broadcaster	050hhv	0b_72t
+base.ontologies.ontology_instance_mapping	04dm2p_	07q78
+base.conservationaction.documented_priority_species	02jtv9	02j71	052t0zs	052qscn
+location.location_symbol_relationship	081mh	04g8vjx
+soccer.football_player_match_participation	03ylxn	09y78j	0c1lz_v
+soccer.football_player_match_participation	0329r5	026bk56	0c0lpm9
+base.conservationaction.documented_priority_species	06ys27	059g4	052t0zs	052qsj2
+base.ontologies.ontology_instance_mapping	04dm2p_	0dymr
+soccer.football_player_match_participation	032jlh	06zsgzn	0c1q8nb
+base.marchmadness.ncaa_tournament_seed	0bmh27j	0b_6v_
+soccer.football_player_match_participation	02w64f	08vt89	0c1q8n1
+organization.organization_membership	03h2c	07xvv
+soccer.football_player_match_participation	02s2lg	053xkr	0c1nbvf
+base.conservationaction.documented_priority_species	01l3sx	04svjys	063gzw7	063g_29
+base.marchmadness.ncaa_tournament_seed	02q1_xm	0b_75k
+soccer.football_player_match_participation	03dj48	04mrnq	0c1smtr
+location.location_symbol_relationship	081mh	04627gn
+american_football.player_game_statistics	07z_zx	03gqdq7
+organization.organization_membership	07ssc	01rz1
+base.marchmadness.ncaa_tournament_seed	02qsymk	0b_72t
+base.conservationaction.documented_priority_species	0k5w2	059g4	052t0zs	052qsj2
+american_football.player_receiving_statistics	04y6_qr	02pl7vn
+film.film_cut	0jgd	0crgs8
+base.conservationaction.documented_priority_species	01v1ck	04svjz1	05lvpg6	05mcc04
+soccer.football_player_match_participation	03xh50	026m8t9	0c1nbsz
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0b_734
+soccer.football_player_match_participation	03xh50	04yn2f	0c1nbsz
+soccer.football_player_match_participation	0329r5	0dzx45	0c0lq5j
+film.film_regional_release_date	035qy	08zrbl
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	04ybjjq	06f45f	02bh_v
+soccer.football_disciplinary_action	03z2p0	0c0lv1g
+organization.organization_membership	027nb	07t65
+base.popstra.vacation_choice	0489v9k	0161c2
+base.conservationaction.documented_priority_species	04njb7	04svjxy	05lvpg6	05mcc04
+film.film_regional_release_date	0f8l9c	0k2_0
+base.ontologies.ontology_instance_mapping	04dm2p_	0bscw
+soccer.football_player_match_participation	03d8m4	0d58rm	0c1q83k
+american_football.game_passing_statistics	030bdd	0793zf8
+award.hall_of_fame_induction	02m7wj	02h664x	0k89p
+base.conservationaction.documented_priority_species	02cdsj	04svk00	05lvpg6	05mcc04
+american_football.player_game_statistics	02rh1jd	04y6_qr
+base.marchmadness.ncaa_tournament_seed	05g1p9j	0bzrxn
+soccer.football_player_match_participation	03ylxn	03nqkk4	0c1lz_v
+base.marchmadness.ncaa_tournament_seed	05cf6p9	0b_6d2
+soccer.football_disciplinary_action	038pvw	09v2l34
+base.marchmadness.ncaa_tournament_seed	0j65xwr	0b_6mr
+american_football.player_receiving_statistics	03gqdq7	09b252
+base.ontologies.ontology_instance_mapping	04dm2p_	03lrc
+base.ontologies.ontology_instance_mapping	04dm2p_	07f1x
+base.ontologies.ontology_instance_mapping	04dm2p_	043zg
+base.ontologies.ontology_instance_mapping	04dm2p_	07tp2
+american_football.game_passing_statistics	01xyt7	07dlm58
+organization.organization_membership	0169t	07t65
+soccer.football_player_match_participation	03yl2t	03m7_ll	0c0xk97
+base.marchmadness.ncaa_tournament_seed	03y9p40	0b_72t
+soccer.football_player_match_participation	01352_	04qv66	0c44h1j
+location.partial_containment_relationship	0345h	0b6mbw2
+soccer.football_player_match_participation	01l3wr	09cgbz	0c1m0c5
+base.marchmadness.ncaa_tournament_seed	05h97_z	0b_72t
+base.theosbornboysaregrowing.trip	0f67f	03y4l3	03qb78c	04dssd2	04f97th
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	04g0jpj	03x746	03yl2t
+base.conservationaction.documented_priority_species	01rl9c	04svk00	05lvpg6	05mcc04
+base.marchmadness.ncaa_tournament_seed	0289jr_	0b_6zk
+american_football.game_passing_statistics	033t8w	079259z
+organization.organization_membership	06qd3	07t65
+american_football.player_receiving_statistics	04y6_qr	03c_qxc
+base.ontologies.ontology_instance_mapping	04dm2p_	06wpc
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0b_6xf
+soccer.football_player_match_participation	02pp1	01yj16	0c0lv1g
+soccer.football_player_match_participation	02s2lg	03c__ms	0c0xk9g
+soccer.football_player_match_participation	03y_f8	0283_6q	0c0mdp8
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03npy_b	02qhlm	03_qj1
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0b_6zk
+american_football.player_receiving_statistics	04y6_qr	0gnb8t
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	02k0qr	02qhlm	03ylxn
+soccer.football_player_match_participation	03ylxn	02k0qr	0c0lsl8
+soccer.football_player_match_participation	03ylxn	0dxgqy	0c441bw
+base.conservationaction.documented_priority_species	01v1ck	04svj_8	05lvpg6	05mcc04
+soccer.football_player_match_participation	03ys48	0gl285	0c44msp
+base.marchmadness.ncaa_tournament_seed	03d5m8w	0b_6_l
+organization.organization_membership	0d060g	03m6lb
+base.ontologies.ontology_instance_mapping	04dm2p_	062z7
+american_football.player_game_statistics	027zg4h	03gqdq7
+base.marchmadness.ncaa_tournament_seed	02q8r_1	0b_6v_
+base.conservationaction.documented_priority_species	02t7vn	06yxd	059bjdj	059c_4t
+base.marchmadness.ncaa_tournament_seed	05c_bv1	0b_6v_
+film.film_cut	0jgd	04j2242
+base.marchmadness.ncaa_tournament_seed	02pzy52	0b_72t
+soccer.football_player_match_participation	03_qrp	04t5ww	0c1nbtv
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_5rc
+base.conservationaction.documented_priority_species	01pbzc	04svj_c	05lvpg6	04mw5bd
+soccer.football_player_match_participation	03ys48	0947kq	0c0mdph
+soccer.football_player_match_participation	033nzk	04dzypj	0c1q8nb
+american_football.player_game_statistics	0cx7h7	04y6_qr
+soccer.football_player_match_participation	03_qrp	05b5fkj	0c1srnw
+american_football.player_receiving_statistics	04y6_qr	03h5kf7
+base.ontologies.ontology_instance_mapping	04dm2p_	07dfk
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_77q
+base.popstra.vacation_choice	02dfgb	01s21dg
+soccer.football_player_match_participation	03_qrp	080cmb0	0c1stt5
+award.hall_of_fame_induction	02frnb	03k3r	027jbr
+base.ontologies.ontology_instance_mapping	04dm2p_	07ghq
+organization.organization_membership	07tp2	0j7v_
+base.marchmadness.ncaa_tournament_seed	03qk194	05g_nr
+base.marchmadness.ncaa_tournament_seed	03d9fwn	0b_6lb
+base.conservationaction.documented_priority_species	01l3sx	06yxd	059bjdj	059c_4t
+american_football.player_receiving_statistics	03gqdq7	08vn79
+sports.sports_award	08hn_f	01sg7_	0jm4v	02yqnh
+soccer.football_player_match_participation	035qgm	0g3b2m	0c441bl
+soccer.football_player_match_participation	02s9vc	047534	0c44msd
+soccer.football_player_match_participation	03dj48	0262ggl	0c1smtr
+base.ontologies.ontology_instance_mapping	04dm2p_	01zwy
+soccer.football_player_match_participation	02ltg3	026f01y	0c20hwx
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	02z4dfr	075q_	0329r5
+organization.organization_membership	0ctw_b	01mpp5
+soccer.football_player_match_participation	01l3wr	071t_r	0c1srnw
+base.ontologies.ontology_instance_mapping	04dm2p_	052p7
+soccer.football_player_match_participation	0329r5	027tl2v	0cb4z87
+location.location_symbol_relationship	03v1s	0j749
+soccer.football_player_match_participation	032jlh	0d90x5	0c1fy1c
+location.partial_containment_relationship	015jr	0k3nk
+base.conservationaction.documented_priority_species	03fz8x	04svjzm	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	090ll7	04svjyp	05lvpg6	05mcc0l
+american_football.player_game_statistics	07vxjh	03gqdq7
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_6x2
+base.popstra.vacation_choice	0489v9k	01vw20_
+american_football.player_receiving_statistics	04y6_qr	08hlkm
+soccer.football_player_match_participation	03y_f8	02rhzq7	0c1srnl
+soccer.football_player_match_participation	02pp1	07frn7	0c44msp
+base.ontologies.ontology_instance_mapping	04dm2p_	0157m
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6rk
+american_football.player_receiving_statistics	03gqdq7	0cx7gx
+organization.organization_membership	0ctw_b	07xvv
+soccer.football_player_match_participation	02bh_v	027479p	0c1smtr
+tv.tv_regular_personal_appearance	06hwzy	07kw248	025v3t8
+base.conservationaction.documented_priority_species	0d4xf_	04svj_5	05lvpg6	05mcc04
+base.marchmadness.ncaa_basketball_final_four_broadcaster	050hhv	0b_770
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_71r
+organization.organization_membership	0chghy	01027r
+base.conservationaction.documented_priority_species	0bd5fk	05fkf	052s_zk	052sr49
+base.popstra.restaurant_choice	01pk8v	018c_r
+award.hall_of_fame_induction	04g_41	03b3nf	027jbr
+tv.regular_tv_appearance	0n8bn	0ctlk	02hqqp4	06qv_
+base.conservationaction.documented_priority_species	03fz8x	04svjzj	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	05c8dy1	0b_5t3
+base.marchmadness.ncaa_tournament_seed	05cf6p9	0bzrsh
+american_football.player_game_statistics	02qwz2h	03gqdq7
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_77q
+soccer.football_player_match_participation	01352_	05fct1	0c6qzxm
+base.conservationaction.documented_priority_species	021klp	0498y	0590q2w	0590_02
+base.marchmadness.ncaa_basketball_final_four_broadcaster	05pcgb	0b_6hl
+film.film_regional_release_date	0jgd	0qsdrjl
+base.ontologies.ontology_instance_mapping	04dm2p_	03f5vvx
+base.ontologies.ontology_instance_mapping	04dm2p_	03s7h
+soccer.football_player_match_participation	02bh_v	03_77y	0c0lsl8
+soccer.football_player_match_participation	02w64f	07zp10	0c1fy1c
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	07fkqq	03j70t	02s2lg
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	02rh4gy
+american_football.player_receiving_statistics	03gqdq7	02q5dkc
+soccer.football_player_match_participation	03y_f8	0d52hx	0c1srnl
+base.ontologies.ontology_instance_mapping	04dm2p_	09jm8
+american_football.player_game_statistics	05byjc	04y6_qr
+american_football.player_game_statistics	05v9rg	04y6_qr
+base.marchmadness.ncaa_tournament_seed	02q1_xm	0bzrb9
+base.conservationaction.documented_priority_species	025zc9	04svj_k	052t0zs	052qsg0
+american_football.game_passing_statistics	05jl5h	075rr9y
+sports.sports_award	09759j	05tscl	0bwjj	046s7m
+film.film_cut	09c7w0	0bmhvpr
+base.popstra.vacation_choice	0cv3w	0261x8t
+sports.sports_award	07j1pw	02jyt3	0jm8l	031mv0
+base.conservationaction.documented_priority_species	0560s3q	04svj_g	05lvpg6	05mcc0t
+soccer.football_player_match_participation	01l3wr	09b3p1	0c1srnw
+base.conservationaction.documented_priority_species	01fzdb	06yxd	059bjdj	059dbbq
+american_football.player_receiving_statistics	03gqdq7	02qwx7z
+tv.regular_tv_appearance	03lr4n	0v4lrq6	04s_8t2	030cx
+location.partial_containment_relationship	06mzp	05z202
+american_football.player_receiving_statistics	03gqdq7	02g9nt
+soccer.football_player_match_participation	02bh_v	026tft7	0c1smtr
+base.popstra.vacation_choice	0f2v0	0147dk
+base.marchmadness.ncaa_tournament_seed	02ptzz0	0bzrxn
+organization.organization_membership	027jk	0b6css
+base.popstra.religion_choice	01lp8	02mjmr
+soccer.football_player_match_participation	03yl2t	04rc16	0c1nbvf
+base.marchmadness.ncaa_basketball_final_four_broadcaster	050hhv	0cc8q3
+soccer.football_player_match_participation	02bh_v	04pcs3	0c441bl
+base.marchmadness.ncaa_basketball_final_four_broadcaster	05pcgb	0b_756
+american_football.player_receiving_statistics	03gqdq7	0cx3f1
+soccer.football_player_match_participation	01352_	04dc7f	0c44h1j
+base.popstra.public_insult	0c6qh	09yrh
+base.ontologies.ontology_instance_mapping	04dm2p_	0jhd
+location.partial_containment_relationship	081yw	06z1j
+tv.tv_regular_personal_appearance	06hwzy	0g55lpv	048v0j
+base.ontologies.ontology_instance_mapping	04dm2p_	088xp
+american_football.player_game_statistics	05cb70	03gqdq7
+base.ontologies.ontology_instance_mapping	04dm2p_	050xd
+soccer.football_player_match_participation	03dj48	02q0lh0	0c1smtr
+soccer.football_player_match_participation	02ltg3	038pvw	0cc33g2
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_72t
+american_football.player_receiving_statistics	04y6_qr	06hh0x
+award.hall_of_fame_induction	02ry_2	03k3r	027jbr
+base.conservationaction.documented_priority_species	022_tm	0498y	0590q2w	0590_08
+soccer.football_player_match_participation	035qgm	07x5y3	0c441bl
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	04_063f	0270p_f	040whs
+base.conservationaction.documented_priority_species	01l6fs	04svj_c	063gzw7	063g_29
+award.hall_of_fame_induction	09dpn4	01pvc5	027jbr
+basketball.basketball_team_stats	09gnpl	0jmk7
+american_football.player_receiving_statistics	04y6_qr	03qdzfh
+soccer.football_player_match_participation	03y_f8	086nc1	0c0mdp8
+award.hall_of_fame_induction	0fb1tn	03b3nf	027jbr
+base.marchmadness.ncaa_tournament_seed	0n4b_5_	0bzrsh
+base.conservationaction.documented_priority_species	01bqq_	04svjys	052t0zs	052qsfc
+soccer.football_player_match_participation	01l3wr	0ksh74	0cbx_t6
+base.marchmadness.ncaa_tournament_seed	02q8r_1	0b_734
+base.conservationaction.documented_priority_species	03fvxt	04s8p0q	05lvpg6	05mcc0l
+soccer.football_player_match_participation	01l3wr	0gccsb	0c0lq5j
+base.marchmadness.ncaa_tournament_seed	026xxv_	0b_6_l
+location.partial_containment_relationship	081yw	01n86
+base.marchmadness.ncaa_tournament_seed	02pqcfz	0b_71r
+base.conservationaction.documented_priority_species	025zc9	02j71	052t0zs	03gbynh
+base.ontologies.ontology_instance_mapping	04dm2p_	06gd4
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_71r
+soccer.football_player_match_participation	0329r5	02y_kzs	0c1smtg
+people.marriage	0gnbw	0cv3w
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	074cmq	025rpyx	035qgm
+american_football.player_game_statistics	095xk6	04y6_qr
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0f8qdm	0266bd5	02rqxc
+base.marchmadness.ncaa_tournament_seed	0nbnw7y	0b_77q
+sports.sports_award	08_vqd	095nx	0jmk7	02yqk8
+base.popstra.public_insult	0dzsp8	01s21dg
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_75k
+organization.organization_membership	05qkp	0_2v
+base.popstra.public_insult	0c6qh	01s21dg
+soccer.football_player_match_participation	040whs	09g8n09	0c1q8d7
+basketball.basketball_team_stats	095wtg	0jmk7
+soccer.football_disciplinary_action	02rqnmx	0c1q83k
+base.conservationaction.documented_priority_species	02s231	06yxd	059bjdj	059czz_
+base.marchmadness.ncaa_tournament_seed	03c_p38	0cc8q3
+base.ontologies.ontology_instance_mapping	04dm2p_	07g9f
+soccer.football_player_match_participation	03d8m4	0d58wf	0c0xkpl
+base.conservationaction.documented_priority_species	026b0d	05fkf	052s_zk	052sr46
+soccer.football_player_match_participation	01l3wr	08g46k	0cc33h6
+american_football.player_game_statistics	048v0j	04y6_qr
+organization.organization_membership	088xp	0gkjy
+film.film_cut	09c7w0	05z7c
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0gj8c8	0ly8z	032hmd
+base.conservationaction.documented_priority_species	01blnh	02j71	052t0zs	03gbzrv
+base.ontologies.ontology_instance_mapping	04dm2p_	04vn5
+soccer.football_player_match_participation	01l3wr	06n0nr	0c1srnw
+soccer.football_player_match_participation	03y_f8	02vrdqv	0c1m0c5
+soccer.football_player_match_participation	03y_f8	09jwl0	0c1m0c5
+tv.tv_regular_personal_appearance	06hwzy	07kw248	02vwjsl
+soccer.football_player_match_participation	02ltg3	0gf47m	0cb4z8g
+base.marchmadness.ncaa_tournament_seed	02qn723	0bqthy
+american_football.player_game_statistics	03d2btm	04y6_qr
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03yq94	02_lt	02s9vc
+base.popstra.public_insult	0chsq	014zcr
+soccer.football_player_match_participation	03dj48	0dg1rw	0c43z58
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03yf8c	0cgwt8	03z8bw
+american_football.game_passing_statistics	025j0c	0793g1m
+base.marchmadness.ncaa_tournament_seed	03qk194	0b_6xf
+base.conservationaction.documented_priority_species	01q6zv	0498y	0590q2w	0590xzf
+base.marchmadness.ncaa_tournament_seed	05ghyj4	0b_6v_
+organization.organization_membership	027jk	07t65
+base.handball.handball_player_match_participation	0b_w593	076qnlk	075zhk3
+organization.organization_membership	01rxw	07t65
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_698
+soccer.football_player_match_participation	02s2lg	07fkqq	0c1nbvf
+base.theosbornboysaregrowing.trip	0vg8j	06z6r	03qb78c	04dssd2	04f97tq
+soccer.football_player_match_participation	01l3wr	0288mw0	0c0lq5j
+base.marchmadness.ncaa_tournament_seed	027yf83	0b_6s7
+base.conservationaction.documented_priority_species	01hjj1	04svjys	05lvpg6	063g_29
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_734
+base.ontologies.ontology_instance_mapping	04dm2p_	0cmpn
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_6fh
+base.conservationaction.documented_priority_species	01btn1	04svj_k	05lvpg6	05mcc0l
+film.film_cut	07ssc	0274q34
+location.partial_containment_relationship	03rt9	0739sw
+organization.organization_membership	0k6nt	01rz1
+base.ontologies.ontology_instance_mapping	04dm2p_	0k5j
+base.ontologies.ontology_instance_mapping	04dm2p_	0l0xy
+base.marchmadness.ncaa_tournament_seed	091tgz	0b_6x2
+base.conservationaction.documented_priority_species	01jl55	0498y	0590q2w	0590x_f
+american_football.player_receiving_statistics	04y6_qr	04q88vd
+music.track_contribution	0342h	01w2b1p
+base.conservationaction.documented_priority_species	01v1ck	06yxd	059bjdj	059czz_
+american_football.player_receiving_statistics	04y6_qr	0cx7gx
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	07bp3v	042rlf	03zrhb
+american_football.player_game_statistics	0b8819	04y6_qr
+sports.pro_sports_played	0jm_	0gs2k8
+soccer.football_player_match_participation	03xh50	0df7tn	0c20hwp
+soccer.football_player_match_participation	033nzk	0ktdsl	0c1q8nb
+base.conservationaction.documented_priority_species	01fzdb	04svjy0	063gzw7	063g_29
+tv.tv_regular_personal_appearance	06hwzy	04kcvf1	026tc_4
+base.conservationaction.documented_priority_species	01v_3l	05fkf	052s_zk	052tnwt
+soccer.football_player_match_participation	01l3wr	03ckywx	0c1m0c5
+base.marchmadness.ncaa_tournament_seed	03d2vbw	0b_6zk
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	02vwjsl
+base.conservationaction.documented_priority_species	022c98	0498y	0590q2w	0590_08
+soccer.football_disciplinary_action	04yjdf	0cb4z87
+base.conservationaction.documented_priority_species	02wd36	06yxd	059bjdj	059czz_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0f6zmq	03w7kx	01l3vx
+soccer.football_player_match_participation	0cnk2q	07_4sd	0c1nbtv
+base.conservationaction.documented_priority_species	0261d0	02j71	052t0zs	052qs5z
+award.hall_of_fame_induction	01r6lw	02h664x	0k89p
+soccer.football_player_match_participation	01352_	07zqvv	0c1q89k
+organization.organization_membership	09c7w0	06rjgr
+base.marchmadness.ncaa_tournament_seed	05cf6__	0cc8q3
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_5t3
+base.marchmadness.ncaa_tournament_seed	05h97_z	0b_6lb
+award.hall_of_fame_induction	0g__8t	03k3r	027jbr
+base.conservationaction.documented_priority_species	01l28z	04svjzt	063gzw7	063g_29
+base.popstra.vacation_choice	0261m	02gpyk
+base.conservationaction.documented_priority_species	01v857	04svj_g	05lvpg6	05mcc04
+base.marchmadness.ncaa_tournament_seed	05hk4qn	0b_5lv
+film.film_cut	0jgd	03vj61
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	09ntbc	02q3n9c	03_44z
+soccer.football_player_match_participation	0329r5	02rzd6w	0c1fzw8
+soccer.football_player_match_participation	03yl2t	03hhcvk	0c1nbvf
+soccer.football_player_match_participation	01352_	07ddt3	0c1q89k
+base.conservationaction.documented_priority_species	01dx8	04svjzq	05lvpg6	05mcc10
+soccer.football_player_match_participation	032jlh	05nr4p	0c1fy1c
+base.conservationaction.documented_priority_species	07fh0h	06yxd	059bjdj	059czz_
+base.conservationaction.documented_priority_species	059t_s	05r7t	05lvpg6	05mcc0l
+american_football.player_receiving_statistics	03gqdq7	043nvfh
+american_football.player_receiving_statistics	03gqdq7	0d6nyb
+film.film_cut	0jgd	02x6ds1
+soccer.football_player_match_participation	01352_	04kh37	0c6qzxm
+base.conservationaction.documented_priority_species	01f709	04svjyz	05lvpg6	05mcc0l
+people.human_measurement	031974	04ylwr
+tv.regular_tv_appearance	0306j0	05h2wql	0k2315j	05lfwd
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	06qd79	03j6_5	033nzk
+base.conservationaction.documented_priority_species	022zkk	04svjyz	063gzw7	063g_29
+soccer.football_player_match_participation	03yl2t	03hhcvk	0c0xk97
+base.conservationaction.documented_priority_species	01np14	06yxd	059bjdj	059dbbq
+base.handball.handball_player_match_participation	0b_w593	076qnkf	075zhk3
+american_football.player_receiving_statistics	04y6_qr	05zxqgp
+soccer.football_player_match_participation	01352_	04zjwv	0cb4z8g
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_6hl
+base.conservationaction.documented_priority_species	0598kgg	04svjzb	05lvpg6	05mcc0t
+sports.sports_team_coach_tenure	047vnfs	011v3
+soccer.football_player_match_participation	03dj48	02w6hw1	0c1l_x_
+soccer.football_team_manager_match_participation	0c1fzw8	0329r5	027zq5r
+base.marchmadness.ncaa_tournament_seed	03d9fwn	0b_6zk
+american_football.game_passing_statistics	033t8w	0792bwr
+base.marchmadness.ncaa_tournament_seed	0gjbqfk	0b_65t
+base.popstra.product_choice	04656d6	01z0rcq
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0cn0qg	080_y	02w64f
+base.ontologies.ontology_instance_mapping	04dm2p_	0jmj
+base.conservationaction.documented_priority_species	047nky	04svj_k	05lvpg6	05mcc0l
+film.film_regional_release_date	0f8l9c	0gyp4v3
+tv.tv_regular_personal_appearance	06hwzy	07kw248	012_53
+location.location_symbol_relationship	05fjf	04627hh
+american_football.player_receiving_statistics	03gqdq7	0gznlq
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0bzrb9
+american_football.player_receiving_statistics	04y6_qr	07v6r9
+american_football.player_game_statistics	0558dz	04y6_qr
+location.partial_containment_relationship	059rby	02w47p
+film.film_cut	09c7w0	07shqf9
+american_football.player_receiving_statistics	04y6_qr	03cy5lk
+base.ontologies.ontology_instance_mapping	04dm2p_	06q07
+american_football.player_receiving_statistics	04y6_qr	0949_l
+base.conservationaction.documented_priority_species	022c98	04svjy6	05lvpg6	05mcc0l
+soccer.football_player_match_participation	03_qj1	0ft1ft	0c0mdph
+soccer.football_player_match_participation	033nzk	03cc6r0	0c44ckb
+soccer.football_player_match_participation	02s2lg	053tt2	0c20hwp
+base.marchmadness.ncaa_tournament_seed	05d02t2	0b_6jz
+american_football.player_game_statistics	0ksdj8	03gqdq7
+soccer.football_team_manager_match_participation	0c0xk9g	02s2lg	04spv6
+soccer.football_player_match_participation	03d8m4	026vpsl	0c20gf3
+soccer.football_player_match_participation	03y_f8	0283_6q	0c1srnl
+base.conservationaction.documented_priority_species	02t0jc	05fkf	052s_zk	052sr49
+soccer.football_player_match_participation	03d8m4	083xpw	0c20gf3
+location.location_symbol_relationship	01n7q	04627hh
+base.conservationaction.documented_priority_species	01tkh8	06yxd	059bjdj	052w67s
+soccer.football_player_match_participation	03z8bw	04mryd	0c1fy14
+soccer.football_player_match_participation	01352_	05fct1	0c44h1j
+soccer.football_player_match_participation	040pyq	05vk88	0c1d2xp
+american_football.game_passing_statistics	025j0c	0794871
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0b_5lv
+american_football.game_passing_statistics	025j0c	07dlq3r
+people.human_measurement	031974	064wfz
+soccer.football_disciplinary_action	02r6flm	0c44ck1
+basketball.basketball_team_stats	07j1pw	0jmk7
+tv.regular_tv_appearance	01_njt	0268x2s	06gt8vr	05lfwd
+tv.regular_tv_appearance	06j2h8	04t5nlf	03btzxd	030cx
+base.theosbornboysaregrowing.trip	0vg8j	01kcnl	03qb78c	04d1j3z	04f97tq
+location.partial_containment_relationship	0d060g	02l_25
+award.hall_of_fame_induction	08k58n	03k3r	027jbr
+base.ontologies.ontology_instance_mapping	04dm2p_	0dmv5
+soccer.football_player_match_participation	03z8bw	02rrkkn	0c1fy14
+base.conservationaction.documented_priority_species	020q5q	0498y	0590q2w	0590xzy
+base.conservationaction.documented_priority_species	0cq73y	0498y	0590q2w	0590xz5
+base.popstra.vacation_choice	0645vz_	02gpyk
+film.film_regional_release_date	0chghy	0dgpwnk
+base.conservationaction.documented_priority_species	01hjj1	06yxd	059bjdj	059dbbq
+soccer.football_player_match_participation	040pyq	04x3l1	0c1q89k
+base.conservationaction.documented_priority_species	07dtlv	059g4	052t0zs	052t29l
+film.film_cut	0f8l9c	04j1pfb
+base.conservationaction.documented_priority_species	01fzdb	04svjzm	063gzw7	063g_29
+american_football.player_receiving_statistics	04y6_qr	095x71
+base.conservationaction.documented_priority_species	01np2h	04svjz7	063gzw7	063g_29
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	03v8dr	0mmd6	03ylxn
+location.partial_containment_relationship	07h34	04yf_
+base.ontologies.ontology_instance_mapping	04dm2p_	081sq
+base.conservationaction.documented_priority_species	0292td	04svj_2	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	03qk194	0bz_jf
+base.conservationaction.documented_priority_species	025fq3	02j71	052s_zk	052w4v3
+soccer.football_player_match_participation	03d8m4	09wwz2	0c0xkpl
+base.conservationaction.documented_priority_species	03d55b	06yxd	059bjdj	059dbbq
+soccer.football_player_match_participation	02s9vc	044mt0	0c0lv1g
+soccer.football_player_match_participation	03_qrp	04yjdf	0c0mdp8
+base.conservationaction.documented_priority_species	01l2bl	04svjys	063gzw7	063g_29
+soccer.football_player_match_participation	03ylxn	0dxgqy	0c0lsl8
+american_football.player_receiving_statistics	03gqdq7	043qym_
+american_football.game_passing_statistics	04d4zv	07dlqm9
+base.theosbornboysaregrowing.trip	0lhn5	01jwjg	03qb78c	04d1j3z	04f97th
+film.film_regional_release_date	07ssc	0gm1qfc
+base.popstra.vacation_choice	05qtj	01xyt7
+base.conservationaction.documented_priority_species	01dfry	06yxd	059bjdj	059cz80
+base.ontologies.ontology_instance_mapping	04dm2p_	035dk
+american_football.player_receiving_statistics	04y6_qr	02z6f8p
+american_football.player_receiving_statistics	04y6_qr	048v0j
+base.marchmadness.ncaa_tournament_seed	0278rkd	0b_6s7
+base.ontologies.ontology_instance_mapping	04dm2p_	0frsw
+base.conservationaction.documented_priority_species	028mmm	04svj_c	05lvpg6	05mcc0l
+soccer.football_player_match_participation	01l3wr	08g46k	0cbx_t6
+award.hall_of_fame_induction	01h3b9	02h664x	0k89p
+soccer.football_player_match_participation	03dj48	02q0lh0	0c1l_x_
+base.marchmadness.ncaa_tournament_seed	02qsymk	0b_6s7
+film.film_cut	0d060g	047bx4_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	027dd2s	0498yf	032hmd
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	03g66x	0lg7v	0329r5
+soccer.football_player_match_participation	03dj48	0fl450	0c0lpm2
+base.popstra.vacation_choice	0ctw_b	02m3sd
+base.marchmadness.ncaa_tournament_seed	05b0q5b	0b_6xf
+base.popstra.vacation_choice	07srw	04gycf
+soccer.football_player_match_participation	0329r5	07k4dgf	0c1fzw8
+base.marchmadness.ncaa_tournament_seed	05gh8f9	0b_5lv
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	026md0g	0425j7	03zrhb
+american_football.player_receiving_statistics	03gqdq7	0cwl37
+american_football.player_receiving_statistics	03gqdq7	06_612
+location.location_symbol_relationship	0824r	04627hh
+award.hall_of_fame_induction	0h13sn	03k3r	027jbr
+base.marchmadness.ncaa_tournament_seed	03yfq3l	0b_5nk
+base.ontologies.ontology_instance_mapping	04dm2p_	0333t
+soccer.football_player_match_participation	03_44z	0b5xz_	0c20gf3
+soccer.football_player_match_participation	02ltg3	02pzx20	0c22yrt
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	02vm5d5	0425j7	03zrhb
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_72t
+american_football.player_game_statistics	05znkgn	04y6_qr
+american_football.player_receiving_statistics	03gqdq7	0421k8y
+base.conservationaction.documented_priority_species	01tkh8	0498y	0590q2w	0590xzf
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0g6402	0177gl	02rqxc
+base.marchmadness.ncaa_tournament_seed	0nbnw7y	0b_72t
+soccer.football_player_match_participation	033nzk	0ktdsl	0c6qzxm
+sports.sports_award	0dsb05	02j8fb	0jm4b	027sy7x
+base.handball.handball_player_match_participation	07m16ry	076qnkf	075zhk3
+people.human_measurement	031974	047qmw7
+soccer.football_player_match_participation	03_qrp	025zgjt	0c1nbtv
+soccer.football_player_match_participation	02w64f	07j7dy	0c1fy1c
+base.conservationaction.documented_priority_species	01l3sx	04svjyz	063gzw7	063g_29
+organization.organization_membership	03rjj	0_6t_z8
+american_football.player_game_statistics	0b2kft	03gqdq7
+base.conservationaction.documented_priority_species	07fh0h	0498y	0590q2w	0590xzf
+base.popstra.vacation_choice	0489v9k	02dlfh
+location.partial_containment_relationship	05fjf	0lm0n
+soccer.football_player_match_participation	02s2lg	036vnk	0c0xk9g
+american_football.player_game_statistics	04mxlcj	04y6_qr
+sports.sports_award	08s093	01dhkt	0jmh7	02yqnh
+american_football.player_receiving_statistics	04y6_qr	02zb5gw
+soccer.football_player_match_participation	0329r5	04zwjmx	0c1smtg
+tv.regular_tv_appearance	0l_dv	0hp05	02h8pdl	06qv_
+base.conservationaction.documented_priority_species	01pbzc	0498y	0590q2w	0590xzf
+people.human_measurement	031974	0dgbfl6
+american_football.game_passing_statistics	030bdd	07dlssm
+soccer.football_player_match_participation	03z8bw	04mryd	0c1q8n1
+organization.organization_membership	01nqj	0b6css
+film.film_cut	09c7w0	0jqn5
+base.conservationaction.documented_priority_species	021g5j	04svjyz	05lvpg6	05mcc0l
+american_football.player_game_statistics	02pmnlw	04y6_qr
+soccer.football_player_match_participation	03dj48	0fl3k7	0c0lpm2
+base.conservationaction.documented_priority_species	03fz5_	04svj_y	05lvpg6	05mcc04
+soccer.football_player_match_participation	0329r5	03g66x	0c0lq5j
+base.ontologies.ontology_instance_mapping	04dm2p_	0jq56
+soccer.football_player_match_participation	03d8m4	04msvg	0c20gf3
+american_football.player_game_statistics	04hlp3	04y6_qr
+base.ontologies.ontology_instance_mapping	04dm2p_	07yg2
+soccer.football_player_match_participation	01352_	08tn3g	0c1d32j
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	0608c8
+american_football.player_game_statistics	05zx1sd	04y6_qr
+soccer.football_player_match_participation	03z8bw	02rrkkn	0c44ck1
+base.conservationaction.documented_priority_species	0561gn6	04svjy3	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_687
+base.conservationaction.documented_priority_species	03fz5_	04svj_r	05lvpg6	05mcc04
+soccer.football_player_match_participation	01l3wr	0g0_l4	0c0mdpq
+people.marriage	014gf8	059rby
+soccer.football_disciplinary_action	080cmb0	0c1nbtv
+tv.regular_tv_appearance	01_njt	0268x2s	0fv4s0	05lfwd
+base.conservationaction.documented_priority_species	01tdf2	059g4	05bq8tr	0590347
+soccer.football_player_match_participation	040pyq	03_y2f	0c1q89k
+organization.organization_membership	0chghy	01x21l
+film.film_cut	03rjj	09s4bqb
+soccer.football_player_match_participation	03d8m4	04y3k1	0c0xkpl
+location.partial_containment_relationship	09c7w0	0346cy
+soccer.football_player_match_participation	03d8m4	084183	0c0xkpl
+base.ontologies.ontology_instance_mapping	04dm2p_	01_c4
+soccer.football_player_match_participation	0329r5	02py076	0c1smtg
+american_football.player_receiving_statistics	04y6_qr	02r0fdq
+soccer.football_player_match_participation	02s9vc	027nj5_	0c44msd
+base.marchmadness.ncaa_tournament_seed	02pqcfz	0b_6xf
+base.marchmadness.ncaa_tournament_seed	03c7mcj	0b_6rk
+film.film_regional_release_date	09c7w0	059zzd
+base.marchmadness.ncaa_tournament_seed	05cf66d	0b_734
+base.conservationaction.documented_priority_species	01dx8	02j71	052s_zk	052w4tx
+sports.sports_award	09fwcb	053tzp	0h1fsjh	02yqnh
+base.conservationaction.documented_priority_species	01jsmq	05fkf	052s_zk	0549l5z
+soccer.football_player_match_participation	02ltg3	090ny_	0c0xk9g
+american_football.game_passing_statistics	04nprb	07dlv4k
+tv.regular_tv_appearance	05np4c	0268x2f	0bwjk_	05lfwd
+base.conservationaction.documented_priority_species	025_dsr	02j71	052t0zs	03gbynt
+soccer.football_disciplinary_action	04qv66	0c1q89k
+tv.tv_regular_personal_appearance	03cgq24	097syt0	0261x8t
+fictional_universe.fictional_employment_tenure	02y_93f	0268x2f	0bvd1b
+base.ontologies.ontology_instance_mapping	04dm2p_	03hrz
+base.ontologies.ontology_instance_mapping	04dm2p_	06gh9
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_734
+base.ontologies.ontology_instance_mapping	04dm2p_	0dn0r
+base.marchmadness.ncaa_tournament_seed	05c8fkq	0br1x_
+base.conservationaction.documented_priority_species	025xpf	05fkf	052s_zk	0549l5z
+base.ontologies.ontology_instance_mapping	04dm2p_	0g10g
+base.conservationaction.documented_priority_species	01pfc6	04svjyz	05lvpg6	05mcc0l
+american_football.game_passing_statistics	0bmps_	07dlmst
+sports.pro_sports_played	0jm_	062yg7
+american_football.game_passing_statistics	01xyt7	07dlmst
+base.marchmadness.ncaa_tournament_seed	03d555l	0b_6_l
+tv.regular_tv_appearance	01rr9f	03fbn4	04s_8sx	030cx
+base.marchmadness.ncaa_tournament_seed	0c25fh	0b_6fh
+american_football.game_passing_statistics	04mmw5	07dlm62
+base.marchmadness.ncaa_tournament_seed	05gh8f9	0b_5t3
+soccer.football_player_match_participation	0cnk2q	0943bq	0c0mdpq
+soccer.football_disciplinary_action	0gq6_0	0c1fy14
+base.conservationaction.documented_priority_species	01h2df	04svj_c	063gzw7	063g_29
+location.location_symbol_relationship	07_f2	04g8vjx
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	09hc0c	0hvgt	01352_
+film.film_regional_release_date	0d060g	0cw3yd
+base.ontologies.ontology_instance_mapping	04dm2p_	0cx4p
+american_football.game_passing_statistics	025j0c	07dlv6_
+soccer.football_player_match_participation	02rqxc	03b9qr	0c44h1j
+base.popstra.vacation_choice	0h2c3	0dvmd
+base.conservationaction.documented_priority_species	01ysq9	04svjzx	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	01jl55	06yxd	059bjdj	059c_4t
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_5nk
+soccer.football_player_match_participation	0329r5	03h5y00	0c43z58
+soccer.football_player_match_participation	03ylxn	03hp488	0c0lsl8
+base.marchmadness.ncaa_tournament_seed	05g1p9j	0b_6v_
+soccer.football_player_match_participation	033nzk	0f8ml9	0c44ckb
+sports.sports_award	08vg9r	05h22h	0jmj7	02yqnh
+award.hall_of_fame_induction	053v74	02h664x	0k89p
+soccer.football_player_match_participation	02ltg3	073kk7	0c1nbsz
+base.conservationaction.documented_priority_species	01v_3l	04svj_g	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	01v1ck	04svjyp	05lvpg6	05mcc04
+sports.sports_award	08hplf	03794k	0jmnl	031mv0
+soccer.football_player_match_participation	02pp1	038m_v	0c44msp
+sports.sports_award	080sc7	01j_8l	0jm64	031mv0
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0cc8q3
+soccer.football_player_match_participation	01352_	08tn3g	0c1q89k
+base.ontologies.ontology_instance_mapping	04dm2p_	04wyr
+base.handball.handball_player_match_participation	07m16ry	076qnkm	075zhk3
+base.conservationaction.documented_priority_species	05f7m0	02j71	052t0zs	03gbynb
+base.conservationaction.documented_priority_species	01zd3q	04svjzm	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	01fzdb	04svjzx	063gzw7	063g_29
+tv.tv_regular_personal_appearance	06hwzy	0g55lpv	026716t
+award.hall_of_fame_induction	01l_v5	02h664x	0k89p
+base.conservationaction.documented_priority_species	027mlj	04svjz1	05lvpg6	05mcc0l
+american_football.player_receiving_statistics	04y6_qr	043l2wf
+base.marchmadness.ncaa_tournament_seed	091tgz	05g_nr
+soccer.football_player_match_participation	02w64f	0dw60v	0c1fy1c
+soccer.football_player_match_participation	03_qrp	04n477n	0c1srnw
+organization.organization_membership	06npd	01rz1
+sports.sports_team_coach_tenure	02md_2	0jm64
+tv.regular_tv_appearance	0309hj	06gjjm	05ptfwd	0180mw
+base.conservationaction.documented_priority_species	028mmm	0498y	0590q2w	0590xzf
+tv.regular_tv_appearance	08m4c8	0268x3g	0v4tslh	05lfwd
+base.conservationaction.documented_priority_species	022zkk	04svjzj	063gzw7	063g_29
+base.conservationaction.documented_priority_species	025_dsr	059g4	052t0zs	052qsgd
+soccer.football_player_match_participation	01352_	08tws7	0c1d32j
+base.marchmadness.ncaa_tournament_seed	02pzy52	0b_698
+base.ontologies.ontology_instance_mapping	04dm2p_	0k670
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6q5
+base.marchmadness.ncaa_tournament_seed	02qctn5	0b_6mr
+organization.organization_membership	0154j	0b6css
+location.partial_containment_relationship	03v1s	05lx3
+soccer.football_team_manager_match_participation	0c441bw	03ylxn	03l6wy
+base.conservationaction.documented_priority_species	01dfry	06yxd	059bjdj	059czz_
+award.hall_of_fame_induction	02wl3v	02h664x	0k89p
+tv.tv_regular_personal_appearance	03cgq24	0zrkm4n	043ttm7
+base.conservationaction.documented_priority_species	01_3m9	059g4	052t0zs	052qsg9
+base.marchmadness.ncaa_tournament_seed	02q6m70	0b_6_l
+base.conservationaction.documented_priority_species	07fglh	04svj_g	05lvpg6	05mcc0l
+soccer.football_player_match_participation	02w64f	055kq6	0c1fy1c
+soccer.football_team_manager_match_participation	0c0lsl8	02bh_v	02c7q
+soccer.football_player_match_participation	040pyq	05c1c5	0c44h17
+soccer.football_player_match_participation	035qgm	026twx5	0c441bl
+soccer.football_player_match_participation	033nzk	02rh2qx	0c1fy14
+location.partial_containment_relationship	09c7w0	03473v
+people.marriage	044lg	05qtj
+base.ontologies.ontology_instance_mapping	04dm2p_	0jbs5
+soccer.football_player_match_participation	02s9vc	047534	0c0lv1g
+base.ontologies.ontology_instance_mapping	04dm2p_	05l8y
+soccer.football_disciplinary_action	03cjr54	0c1nbvf
+base.conservationaction.documented_priority_species	01v_3l	02j71	052s_zk	052w4v3
+soccer.football_player_match_participation	02bh_v	05zqzdf	0c0lsl8
+soccer.football_player_match_participation	032hmd	0gj8c8	0c0xqws
+tv.tv_regular_personal_appearance	06hwzy	0gvt9q0	0bnppn
+sports.sports_award	080kw1	0390wr	0jm4b	0380m_
+base.ontologies.ontology_instance_mapping	04dm2p_	0k70
+base.conservationaction.documented_priority_species	01hjj1	06yxd	059bjdj	059czz_
+base.conservationaction.documented_priority_species	03fvxt	04svj_2	05lvpg6	05mcc0l
+organization.organization_membership	01ppq	01rz1
+base.conservationaction.documented_priority_species	01y5hf	02j71	052t0zs	03gbynh
+base.ontologies.ontology_instance_mapping	04dm2p_	0_6t_z8
+soccer.football_player_match_participation	03xh50	04ymv9	0c22yr_
+location.partial_containment_relationship	09c7w0	056tz1
+base.ontologies.ontology_instance_mapping	04dm2p_	0430_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	04y3k1	01dwyd	03d8m4
+location.partial_containment_relationship	02khs	05b5w
+organization.organization_membership	0k6nt	05yg8kx
+base.conservationaction.documented_priority_species	01hjj1	04svj_5	063gzw7	063g_29
+soccer.football_team_manager_match_participation	0c0lpm2	03dj48	07lf9y
+base.conservationaction.documented_priority_species	01g47h	04svj_c	05lvpg6	05mcc04
+soccer.football_player_match_participation	03d8m4	02714sd	0c22yr_
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	03m7_ll	01nd2c	03yl2t
+base.conservationaction.documented_priority_species	028mmm	04svjzx	052t0zs	052sf3n
+base.conservationaction.documented_priority_species	025fnn	05fkf	052s_zk	052sr43
+base.conservationaction.documented_priority_species	01_3m9	02j71	052t0zs	052qs4j
+base.marchmadness.ncaa_tournament_seed	026w398	0b_6s7
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	0b5xst	0bxjpy	03_44z
+base.marchmadness.ncaa_tournament_seed	03d7fzg	0b_71r
+award.hall_of_fame_induction	01jwf	0bjcgyv	0k89p
+soccer.football_disciplinary_action	059z7h	0c20hwx
+soccer.football_player_match_participation	02ltg3	026f01y	0c0xk9g
+location.location_symbol_relationship	0vmt	04627gn
+american_football.game_passing_statistics	05txyj	0792fc1
+base.ontologies.ontology_instance_mapping	04dm2p_	01v8c
+soccer.football_player_match_participation	03_qrp	05mxyym	0c0mdp8
+base.marchmadness.ncaa_tournament_seed	0hrfhrm	0b_6zk
+organization.organization_membership	059j2	06vxc9
+base.conservationaction.documented_priority_species	03d55b	05r7t	05lvpg6	05mcc0l
+soccer.football_disciplinary_action	02rwsr2	0cb4z8g
+soccer.football_player_match_participation	0329r5	03nsp2k	0c0lq5j
+base.conservationaction.documented_priority_species	014r18	04svj_k	05lvpg6	05mcc10
+american_football.player_game_statistics	08ywk6	04y6_qr
+location.partial_containment_relationship	04wgh	0crpc
+base.marchmadness.ncaa_tournament_seed	05d02t2	0b_75k
+american_football.player_receiving_statistics	04y6_qr	03hgctf
+soccer.football_player_match_participation	03_44z	08cywd	0c1q86p
+base.ontologies.ontology_instance_mapping	04dm2p_	0162b
+american_football.player_game_statistics	0br8m3	03gqdq7
+sports.sports_team_coach_tenure	047vnfs	02rqxc
+base.popstra.vacation_choice	0chghy	0ksy_0
+base.conservationaction.documented_priority_species	028mmm	04svj_5	052t0zs	052qsfv
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0f7t5m	03fnrc	02rqxc
+tv.tv_regular_personal_appearance	064272_	0pxl8tt	043ttm7
+american_football.game_passing_statistics	0cwmzd	0793y_h
+base.ontologies.ontology_instance_mapping	04dm2p_	07tgn
+american_football.player_game_statistics	0cwl_t	04y6_qr
+base.marchmadness.ncaa_tournament_seed	03by7wc	0b_6fh
+base.marchmadness.ncaa_tournament_seed	026jxvv	06n7qg
+film.film_cut	09c7w0	02q88q8
+base.ontologies.ontology_instance_mapping	04dm2p_	07n3s
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_675
+base.ontologies.ontology_instance_mapping	04dm2p_	0f13t
+soccer.football_player_match_participation	02ltg3	02ppw24	0cc33g2
+soccer.football_player_match_participation	040whs	04zwrk3	0c1q8d7
+base.ontologies.ontology_instance_mapping	04dm2p_	0dw_m
+base.marchmadness.ncaa_basketball_final_four_broadcaster	05pcgb	0b_6h7
+american_football.player_receiving_statistics	04y6_qr	05p17lm
+film.film_cut	09c7w0	0k5k1
+base.ontologies.ontology_instance_mapping	04dm2p_	07twz
+soccer.football_player_match_participation	01352_	02rwsr2	0c1d32j
+base.marchmadness.ncaa_tournament_seed	04gv6yg	0b_687
+soccer.football_player_match_participation	033nzk	026d3zp	0c44ckb
+organization.organization_membership	06dfg	041288
+american_football.game_passing_statistics	04mmw5	07dls2m
+american_football.game_passing_statistics	04q06_	07dlt5g
+soccer.football_disciplinary_action	0dclp1	0c1fy1c
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	043jrdl	049bp4	03_qj1
+award.hall_of_fame_induction	026ssqg	03k3r	027jbr
+american_football.player_receiving_statistics	04y6_qr	02x2764
+american_football.player_game_statistics	05w0_k	04y6_qr
+base.marchmadness.ncaa_tournament_seed	05g1b71	0b_6zk
+american_football.player_receiving_statistics	04y6_qr	065lzw
+soccer.football_player_match_participation	03_qj1	0ft1ft	0c44msd
+american_football.player_game_statistics	026xqlw	04y6_qr
+base.schemastaging.sports_league_season_ranking	0rfh262	075q_
+american_football.player_game_statistics	07vw51	03gqdq7
+base.conservationaction.documented_priority_species	026zmk	05fkf	052s_zk	052tnx0
+soccer.football_disciplinary_action	0cz6n9	0c22yrt
+base.marchmadness.ncaa_tournament_seed	02pqcfz	05g_nr
+sports.sports_award	08rm43	05r99g	0jm4b	06js8m
+base.conservationaction.documented_priority_species	01l2bl	04svjzm	063gzw7	063g_29
+location.location_symbol_relationship	04rrx	01yrt2
+base.conservationaction.documented_priority_species	01dx8	04svjys	052t0zs	052qsf8
+base.marchmadness.ncaa_tournament_seed	02pyf0k	0b_756
+base.conservationaction.documented_priority_species	01dx8	04svjz4	05lvpg6	05mcc10
+base.marchmadness.ncaa_tournament_seed	027yf83	0cc8q3
+american_football.player_game_statistics	05k0h7	04y6_qr
+base.ontologies.ontology_instance_mapping	04dm2p_	06qd3
+american_football.game_passing_statistics	025j0c	0791p46
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	0bj1kt
+base.conservationaction.documented_priority_species	028mmm	04svj_k	052t0zs	052qsfc
+location.location_symbol_relationship	06yxd	04627gn
+organization.organization_membership	034m8	0j7v_
+base.popstra.vacation_choice	02dfgb	014zcr
+tv.regular_tv_appearance	09yrh	01xh3_	04s_8sq	030cx
+soccer.football_player_match_participation	0329r5	03nsp2k	0cc33g2
+organization.organization_membership	06t2t	0_2v
+base.marchmadness.ncaa_tournament_seed	05cf7kb	0b_5t3
+base.marchmadness.ncaa_tournament_seed	03wgvdv	0b_6qj
+soccer.football_player_match_participation	02bh_v	03_77y	0c441bl
+location.location_symbol_relationship	0vmt	04st6h7
+soccer.football_player_match_participation	0329r5	03h5y00	0c1smtg
+base.conservationaction.documented_priority_species	01l3sx	04svk06	063gzw7	063g_29
+soccer.football_player_match_participation	032jlh	0dclp1	0c1q8nb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	02ppjn8	03j6_5	03ylxn
+soccer.football_player_match_participation	0329r5	04z74h	0cc33g2
+film.film_regional_release_date	0345h	02wgk1
+base.conservationaction.documented_priority_species	02s_k8	02j71	052s_zk	052w4v3
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	0268nlc	03d0d7	032jlh
+location.partial_containment_relationship	07h34	0lm0n
+base.conservationaction.documented_priority_species	01l6fs	04svjzx	063gzw7	063g_29
+organization.organization_membership	04wlh	07t65
+film.film_regional_release_date	0d060g	0bmkksm
+base.popstra.vacation_choice	059rby	0261x8t
+sports.sports_league_participation	0rfh262	03zv9	0rfh262	049bmk
+people.human_measurement	031974	0d1fsz3
+base.conservationaction.documented_priority_species	023992	02j71	052t0zs	052qscn
+soccer.football_player_match_participation	02s9vc	02qv04_	0c44msd
+base.conservationaction.documented_priority_species	021pkm	04svjys	052t0zs	052qsfc
+base.conservationaction.documented_priority_species	01pbzc	0498y	0590q2w	0590_02
+base.conservationaction.documented_priority_species	01jsmq	06yxd	059bjdj	059czz_
+base.conservationaction.documented_priority_species	01h2df	04svjzj	063gzw7	063g_29
+american_football.player_game_statistics	04jbm_0	04y6_qr
+base.conservationaction.documented_priority_species	01twys	02j71	05bq8tr	059034s
+soccer.football_player_match_participation	03xh50	0df7r1	0c1nbsz
+soccer.football_player_match_participation	03_44z	03d7x9n	0c0xqws
+base.marchmadness.ncaa_tournament_seed	0406fy0	0b_6d2
+base.marchmadness.ncaa_tournament_seed	02pq5pn	0b_6zk
+base.conservationaction.documented_priority_species	07hrdp	04svj_2	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	04ykg
+base.theosbornboysaregrowing.trip	0r2hn	034v_	03qb78c	04d1j3z	04f986k
+american_football.player_receiving_statistics	04y6_qr	051018
+american_football.player_receiving_statistics	04y6_qr	0cx4kg
+base.ontologies.ontology_instance_mapping	04dm2p_	06mq7
+soccer.football_player_match_participation	02bh_v	04_0gkk	0c1lvg1
+tv.regular_tv_appearance	01_njt	0268x2s	0bwjmr	05lfwd
+base.marchmadness.ncaa_tournament_seed	05mrh10	0br1x_
+base.marchmadness.ncaa_tournament_seed	0769_r	0b_675
+american_football.player_receiving_statistics	04y6_qr	02bfq5
+base.ontologies.ontology_instance_mapping	04dm2p_	0crpc
+base.conservationaction.documented_priority_species	01btn1	02j71	052t0zs	03gbzsr
+soccer.football_player_match_participation	0329r5	02y_kzs	0c0lpm9
+soccer.football_player_match_participation	03d8m4	02rp7ft	0cbx_tf
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_6fh
+music.track_contribution	0342h	0m67s
+soccer.football_player_match_participation	02w64f	08vt89	0c1fy1c
+american_football.game_passing_statistics	04d4zv	07dlq86
+organization.organization_membership	05v8c	06rjgr
+organization.organization_membership	06s6l	041288
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0b_6mr
+organization.organization_membership	0jhd	01rz1
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6x2
+base.marchmadness.ncaa_tournament_seed	03qk194	0bzrxn
+soccer.football_player_match_participation	01l3vx	02rxh19	0c0lpm9
+base.ontologies.ontology_instance_mapping	04dm2p_	06zgc
+film.film_regional_release_date	0f8l9c	0fsw_7
+soccer.football_player_match_participation	040whs	09g69fp	0c1q8d7
+base.marchmadness.ncaa_tournament_seed	03d9d5m	0br1xn
+organization.organization_membership	03ryn	07t65
+base.marchmadness.ncaa_tournament_seed	026dqjm	0b_6v_
+base.marchmadness.ncaa_tournament_seed	0b__fx	0cc8q3
+tv.tv_regular_personal_appearance	06hwzy	02qh21x	05dcbl
+base.marchmadness.ncaa_tournament_seed	05d041p	0b_5nk
+base.conservationaction.documented_priority_species	02ptsck	059g4	052t0zs	052qsgh
+base.ontologies.ontology_instance_mapping	04dm2p_	03k50
+soccer.football_player_match_participation	0329r5	02rpqdv	0c0lq5j
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	04dc7f	01634x	01352_
+soccer.football_player_match_participation	01l3wr	08g46k	0c1sttd
+base.marchmadness.ncaa_tournament_seed	03yfq3l	0b_6xf
+organization.organization_membership	06mkj	06vxc9
+american_football.player_game_statistics	08xbfn	04y6_qr
+american_football.game_passing_statistics	04d4zv	079232c
+base.marchmadness.ncaa_tournament_seed	02pq5pn	0bzrsh
+base.conservationaction.documented_priority_species	01f6pd	059g4	052t0zs	052qsg6
+american_football.player_game_statistics	03ts_k	03gqdq7
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_6lb
+soccer.football_player_match_participation	02s9vc	0ftfjf	0c0lv1g
+organization.organization_membership	03rjj	02t63
+base.marchmadness.ncaa_tournament_seed	04gg7tj	0cc8q3
+soccer.football_player_match_participation	01l3wr	02rf301	0cbx_t6
+base.conservationaction.documented_priority_species	0375z0	04svj_r	05lvpg6	05mcc0l
+base.marchmadness.ncaa_tournament_seed	03wctwm	0b_6x2
+base.conservationaction.documented_priority_species	01blnh	02j71	052t0zs	03gbynb
+film.film_regional_release_date	07ssc	0372j5
+american_football.player_receiving_statistics	04y6_qr	0f6lqs
+soccer.football_player_match_participation	0329r5	0gnsh8	0cb4z87
+base.marchmadness.ncaa_tournament_seed	05gnpfq	0b_6q5
+american_football.player_game_statistics	0556wf	04y6_qr
+american_football.player_game_statistics	0cwh0d	04y6_qr
+base.ontologies.ontology_instance_mapping	04dm2p_	06d_3
+american_football.player_receiving_statistics	04y6_qr	07_c_f
+base.marchmadness.ncaa_tournament_seed	05gh8f9	0b_65t
+soccer.football_player_match_participation	040whs	0bmg4zz	0c1q8d7
+base.conservationaction.documented_priority_species	01btn1	02j71	052t0zs	052qs5z
+soccer.football_player_match_participation	02bh_v	04fj3j	0c1lvg1
+base.marchmadness.ncaa_tournament_seed	0405p8j	0b_5t3
+soccer.football_disciplinary_action	026d3lm	0c1q8nb
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	026f4lr	0y54	0329r5
+soccer.football_player_match_participation	0329r5	0gnsh8	0c1smtg
+organization.organization_membership	06mzp	0_2v
+soccer.football_disciplinary_action	0fl3k7	0c1l_x_
+base.marchmadness.ncaa_tournament_seed	028552x	0cc8q3
+organization.organization_membership	0154j	02t63
+american_football.player_receiving_statistics	03gqdq7	0261fv6
+base.marchmadness.ncaa_tournament_seed	026wlnm	0b_6_l
+american_football.player_game_statistics	025j0c	04y6_qr
+american_football.player_game_statistics	0cwmfh	04y6_qr
+location.location_symbol_relationship	07srw	04627gn
+soccer.football_player_match_participation	01l3wr	02z3k3g	0c1m0c5
+base.conservationaction.documented_priority_species	01l3sx	04svj_k	063gzw7	063g_29
+american_football.player_game_statistics	02x2764	03gqdq7
+location.partial_containment_relationship	0d060g	0dpk_
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0b_6x2
+user.robert.mobile_phones.regional_submodel	04zs9dl	0chghy	02_3y83
+base.marchmadness.ncaa_tournament_seed	03ymq1q	0b_770
+sports.sports_team_coach_tenure	02md_2	03wctwm
+base.popstra.product_choice	01l8p	0261x8t
+base.conservationaction.documented_priority_species	02f3m_	04svjz_	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	03fvxt	06yxd	059bjdj	059czz_
+base.marchmadness.ncaa_tournament_seed	0406fy0	0b_734
+people.human_measurement	031974	07g8bl
+base.conservationaction.documented_priority_species	03fzm4	04svjzt	05lvpg6	05mcc04
+organization.organization_membership	02khs	041288
+american_football.player_receiving_statistics	04y6_qr	08_5y5
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_77q
+american_football.player_receiving_statistics	03gqdq7	05t3qv
+tv.regular_tv_appearance	027r8p	045fkx	043msyx	0180mw
+base.conservationaction.documented_priority_species	027h5c	05fkf	052s_zk	052tntd
+soccer.football_player_match_participation	03zrhb	04289k	0c1lvg1
+soccer.football_player_match_participation	040whs	02vp3y2	0c44h17
+film.film_regional_release_date	07f1x	02wgk1
+award.hall_of_fame_induction	0jd7z	01pvc5	027jbr
+soccer.football_player_match_participation	01l3vx	03_98g	0c0lpm9
+base.conservationaction.documented_priority_species	090pl3	04svk00	052t0zs	052qsfr
+base.marchmadness.ncaa_tournament_seed	026jxvv	0b_6jz
+tv.regular_tv_appearance	027r8p	045fkx	043shdb	0180mw
+soccer.football_player_match_participation	03dj48	09s53y	0c0lpm2
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	09l8z_	09n4_l	03_44z
+base.marchmadness.ncaa_tournament_seed	02plv57	0b_6q5
+american_football.player_game_statistics	03hgzdc	03gqdq7
+base.ontologies.ontology_instance_mapping	04dm2p_	0jt90f5
+location.partial_containment_relationship	02j9z	09c_dl
+organization.organization_membership	06mkj	0b6css
+base.ontologies.ontology_instance_mapping	04dm2p_	0138t
+base.theosbornboysaregrowing.trip	0vg8j	01h_1n	03qb78c	04dssd2	04f97t9
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0f93s1	01634x	032hmd
+film.film_cut	03rjj	04j2242
+soccer.football_player_match_participation	03dj48	0fl3k7	0c43z58
+soccer.football_player_match_participation	0cnk2q	09qk86	0c1nbtv
+base.marchmadness.ncaa_tournament_seed	05gqc47	06n7qg
+base.conservationaction.documented_priority_species	025xpf	05fkf	052s_zk	052sr49
+base.marchmadness.ncaa_tournament_seed	05f4khk	0b_71r
+base.marchmadness.ncaa_tournament_seed	05g16k0	0bzrb9
+base.theosbornboysaregrowing.trip	0f2v0	0hhdb	03qb78c	04dssd2	04_c0tl
+base.ontologies.ontology_instance_mapping	04dm2p_	02nqk
+base.ontologies.ontology_instance_mapping	04dm2p_	05qx1
+base.conservationaction.documented_priority_species	01l28z	04svjyw	05lvpg6	063g_29
+american_football.game_passing_statistics	0cwmzd	07941w1
+american_football.player_game_statistics	03c9d3f	04y6_qr
+soccer.football_player_match_participation	040pyq	07lskv	0c44h17
+sports.sports_team_coach_tenure	02md_2	0jm4v
+american_football.player_game_statistics	0268hvl	04y6_qr
+base.marchmadness.ncaa_tournament_seed	0b__fx	0b_5t3
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	026xn2q	05511w	0329r5
+american_football.game_passing_statistics	033t8w	07dlp_y
+people.human_measurement	031974	0dgcphk
+film.film_regional_release_date	09c7w0	02vxq9m
+american_football.player_receiving_statistics	04y6_qr	027dqmw
+soccer.football_player_match_participation	02ltg3	04j7c7	0c20hwx
+soccer.football_player_match_participation	02s9vc	072j74	0c1stt5
+base.conservationaction.documented_priority_species	03d55b	0498y	0590q2w	0590_02
+base.conservationaction.documented_priority_species	01l3sx	04svjz1	05lvpg6	063g_29
+base.marchmadness.ncaa_tournament_seed	027yf83	0b_6qj
+soccer.football_disciplinary_action	04fj3j	0c1lvg1
+base.ontologies.ontology_instance_mapping	04dm2p_	0blt6
+tv.tv_regular_personal_appearance	06hwzy	04kcvf1	049h3h6
+american_football.player_receiving_statistics	03gqdq7	0cjp42
+base.popstra.vacation_choice	03gh4	01vw20_
+american_football.player_game_statistics	051k5_	03gqdq7
+base.marchmadness.ncaa_tournament_seed	03d6hv1	0b_6d2
+base.ontologies.ontology_instance_mapping	04dm2p_	0jjw
+organization.organization_membership	03rt9	0gbf6
+soccer.football_player_match_participation	033nzk	03cc6r0	0c6qzxm
+base.conservationaction.documented_priority_species	07swp8	04svjzq	05lvpg6	05mcc0l
+tv.tv_regular_personal_appearance	06hwzy	0jvn09k	08xrm0
+base.conservationaction.documented_priority_species	0560s3q	04svjzx	05lvpg6	05mcc0t
+american_football.player_game_statistics	04pkzn	03gqdq7
+base.popstra.vacation_choice	0f2v0	0161c2
+base.ontologies.ontology_instance_mapping	04dm2p_	0bjv6
+american_football.player_game_statistics	05jl5h	04y6_qr
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_77q
+soccer.football_player_match_participation	03_qj1	05l7zc	0c0mdph
+tv.tv_regular_personal_appearance	06hwzy	02qh293	026tc_4
+base.marchmadness.ncaa_tournament_seed	02qn723	0b_6q5
+american_football.game_passing_statistics	04nprb	07dlqcz
+film.film_regional_release_date	0chghy	0jqn5
+base.conservationaction.documented_priority_species	022_tm	04svjyw	05lvpg6	05mcc04
+base.ontologies.ontology_instance_mapping	04dm2p_	054rw
+base.marchmadness.ncaa_tournament_seed	03wctwm	06n7qg
+soccer.football_team_manager_match_participation	0c43z58	0329r5	027zq5r
+location.partial_containment_relationship	059g4	032kq5
+award.hall_of_fame_induction	05n2mj	0bjcgyv	0k89p
+award.hall_of_fame_induction	01tp1l	02h664x	0k89p
+base.marchmadness.ncaa_tournament_seed	0406fy0	0b_6x2
+base.conservationaction.documented_priority_species	01bqq_	02j71	052t0zs	052qs4j
+american_football.player_receiving_statistics	03gqdq7	07y_ft
+base.conservationaction.documented_priority_species	01l3sx	04svjzt	063gzw7	063g_29
+american_football.player_game_statistics	0949jb	04y6_qr
+base.marchmadness.ncaa_tournament_seed	02pzhy3	0b_6d2
+base.ontologies.ontology_instance_mapping	04dm2p_	059_c
+base.conservationaction.documented_priority_species	09r4h1	04svjys	052t0zs	052qsfc
+soccer.football_player_match_participation	01l3wr	04gr3y_	0c1sttd
+american_football.player_game_statistics	09nj50	04y6_qr
+soccer.football_player_match_participation	03_44z	07dwsv	0c0xqws
+film.film_cut	07ssc	04v8x9
+base.conservationaction.documented_priority_species	0k5w2	04svjxy	052t0zs	052qsfc
+base.popstra.vacation_choice	09pkq0	05dbf
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6zk
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0b_6q5
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0gbts2	01n24j	03_qj1
+base.marchmadness.ncaa_tournament_seed	0gjbqfk	0cc8q3
+organization.organization_membership	04g61	07t65
+base.ontologies.ontology_instance_mapping	04dm2p_	06jbz
+location.partial_containment_relationship	09c7w0	01n86
+base.ontologies.ontology_instance_mapping	04dm2p_	04szw
+organization.organization_membership	05r4w	018cqq
+tv.tv_regular_personal_appearance	06hwzy	02qh2bv	04xf57
+base.marchmadness.ncaa_tournament_seed	02q1_xm	0b_6mr
+american_football.player_game_statistics	0ctv7y	04y6_qr
+american_football.game_passing_statistics	033t8w	07dlpns
+base.conservationaction.documented_priority_species	0202_7	04svjyp	05lvpg6	05mcc0l
+tv.tv_regular_personal_appearance	06hwzy	0kcm3vz	01jnt_
+base.conservationaction.documented_priority_species	01dfry	04svk00	05lvpg6	05mcc0l
+people.human_measurement	031974	080k25
+base.conservationaction.documented_priority_species	0544gc	04svk09	05lvpg6	05mcc0l
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	053qc6	0bl8l	02s9vc
+base.ontologies.ontology_instance_mapping	04dm2p_	0177z
+base.conservationaction.documented_priority_species	01np2h	04svk00	063gzw7	063g_29
+soccer.football_player_match_participation	0cnk2q	03c18b	0c0mdpq
+base.conservationaction.documented_priority_species	08s7qw	04svjxy	052t0zs	052qsfc
+base.conservationaction.documented_priority_species	01v6kn	04svj_y	05lvpg6	05mcc04
+soccer.football_player_match_participation	040whs	04n3f76	0c44h17
+base.popstra.vacation_choice	03rjj	0g824
+soccer.football_player_match_participation	03_44z	09l8z_	0c1q86p
+soccer.football_player_match_participation	02bh_v	027479p	0cbx_t6
+american_football.game_passing_statistics	05txyj	07dlqbf
+base.marchmadness.ncaa_tournament_seed	05cf7sv	0b_6q5
+base.marchmadness.ncaa_tournament_seed	05g1r6s	0bzrsh
+base.conservationaction.documented_priority_species	025zc9	04s8p0q	052t0zs	052qsgw
+film.film_cut	0jgd	0qmfk
+american_football.player_receiving_statistics	04y6_qr	08_nmx
+american_football.player_game_statistics	0bpbxd	04y6_qr
+tv.tv_regular_personal_appearance	06hwzy	0zgbfr6	01_2bb
+soccer.football_player_match_participation	03y_f8	071ns8	0c1srnl
+base.conservation.protected_species_status	04mw5b5	01dx8	02m8ry
+soccer.football_player_match_participation	02rqxc	0f8qdm	0c1d2xp
+soccer.football_player_match_participation	03dj48	0287ywd	0c0lpm2
+base.ontologies.ontology_instance_mapping	04dm2p_	02xx5
+american_football.game_passing_statistics	05txyj	07929vd
+american_football.player_game_statistics	0fxr7d	04y6_qr
+base.conservationaction.documented_priority_species	022_tm	06yxd	059bjdj	059czz_
+base.conservationaction.documented_priority_species	0560s3q	04svjz_	05lvpg6	05mcc0t
+base.theosbornboysaregrowing.trip	0vg8j	03jcqy	03qb78c	04d1j3z	04f9pl9
+base.ontologies.ontology_instance_mapping	04dm2p_	0dtzd
+base.ontologies.ontology_instance_mapping	04dm2p_	04ty8
+american_football.game_passing_statistics	0ctv7y	07dlmst
+base.conservationaction.documented_priority_species	03fzm4	04svjzx	05lvpg6	05mcc04
+location.location_symbol_relationship	04tgp	04st6_k
+american_football.game_passing_statistics	04mmw5	07924rd
+sports.sports_team_coach_tenure	02md_2	0jmk7
+sports.sports_award	08_vqd	07_s1w	0jmbv	0380m_
+sports.sports_award	08_vqd	06lrxd	0jmnl	06js8m
+base.marchmadness.ncaa_tournament_seed	03d7fzg	0b_734
+american_football.player_receiving_statistics	04y6_qr	04zwqm6
+soccer.football_player_match_participation	0cnk2q	027lbry	0c1srnl
+base.marchmadness.ncaa_tournament_seed	091tgz	0bzrb9
+base.conservationaction.documented_priority_species	04y7z3	04svj_v	05lvpg6	05mcc0l
+american_football.player_receiving_statistics	03gqdq7	0cqpk0
+base.ontologies.ontology_instance_mapping	04dm2p_	0k53z
+organization.organization_membership	04g61	0_6t_z8
+base.marchmadness.ncaa_tournament_seed	03c7mcj	0b_6lb
+soccer.football_player_match_participation	03ys48	0gnm5h	0c0mdph
+base.ontologies.ontology_instance_mapping	04dm2p_	07t31
+base.marchmadness.ncaa_tournament_seed	026w398	0b_675
+american_football.player_game_statistics	02_jvp	03gqdq7
+base.conservationaction.documented_priority_species	014r18	04svjyw	05lvpg6	05mcc10
+soccer.football_team_manager_match_participation	0c1q83k	032hmd	0f93s1
+base.marchmadness.ncaa_tournament_seed	02pjzvh	0b_6lb
+sports.sports_team_coach_tenure	047vnfs	0177gl
+base.marchmadness.ncaa_tournament_seed	04088s0	0b_6s7
+american_football.player_game_statistics	043qh8j	04y6_qr
+location.partial_containment_relationship	04tgp	04yf_
+base.ontologies.ontology_instance_mapping	04dm2p_	0hn6d
+tv.tv_regular_personal_appearance	06hwzy	02qh23z	01spqt
+base.conservationaction.documented_priority_species	0202j5	05fkf	052s_zk	052sr49
+base.marchmadness.ncaa_tournament_seed	05cf3l7	0b_6mr
+base.conservationaction.documented_priority_species	05hjr06	04svj_c	063gzw7	063g_29
+base.marchmadness.ncaa_tournament_seed	05d041p	0b_75k
+american_football.player_receiving_statistics	04y6_qr	026vt_g
+base.marchmadness.ncaa_tournament_seed	0263cyj	05g_nr
+base.conservationaction.documented_priority_species	02x16f	06yxd	059bjdj	059czz_
+base.theosbornboysaregrowing.trip	0vg8j	01h_1n	03qb78c	04dssd2	04j6583
+base.popstra.religion_choice	0c8wxp	043ttm7
+base.popstra.vacation_choice	027rn	0261x8t
+base.handball.handball_player_match_participation	0b_w5cr	076qnjp	075zhk3
+base.marchmadness.ncaa_tournament_seed	0lq6582	0b_6rk
+base.marchmadness.ncaa_tournament_seed	0lq6582	0b_6xf
+base.conservationaction.documented_priority_species	025zc9	04svj_n	052t0zs	052qsfc
+american_football.player_receiving_statistics	03gqdq7	0cczmn
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	0dgrmp	0514dk	0ckf6	02pp1
+tv.tv_regular_personal_appearance	06hwzy	04zznlk	0993r
+award.hall_of_fame_induction	04d8kz	02h664x	0k89p
+soccer.football_player_match_participation	033nzk	027f26b	0c1q8nb
+base.popstra.vacation_choice	0f2tj	0261x8t
+base.ontologies.ontology_instance_mapping	04dm2p_	0jmmn
+organization.organization_membership	04w4s	01rz1
+base.popstra.religion_choice	0c8wxp	05np4c
+american_football.game_passing_statistics	05txyj	07dlq86
+sports.sports_award	09ln47	04r3y_	0jm8l	02yqnh
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02_j1w	047bmnq	0lhp1	03y_f8
+base.ontologies.ontology_instance_mapping	04dm2p_	05byy
+base.ontologies.ontology_instance_mapping	04dm2p_	0j3b
+soccer.football_player_match_participation	033nzk	0kst5k	0c6qzxm
+user.cheunger.sports_test.roster_membership	076qnly	0dgrmp
+soccer.football_player_match_participation	02w64f	03tb61	0cc33h6
+american_football.game_passing_statistics	03zy1_	07dlv0t
+base.marchmadness.ncaa_tournament_seed	03mb1nb	0b_75k
+base.ontologies.ontology_instance_mapping	04dm2p_	0dw7n
+base.ontologies.ontology_instance_mapping	04dm2p_	0hb6g
+user.robert.mobile_phones.regional_submodel	04zjj0h	02j9z	02_3y83
+sports.sports_team_coach_tenure	02md_2	03b04g
+base.handball.handball_player_match_participation	0b_w593	04jj12b	075zhk3
+location.partial_containment_relationship	06mzp	053fq4
+base.marchmadness.ncaa_basketball_final_four_broadcaster	050hhv	0b_6v_
+base.marchmadness.ncaa_tournament_seed	02q4ntp	0b_6h7
+base.marchmadness.ncaa_tournament_seed	03d7_lc	0bzrsh
+tv.tv_regular_personal_appearance	06hwzy	02qh21x	02znsf
+base.marchmadness.ncaa_tournament_seed	02py8_w	0b_77q
+base.conservationaction.documented_priority_species	01pbzc	04svk06	05lvpg6	04mw5bd
+film.film_regional_release_date	09c7w0	0n42hvp
+location.location_symbol_relationship	01n7q	04627gn
+base.conservationaction.documented_priority_species	01v1ck	04svj_k	05lvpg6	05mcc04
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0br1xn
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	08vh6w	023fb	01l3vx
+soccer.football_player_match_participation	02ltg3	08gwzt	0c1nbsz
+soccer.football_player_match_participation	01352_	0c2rpf	0c1d32j
+soccer.football_player_match_participation	040pyq	03_99l	0c44h17
+film.film_regional_release_date	09c7w0	031gmx
+tv.tv_regular_personal_appearance	06hwzy	0vsfdh6	0bkfp1
+base.marchmadness.ncaa_tournament_seed	02qcz16	0b_6lb
+base.ontologies.ontology_instance_mapping	04dm2p_	01r2l
+base.conservationaction.documented_priority_species	014r18	04svjzf	05lvpg6	05mcc0l
+soccer.football_player_match_participation	03xh50	03d66dc	0c20hwp
+military.force_strength	012gvc	07ssc	01fc7p
+base.conservationaction.documented_priority_species	01tkh8	04svj_8	063gzw7	063g_29
+base.marchmadness.ncaa_tournament_seed	03w9h6g	0b_6q5
+base.conservationaction.documented_priority_species	020b6f	04svk00	05lvpg6	05mcc0c
+soccer.football_player_match_participation	02s9vc	053qc6	0c44msd
+soccer.football_player_match_participation	0329r5	0gnsh8	0c1fzw8
+american_football.player_receiving_statistics	03gqdq7	0g0zkg
+tv.tv_regular_personal_appearance	03cgq24	06xwyky	043ttm7
+location.partial_containment_relationship	015jr	0346cy
+music.track_contribution	0342h	0n48rxx
+soccer.football_player_match_participation	02w64f	047kk6	0c6r0k6
+base.marchmadness.ncaa_tournament_seed	03d6611	0b_6qj
+soccer.football_player_match_participation	02s2lg	03cjr54	0c1nbvf
+base.ontologies.ontology_instance_mapping	04dm2p_	04wlh
+base.marchmadness.ncaa_tournament_seed	0280kbv	0b_5lv
+base.conservationaction.documented_priority_species	01v6kn	04svjzf	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	04hqz
+film.film_regional_release_date	07ssc	0jzw
+base.ontologies.ontology_instance_mapping	04dm2p_	05d82
+american_football.player_receiving_statistics	04y6_qr	04ljp5
+soccer.football_player_match_participation	040pyq	03_y2f	0c44h17
+soccer.football_player_match_participation	03yl2t	05l_8j	0c1nbvf
+organization.organization_membership	07ssc	07xvv
+american_football.game_passing_statistics	027jv8	0792kl6
+base.conservationaction.documented_priority_species	028mmm	04svj_8	052t0zs	052qsfk
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02nzb8	0cqmc8	021mkg	032jlh
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	026f01y	02mplj	02ltg3
+soccer.football_disciplinary_action	047pb4k	0c22yr_
+fictional_universe.fictional_employment_tenure	02y_93f	0268x2s	0bvd1b
+base.partnersinflight.population_estimate	04svjyp	025xpf	04xh1nb
+sports.sports_award	080bhx	03d2bw	0jm74	02yqnh
+soccer.football_disciplinary_action	02zbj50	0c1lvg1
+american_football.player_game_statistics	03hgyyl	04y6_qr
+american_football.player_game_statistics	051xvxm	04y6_qr
+tv.tv_regular_personal_appearance	06hwzy	02qh293	0bnppn
+base.conservationaction.documented_priority_species	02pywql	059g4	052t0zs	052qsgh
+soccer.football_player_match_participation	03xh50	02vmv5b	0c0xk97
+base.marchmadness.ncaa_tournament_seed	03d8zcl	0b_734
+american_football.player_receiving_statistics	03gqdq7	08zzrh
+soccer.football_player_match_participation	02ltg3	0cz6n9	0c20hwx
+location.partial_containment_relationship	03v9w	05r4w
+soccer.football_player_match_participation	03xh50	0fmnry	0c0xk97
+soccer.football_player_match_participation	02pp1	07frn7	0c0lv1g
+base.marchmadness.ncaa_tournament_seed	05cf6__	0b_6q5
+organization.organization_membership	01xbgx	07t65
+base.conservationaction.documented_priority_species	01zlx4	02j71	052t0zs	03gbzsr
+soccer.football_player_match_participation	03_qj1	05l831	0c44msd
+soccer.football_player_match_participation	02w64f	0cn0qg	0c6r0k6
+base.handball.handball_player_match_participation	07c6mpr	076qnkf	075zhk3
+sports.sports_award	09n0r4	01tg2m	02kbcqj	02yqnh
+music.track_contribution	0342h	01wlcr3
+people.human_measurement	031974	095zyh
+soccer.football_player_match_participation	03zrhb	04289k	0c1smtg
+base.marchmadness.ncaa_tournament_seed	03wgfgw	0b_770
+tv.tv_regular_personal_appearance	09g6___	0k236b1	0h3s6pd
+location.partial_containment_relationship	07_f2	0lm0n
+base.conservationaction.documented_priority_species	0269_l	04svjyz	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	0cc56
+base.conservationaction.documented_priority_species	021klp	06yxd	059bjdj	059c_4t
+base.conservationaction.documented_priority_species	01h2df	04svjzq	063gzw7	063g_29
+soccer.football_player_match_participation	03y_f8	04y2y5	0c1m0c5
+american_football.player_receiving_statistics	03gqdq7	02qwz2h
+base.conservationaction.documented_priority_species	028mmm	04svjyz	052t0zs	052qsgz
+base.conservationaction.documented_priority_species	01_3m9	04svjys	052t0zs	052qsfc
+soccer.football_disciplinary_action	0df3x4	0cb4z87
+base.conservationaction.documented_priority_species	0269_l	05fkf	052s_zk	0549l5z
+base.marchmadness.ncaa_tournament_seed	02r2qt7	0b_6qj
+soccer.football_player_match_participation	0329r5	0dzx45	0cb4z87
+soccer.football_player_match_participation	0cnk2q	027lbry	0c0mdpq
+people.marriage	04wqr	030qb3t
+sports.pro_sports_played	0jm_	04m4gr
+base.marchmadness.ncaa_basketball_final_four_broadcaster	0gvz0q	0b_75k
+american_football.player_game_statistics	0cfqy0	04y6_qr
+tv.tv_regular_personal_appearance	09g6___	0k6jczt	0b72k93
+american_football.player_game_statistics	0b3jpx	03gqdq7
+base.marchmadness.ncaa_tournament_seed	03h0hcg	0b_71r
+base.conservationaction.documented_priority_species	090pl3	04svj_y	052t0zs	052qsg0
+base.marchmadness.ncaa_tournament_seed	05gm555	0b_6mr
+user.robert.mobile_phones.regional_submodel	04656d6	09c7w0	02_3y7x
+base.popstra.public_insult	01w9wwg	0dzsp8
+base.marchmadness.ncaa_tournament_seed	02qlnbd	0b_6qj
+base.x2010fifaworldcupsouthafrica.current_world_cup_squad	02sdk9v	041x65	023fb	01l3vx
+soccer.football_player_match_participation	02pp1	03884d	0c44msp
+tv.tv_regular_personal_appearance	06hwzy	047d7p5	049h3h6

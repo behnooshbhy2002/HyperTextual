@@ -1,0 +1,1292 @@
+cvg.musical_game_song_relationship	04rpmd	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lhn4z	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lfygt	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0l0v7c	067gh	04kbkd1
+base.conservationaction.documented_priority_species	02cdsj	04svk00	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	0nfxb3	067gh	0fq74z3
+cvg.musical_game_song_relationship	01f7bhm	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	04swx
+base.ontologies.ontology_instance_mapping	04dm2p_	0f13t
+cvg.musical_game_song_relationship	0mfxgx	026kds	0fq74z3
+base.popstra.religion_choice	03_gx	03xnq9_
+base.conservationaction.documented_priority_species	025zc9	04svj_2	052t0zs	052qsfc
+base.conservationaction.documented_priority_species	01hjj1	04svjy3	063gzw7	063g_29
+base.popstra.hangout	04fzk	0645nvn
+base.conservationaction.documented_priority_species	014r18	04svj_n	05lvpg6	05mcc10
+cvg.musical_game_song_relationship	01d08g0	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0cr3d
+cvg.musical_game_song_relationship	027hn5t	02plp2	027pg4k
+cvg.musical_game_song_relationship	03jkxv9	066kp	0464gkc
+base.conservationaction.documented_priority_species	01g47h	05fkf	052s_zk	052sr43
+base.ontologies.ontology_instance_mapping	04dm2p_	03s7h
+base.conservationaction.documented_priority_species	01_3m9	04svjys	052t0zs	052qsfc
+cvg.musical_game_song_relationship	026mlj3	02plp2	0fq74z3
+base.popstra.restaurant_choice	0mdqp	063fzvr
+cvg.musical_game_song_relationship	03mdf51	066kp	027pg4k
+cvg.musical_game_song_relationship	04gv9b5	02plp2	0642v9q
+cvg.musical_game_song_relationship	0g27kd	026kds	04kbkd1
+cvg.musical_game_song_relationship	0nft9n	026kds	0642v9q
+cvg.musical_game_song_relationship	075sh9v	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	09y3n7	04svjzb	05lvpg6	05mcc0l
+base.popstra.vacation_choice	03qzkz	01vrz41
+cvg.musical_game_song_relationship	07n68fs	026kds	0642v9q
+base.conservationaction.documented_priority_species	027mlj	04svjz1	05lvpg6	05mcc0l
+base.popstra.vacation_choice	0162v	027ny9
+cvg.musical_game_song_relationship	049dx1	02plp2	04kbkd1
+cvg.musical_game_song_relationship	075wsgz	02plp2	0fq74z3
+cvg.musical_game_song_relationship	011cnlm	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lf2wr	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0blt6
+base.conservationaction.documented_priority_species	021g5j	04svj_c	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	05h_nh	066kp	05n03yl
+cvg.musical_game_song_relationship	0z9bv4	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01fzdb	04svjzm	063gzw7	063g_29
+cvg.musical_game_song_relationship	0lf2yh	02plp2	04kbkd1
+cvg.musical_game_song_relationship	013cz4q	02plp2	04kbkd1
+award.ranking	07xzc3_	01jb26
+cvg.musical_game_song_relationship	0nzbfm	067gh	04kbkd1
+people.marriage	03d_w3h	03gh4
+base.conservationaction.documented_priority_species	0269_l	05fkf	052s_zk	0549l5z
+cvg.musical_game_song_relationship	071df7	067gh	04kbkd1
+cvg.musical_game_song_relationship	0dyqww	066kp	025vn5m
+base.conservationaction.documented_priority_species	01jqht	04svjz4	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	090kp1	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0gq9h
+cvg.musical_game_song_relationship	0lhx5s	02plp2	0fq74z3
+cvg.musical_game_song_relationship	04bz52	02plp2	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	07bwr
+cvg.musical_game_song_relationship	05n8456	067gh	0464gkc
+base.conservationaction.documented_priority_species	0560s3q	04svjz_	05lvpg6	05mcc0t
+base.conservationaction.documented_priority_species	01hjj1	04svjz7	063gzw7	063g_29
+cvg.musical_game_song_relationship	0djhxs	067gh	0464gkc
+base.conservationaction.documented_priority_species	01fzdb	04svjzq	063gzw7	063g_29
+base.conservationaction.documented_priority_species	02t0jc	04svjzm	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	01dfry	04svjyp	05lvpg6	05mcc0l
+award.hall_of_fame_induction	08k58n	03k3r	027jbr
+base.ontologies.ontology_instance_mapping	04dm2p_	05d82
+cvg.musical_game_song_relationship	0p1_cq	067gh	04kbkd1
+cvg.musical_game_song_relationship	075xd0_	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	06gh9
+base.conservationaction.documented_priority_species	01np2h	04svj_y	063gzw7	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	040cf
+cvg.musical_game_song_relationship	05n921x	066kp	0464gkc
+cvg.musical_game_song_relationship	0lfyh0	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	027mlj	05fkf	052s_zk	052sr46
+cvg.musical_game_song_relationship	010p6mc	067gh	04kbkd1
+base.conservationaction.documented_priority_species	052n64	04svjys	052t0zs	052sdr1
+base.popstra.vacation_choice	03gh4	022q32
+cvg.musical_game_song_relationship	01cz4nq	026kds	0fq74z3
+award.ranking	07xzc3_	05wty0
+base.ontologies.ontology_instance_mapping	04dm2p_	0jjw
+cvg.musical_game_song_relationship	01f7cpx	026kds	0fq74z3
+base.conservationaction.documented_priority_species	01tkh8	04svj_8	063gzw7	063g_29
+cvg.musical_game_song_relationship	02r4z9_	067gh	025vn5m
+cvg.musical_game_song_relationship	048cw1	067gh	0fq74z3
+cvg.musical_game_song_relationship	0rv03c	026kds	04kbkd1
+base.conservationaction.documented_priority_species	021g5j	04svjyz	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0msk9j	067gh	0fq74z3
+film.film_regional_release_date	07_pf	02wtp6
+base.conservationaction.documented_priority_species	01g47h	04svj_g	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	0z3hbq	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01l2bl	04svjzj	063gzw7	063g_29
+cvg.musical_game_song_relationship	0xf21f	067gh	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	06vbd
+cvg.musical_game_song_relationship	025v45y	026kds	04kbkd1
+location.location_symbol_relationship	05k7sb	01yrt2
+base.conservationaction.documented_priority_species	028mmm	04svjyz	052t0zs	052qsfr
+cvg.musical_game_song_relationship	0111bls	067gh	0fq74z3
+cvg.musical_game_song_relationship	06m06g	02plp2	027pg4k
+cvg.musical_game_song_relationship	0lmyy7	067gh	04kbkd1
+cvg.musical_game_song_relationship	0129yv9	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	0b46c	04svjys	052t0zs	052qsfc
+base.conservationaction.documented_priority_species	07brn4	059g4	052t0zs	052qsj2
+cvg.musical_game_song_relationship	05n983d	02plp2	0642v9q
+cvg.musical_game_song_relationship	05n921x	067gh	0464gkc
+cvg.musical_game_song_relationship	025tmps	026kds	027pg4k
+base.conservationaction.documented_priority_species	0bd5fk	04svk00	05lvpg6	05mcc0c
+cvg.musical_game_song_relationship	0lncs_	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	01v1ck	04svjyp	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	0202_7	04svjyp	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	04bz52	067gh	0464gkc
+base.popstra.hangout	04fzk	0cc56
+base.conservationaction.documented_priority_species	021g5j	04svj_g	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0h3dtn	067gh	025vn5m
+cvg.musical_game_song_relationship	05n9251	026kds	0fq74z3
+base.conservationaction.documented_priority_species	01dfry	04s8p0q	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0lzr6q	067gh	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	07ghq
+cvg.musical_game_song_relationship	017q6wg	067gh	06ztwyd
+cvg.musical_game_song_relationship	0stphh	02plp2	027pg4k
+cvg.musical_game_song_relationship	0y7qtq	02plp2	04kbkd1
+tv.tv_regular_personal_appearance	03cgq24	097syt0	043rcw4
+cvg.musical_game_song_relationship	013bshm	067gh	04kbkd1
+cvg.musical_game_song_relationship	03cj6hh	02plp2	04kbkd1
+cvg.musical_game_song_relationship	03s04r	026kds	0fq74z3
+cvg.musical_game_song_relationship	015v7cc	02plp2	0cnjm0
+cvg.musical_game_song_relationship	0xf21f	02plp2	0642v9q
+base.conservationaction.documented_priority_species	028mmm	04svjyz	052t0zs	052qsgz
+cvg.musical_game_song_relationship	0frp42p	026kds	0464gkc
+cvg.musical_game_song_relationship	07n64g	026kds	04kbkd1
+cvg.musical_game_song_relationship	04ghf9h	02plp2	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	07tgn
+award.ranking	07xzc3_	0g824
+base.conservationaction.documented_priority_species	03fz5_	04svj_r	05lvpg6	05mcc04
+base.popstra.vacation_choice	07_pf	01l9p
+cvg.musical_game_song_relationship	013372w	02plp2	04kbkd1
+computer.software_compatibility	0ctx7v	05_30hd
+tv.regular_tv_appearance	03lr4n	0v4lrq6	04s_8t8	030cx
+cvg.musical_game_song_relationship	0123pxj	026kds	0464gkc
+base.conservationaction.documented_priority_species	07fglh	04svj_g	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0ncblz	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	04v6v
+cvg.musical_game_song_relationship	0lf2vw	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	022zkk	04svk03	063gzw7	063g_29
+computer.software_compatibility	07_60c	085_2
+cvg.musical_game_song_relationship	05zxwb7	026kds	04kbkd1
+cvg.musical_game_song_relationship	0744vt	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	01l8p
+base.conservationaction.documented_priority_species	0292td	04svj_2	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	0jt90f5
+base.conservationaction.documented_priority_species	01hjj1	04svj_8	063gzw7	063g_29
+tv.tv_regular_personal_appearance	0cpz4k	0105z00s	01myv9
+cvg.musical_game_song_relationship	05pgym	02plp2	0464gkc
+base.conservationaction.documented_priority_species	01qh4z	04svjzm	05lvpg6	05mcc04
+base.ontologies.ontology_instance_mapping	04dm2p_	07twz
+cvg.musical_game_song_relationship	07k62t	066kp	025vn5m
+cvg.musical_game_song_relationship	07nt5gv	02plp2	0fq74z3
+base.popstra.product_choice	027lnzs	01n5309
+cvg.musical_game_song_relationship	027hn5t	067gh	027pg4k
+cvg.musical_game_song_relationship	0xt2rk	026kds	04kbkd1
+cvg.musical_game_song_relationship	0n5z24	026kds	0fq74z3
+base.popstra.religion_choice	03_gx	084m3
+base.conservationaction.documented_priority_species	01v1ck	04svjzf	05lvpg6	05mcc0l
+award.hall_of_fame_induction	02frnb	03k3r	027jbr
+tv.regular_tv_appearance	06j2h8	04t5nlf	04s_8sx	030cx
+cvg.musical_game_song_relationship	026lncs	067gh	0fq74z3
+base.popstra.vacation_choice	07_pf	01pctb
+base.popstra.vacation_choice	03gh4	01vw20_
+computer.software_compatibility	043tx6_	04r_8
+chemistry.solubility_relationship	04r9cf	01v1v
+cvg.musical_game_song_relationship	07np4zm	026kds	04kbkd1
+base.conservationaction.documented_priority_species	01_pj5	0d0x8	05983yv	0598466
+base.ontologies.ontology_instance_mapping	04dm2p_	06710
+award.hall_of_fame_induction	04g_41	03b3nf	027jbr
+cvg.musical_game_song_relationship	0lhn4z	067gh	04kbkd1
+location.partial_containment_relationship	016wzw	0cx4p
+cvg.musical_game_song_relationship	08cklv	067gh	025vn5m
+award.hall_of_fame_induction	025yvhc	03k3r	027jbr
+base.conservationaction.documented_priority_species	01v6kn	04svj_n	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	0lvj3f	02plp2	06ztwyd
+base.conservationaction.documented_priority_species	0202j5	05fkf	052s_zk	052sr49
+cvg.musical_game_song_relationship	07sftt	066kp	025vn5m
+base.ontologies.ontology_instance_mapping	04dm2p_	0cc56
+cvg.musical_game_song_relationship	0frbt7x	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0cx4p
+cvg.musical_game_song_relationship	0m3l4v	067gh	04kbkd1
+cvg.musical_game_song_relationship	075vptj	02plp2	0fq74z3
+tv.tv_regular_personal_appearance	03cgq24	06xwyky	043rcw4
+cvg.musical_game_song_relationship	0mfxgx	02plp2	0642v9q
+base.conservationaction.documented_priority_species	025fnn	05fkf	052s_zk	052sr43
+base.ontologies.ontology_instance_mapping	04dm2p_	0hhqw
+cvg.musical_game_song_relationship	0797njz	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	08s7qw	04svjxy	052t0zs	052qsfc
+base.conservationaction.documented_priority_species	01dx8	04svjzq	05lvpg6	05mcc10
+base.ontologies.ontology_instance_mapping	04dm2p_	0162b
+base.popstra.vacation_choice	0d1qn	01n9zn
+base.conservationaction.documented_priority_species	025xd5	059g4	052t0zs	052qsgd
+base.ontologies.ontology_instance_mapping	04dm2p_	054rw
+computer.software_compatibility	0gwkz7	085_2
+cvg.musical_game_song_relationship	0np_c7	02plp2	04kbkd1
+cvg.musical_game_song_relationship	05n921x	026kds	06ztwyd
+base.popstra.restaurant_choice	02z3d24	064hn6s
+cvg.musical_game_song_relationship	02pgmbp	066kp	025vn5m
+cvg.musical_game_song_relationship	06z8wm	067gh	0464gkc
+base.popstra.vacation_choice	0162v	01pllx
+base.ontologies.ontology_instance_mapping	04dm2p_	01gc7
+base.conservationaction.documented_priority_species	014r18	04svjzf	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0llnhy	067gh	04kbkd1
+cvg.musical_game_song_relationship	05h9dh	026kds	0642v9q
+cvg.musical_game_song_relationship	0s6pm4	067gh	04kbkd1
+people.marriage	094qg9	0gx1l
+base.ontologies.ontology_instance_mapping	04dm2p_	0dymr
+base.conservationaction.documented_priority_species	025zc9	04svj_c	052t0zs	052qsf8
+base.conservationaction.documented_priority_species	01pbzc	04svjzm	05lvpg6	04mw5bd
+cvg.musical_game_song_relationship	0fb15y	066kp	0464gkc
+base.popstra.vacation_choice	03gh4	01vtj38
+base.ontologies.ontology_instance_mapping	04dm2p_	0k2_0
+base.ontologies.ontology_instance_mapping	04dm2p_	0277g
+cvg.musical_game_song_relationship	027dm29	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0crpc
+cvg.musical_game_song_relationship	075sm6z	067gh	0fq74z3
+cvg.musical_game_song_relationship	01dnq5w	02plp2	0464gkc
+cvg.musical_game_song_relationship	0dxcmt	026kds	04kbkd1
+cvg.musical_game_song_relationship	05n9763	02plp2	0642v9q
+base.conservationaction.documented_priority_species	01l28z	04svjyw	05lvpg6	063g_29
+cvg.musical_game_song_relationship	0qm9vy	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lmp4p	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0kc6
+base.conservationaction.documented_priority_species	01pbzc	04svk06	05lvpg6	04mw5bd
+base.ontologies.ontology_instance_mapping	04dm2p_	0430_
+award.ranking	07xzc3_	04fzk
+cvg.musical_game_song_relationship	0lfpb1	067gh	04kbkd1
+base.popstra.vacation_choice	0d1qn	01pctb
+base.popstra.support	064644k	0716t2
+base.conservationaction.documented_priority_species	01np2h	04svjzb	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01v_3l	05fkf	052s_zk	052tnwt
+cvg.musical_game_song_relationship	0959hf	067gh	04kbkd1
+cvg.musical_game_song_relationship	0y7tgc	02plp2	0464gkc
+base.conservationaction.documented_priority_species	01twys	04svjzx	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	01_pj5	04svk00	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	025t7rk	02x8rd	0fq74z3
+base.conservationaction.documented_priority_species	025zc9	04svjzx	052t0zs	052qsfv
+base.conservationaction.documented_priority_species	07brn4	059g4	052t0zs	052r47m
+base.ontologies.ontology_instance_mapping	04dm2p_	0fd_f
+cvg.musical_game_song_relationship	05c98v2	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01dx8	04svjys	052t0zs	052qsf8
+base.ontologies.ontology_instance_mapping	04dm2p_	04hqz
+base.popstra.product_choice	08854	01vswwx
+computer.software_compatibility	08rlhv	05_30hd
+computer.software_compatibility	02ptyyq	085_2
+base.ontologies.ontology_instance_mapping	04dm2p_	0k70
+base.ontologies.ontology_instance_mapping	04dm2p_	059ts
+base.ontologies.ontology_instance_mapping	04dm2p_	0h2c3
+cvg.musical_game_song_relationship	0783pr	066kp	06ztwyd
+cvg.musical_game_song_relationship	075w_ww	067gh	04kbkd1
+cvg.musical_game_song_relationship	02pq86h	026kds	04kbkd1
+base.popstra.product_choice	0cy27	0261x8t
+tv.tv_producer_term	01s81	03wh8pq
+tv.tv_producer_term	0330r	03wh8pq
+cvg.musical_game_song_relationship	0l_1gm	026kds	04f17kv
+organization.organization_membership	02khs	041288
+cvg.musical_game_song_relationship	011kfcf	02plp2	0fq74z3
+cvg.musical_game_song_relationship	087bht	02plp2	025vn5m
+cvg.musical_game_song_relationship	0ldkcv	02plp2	0fq74z3
+cvg.musical_game_song_relationship	03psjn	066kp	04f17kv
+cvg.musical_game_song_relationship	0nbl5t	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0dmv5
+base.popstra.vacation_choice	0jbt3	016fnb
+cvg.musical_game_song_relationship	0ntxvd	067gh	0642v9q
+cvg.musical_game_song_relationship	019spgc	026kds	04kbkd1
+computer.software_compatibility	05ttn4f	05_30hd
+cvg.musical_game_song_relationship	05n91vv	026kds	06ztwyd
+cvg.musical_game_song_relationship	09gglj	066kp	0464gkc
+base.conservationaction.documented_priority_species	02t0jc	05fkf	052s_zk	052tnwt
+base.conservationaction.documented_priority_species	04y7z3	04svjzb	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	075x_37	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	05qx1
+base.ontologies.ontology_instance_mapping	04dm2p_	0k670
+base.ontologies.ontology_instance_mapping	04dm2p_	06gd4
+cvg.musical_game_song_relationship	014rnzb	026kds	04kbkd1
+tv.tv_regular_personal_appearance	05c1bk7	075jgx7	094qg9
+base.conservationaction.documented_priority_species	03fzm4	04svjzx	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	075sm89	026kds	0fq74z3
+cvg.musical_game_song_relationship	03wp0bk	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	01hsb3	059g4	052t0zs	052qsgd
+location.partial_containment_relationship	05fkf	02pgw0z
+cvg.musical_game_song_relationship	01cbrdm	026kds	04kbkd1
+cvg.musical_game_song_relationship	0md1n_	02plp2	0fq74z3
+cvg.musical_game_song_relationship	04hvtc	067gh	04f17kv
+computer.software_compatibility	090_xj	0fpzzp
+tv.regular_tv_appearance	0n8bn	0ctlk	02hqqp4	06qv_
+cvg.musical_game_song_relationship	0dz77p	02plp2	0464gkc
+cvg.musical_game_song_relationship	0lgnl6	02plp2	04kbkd1
+cvg.musical_game_song_relationship	04czjhh	066kp	0464gkc
+base.conservationaction.documented_priority_species	01qh4z	04svjyz	05lvpg6	05mcc04
+award.ranking	01cj_r	01vswwx
+cvg.musical_game_song_relationship	0715g7	026kds	0464gkc
+cvg.musical_game_song_relationship	0ntxvd	026kds	0464gkc
+cvg.musical_game_song_relationship	04y375	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	01jsmq	05fkf	052s_zk	052sr49
+cvg.musical_game_song_relationship	0psk2y	067gh	0fq74z3
+cvg.musical_game_song_relationship	0l0x_6	026kds	0464gkc
+base.conservationaction.documented_priority_species	0561gn6	04svk00	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	026zk4	04svjz4	05lvpg6	05mcc0l
+freebase.list_entry	01vtj38	059m2wb
+base.ontologies.ontology_instance_mapping	04dm2p_	02_fj
+cvg.musical_game_song_relationship	0qhm11	026kds	0fq74z3
+base.conservationaction.documented_priority_species	02t0jc	05fkf	052s_zk	052sr49
+tv.regular_tv_appearance	016tbr	03fl2r	04s_8sq	030cx
+organization.organization_membership	088xp	041288
+cvg.musical_game_song_relationship	0lgcnr	026kds	0fq74z3
+cvg.musical_game_song_relationship	07mq4jz	026kds	0fq74z3
+cvg.musical_game_song_relationship	07jy_9	067gh	04kbkd1
+cvg.musical_game_song_relationship	0ntxvd	067gh	06ztwyd
+cvg.musical_game_song_relationship	075sm80	026kds	04kbkd1
+base.conservationaction.documented_priority_species	03fvxt	04s8p0q	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	03w5tq	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lq4xs	067gh	04kbkd1
+cvg.musical_game_song_relationship	075x_6w	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	026zmk	05fkf	052s_zk	052tnx0
+cvg.musical_game_song_relationship	0lnl_k	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	01s81
+cvg.musical_game_song_relationship	04d_pjd	026kds	0464gkc
+base.conservationaction.documented_priority_species	02ddh1	04svjzb	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	015_63z	067gh	04kbkd1
+computer.software_compatibility	010hrn2d	0716b6
+cvg.musical_game_song_relationship	0142135	067gh	04kbkd1
+cvg.musical_game_song_relationship	0q0bk1	067gh	0fq74z3
+cvg.musical_game_song_relationship	026m_36	066kp	0464gkc
+cvg.musical_game_song_relationship	0sh36w	026kds	04kbkd1
+computer.software_compatibility	01_0f	0716b6
+cvg.musical_game_song_relationship	013flpq	02plp2	047vs1j
+cvg.musical_game_song_relationship	0dx_n76	067gh	04kbkd1
+base.popstra.religion_choice	019cr	0157m
+cvg.musical_game_song_relationship	07n685w	066kp	0464gkc
+cvg.musical_game_song_relationship	064r7sp	026kds	0fq74z3
+cvg.musical_game_song_relationship	05n8_sw	026kds	06ztwyd
+cvg.musical_game_song_relationship	09d_xs	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0mbq5l	067gh	04kbkd1
+cvg.musical_game_song_relationship	027cbrt	02plp2	0464gkc
+cvg.musical_game_song_relationship	0vrvxd	026kds	04kbkd1
+cvg.musical_game_song_relationship	05n8__8	066kp	06ztwyd
+tv.tv_regular_personal_appearance	0cpz4k	0105z00s	01pctb
+cvg.musical_game_song_relationship	0gy913	026kds	04kbkd1
+cvg.musical_game_song_relationship	0f2hvr	066kp	0642v9q
+cvg.musical_game_song_relationship	026lncs	026kds	0fq74z3
+cvg.musical_game_song_relationship	07mq4dw	067gh	04kbkd1
+cvg.musical_game_song_relationship	07ql41	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	06d_3
+base.ontologies.ontology_instance_mapping	04dm2p_	06jbz
+base.popstra.vacation_choice	0jbs5	06s6hs
+cvg.musical_game_song_relationship	01d98md	026kds	0fq74z3
+cvg.musical_game_song_relationship	0xt2rk	02plp2	0fq74z3
+cvg.musical_game_song_relationship	075shb0	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0959hf	026kds	04kbkd1
+cvg.musical_game_song_relationship	0m_bxd	067gh	04kbkd1
+cvg.musical_game_song_relationship	0z69bk	026kds	04kbkd1
+cvg.musical_game_song_relationship	015v5gb	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	020b6f	04svk00	05lvpg6	05mcc0c
+cvg.musical_game_song_relationship	01f7cqs	067gh	04kbkd1
+cvg.musical_game_song_relationship	05sgj_	02plp2	0464gkc
+base.conservationaction.documented_priority_species	07fh0h	04svjzx	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0l0vsj	02plp2	025vn5m
+cvg.musical_game_song_relationship	0h4_93	026kds	06ztwyd
+cvg.musical_game_song_relationship	02qjyrm	02plp2	0464gkc
+cvg.musical_game_song_relationship	02vsnrw	02plp2	0642v9q
+base.conservationaction.documented_priority_species	020b6f	04svj_g	05lvpg6	05mcc0c
+base.conservationaction.documented_priority_species	01kf0_	0d0x8	05983yv	059845z
+base.conservationaction.documented_priority_species	025zc9	04svj_8	052t0zs	052qsfc
+cvg.musical_game_song_relationship	0lj008	067gh	0fq74z3
+base.conservationaction.documented_priority_species	02ptsck	059g4	052t0zs	052qsgh
+base.popstra.restaurant_choice	0261x8t	064hn6s
+base.conservationaction.documented_priority_species	01ysq_	04svjz1	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	05n98s9	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lftjc	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0b2h3
+cvg.musical_game_song_relationship	0l1f7f	026kds	0fq74z3
+base.conservationaction.documented_priority_species	07swp8	04svjzq	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0ngh1y	067gh	06ztwyd
+base.conservationaction.documented_priority_species	021g5j	04svjz4	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0263041	02plp2	025vn5m
+cvg.musical_game_song_relationship	015bxpr	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0xnhy3	067gh	064rc66
+cvg.musical_game_song_relationship	0xt2sn	026kds	04kbkd1
+cvg.musical_game_song_relationship	0psk4p	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01fzdb	04svjzx	063gzw7	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	06zgc
+cvg.musical_game_song_relationship	052n5t	02plp2	0642v9q
+base.popstra.vacation_choice	0b90_r	036hf4
+base.conservationaction.documented_priority_species	01btn1	04svj_k	05lvpg6	05mcc0l
+computer.software_compatibility	08khnt	05_30hd
+base.ontologies.ontology_instance_mapping	04dm2p_	0424m
+base.conservationaction.documented_priority_species	0561gn6	04svj_k	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	01f7cqs	067gh	0fq74z3
+cvg.musical_game_song_relationship	01y4j_	026kds	04kbkd1
+cvg.musical_game_song_relationship	0192bv5	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	03fzm4	04svj_5	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	0lrmlr	067gh	0fq74z3
+tv.tv_regular_personal_appearance	05c1bk7	06ywls0	020l9r
+cvg.musical_game_song_relationship	06yhbb	067gh	0464gkc
+cvg.musical_game_song_relationship	06h9lw	066kp	04f17kv
+cvg.musical_game_song_relationship	05n9l1l	026kds	025vn5m
+cvg.musical_game_song_relationship	07csl2	067gh	0fq74z3
+computer.software_compatibility	07_60c	0716b6
+cvg.musical_game_song_relationship	05n91mx	066kp	0464gkc
+cvg.musical_game_song_relationship	0dzqwn_	026kds	04kbkd1
+award.hall_of_fame_induction	06f6jf	0b67nhs	027jbr
+base.popstra.vacation_choice	03gh4	01pgzn_
+cvg.musical_game_song_relationship	075sh9n	026kds	0fq74z3
+computer.software_compatibility	09phzh	05_30hd
+tv.regular_tv_appearance	03lr4n	0v4lrq6	04s_8t2	030cx
+cvg.musical_game_song_relationship	09gglj	067gh	04kbkd1
+organization.organization_membership	04n32	02_l9
+cvg.musical_game_song_relationship	0110_06	026kds	0fq74z3
+base.conservationaction.documented_priority_species	033jqt	04svjyw	05lvpg6	063g_29
+cvg.musical_game_song_relationship	02h3sz	026kds	06ztwyd
+cvg.musical_game_song_relationship	013xqjm	026kds	0fq74z3
+cvg.musical_game_song_relationship	0c7xw8	067gh	0fq74z3
+cvg.musical_game_song_relationship	0cpdrq	067gh	0fq74z3
+cvg.musical_game_song_relationship	04qxwl	026kds	04kbkd1
+base.conservationaction.documented_priority_species	05bdws	0d0x8	05983yv	0598466
+location.location_symbol_relationship	02xry	04627dk
+base.conservationaction.documented_priority_species	01v1ck	04svj_k	05lvpg6	05mcc04
+base.ontologies.ontology_instance_mapping	04dm2p_	05dbf
+cvg.musical_game_song_relationship	07b9771	067gh	04kbkd1
+cvg.musical_game_song_relationship	075smfb	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01bqq_	04svjys	052t0zs	052qsfc
+location.location_symbol_relationship	0d0x8	01yrt2
+tv.regular_tv_appearance	09yrh	01xh3_	03btzxd	030cx
+cvg.musical_game_song_relationship	06zhkz	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lf2yq	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	0560s3q	04svjzx	05lvpg6	05mcc0t
+cvg.musical_game_song_relationship	02xkph	067gh	04kbkd1
+cvg.musical_game_song_relationship	0m38fb	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01ggn5	04svjys	052t0zs	052sdr9
+cvg.musical_game_song_relationship	05v596p	067gh	0fq74z3
+base.conservationaction.documented_priority_species	027f0md	059g4	052t0zs	03gc1f4
+cvg.musical_game_song_relationship	0lgcnr	067gh	0fq74z3
+base.conservationaction.documented_priority_species	02pywql	059g4	052t0zs	052qsgh
+base.conservationaction.documented_priority_species	01jqht	04svjy3	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0gy913	067gh	03x_n7k
+base.ontologies.ontology_instance_mapping	04dm2p_	01v1v
+cvg.musical_game_song_relationship	04nz0x	066kp	06ztwyd
+location.location_symbol_relationship	050ks	04627hw
+cvg.musical_game_song_relationship	0dyqww	026kds	025vn5m
+cvg.musical_game_song_relationship	05n98xm	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	07yg2
+cvg.musical_game_song_relationship	0qm9vy	026kds	0fq74z3
+cvg.musical_game_song_relationship	0z9bvc	067gh	04kbkd1
+location.location_symbol_relationship	0d0x8	04627hw
+cvg.musical_game_song_relationship	0lf9mw	026kds	0fq74z3
+people.marriage	01k53x	0gx1l
+base.ontologies.ontology_instance_mapping	04dm2p_	0bwdn
+base.conservationaction.documented_priority_species	0k5w2	059g4	052t0zs	052qsj2
+cvg.musical_game_song_relationship	0m7gf9	026kds	0fq74z3
+cvg.musical_game_song_relationship	02vq9wl	067gh	03x_n7k
+location.location_symbol_relationship	04ly1	04627hw
+organization.organization_membership	063_t	02_l9
+base.popstra.product_choice	027lnzs	0blt6
+cvg.musical_game_song_relationship	05n97ml	026kds	06ztwyd
+cvg.musical_game_song_relationship	03c9nn9	066kp	0464gkc
+base.conservationaction.documented_priority_species	025zc9	04svj_n	052t0zs	052qsfc
+location.location_symbol_relationship	05fkf	04627f7
+cvg.musical_game_song_relationship	0xb8f5	026kds	0fq74z3
+cvg.musical_game_song_relationship	07n688c	067gh	0fq74z3
+base.conservationaction.documented_priority_species	025xpf	05fkf	052s_zk	0549l5z
+base.popstra.vacation_choice	02xry	046pqq
+award.ranking	07xzc3_	05q_b
+cvg.musical_game_song_relationship	07np74_	026kds	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	0kbq
+cvg.musical_game_song_relationship	0270knw	02plp2	025vn5m
+cvg.musical_game_song_relationship	0dgqjl	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0m4vrk	026kds	0fq74z3
+cvg.musical_game_song_relationship	0fr09db	02plp2	04kbkd1
+cvg.musical_game_song_relationship	07n74pr	026kds	0642v9q
+base.popstra.vacation_choice	03gh4	03db_h
+cvg.musical_game_song_relationship	0ddpqs	067gh	04kbkd1
+cvg.musical_game_song_relationship	01dnq5w	067gh	0464gkc
+base.conservationaction.documented_priority_species	063f94j	04svjz4	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	05p4g__	02plp2	025vn5m
+base.conservationaction.documented_priority_species	03fvxt	04svj_2	05lvpg6	05mcc0l
+computer.software_compatibility	0hvp_	0kyzf
+cvg.musical_game_song_relationship	0ngh1y	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0bscw
+base.popstra.vacation_choice	03qzkz	07r1h
+military.military_combatant_group	0c16t	0b90_r
+cvg.musical_game_song_relationship	0_9tk5	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lf2xv	067gh	04kbkd1
+cvg.musical_game_song_relationship	07ql41	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0y5g70	026kds	0fq74z3
+base.conservationaction.documented_priority_species	01f6pd	059g4	052t0zs	052qsg6
+cvg.musical_game_song_relationship	03jkxv9	067gh	0642v9q
+computer.software_compatibility	04nb4b	04pm6
+base.ontologies.ontology_instance_mapping	04dm2p_	035dk
+cvg.musical_game_song_relationship	05n90wb	066kp	0464gkc
+cvg.musical_game_song_relationship	0llym2	067gh	0fq74z3
+freebase.list_entry	01mjq	05bt3xs
+base.conservationaction.documented_priority_species	01ysq9	04svjzx	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0h03jz	02plp2	025vn5m
+base.conservationaction.documented_priority_species	01c713	04svj_r	063gzw7	063g_29
+cvg.musical_game_song_relationship	07n68k3	02plp2	0642v9q
+base.conservationaction.documented_priority_species	01f709	04svjz_	05lvpg6	05mcc0l
+base.popstra.vacation_choice	0jbs5	01yf85
+base.conservationaction.documented_priority_species	022_tm	04svj_2	05lvpg6	05mcc04
+base.popstra.vacation_choice	03gh4	09yrh
+base.conservationaction.documented_priority_species	026b0d	05fkf	052s_zk	0549l5z
+cvg.musical_game_song_relationship	0m38fb	067gh	0fq74z3
+cvg.musical_game_song_relationship	058fvn	02plp2	0cnjm0
+cvg.musical_game_song_relationship	05ncsbs	067gh	025vn5m
+base.ontologies.ontology_instance_mapping	04dm2p_	09jm8
+cvg.musical_game_song_relationship	0x0l0c	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	01v8c
+cvg.musical_game_song_relationship	07npkzv	066kp	0464gkc
+base.conservationaction.documented_priority_species	026b0d	04svjz_	05lvpg6	05mcc0l
+tv.tv_regular_personal_appearance	03cgq24	0zrkm4n	043ttm7
+base.popstra.vacation_choice	03qzkz	032wdd
+base.conservationaction.documented_priority_species	03fz8x	04svjzm	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	07mq4jz	026kds	04kbkd1
+base.conservationaction.documented_priority_species	022c98	04svjy6	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0xb8f5	02plp2	04kbkd1
+people.marriage	0hhqw	06gmr
+base.conservationaction.documented_priority_species	01v_3l	04svj_g	05lvpg6	05mcc04
+base.popstra.vacation_choice	050ks	034x61
+cvg.musical_game_song_relationship	0r2_01	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0crcbz	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01h2df	04svj_c	063gzw7	063g_29
+cvg.musical_game_song_relationship	0lrx58	067gh	0fq74z3
+cvg.musical_game_song_relationship	05n9081	02plp2	0464gkc
+tv.tv_regular_personal_appearance	03cgq24	06xwyky	05_5_yh
+cvg.musical_game_song_relationship	05n946d	067gh	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	06l8d
+cvg.musical_game_song_relationship	0_nkv3	067gh	04kbkd1
+computer.software_compatibility	027fvsm	055yr
+cvg.musical_game_song_relationship	0cjv1p	026kds	025vn5m
+cvg.musical_game_song_relationship	0gy913	067gh	04kbkd1
+cvg.musical_game_song_relationship	03h5xpn	067gh	025vn5m
+cvg.musical_game_song_relationship	0tqshc	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	03q5t
+base.conservationaction.documented_priority_species	01l6fs	04svjzx	063gzw7	063g_29
+soccer.football_team_management_tenure	0y9j	0dmv5
+cvg.musical_game_song_relationship	0y7tgc	066kp	0464gkc
+cvg.musical_game_song_relationship	0l0v7c	066kp	0464gkc
+base.conservationaction.documented_priority_species	01hjj1	04svj_g	063gzw7	063g_29
+cvg.musical_game_song_relationship	06hb7x	067gh	0fq74z3
+cvg.musical_game_song_relationship	0cc4r4	02plp2	025vn5m
+base.conservationaction.documented_priority_species	01f709	04svjyz	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	05byy
+base.conservationaction.documented_priority_species	0561gn6	04svjy3	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	01f7cs2	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0crcbz	066kp	05n03yl
+cvg.musical_game_song_relationship	05n973q	02plp2	0464gkc
+cvg.musical_game_song_relationship	03wp0c9	067gh	0fq74z3
+cvg.musical_game_song_relationship	0rwyx6	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01fzdb	04svjy0	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01p17h	05fkf	052s_zk	052sr49
+cvg.musical_game_song_relationship	087bht	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0ldd1f	067gh	0fq74z3
+base.popstra.vacation_choice	0kygv	01pllx
+base.conservationaction.documented_priority_species	026zmk	04svj_g	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	01v_3l	04svjxy	052t0zs	052qsfc
+tv.regular_tv_appearance	06j2h8	04t5nlf	03btzxd	030cx
+base.conservationaction.documented_priority_species	01tkh8	04svj_5	063gzw7	063g_29
+cvg.musical_game_song_relationship	03w5tq	026kds	0464gkc
+cvg.musical_game_song_relationship	075w639	026kds	0fq74z3
+base.conservationaction.documented_priority_species	025_dsr	059g4	052t0zs	052qsh_
+tv.tv_regular_personal_appearance	03cgq24	0vp5g0j	043rcw4
+award.hall_of_fame_induction	03gs0xv	03k3r	027jbr
+cvg.musical_game_song_relationship	01d98md	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01fzdb	04svj_k	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01l3sx	04svj_k	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01l3sx	04svjz1	05lvpg6	063g_29
+cvg.musical_game_song_relationship	047vrsx	026kds	025vn5m
+computer.software_compatibility	0291yr	0716b6
+cvg.musical_game_song_relationship	0mggqj	067gh	0fq74z3
+cvg.musical_game_song_relationship	02vq9wl	067gh	0fq74z3
+computer.software_compatibility	04208y	013nv
+cvg.musical_game_song_relationship	05n84pb	067gh	0fq74z3
+cvg.musical_game_song_relationship	075sm77	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lmj8h	026kds	06ztwyd
+location.location_symbol_relationship	05k7sb	04627dk
+cvg.musical_game_song_relationship	0pfry3	066kp	0464gkc
+base.conservationaction.documented_priority_species	028mmm	04svj_5	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0flpph	02plp2	025vn5m
+cvg.musical_game_song_relationship	02vq9wl	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	02f3m_	04svjz_	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	0375z0	04svj_r	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	07np5ng	067gh	0fq74z3
+base.conservationaction.documented_priority_species	07rk94	04svj_g	05lvpg6	05mcc0l
+base.popstra.vacation_choice	03gh4	046zh
+computer.software_compatibility	05qh6g	02wxtgw
+base.conservationaction.documented_priority_species	07hrdp	04svj_2	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	028mmm	04svj_8	052t0zs	052qsfk
+cvg.musical_game_song_relationship	05b360	026kds	0642v9q
+base.conservationaction.documented_priority_species	01l2bl	04svjzm	063gzw7	063g_29
+cvg.musical_game_song_relationship	04gm3fc	026kds	06ztwyd
+people.marriage	01pctb	0b90_r
+base.ontologies.ontology_instance_mapping	04dm2p_	04cx5
+cvg.musical_game_song_relationship	058fvn	02plp2	0fq74z3
+base.popstra.vacation_choice	0b90_r	0dq9wx
+cvg.musical_game_song_relationship	0797kwd	02plp2	0fq74z3
+cvg.musical_game_song_relationship	03wj5rq	026kds	06ztwyd
+base.conservationaction.documented_priority_species	01pbzc	04svj_c	05lvpg6	04mw5bd
+base.conservationaction.documented_priority_species	025xpf	04svjyp	05lvpg6	05mcc0c
+computer.software_compatibility	058b6	055yr
+cvg.musical_game_song_relationship	0lfhcr	067gh	04kbkd1
+cvg.musical_game_song_relationship	019xs5r	067gh	0fq74z3
+cvg.musical_game_song_relationship	0lz4m1	067gh	04kbkd1
+tv.tv_regular_personal_appearance	03cgq24	06xwyky	043ttm7
+computer.software_compatibility	0d6btz	0fpzzp
+base.conservationaction.documented_priority_species	0375z0	04svjys	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0g75kfj	067gh	0fq74z3
+cvg.musical_game_song_relationship	0dm7wh	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0f2hvr	026kds	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	06mq7
+cvg.musical_game_song_relationship	01bch8q	067gh	04kbkd1
+cvg.musical_game_song_relationship	0frp42p	02plp2	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	063_t
+base.ontologies.ontology_instance_mapping	04dm2p_	07t31
+cvg.musical_game_song_relationship	0pfv52	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01l3sx	04svjys	063gzw7	063g_29
+cvg.musical_game_song_relationship	0f4q5x_	026kds	0fq74z3
+cvg.musical_game_song_relationship	012q_0	067gh	0464gkc
+base.conservationaction.documented_priority_species	04y7z3	04svj_v	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	07n685w	067gh	0642v9q
+cvg.musical_game_song_relationship	04y5fxf	066kp	0464gkc
+computer.software_compatibility	05x3dd	0fpzzp
+cvg.musical_game_song_relationship	019xtqr	026kds	0fq74z3
+base.conservationaction.documented_priority_species	01v6kn	04svjzf	05lvpg6	05mcc0l
+location.location_symbol_relationship	0hjy	04627dk
+award.hall_of_fame_induction	02qlhpv	03k3r	027jbr
+cvg.musical_game_song_relationship	0lfpb1	02plp2	0fq74z3
+organization.organization_membership	035dk	0967f
+cvg.musical_game_song_relationship	02qccf	066kp	025vn5m
+cvg.musical_game_song_relationship	0lhn5d	02plp2	04kbkd1
+tv.tv_regular_personal_appearance	03cgq24	097syt0	0261x8t
+cvg.musical_game_song_relationship	0l_1gm	02plp2	0642v9q
+tv.tv_regular_personal_appearance	03cgq24	0vp5g0j	05_5_yx
+cvg.musical_game_song_relationship	075x_75	067gh	04kbkd1
+cvg.musical_game_song_relationship	054qd9	02plp2	0464gkc
+cvg.musical_game_song_relationship	0lfpb1	026kds	04kbkd1
+cvg.musical_game_song_relationship	03gpc5	026kds	025vn5m
+cvg.musical_game_song_relationship	05kmf61	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0tp6sq	02plp2	0fq74z3
+cvg.musical_game_song_relationship	07n64g	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0nft9n	067gh	0fq74z3
+cvg.musical_game_song_relationship	0lz4m1	026kds	04kbkd1
+base.partnersinflight.population_estimate	04svjyp	025xpf	04xh1nb
+cvg.musical_game_song_relationship	0g75kfj	026kds	0fq74z3
+cvg.musical_game_song_relationship	048cw1	026kds	04kbkd1
+cvg.musical_game_song_relationship	01c4zcr	067gh	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	051nv
+cvg.musical_game_song_relationship	018yqqj	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01v1ck	04svj_8	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	0xf21f	02plp2	027pg4k
+base.conservationaction.documented_priority_species	090pl3	04svj_y	052t0zs	052qsgw
+cvg.musical_game_song_relationship	0vc5dm	067gh	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	03f5vvx
+cvg.musical_game_song_relationship	0464_68	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	025xpf	05fkf	052s_zk	052sr49
+base.conservationaction.documented_priority_species	01zd3q	04svjzm	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	01jsmq	05fkf	052s_zk	0549l5z
+base.popstra.vacation_choice	0jbt3	0c9c0
+base.ontologies.ontology_instance_mapping	04dm2p_	0859_
+cvg.musical_game_song_relationship	021f1m	066kp	0464gkc
+cvg.musical_game_song_relationship	05ncswb	026kds	025vn5m
+cvg.musical_game_song_relationship	0q43m_	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0pp5n8	067gh	027pg4k
+cvg.musical_game_song_relationship	028054l	026kds	0464gkc
+cvg.musical_game_song_relationship	05n91t4	026kds	0642v9q
+cvg.musical_game_song_relationship	075zcnv	02plp2	0fq74z3
+cvg.musical_game_song_relationship	04czjhh	02plp2	0464gkc
+base.conservationaction.documented_priority_species	01hjj1	04svj_5	063gzw7	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	0fkw3
+base.conservationaction.documented_priority_species	01l6fs	04svj_c	063gzw7	063g_29
+cvg.musical_game_song_relationship	0133732	026kds	0fq74z3
+cvg.musical_game_song_relationship	070z4x	026kds	025vn5m
+cvg.musical_game_song_relationship	015kxlm	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	025zc9	04svjzx	052t0zs	052sf3n
+cvg.musical_game_song_relationship	0y7tgc	026kds	0fq74z3
+base.conservationaction.documented_priority_species	01h2df	04svj_r	063gzw7	063g_29
+base.conservationaction.documented_priority_species	027h5c	05fkf	052s_zk	052tntd
+cvg.musical_game_song_relationship	0471sn	067gh	04kbkd1
+cvg.musical_game_song_relationship	04czjhh	026kds	0642v9q
+cvg.musical_game_song_relationship	01cw9x7	066kp	047vs1j
+base.ontologies.ontology_instance_mapping	04dm2p_	081sq
+base.conservationaction.documented_priority_species	01ldpz	04svjz4	063gzw7	063g_29
+award.ranking	07xzc3_	025b5y
+computer.software_compatibility	027fvsm	013nv
+base.conservationaction.documented_priority_species	028mmm	04s8p0q	052t0zs	052sf3n
+cvg.musical_game_song_relationship	0r2_14	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	022c98	04svjys	052t0zs	052sdr9
+cvg.musical_game_song_relationship	0133732	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	01zwy
+cvg.musical_game_song_relationship	051qmx	026kds	0464gkc
+cvg.musical_game_song_relationship	0vrvxd	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01c80k	04svj_v	063gzw7	063g_29
+cvg.musical_game_song_relationship	0lfpdg	026kds	0fq74z3
+award.ranking	07xzc3_	015f7
+cvg.musical_game_song_relationship	010v81m	026kds	04kbkd1
+cvg.musical_game_song_relationship	019xtqr	067gh	04kbkd1
+tv.tv_regular_personal_appearance	0cpz4k	0swp206	0164nb
+base.conservation.protected_species_status	04mw5b5	01dx8	02m8ry
+tv.tv_regular_personal_appearance	063ztgx	0641zv2	05nq29
+base.conservationaction.documented_priority_species	01v857	04svj_g	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	0mfxgx	02plp2	06ztwyd
+cvg.musical_game_song_relationship	0z69bk	02plp2	0fq74z3
+location.location_symbol_relationship	05fjy	04627hh
+base.conservationaction.documented_priority_species	025_dsr	059g4	052t0zs	052qsgd
+base.conservationaction.documented_priority_species	0261d0	059g4	052t0zs	03gc1fj
+cvg.musical_game_song_relationship	04qbjgv	067gh	04kbkd1
+cvg.musical_game_song_relationship	0mbq5l	067gh	0fq74z3
+base.conservationaction.documented_priority_species	02x16f	0d0x8	05983yv	0598466
+cvg.musical_game_song_relationship	0s5tl9	067gh	0fq74z3
+tv.regular_tv_appearance	0jbp0	0crvw	02hqqnv	06qv_
+base.ontologies.ontology_instance_mapping	04dm2p_	0198z
+computer.software_compatibility	03myz4	055yr
+cvg.musical_game_song_relationship	08gp9t	067gh	0464gkc
+cvg.musical_game_song_relationship	04bz52	026kds	06ztwyd
+cvg.musical_game_song_relationship	0cr_wt	066kp	03x_n7k
+cvg.musical_game_song_relationship	075w_z1	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	028mmm	04svj_5	052t0zs	052qsfk
+base.conservationaction.documented_priority_species	05hjr06	04svj_c	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01fzdb	04svjyz	05lvpg6	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	05ksh
+cvg.musical_game_song_relationship	0471sn	02x8rd	04kbkd1
+base.conservationaction.documented_priority_species	059t_s	05fkf	052s_zk	052tnx0
+base.ontologies.ontology_instance_mapping	04dm2p_	0j8js
+cvg.musical_game_song_relationship	06yx2g	066kp	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	0k53z
+tv.regular_tv_appearance	09yrh	01xh3_	04s_8sq	030cx
+computer.software_compatibility	086n11	0716b6
+cvg.musical_game_song_relationship	0cszsh	067gh	0fq74z3
+cvg.musical_game_song_relationship	0ptsdg	067gh	04kbkd1
+base.popstra.religion_choice	0c8wxp	043ttm7
+base.popstra.support	064644k	015t56
+cvg.musical_game_song_relationship	03m97y9	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0jmj
+cvg.musical_game_song_relationship	0d5p74	026kds	04kbkd1
+cvg.musical_game_song_relationship	09d_xs	066kp	0464gkc
+cvg.musical_game_song_relationship	01f34k7	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	01l28z	04svjzt	063gzw7	063g_29
+cvg.musical_game_song_relationship	09d_xs	067gh	0464gkc
+base.conservationaction.documented_priority_species	05fjzl	04svjy6	05lvpg6	05mcc0l
+base.popstra.restaurant_choice	024htv	063fzvr
+base.popstra.vacation_choice	0645vz_	05dbf
+computer.software_compatibility	0bs82_g	05_30hd
+cvg.musical_game_song_relationship	0pgcpr	026kds	0464gkc
+base.conservationaction.documented_priority_species	01v1ck	04svjz1	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	0dvzb1x	02plp2	04kbkd1
+cvg.musical_game_song_relationship	01c0y19	02plp2	04kbkd1
+computer.software_compatibility	02yvqb	050xd
+award.ranking	07xzc3_	07vzcn
+base.conservationaction.documented_priority_species	03fz5_	04svj_y	05lvpg6	05mcc04
+base.popstra.restaurant_choice	04xrx	063fzvr
+base.conservationaction.documented_priority_species	01v6kn	04svj_y	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	019299	04svj_g	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	01f7cy_	067gh	04kbkd1
+base.conservationaction.documented_priority_species	019299	04svjy0	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	05n90_v	026kds	0642v9q
+cvg.musical_game_song_relationship	02w1spk	066kp	025vn5m
+computer.software_compatibility	010hrn2d	04r_8
+cvg.musical_game_song_relationship	0mh7cg	02plp2	04kbkd1
+award.hall_of_fame_induction	0fvpwf	03b3nf	027jbr
+cvg.musical_game_song_relationship	0ngb7h	026kds	04kbkd1
+base.conservationaction.documented_priority_species	02ptsck	0d0x8	05983yv	059845z
+base.conservationaction.documented_priority_species	01rl9c	04svk00	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	01h2df	04svjzj	063gzw7	063g_29
+cvg.musical_game_song_relationship	0r2_01	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01l28z	04svj_y	063gzw7	063g_29
+base.conservationaction.documented_priority_species	05ty0s	04svj_v	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0p8qnt	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01fzdb	04svk06	063gzw7	063g_29
+cvg.musical_game_song_relationship	05n96tx	067gh	06ztwyd
+location.location_symbol_relationship	07z1m	04627hw
+cvg.musical_game_song_relationship	025t7rk	067gh	0fq74z3
+base.conservationaction.documented_priority_species	04y7z3	04svjzm	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	01pfc6	04svjyz	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	01y4j_	026kds	06ztwyd
+cvg.musical_game_song_relationship	0c0hn4	02plp2	05n03yl
+cvg.musical_game_song_relationship	0nctg2	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	01ysq_	04svjys	052t0zs	052qsfc
+cvg.musical_game_song_relationship	01bxztw	067gh	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	0bjv6
+cvg.musical_game_song_relationship	0psz0z	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01_3m9	059g4	052t0zs	052qsg9
+base.conservationaction.documented_priority_species	0d4xf_	04svj_5	05lvpg6	05mcc04
+base.popstra.vacation_choice	0jbs5	03zqc1
+computer.software_compatibility	06kwc6	05d82
+cvg.musical_game_song_relationship	07n685w	067gh	0464gkc
+base.conservationaction.documented_priority_species	028mmm	04svj_c	05lvpg6	05mcc0l
+computer.software_compatibility	03myz4	04r_8
+cvg.musical_game_song_relationship	0djhxs	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	04g8d
+computer.software_compatibility	0ddy5c	04pm6
+cvg.musical_game_song_relationship	016pwpv	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	025zc9	04s8p0q	052t0zs	052qsgw
+base.conservationaction.documented_priority_species	0bd5fk	04svj_g	05lvpg6	05mcc0c
+base.conservationaction.documented_priority_species	01g47h	04svj_c	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	075sgfg	026kds	04kbkd1
+cvg.musical_game_song_relationship	05nmqv	026kds	04kbkd1
+business.product_endorsement	0464gkc	01f492	09j_g
+computer.software_compatibility	04vzz2	0716b6
+people.marriage	0443xn	03gh4
+cvg.musical_game_song_relationship	06h9lw	02plp2	04kbkd1
+cvg.musical_game_song_relationship	05n973q	066kp	0464gkc
+cvg.musical_game_song_relationship	05n91t4	067gh	0464gkc
+base.conservationaction.documented_priority_species	025zc9	04svj_2	052t0zs	052sfnc
+cvg.musical_game_song_relationship	0zpfbg	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0ry95_	02plp2	04kbkd1
+computer.software_compatibility	0fsmm6	05_30hd
+base.popstra.support	029x8f	084m3
+base.conservationaction.documented_priority_species	03fz8x	04svjzj	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	04hvtc	026kds	04f17kv
+cvg.musical_game_song_relationship	06kg91	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01np2h	04svk00	063gzw7	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	03k3r
+cvg.musical_game_song_relationship	04f43fp	02plp2	06ztwyd
+cvg.musical_game_song_relationship	07mq4dq	02plp2	04kbkd1
+cvg.musical_game_song_relationship	075vptj	067gh	0fq74z3
+cvg.musical_game_song_relationship	0ymlhh	067gh	04kbkd1
+cvg.musical_game_song_relationship	0412kxr	02plp2	0464gkc
+tv.tv_regular_personal_appearance	03cgq24	0kk6716	043rcw4
+cvg.musical_game_song_relationship	0dwnm8	026kds	06ztwyd
+cvg.musical_game_song_relationship	012q_0	026kds	0642v9q
+base.conservationaction.documented_priority_species	0598kgg	04svjzb	05lvpg6	05mcc0t
+cvg.musical_game_song_relationship	01btb00	067gh	04kbkd1
+base.conservationaction.documented_priority_species	025zc9	04svj_2	052t0zs	052qsgw
+cvg.musical_game_song_relationship	0412kxr	067gh	0464gkc
+cvg.musical_game_song_relationship	01bm4cg	02plp2	04kbkd1
+cvg.musical_game_song_relationship	07mq4dw	026kds	04kbkd1
+cvg.musical_game_song_relationship	01f7cs2	026kds	04kbkd1
+base.popstra.religion_choice	03_gx	0mdqp
+tv.tv_regular_personal_appearance	0gg645n	0p7kxqj	046pqq
+base.conservationaction.documented_priority_species	01pbzc	04svjzj	05lvpg6	04mw5bd
+cvg.musical_game_song_relationship	0h4_93	026kds	0642v9q
+cvg.musical_game_song_relationship	016npqp	067gh	06ztwyd
+cvg.musical_game_song_relationship	05n97kb	066kp	06ztwyd
+base.popstra.vacation_choice	03gh4	01gq0b
+cvg.musical_game_song_relationship	0ljqy6	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lhn3f	067gh	0fq74z3
+cvg.musical_game_song_relationship	0fqzw4s	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0dn0r
+computer.software_compatibility	025tk2t	04r_8
+cvg.musical_game_song_relationship	0tkg59	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0m665r	026kds	0fq74z3
+base.popstra.vacation_choice	09pkq0	05dbf
+cvg.musical_game_song_relationship	025sd6q	026kds	025vn5m
+base.popstra.vacation_choice	03qzkz	015dx
+cvg.musical_game_song_relationship	013372w	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lf2y1	026kds	0fq74z3
+cvg.musical_game_song_relationship	05n93s2	026kds	06ztwyd
+cvg.musical_game_song_relationship	085g50	026kds	0fq74z3
+cvg.musical_game_song_relationship	07kblf	026kds	0464gkc
+base.popstra.vacation_choice	0b90_r	01k53x
+base.conservationaction.documented_priority_species	0hscv	059g4	052t0zs	052qshk
+cvg.musical_game_song_relationship	0nszvz	02plp2	0fq74z3
+cvg.musical_game_song_relationship	06yx2g	067gh	0642v9q
+cvg.musical_game_song_relationship	0lzmn9	067gh	04kbkd1
+sports.pro_sports_played	07bs0	031dns
+cvg.musical_game_song_relationship	07ql41	067gh	0fq74z3
+award.ranking	07xzc3_	032wdd
+cvg.musical_game_song_relationship	0vgp44	02plp2	04kbkd1
+base.popstra.vacation_choice	0ply0	04xrx
+base.popstra.vacation_choice	03qzkz	0bbf1f
+base.conservationaction.documented_priority_species	01c80k	04svj_r	063gzw7	063g_29
+cvg.musical_game_song_relationship	0qn5_r	02plp2	04kbkd1
+freebase.list_entry	030cx	05bvjgr
+base.conservationaction.documented_priority_species	01dx8	04svjz4	05lvpg6	05mcc10
+cvg.musical_game_song_relationship	03jkxv9	026kds	0464gkc
+cvg.musical_game_song_relationship	07kv8c3	02plp2	04kbkd1
+base.popstra.support	064644k	02qwg
+cvg.musical_game_song_relationship	03wp0bk	026kds	04kbkd1
+cvg.musical_game_song_relationship	0lmp4p	02plp2	04kbkd1
+award.ranking	07xzc3_	01pctb
+base.conservationaction.documented_priority_species	047nky	04svj_k	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	022zkk	04svjzj	063gzw7	063g_29
+cvg.musical_game_song_relationship	01f7cqs	026kds	04kbkd1
+cvg.musical_game_song_relationship	075sm74	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	058b6
+computer.software_compatibility	084w0j	0fpzzp
+base.conservationaction.documented_priority_species	025fnn	05fkf	052s_zk	052tnx7
+cvg.musical_game_song_relationship	06dlyz	02plp2	0464gkc
+cvg.musical_game_song_relationship	0np_c7	067gh	04kbkd1
+base.conservationaction.documented_priority_species	0598kgg	04svjyp	05lvpg6	05mcc0t
+base.datedlocationtest.dated_location_break_up	01mk6	01mjq
+base.ontologies.ontology_instance_mapping	04dm2p_	02nqk
+cvg.musical_game_song_relationship	06slcm	026kds	04kbkd1
+cvg.musical_game_song_relationship	0p8qnt	02plp2	04kbkd1
+cvg.musical_game_song_relationship	075sh9n	026kds	04kbkd1
+cvg.musical_game_song_relationship	0sw_qx	067gh	04kbkd1
+base.popstra.vacation_choice	0b90_r	01_ztw
+cvg.musical_game_song_relationship	05n56p3	066kp	0464gkc
+base.conservationaction.documented_priority_species	04njb7	04svj_k	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	048cw1	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0fhxv
+base.conservationaction.documented_priority_species	0k5w2	04svjxy	052t0zs	052qsfc
+cvg.musical_game_song_relationship	0512m4	026kds	0642v9q
+base.conservationaction.documented_priority_species	01l2bl	04svjys	063gzw7	063g_29
+military.military_combatant_group	06k75	01mk6
+cvg.musical_game_song_relationship	05n84lt	02plp2	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	05l8y
+base.popstra.vacation_choice	0162v	04xrx
+base.partnersinflight.population_estimate	04svjyp	01jdhl	04xh1nb
+cvg.musical_game_song_relationship	01b1gtp	067gh	0fq74z3
+cvg.musical_game_song_relationship	09q_cy	026kds	0fq74z3
+cvg.musical_game_song_relationship	05qp4q	067gh	0464gkc
+base.conservationaction.documented_priority_species	09r4h1	04svjys	052t0zs	052qsfc
+cvg.musical_game_song_relationship	04cvv5	067gh	0fq74z3
+cvg.musical_game_song_relationship	0cjv1p	066kp	025vn5m
+base.conservationaction.documented_priority_species	022zkk	04svj_c	063gzw7	063g_29
+base.conservationaction.documented_priority_species	022_tm	04svjyw	05lvpg6	05mcc04
+base.popstra.vacation_choice	0645vz_	02gpyk
+cvg.musical_game_song_relationship	0q43m_	02plp2	04kbkd1
+base.siswimsuitmodels.si_swimsuit_appearance	01n9zn	05d0b57	02xry
+cvg.musical_game_song_relationship	0797rd9	067gh	04kbkd1
+computer.software_compatibility	03cdmpr	05_30hd
+cvg.musical_game_song_relationship	07kv8c3	026kds	0fq74z3
+base.conservationaction.documented_priority_species	028mmm	04svjzx	052t0zs	052sf3n
+travel.hotel_guest_visit	0860z2	063_t
+cvg.musical_game_song_relationship	05n98qm	026kds	0642v9q
+cvg.musical_game_song_relationship	01twcs	02plp2	04kbkd1
+cvg.musical_game_song_relationship	06z8wm	067gh	04kbkd1
+base.conservationaction.documented_priority_species	028mmm	04svj_c	052t0zs	052qsfk
+cvg.musical_game_song_relationship	0ljr08	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lwttc	067gh	0fq74z3
+cvg.musical_game_song_relationship	0rshf6	067gh	0fq74z3
+cvg.musical_game_song_relationship	07n689d	02plp2	06ztwyd
+cvg.musical_game_song_relationship	05n9763	067gh	0464gkc
+cvg.musical_game_song_relationship	05qnjk	026kds	0fq74z3
+tv.regular_tv_appearance	0blt6	052l5wh	06gszp9	02qwz3w
+cvg.musical_game_song_relationship	0lgqpc	026kds	04kbkd1
+cvg.musical_game_song_relationship	0y7qtq	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01l28z	04s8p0q	063gzw7	063g_29
+cvg.musical_game_song_relationship	027dm29	026kds	025vn5m
+base.conservationaction.documented_priority_species	025zc9	04svj_k	052t0zs	052qsg0
+cvg.musical_game_song_relationship	0z44v0	067gh	0fq74z3
+cvg.musical_game_song_relationship	015_63z	067gh	0fq74z3
+cvg.musical_game_song_relationship	090g6h	067gh	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0hb6g
+cvg.musical_game_song_relationship	027hn5t	026kds	04kbkd1
+cvg.musical_game_song_relationship	03nlw9g	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0jd05
+cvg.musical_game_song_relationship	0xx86t	026kds	0fq74z3
+cvg.musical_game_song_relationship	0d1ss9	066kp	025vn5m
+base.popstra.product_choice	01l8p	0261x8t
+computer.software_compatibility	05ttm2_	04r_8
+cvg.musical_game_song_relationship	09zv67	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	0h0xm
+cvg.musical_game_song_relationship	052n5t	067gh	06ztwyd
+cvg.musical_game_song_relationship	078mcc	066kp	025vn5m
+base.ontologies.ontology_instance_mapping	04dm2p_	0hn6d
+cvg.musical_game_song_relationship	0dyqww	02plp2	04kbkd1
+cvg.musical_game_song_relationship	04cvv5	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	01zd3q	04svj_2	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	01bxztw	026kds	06ztwyd
+base.conservationaction.documented_priority_species	026b0d	05fkf	052s_zk	052sr46
+base.conservationaction.documented_priority_species	0hscv	04svjys	052t0zs	052qsf8
+computer.software_compatibility	05qh6g	0fpzzp
+cvg.musical_game_song_relationship	05b360	02plp2	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	08854
+base.popstra.vacation_choice	0261m	02gpyk
+location.partial_containment_relationship	02khs	05b5w
+cvg.musical_game_song_relationship	0xt2sn	067gh	04kbkd1
+cvg.musical_game_song_relationship	019spgc	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0lgtls	067gh	027pg4k
+base.famouspets.pet_ownership	0d3k14	05hr19q
+cvg.musical_game_song_relationship	0lf9nr	067gh	03x_n7k
+award.ranking	07xzc3_	06n3md
+base.ontologies.ontology_instance_mapping	04dm2p_	050xd
+cvg.musical_game_song_relationship	07nt5b0	067gh	04kbkd1
+film.film_regional_release_date	0b90_r	05c46y6
+cvg.musical_game_song_relationship	0lpzkb	067gh	0fq74z3
+cvg.musical_game_song_relationship	04gm3fc	026kds	0464gkc
+cvg.musical_game_song_relationship	05n9042	02plp2	06ztwyd
+cvg.musical_game_song_relationship	05kjvl	067gh	025vn5m
+cvg.musical_game_song_relationship	05v596z	026kds	04kbkd1
+cvg.musical_game_song_relationship	013372w	067gh	04kbkd1
+cvg.musical_game_song_relationship	0fckq_	026kds	0464gkc
+cvg.musical_game_song_relationship	0pdlsn	067gh	0fq74z3
+cvg.musical_game_song_relationship	0t2003	02plp2	0fq74z3
+cvg.musical_game_song_relationship	04gvv9_	067gh	0464gkc
+cvg.musical_game_song_relationship	0c9my1	026kds	04kbkd1
+cvg.musical_game_song_relationship	0h4_93	067gh	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	07bs0
+cvg.musical_game_song_relationship	07mq4dk	02plp2	04kbkd1
+cvg.musical_game_song_relationship	013bj07	026kds	04kbkd1
+cvg.musical_game_song_relationship	05n9042	026kds	06ztwyd
+base.conservationaction.documented_priority_species	01dfry	04svk00	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	07p94l	026kds	0fq74z3
+cvg.musical_game_song_relationship	0v3q38	026kds	04kbkd1
+cvg.musical_game_song_relationship	0403lxm	066kp	027pg4k
+computer.software_compatibility	06_rjk	0fpzzp
+award.hall_of_fame_induction	026ssqg	03k3r	027jbr
+cvg.musical_game_song_relationship	0lfygt	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	055z7
+cvg.musical_game_song_relationship	0ddpqs	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	01ldpz	04svjz_	063gzw7	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	0j210
+base.popstra.hangout	04fzk	0f2wj
+cvg.musical_game_song_relationship	017pnsn	02plp2	0642v9q
+base.conservationaction.documented_priority_species	028mmm	04svj_g	052t0zs	052sf3n
+base.popstra.vacation_choice	03gh4	0dn3n
+cvg.musical_game_song_relationship	07mq4jt	067gh	04kbkd1
+cvg.musical_game_song_relationship	0ldd1f	02plp2	04kbkd1
+computer.os_compatibility	05_30hd	04st90c
+base.popstra.vacation_choice	0d1qn	04xrx
+cvg.musical_game_song_relationship	07ql41	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	043zg
+cvg.musical_game_song_relationship	05n552k	067gh	0464gkc
+cvg.musical_game_song_relationship	07tk58	02plp2	04kbkd1
+cvg.musical_game_song_relationship	05n96tx	026kds	0464gkc
+base.conservationaction.documented_priority_species	01pbzc	04svjzf	05lvpg6	04mw5bd
+cvg.musical_game_song_relationship	01f34k7	067gh	025vn5m
+cvg.musical_game_song_relationship	06zhkz	067gh	04kbkd1
+cvg.musical_game_song_relationship	014rnzb	066kp	080_2k
+base.conservationaction.documented_priority_species	01np14	04svjy0	063gzw7	063g_29
+cvg.musical_game_song_relationship	07mq4dk	067gh	0fq74z3
+base.famouspets.pet_ownership	0d3k14	05hr13q
+base.conservationaction.documented_priority_species	01h2df	04svjzq	063gzw7	063g_29
+cvg.musical_game_song_relationship	05n84pb	02plp2	0fq74z3
+computer.software_compatibility	02r9n34	05_30hd
+cvg.musical_game_song_relationship	07mq4dw	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	090ll7	04svjyp	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0lnt9g	02plp2	0fq74z3
+cvg.musical_game_song_relationship	05n9l1l	066kp	025vn5m
+base.conservationaction.documented_priority_species	025zc9	04svjz_	052t0zs	052qsfv
+cvg.musical_game_song_relationship	01dph3w	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01dx8	04svj_2	05lvpg6	05mcc10
+cvg.musical_game_song_relationship	0zymps	026kds	04kbkd1
+cvg.musical_game_song_relationship	0q43m_	026kds	025vn5m
+cvg.musical_game_song_relationship	0llz38	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01l3sx	04svjyz	063gzw7	063g_29
+cvg.musical_game_song_relationship	05n97q6	066kp	06ztwyd
+base.conservationaction.documented_priority_species	02ptsck	059g4	052t0zs	052t29l
+base.conservationaction.documented_priority_species	01v857	04svjy6	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0ds2d7	067gh	025vn5m
+cvg.musical_game_song_relationship	0xt2sn	02plp2	0fq74z3
+cvg.musical_game_song_relationship	013srq3	02plp2	04kbkd1
+cvg.musical_game_song_relationship	06y3rd	026kds	025vn5m
+base.conservationaction.documented_priority_species	0bd5fk	05fkf	052s_zk	052sr49
+cvg.musical_game_song_relationship	0lf2w9	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0f6fz
+base.ontologies.ontology_instance_mapping	04dm2p_	0dw_m
+cvg.musical_game_song_relationship	0lccwf	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	07swp8	04svj_r	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0p9v6r	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0lfg_q	026kds	04kbkd1
+cvg.musical_game_song_relationship	07npb65	026kds	06ztwyd
+computer.software_compatibility	027xs7j	05_30hd
+cvg.musical_game_song_relationship	0dzqwn_	026kds	0fq74z3
+cvg.musical_game_song_relationship	09q_cy	067gh	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	01_c4
+computer.software_compatibility	058b6	04pbzc
+base.ontologies.ontology_instance_mapping	04dm2p_	02qwg
+base.popstra.vacation_choice	0jbt3	05r5w
+base.popstra.vacation_choice	03gh4	07ss8_
+base.conservationaction.documented_priority_species	047nky	04svj_c	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	0333t
+cvg.musical_game_song_relationship	04rpmd	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	01np2h	04svjz7	063gzw7	063g_29
+computer.software_compatibility	06ny5h	0fpzzp
+computer.software_compatibility	03myz4	0fpzzp
+cvg.musical_game_song_relationship	0ljlhg	026kds	0fq74z3
+cvg.musical_game_song_relationship	0lzmnr	02plp2	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0jzw
+cvg.musical_game_song_relationship	0lq4xs	026kds	0fq74z3
+base.conservationaction.documented_priority_species	022zkk	04svjyz	063gzw7	063g_29
+base.conservationaction.documented_priority_species	01hjj1	04svjys	05lvpg6	063g_29
+tv.tv_regular_personal_appearance	0cpz4k	0hr37_5	0164nb
+cvg.musical_game_song_relationship	0l_1gm	067gh	0642v9q
+base.conservationaction.documented_priority_species	01l3sx	04svk06	063gzw7	063g_29
+base.ontologies.ontology_instance_mapping	04dm2p_	088xp
+base.conservationaction.documented_priority_species	028mmm	04svj_5	052t0zs	052qsfv
+base.conservationaction.documented_priority_species	07dtlv	059g4	052t0zs	052t29l
+base.popstra.support	064644k	01515w
+cvg.musical_game_song_relationship	019xs5r	026kds	04kbkd1
+base.popstra.product_choice	026kds	01n5309
+base.ontologies.ontology_instance_mapping	04dm2p_	0jq56
+base.ontologies.ontology_instance_mapping	04dm2p_	07wjk
+base.conservationaction.documented_priority_species	01l3sx	04svjzt	063gzw7	063g_29
+cvg.musical_game_song_relationship	04f43fp	026kds	04kbkd1
+cvg.musical_game_song_relationship	08p9hj	026kds	04kbkd1
+base.popstra.religion_choice	0c8wxp	0d3k14
+computer.software_compatibility	03nmcq	0fpzzp
+base.ontologies.ontology_instance_mapping	04dm2p_	0b41h
+base.conservationaction.documented_priority_species	0k5w2	04svjys	052t0zs	052sdr9
+base.ontologies.ontology_instance_mapping	04dm2p_	03lrc
+cvg.musical_game_song_relationship	0v3q38	067gh	0fq74z3
+cvg.musical_game_song_relationship	02vq9wl	066kp	03x_n7k
+cvg.musical_game_song_relationship	01243s	067gh	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	0157m
+cvg.musical_game_song_relationship	04l9g7	026kds	04kbkd1
+base.conservationaction.documented_priority_species	06p_1_	04svjys	052t0zs	052sdr1
+cvg.musical_game_song_relationship	07147m	067gh	04kbkd1
+cvg.musical_game_song_relationship	0lf9mw	026kds	04kbkd1
+base.popstra.product_choice	0cy27	016tbr
+base.ontologies.ontology_instance_mapping	04dm2p_	04pm6
+base.popstra.vacation_choice	03qzkz	01vswwx
+base.ontologies.ontology_instance_mapping	04dm2p_	0hkq4
+cvg.musical_game_song_relationship	01dnq5w	066kp	0464gkc
+cvg.musical_game_song_relationship	07t5zwq	02plp2	06ztwyd
+cvg.musical_game_song_relationship	0q6nfv	067gh	0fq74z3
+cvg.musical_game_song_relationship	033vqc	026kds	04kbkd1
+cvg.musical_game_song_relationship	05nbltm	066kp	025vn5m
+base.conservationaction.documented_priority_species	028mmm	04svj_5	052t0zs	052sf3n
+base.ontologies.ontology_instance_mapping	04dm2p_	06q07
+cvg.musical_game_song_relationship	08n14j	02plp2	04kbkd1
+computer.software_compatibility	06cs0f	0716b6
+cvg.musical_game_song_relationship	0816cq	067gh	025vn5m
+cvg.musical_game_song_relationship	04gm3fc	02plp2	06ztwyd
+base.conservationaction.documented_priority_species	0560s3q	04svj_g	05lvpg6	05mcc0t
+cvg.musical_game_song_relationship	090kp1	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01jsmq	04svjyz	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	0544gc	04svk09	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	05n96x3	02plp2	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	0c_y8
+tv.tv_regular_personal_appearance	05fgr_	0pm6bl5	01pctb
+cvg.musical_game_song_relationship	0lpnsj	067gh	04kbkd1
+base.conservationaction.documented_priority_species	04njb7	04svjxy	05lvpg6	05mcc04
+music.track_contribution	07gql	04n32
+cvg.musical_game_song_relationship	0r_5k3	026kds	04kbkd1
+cvg.musical_game_song_relationship	0ljdbp	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0m1d6v	026kds	0fq74z3
+cvg.musical_game_song_relationship	075wsgf	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0h03jz	026kds	025vn5m
+cvg.musical_game_song_relationship	05h9dh	02plp2	0464gkc
+cvg.musical_game_song_relationship	07n68_6	066kp	0642v9q
+computer.software_compatibility	03tsf2	04r_8
+base.conservationaction.documented_priority_species	014r18	04svjys	052t0zs	052qscy
+base.conservationaction.documented_priority_species	01dx8	04svjyp	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	0ls4w9	067gh	0fq74z3
+base.conservationaction.documented_priority_species	014r18	04svjyw	05lvpg6	05mcc10
+computer.software_compatibility	02q92ht	0fpzzp
+base.popstra.arrest	02xry	07pnk	0364m5
+base.ontologies.ontology_instance_mapping	04dm2p_	0k5j
+cvg.musical_game_song_relationship	02pwqg0	067gh	04kbkd1
+location.location_symbol_relationship	04ly1	04627hh
+base.ontologies.ontology_instance_mapping	04dm2p_	07f1x
+cvg.musical_game_song_relationship	05n9707	066kp	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	06dv3
+base.conservationaction.documented_priority_species	022zkk	04svk06	063gzw7	063g_29
+cvg.musical_game_song_relationship	0nhr8d	026kds	04kbkd1
+cvg.musical_game_song_relationship	027943m	026kds	04kbkd1
+base.conservationaction.documented_priority_species	01tdf2	059g4	05bq8tr	0590347
+base.ontologies.ontology_instance_mapping	04dm2p_	018x3
+cvg.musical_game_song_relationship	05nbltm	02plp2	025vn5m
+base.conservationaction.documented_priority_species	01qh4z	04svj_g	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	021pkm	04svjys	052t0zs	052qsfc
+base.conservationaction.documented_priority_species	01y5hf	059g4	052t0zs	052r47m
+cvg.musical_game_song_relationship	074fzm	067gh	0464gkc
+cvg.musical_game_song_relationship	0mfxgx	02plp2	0464gkc
+cvg.musical_game_song_relationship	0m4vrk	067gh	04kbkd1
+base.conservationaction.documented_priority_species	0561gn6	04svjzx	05lvpg6	05mcc04
+base.conservationaction.documented_priority_species	01blnh	059g4	052t0zs	03gc0km
+base.conservationaction.documented_priority_species	090pl3	04svk00	052t0zs	052qsfr
+computer.software_compatibility	05kc73	085_2
+cvg.musical_game_song_relationship	0_kw5x	02plp2	0fq74z3
+cvg.musical_game_song_relationship	02qsyq9	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	028mmm	04svj_k	052t0zs	052qsfc
+cvg.musical_game_song_relationship	0ls4w9	067gh	04kbkd1
+base.conservationaction.documented_priority_species	02cdsj	04svjyw	05lvpg6	05mcc0l
+award.ranking	07xzc3_	05rp1k
+cvg.musical_game_song_relationship	060ch6	02plp2	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	0ddnl
+cvg.musical_game_song_relationship	06dlyz	066kp	06ztwyd
+cvg.musical_game_song_relationship	0lrx58	067gh	04kbkd1
+cvg.musical_game_song_relationship	0pfry3	02plp2	0642v9q
+cvg.musical_game_song_relationship	0d0xd3	066kp	025vn5m
+cvg.musical_game_song_relationship	075vqph	02plp2	04kbkd1
+cvg.musical_game_song_relationship	06n49d	026kds	0464gkc
+cvg.musical_game_song_relationship	0yc77y	067gh	0fq74z3
+base.conservationaction.documented_priority_species	06ys27	059g4	052t0zs	052qsj2
+cvg.musical_game_song_relationship	0bhc9h3	02plp2	04kbkd1
+base.popstra.operation	075f_2	05dbf
+base.popstra.public_insult	015f7	0161c2
+cvg.musical_game_song_relationship	04bz52	026kds	0642v9q
+cvg.musical_game_song_relationship	05n973q	02plp2	06ztwyd
+cvg.musical_game_song_relationship	0f2hvr	067gh	0642v9q
+cvg.musical_game_song_relationship	0pg2r5	02plp2	04kbkd1
+cvg.musical_game_song_relationship	026qzd7	02plp2	0642v9q
+base.ontologies.ontology_instance_mapping	04dm2p_	0l0xy
+base.conservationaction.documented_priority_species	01dx8	04svjxy	052t0zs	052qsgw
+cvg.musical_game_song_relationship	0md1n_	067gh	0fq74z3
+base.conservationaction.documented_priority_species	01pbzc	05fkf	052s_zk	052tntd
+cvg.musical_game_song_relationship	0s6plq	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	014r18	04svj_k	05lvpg6	05mcc10
+cvg.musical_game_song_relationship	075w65l	02plp2	04kbkd1
+base.conservationaction.documented_priority_species	0269_l	04svjyz	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	017q6wg	02x8rd	04kbkd1
+base.conservationaction.documented_priority_species	090pl3	04svj_y	052t0zs	052qsg0
+computer.software_compatibility	090_xj	055yr
+base.popstra.public_insult	01vswwx	06dv3
+base.popstra.vacation_choice	0d1qn	0443y3
+cvg.musical_game_song_relationship	0lf9mn	026kds	0fq74z3
+cvg.musical_game_song_relationship	0_k62v	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0jbp0
+computer.software_compatibility	03b_k_t	04r_8
+cvg.musical_game_song_relationship	0lfk2f	02plp2	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	05x_5
+cvg.musical_game_song_relationship	0mlv3j	067gh	04kbkd1
+cvg.musical_game_song_relationship	0ngh1y	067gh	0464gkc
+cvg.musical_game_song_relationship	0lnx9q	067gh	04kbkd1
+base.conservationaction.documented_priority_species	01l3sx	04svjz1	063gzw7	063g_29
+computer.software_compatibility	0bqny4	04r_8
+cvg.musical_game_song_relationship	075sm6z	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	0cmpn
+base.conservationaction.documented_priority_species	028mmm	04svj_5	052t0zs	052qsh1
+cvg.musical_game_song_relationship	011zgmr	067gh	0fq74z3
+cvg.musical_game_song_relationship	075vpyp	067gh	04kbkd1
+cvg.musical_game_song_relationship	0797rd9	02x8rd	04kbkd1
+cvg.musical_game_song_relationship	06z8wm	067gh	0fq74z3
+award.ranking	07xzc3_	01pk8v
+cvg.musical_game_song_relationship	0nft9n	026kds	04kbkd1
+cvg.musical_game_song_relationship	0mp4sr	026kds	04kbkd1
+base.popstra.vacation_choice	0jbt3	03zqc1
+base.conservationaction.documented_priority_species	0k5w2	04svjxy	052t0zs	052qsgw
+cvg.musical_game_song_relationship	0nbl5t	026kds	0fq74z3
+award.ranking	07xzc3_	067sqt
+cvg.musical_game_song_relationship	0735c9	066kp	0cnjm0
+cvg.musical_game_song_relationship	0lzmnj	067gh	0fq74z3
+cvg.musical_game_song_relationship	05n91nv	026kds	0464gkc
+base.ontologies.ontology_instance_mapping	04dm2p_	07_kq
+computer.software_compatibility	058b6	0kyzf
+base.ontologies.ontology_instance_mapping	04dm2p_	0c4f4
+cvg.musical_game_song_relationship	03qjr_3	026kds	0fq74z3
+cvg.musical_game_song_relationship	0mggqj	02plp2	04kbkd1
+cvg.musical_game_song_relationship	07nt5dw	02plp2	0fq74z3
+cvg.musical_game_song_relationship	05srzl	026kds	0464gkc
+cvg.musical_game_song_relationship	0tqshc	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	01v_3l	04svjzx	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	05n98s9	067gh	0fq74z3
+cvg.musical_game_song_relationship	0dvdws0	02plp2	0fq74z3
+base.conservationaction.documented_priority_species	028mmm	04svj_8	052t0zs	052qsh1
+base.ontologies.ontology_instance_mapping	04dm2p_	0138t
+cvg.musical_game_song_relationship	03h45lf	02plp2	0fq74z3
+cvg.musical_game_song_relationship	05n991w	067gh	06ztwyd
+cvg.musical_game_song_relationship	0yy9qj	02plp2	0fq74z3
+cvg.musical_game_song_relationship	0dzgd9	026kds	0464gkc
+base.conservationaction.documented_priority_species	03fzm4	04svjzt	05lvpg6	05mcc04
+cvg.musical_game_song_relationship	0djhxs	026kds	0fq74z3
+base.ontologies.ontology_instance_mapping	04dm2p_	03sc8
+cvg.musical_game_song_relationship	05nbvsw	066kp	025vn5m
+computer.software_compatibility	04lg2zc	04r_8
+base.famouspets.pet_ownership	0d3k14	05hr200
+cvg.musical_game_song_relationship	096ydc	067gh	0464gkc
+base.conservationaction.documented_priority_species	04y7z3	04svjzf	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	082pc
+base.ontologies.ontology_instance_mapping	04dm2p_	07g9f
+cvg.musical_game_song_relationship	0llym2	02plp2	04kbkd1
+cvg.musical_game_song_relationship	013flpq	067gh	0fq74z3
+cvg.musical_game_song_relationship	0mfxft	02plp2	0fq74z3
+tv.tv_regular_personal_appearance	03cgq24	0vp5g0j	05_5_yh
+cvg.musical_game_song_relationship	0xt2sn	067gh	0fq74z3
+base.popstra.operation	075f_2	015f7
+base.ontologies.ontology_instance_mapping	04dm2p_	0g10g
+tv.tv_regular_personal_appearance	063ztgx	0641zv2	02z3d24
+cvg.musical_game_song_relationship	04jl8jn	02plp2	0642v9q
+base.conservationaction.documented_priority_species	025zc9	04svjz4	052t0zs	052qsgw
+base.conservationaction.documented_priority_species	07h64p	04svjzm	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	01hsb3	059g4	052t0zs	052qsh_
+cvg.musical_game_song_relationship	04n15x7	02plp2	0464gkc
+cvg.musical_game_song_relationship	0lnx9q	02plp2	04kbkd1
+cvg.musical_game_song_relationship	0111bls	067gh	04kbkd1
+cvg.musical_game_song_relationship	075w695	026kds	04kbkd1
+base.ontologies.ontology_instance_mapping	04dm2p_	068cn
+cvg.musical_game_song_relationship	011cnl5	067gh	0fq74z3
+base.conservationaction.documented_priority_species	07fglh	04svj_c	05lvpg6	05mcc0l
+base.ontologies.ontology_instance_mapping	04dm2p_	0jbs5
+cvg.musical_game_song_relationship	05nctfn	066kp	025vn5m
+base.conservationaction.documented_priority_species	01hjj1	04svj_v	063gzw7	063g_29
+cvg.musical_game_song_relationship	05c9brr	02plp2	04kbkd1
+people.marriage	05xy0_1	02xry
+cvg.musical_game_song_relationship	0b8lyl	026kds	06ztwyd
+cvg.musical_game_song_relationship	0x4kw6	02plp2	027pg4k
+cvg.musical_game_song_relationship	05n9763	02plp2	06ztwyd
+cvg.musical_game_song_relationship	0chxm9	026kds	0fq74z3
+cvg.musical_game_song_relationship	075smp4	02plp2	0fq74z3
+cvg.musical_game_song_relationship	01f7cy_	067gh	0fq74z3
+computer.software_compatibility	02ng61	04r_8
+cvg.musical_game_song_relationship	0dy0sz	026kds	06ztwyd
+base.ontologies.ontology_instance_mapping	04dm2p_	01mk6
+computer.software_compatibility	04208y	01j9n
+base.ontologies.ontology_instance_mapping	04dm2p_	0834r
+base.popstra.religion_choice	03_gx	01k5zk
+computer.software_compatibility	0fsmm6	0716b6
+base.conservationaction.documented_priority_species	014r18	04svjy3	05lvpg6	05mcc10
+cvg.musical_game_song_relationship	01f7ck2	026kds	04kbkd1
+base.conservationaction.documented_priority_species	014r18	04svj_c	05lvpg6	05mcc10
+base.conservationaction.documented_priority_species	07rk94	04svk00	05lvpg6	05mcc0l
+base.conservationaction.documented_priority_species	07db8q	04svjy9	05lvpg6	05mcc0l
+cvg.musical_game_song_relationship	025sd6q	067gh	025vn5m
+cvg.musical_game_song_relationship	01g127	067gh	04kbkd1
+cvg.musical_game_song_relationship	026qhkb	066kp	05n03yl
