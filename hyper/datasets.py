@@ -28,9 +28,9 @@ class Hypergraph_Dataset:
 
         current_path = os.getcwd().split("/")
         if current_path[-4] != "output": 
-            self.dir = os.path.join("../../../../../hypergraph_dataset", ds_name) # because in inductive, version is included in the dataset name
+            self.dir = os.path.join("/content/HYPER/hypergraph_dataset", ds_name) # because in inductive, version is included in the dataset name
         else:
-            self.dir = os.path.join("../../../../hypergraph_dataset", ds_name)
+            self.dir = os.path.join("/content/HYPER/hypergraph_dataset", ds_name)
         self.batch_per_epoch = None
         
         # id zero means no entity. Entity ids start from 1.

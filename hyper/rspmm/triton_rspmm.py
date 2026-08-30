@@ -258,7 +258,7 @@ def hyper_relconv_aggregate_sum_kernel_v2u_forward(
 
     feat_offsets_array = tl.broadcast_to(tl.expand_dims(feat_offsets, 0), (ARITY_SIZE, WG_SIZE))
     dummy_arity_mask = tl.broadcast_to(tl.expand_dims(tl.arange(0, ARITY_SIZE), 1), (ARITY_SIZE, WG_SIZE)) < MAX_ARITY - 1 # mask for the maximum arity; 2D array that assigns all the row greater than MAX_ARITY - 1 to 0
-    feat_valid_mask_array = (feat_offsets_array < IN_CHAN) and dummy_arity_mask # By default the feat_offsets_array < IN_CHAN cut off the columns laters, and by land we cut off the rows that are greater than MAX_ARITY - 1
+    feat_valid_mask_array = (feat_offsets_array < IN_CHAN) & dummy_arity_mask # By default the feat_offsets_array < IN_CHAN cut off the columns laters, and by land we cut off the rows that are greater than MAX_ARITY - 1
     feat_zeros_array = tl.zeros((ARITY_SIZE, WG_SIZE), dtype=tl.float32)
     feat_ones_array = tl.full((ARITY_SIZE, WG_SIZE),1, dtype=tl.float32)
 
@@ -419,7 +419,7 @@ def hyper_relconv_aggregate_sum_kernel_v2u_backward(
     
     feat_offsets_array = tl.broadcast_to(tl.expand_dims(feat_offsets, 0), (ARITY_SIZE, WG_SIZE))
     dummy_arity_mask = tl.broadcast_to(tl.expand_dims(tl.arange(0, ARITY_SIZE), 1), (ARITY_SIZE, WG_SIZE)) < MAX_ARITY - 1 # mask for the maximum arity; 2D array that assigns all the row greater than MAX_ARITY - 1 to 0
-    feat_valid_mask_array = (feat_offsets_array < IN_CHAN) and dummy_arity_mask # By default the feat_offsets_array < IN_CHAN cut off the columns laters, and by land we cut off the rows that are greater than MAX_ARITY - 1
+    feat_valid_mask_array = (feat_offsets_array < IN_CHAN) & dummy_arity_mask # By default the feat_offsets_array < IN_CHAN cut off the columns laters, and by land we cut off the rows that are greater than MAX_ARITY - 1
     feat_zeros_array = tl.zeros((ARITY_SIZE, WG_SIZE), dtype=tl.float32)
     feat_ones_array = tl.full((ARITY_SIZE, WG_SIZE),1, dtype=tl.float32)
 

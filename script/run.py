@@ -277,7 +277,8 @@ if __name__ == "__main__":
             # validation filtering graph: train edges + validation edges
             val_filtered_data = Data(
                 edge_index=torch.cat([train_data.edge_index, valid_data.target_edge_index], dim=1),
-                edge_type=torch.cat([train_data.edge_type, valid_data.target_edge_type], num_nodes = valid_data.num_nodes)
+                edge_type=torch.cat([train_data.edge_type, valid_data.target_edge_type]),
+                num_nodes=valid_data.num_nodes
             )
     else:
         # for transductive setting, use the whole graph for filtered ranking

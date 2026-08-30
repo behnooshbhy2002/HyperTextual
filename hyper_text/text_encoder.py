@@ -97,7 +97,7 @@ def build_text_lookup(
             device=device,
         ).float()
 
-    embeddings = embeddings.cpu()
+    embeddings = embeddings.clone()
     embeddings[0] = 0.0  # padding id always maps to the zero vector
 
     if cache_path is not None:
