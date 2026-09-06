@@ -32,7 +32,6 @@ sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from hyper import util
 from hyper_text.text_datasets import build_text_hypergraph_dataset
 from hyper_text.text_models import TextHYPER
-from hyper_text.model_factory import build_model
 
 
 def _load_run_py_functions():
@@ -94,7 +93,6 @@ if __name__ == "__main__":
         text_cache_dir=os.path.expanduser(cfg.text.cache_dir) if cfg.text.get("cache_dir") else None,
         inductive_dataset=True,
         alternative_build=True,
-        attach_text=cfg.model.get("use_text", True),
     )
     train_data = train_data.to(device)
     valid_data = valid_data.to(device)
@@ -102,20 +100,16 @@ if __name__ == "__main__":
 
     # ---- build model -------------------------------------------------
     assert cfg.model["class"] == "TextHYPER", "run_text.py only supports model.class: TextHYPER"
-    # model = TextHYPER(
-    #     rel_model_cfg=cfg.model.relation_model,
-    #     entity_model_cfg=cfg.model.entity_model,
-    # )
-    cfg.model.num_relations = dataset.num_rel()
-    model = build_model(cfg)
+    model = TextHYPER(
+        rel_model_cfg=cfg.model.relation_model,
+        entity_model_cfg=cfg.model.entity_model,
+    )
 
     if "checkpoint" in cfg and cfg.checkpoint is not None:
         state = torch.load(cfg.checkpoint, map_location="cpu")
         model.load_state_dict(state["model"])
 
     model = model.to(device)
-
-    
 
     # ---- filtering graphs (identical logic to script/run.py) ------------
     if task_name == "InductiveInference":
@@ -152,15 +146,6 @@ if __name__ == "__main__":
 
     val_filtered_data = val_filtered_data.to(device)
     test_filtered_data = test_filtered_data.to(device)
-
-
-    # <<< DEBUG: حذف کنید بعد از چک
-    print(f"[DEBUG] dataset: {cfg.dataset['class']}")
-    print(f"[DEBUG] train num_nodes: {train_data.num_nodes}")
-    print(f"[DEBUG] train num_relations: {train_data.num_relations}")
-    print(f"[DEBUG] max_arity: {train_data.max_arity}")
-    # DEBUG >>>
-
 
     train_and_validate(
         cfg, model, train_data, valid_data, filtered_data=val_filtered_data,
