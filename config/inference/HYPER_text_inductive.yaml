@@ -18,7 +18,7 @@ model:
   class: TextHYPER
   use_grel: no       # no = G-rel/RelHCNet کاملاً کنار گذاشته می‌شود (ایده اصلی فعلی شما)
   use_text: yes      # yes = فیوژن متنی entity/relation فعال است
-  num_relations: {{ num_relations }}   # فقط وقتی use_grel: no لازم است
+  # num_relations: {{ num_relations }}   # فقط وقتی use_grel: no لازم است
   relation_model:
     class: TextRelHCNet
     input_dim: 64

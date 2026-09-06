@@ -106,6 +106,7 @@ if __name__ == "__main__":
     #     rel_model_cfg=cfg.model.relation_model,
     #     entity_model_cfg=cfg.model.entity_model,
     # )
+    cfg.model.num_relations = dataset.num_rel()
     model = build_model(cfg)
 
     if "checkpoint" in cfg and cfg.checkpoint is not None:
