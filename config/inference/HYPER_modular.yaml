@@ -1,0 +1,67 @@
+output_dir: ~/HYPER/output
+
+dataset:
+  class: {{ dataset }}
+  root: ~/HYPER/kg-datasets/
+  version: {{ version }}
+
+# ── two switches ──────────────────────────────────────────────────────────────
+#   use_grel: true   →  original G_rel + RelHCNet  (paper's core idea)
+#   use_grel: false  →  bypass G_rel; use a plain relation embedding table
+#
+#   use_text: true   →  inject ent/rel text embeddings via TextFusion
+#   use_text: false  →  no text signal; math identical to original paper
+#
+#   valid combinations:
+#     use_grel: true,  use_text: false  →  original HYPER (exact reproduction)
+#     use_grel: false, use_text: true   →  text-only baseline  ← your new idea
+#     use_grel: true,  use_text: true   →  full combined model
+#     use_grel: false, use_text: false  →  transductive embedding table only
+# ─────────────────────────────────────────────────────────────────────────────
+use_grel: {{ use_grel | default(true) }}
+use_text: {{ use_text | default(true) }}
+
+# ── text settings (ignored when use_text: false) ──────────────────────────────
+text:
+  ent_raw2text_path: {{ ent_text_json | default(null) }}
+  rel_raw2text_path: {{ rel_text_json | default(null) }}
+  model_name: sentence-transformers/all-MiniLM-L6-v2
+  cache_dir: ~/HYPER/text_cache
+  text_dim: 384
+  fusion_type: gated        # additive | gated | concat_mlp | film
+  text_dropout: 0.1
+
+model:
+  class: ModularHYPER
+  relation_model:
+    input_dim: 64
+    hidden_dims: [64, 64, 64, 64, 64, 64]
+    aggregate_func: sum
+    short_cut: yes
+    use_triton: yes
+  entity_model:
+    input_dim: 64
+    hidden_dims: [64, 64, 64, 64, 64, 64]
+    aggregate_func: sum
+    short_cut: yes
+    use_triton: yes
+
+optimizer:
+  class: AdamW
+  lr: 5.0e-4
+
+task:
+  name: InductiveInference
+  num_negative: 256
+  strict_negative: yes
+  adversarial_temperature: 1
+  metric: [mr, mrr, hits@1, hits@3, hits@10]
+
+train:
+  gpus: {{ gpus }}
+  batch_size: 32
+  num_epoch: {{ epochs }}
+  log_interval: 100
+  batch_per_epoch: {{ bpe }}
+
+checkpoint: {{ ckpt }}
