@@ -42,6 +42,7 @@ def build_text_hypergraph_dataset(
     inductive_dataset: bool = True,
     alternative_build: bool = True,
     binary_dataset: bool = False,
+    attach_text=True,
 ):
     """
     Drop-in analogue of `hyper.datasets.build_hypergraph_dataset`, but also
@@ -99,6 +100,12 @@ def build_text_hypergraph_dataset(
     valid_data = build_weighted_graph(valid_data)
     test_data = build_weighted_graph(test_data)
 
+    if not attach_text:
+        for split in (train_data, valid_data, test_data):
+            split.ent_text_emb = None
+            split.rel_text_emb = None
+        return train_data, valid_data, test_data, dataset
+    
     # ---- build text lookup tables --------------------------------------
     id2ent_raw = {v: k for k, v in dataset.ent2id.items()}
     id2rel_raw = {v: k for k, v in dataset.rel2id.items()}

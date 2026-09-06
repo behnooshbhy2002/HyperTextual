@@ -32,7 +32,7 @@ from torch import nn
 from torch.nn import functional as F
 
 from hyper.util import static_positional_encoding
-from hyper.models import RelHCNet, EntityHCNet
+from hyper.models import RelHCNet, EntityHCNet, TransductiveHCNet
 from hyper import tasks
 
 
@@ -116,9 +116,20 @@ class TextRelHCNet(RelHCNet):
         if rel_text_emb is not None:
             padded_text = torch.cat(
                 [torch.zeros(1, rel_text_emb.size(-1), device=rel_text_emb.device), rel_text_emb], dim=0
-            )  # (num_relations + 1, text_dim), row 0 = padding
-            text_feat = padded_text.unsqueeze(0).expand(batch_size, -1, -1)  # (B, num_nodes, text_dim)
-            init_feature = self.text_fusion(init_feature, text_feat)
+            )
+            text_proj = self.text_fusion.text_dropout(self.text_fusion.proj(padded_text))   # (num_nodes, model_dim) -- بدون batch
+            text_proj = text_proj.unsqueeze(0).expand(batch_size, -1, -1)                    # فقط expand، نه محاسبه‌ی تکراری
+
+            if self.text_fusion.fusion_type == "additive":
+                init_feature = init_feature + text_proj
+            elif self.text_fusion.fusion_type == "gated":
+                g = torch.sigmoid(self.text_fusion.gate(torch.cat([init_feature, text_proj], dim=-1)))
+                init_feature = g * init_feature + (1 - g) * text_proj
+            elif self.text_fusion.fusion_type == "film":
+                scale, shift = self.text_fusion.film(text_proj).chunk(2, dim=-1)
+                init_feature = init_feature * (1 + scale) + shift
+            elif self.text_fusion.fusion_type == "concat_mlp":
+                init_feature = self.text_fusion.mix(torch.cat([init_feature, text_proj], dim=-1))
         # <<< TEXT
 
         init_feature[:, self.padding_idx, :] = 0  # clear the padding node
@@ -222,15 +233,47 @@ class TextEntityHCNet(EntityHCNet):
         # else in HYPER (id 0 = padding -> zero vector already guaranteed by
         # build_text_lookup()), so no extra shifting is needed here (unlike
         # the relation side, entity ids are not re-based inside this class).
+        # if ent_text_emb is not None:
+        #     entity_id_per_slot = all_idx[:, :, 0] * result_tensor                # (B, max_arity)
+        #     node_text = ent_text_emb[entity_id_per_slot]                          # (B, max_arity, text_dim) -- ارزون
+
+        #     # همون featureای که همین الان (query+pos) روی این اسلات‌ها نشوندیم رو برگردون
+        #     struct_per_slot = init_feature.gather(1, index_arity_without_self)    # (B, max_arity, dims[0])
+
+        #     fused_per_slot = self.text_fusion(struct_per_slot, node_text)         # (B, max_arity, dims[0]) -- ارزون
+        #     fused_per_slot = fused_per_slot * result_tensor.unsqueeze(-1)         # اسلات padding را دست‌نخورده نگه دار
+
+        #     init_feature = init_feature.scatter(dim=1, index=index_arity_without_self, src=fused_per_slot)
         if ent_text_emb is not None:
-            text_dim = ent_text_emb.size(-1)
-            # entity id for each (batch, arity-slot), 0 for the masked-out slot(s)
-            entity_id_per_slot = all_idx[:, :, 0] * result_tensor           # (B, max_arity)
-            node_text = ent_text_emb[entity_id_per_slot]                    # (B, max_arity, text_dim)
-            text_index = index_arity_without_self[..., :1].expand(-1, -1, text_dim)  # reuses the same node ids
-            text_feature = torch.zeros(batch_size, num_nodes, text_dim, device=r_idx.device)
-            text_feature.scatter_add_(dim=1, index=text_index, src=node_text)
-            init_feature = self.text_fusion(init_feature, text_feature)
+            # فقط روی max_arity اسلات فعال کار کن، نه روی کل num_nodes
+            entity_id_per_slot = all_idx[:, :, 0] * result_tensor        # (B, max_arity)
+            node_text = ent_text_emb[entity_id_per_slot]                  # (B, max_arity, text_dim=384)
+            node_text_proj = self.text_fusion.text_dropout(
+                self.text_fusion.proj(node_text)
+            )                                                              # (B, max_arity, model_dim=64) -- ارزون
+
+            # struct feature همین اسلات‌ها رو بگیر، fuse کن، برگردون
+            struct_per_slot = init_feature.gather(1, index_arity_without_self)   # (B, max_arity, model_dim)
+
+            # فیوژن فقط روی (B, max_arity, dim) نه (B, num_nodes, dim)
+            if self.text_fusion.fusion_type == "additive":
+                fused = struct_per_slot + node_text_proj
+            elif self.text_fusion.fusion_type == "gated":
+                g = torch.sigmoid(self.text_fusion.gate(
+                    torch.cat([struct_per_slot, node_text_proj], dim=-1)
+                ))
+                fused = g * struct_per_slot + (1 - g) * node_text_proj
+            elif self.text_fusion.fusion_type == "film":
+                scale, shift = self.text_fusion.film(node_text_proj).chunk(2, dim=-1)
+                fused = struct_per_slot * (1 + scale) + shift
+            elif self.text_fusion.fusion_type == "concat_mlp":
+                fused = self.text_fusion.mix(
+                    torch.cat([struct_per_slot, node_text_proj], dim=-1)
+                )
+
+            fused = fused * result_tensor.unsqueeze(-1)  # اسلات‌های padding را صفر نگه دار
+            init_feature = init_feature.scatter(dim=1, index=index_arity_without_self, src=fused)
+        
         # <<< TEXT
 
         init_feature[:, 0, :] = 0  # clear the padding node
@@ -299,4 +342,20 @@ class TextHYPER(nn.Module):
 
     def forward(self, data, batch):
         score = self.entity_model(data, batch, self.relation_model)
+        return score
+
+
+class TextTransductiveHCNet(nn.Module):
+    """
+    حالت خالص textual: بدون G_rel و بدون RelHCNet (شبیه TransductiveHCNet پایه)،
+    ولی entity scorer از TextEntityHCNet است تا امبدینگ متنی انتیتی‌ها تزریق شود.
+    """
+    def __init__(self, entity_model_cfg, num_relations):
+        super().__init__()
+        self.entity_model = TextEntityHCNet(
+            **entity_model_cfg, transductive_hcnet=True, num_relations=num_relations
+        )
+
+    def forward(self, data, batch):
+        score = self.entity_model(data, batch, relation_model=None)
         return score
