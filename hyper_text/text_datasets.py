@@ -99,36 +99,34 @@ def build_text_hypergraph_dataset(
     valid_data = build_weighted_graph(valid_data)
     test_data = build_weighted_graph(test_data)
 
-    # ---- build text lookup tables --------------------------------------
-    id2ent_raw = {v: k for k, v in dataset.ent2id.items()}
-    id2rel_raw = {v: k for k, v in dataset.rel2id.items()}
+    # ---- build text lookup tables (skipped when text_model_name is None) ------
+    if text_model_name is not None:
+        id2ent_raw = {v: k for k, v in dataset.ent2id.items()}
+        id2rel_raw = {v: k for k, v in dataset.rel2id.items()}
 
-    ent_raw2text = ent_raw2text or {}
-    rel_raw2text = rel_raw2text or {}
+        ent_raw2text = ent_raw2text or {}
+        rel_raw2text = rel_raw2text or {}
 
-    # fall back to the raw id string itself when no mapping was supplied
-    ent_id2text = _ids_to_texts(id2ent_raw, ent_raw2text, default="")
-    for i, raw in id2ent_raw.items():
-        if i != 0 and i not in ent_raw2text and raw not in ent_raw2text:
-            ent_id2text[i] = raw  # best-effort fallback: use the raw id as text
-    rel_id2text = _ids_to_texts(id2rel_raw, rel_raw2text, default="")
-    for i, raw in id2rel_raw.items():
-        if raw not in rel_raw2text:
-            rel_id2text[i] = raw
+        ent_id2text = _ids_to_texts(id2ent_raw, ent_raw2text, default="")
+        for i, raw in id2ent_raw.items():
+            if i != 0 and i not in ent_raw2text and raw not in ent_raw2text:
+                ent_id2text[i] = raw
+        rel_id2text = _ids_to_texts(id2rel_raw, rel_raw2text, default="")
+        for i, raw in id2rel_raw.items():
+            if raw not in rel_raw2text:
+                rel_id2text[i] = raw
 
-    ent_cache = f"{text_cache_dir}/{name}_entity_text.pt" if text_cache_dir else None
-    rel_cache = f"{text_cache_dir}/{name}_relation_text.pt" if text_cache_dir else None
+        ent_cache = f"{text_cache_dir}/{name}_entity_text.pt" if text_cache_dir else None
+        rel_cache = f"{text_cache_dir}/{name}_relation_text.pt" if text_cache_dir else None
 
-    ent_text_emb = build_text_lookup(ent_id2text, model_name=text_model_name, cache_path=ent_cache)
-    rel_text_emb = build_text_lookup(rel_id2text, model_name=text_model_name, cache_path=rel_cache)
+        ent_text_emb = build_text_lookup(ent_id2text, model_name=text_model_name, cache_path=ent_cache).to(device)
+        rel_text_emb = build_text_lookup(rel_id2text, model_name=text_model_name, cache_path=rel_cache).to(device)
 
-    ent_text_emb = ent_text_emb.to(device)
-    rel_text_emb = rel_text_emb.to(device)
-
-    # attach to every split -- TextEntityHCNet/TextRelHCNet just read these
-    for split in (train_data, valid_data, test_data):
-        split.ent_text_emb = ent_text_emb
-        split.rel_text_emb = rel_text_emb
+        for split in (train_data, valid_data, test_data):
+            split.ent_text_emb = ent_text_emb
+            split.rel_text_emb = rel_text_emb
+    # when text_model_name is None, no ent_text_emb/rel_text_emb is attached;
+    # ModularEntityHCNet checks use_text=False and never reads them.
 
     return train_data, valid_data, test_data, dataset
 
