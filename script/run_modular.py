@@ -143,6 +143,13 @@ if __name__ == "__main__":
                   num_nodes =train_data.num_nodes).to(device)
         val_filtered = test_filtered = fd
 
+     # <<< DEBUG: حذف کنید بعد از چک
+    print(f"[DEBUG] dataset: {cfg.dataset['class']}")
+    print(f"[DEBUG] train num_nodes: {train_data.num_nodes}")
+    print(f"[DEBUG] train num_relations: {train_data.num_relations}")
+    print(f"[DEBUG] max_arity: {train_data.max_arity}")
+    # DEBUG >>>
+    
     # ── train + eval ──────────────────────────────────────────────────────────
     train_and_validate(cfg, model, train_data, valid_data,
                        filtered_data=val_filtered, device=device,
